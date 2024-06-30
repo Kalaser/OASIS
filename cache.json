@@ -645,59 +645,1003 @@
       ]
     },
     {
-      "title": "BBC 英语教学",
-      "feedUrl": "https://plink.anyfeeder.com/bbc/learningenglish",
-      "siteUrl": "http://www.bbc.co.uk/learningenglish/chinese/",
+      "title": "豆瓣最受欢迎的影评",
+      "feedUrl": "https://plink.anyfeeder.com/douban/review/movie",
+      "siteUrl": "https://movie.douban.com/review/movie_best/",
       "articles": [
         {
-          "id": "157a755db0dab973ff647ebe63867980",
+          "id": "e3b5705f015ee6cab236966c95f0f8e0",
           "author": null,
-          "description": "Is it easier to travel to the future or the past?",
-          "link": "https://www.bbc.co.uk/learningenglish/chinese/features/take-away-english/ep-240624",
-          "publishedOn": "2024-06-30T12:47:31.651Z",
-          "wordCount": 10657,
-          "title": "随身英语Is time travel possible? 时间旅行可以实现吗？",
-          "imageUrl": "https://ichef.bbci.co.uk/images/ic/1200xn/p0j187x2.jpg"
+          "description": "很出乎意料。竟然是一部小清新恐怖片。 这个系列的特色就是，主创已经不再把焦点放...",
+          "link": "https://movie.douban.com/review/16025803/",
+          "publishedOn": "2024-06-29T13:17:26.000Z",
+          "wordCount": 779,
+          "title": "女主角很美的精神状态 (评论: 寂静之地：入侵日)",
+          "imageUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2909263868.jpg"
         },
         {
-          "id": "302051021a006fde27064b0ab6bca920",
+          "id": "b021f1c83bcf4ea6e239860ac5b115ee",
           "author": null,
-          "description": "Plunge into this episode and learn about these words",
-          "link": "https://www.bbc.co.uk/learningenglish/chinese/features/q-and-a/ep-240626",
-          "publishedOn": "2024-06-30T12:47:31.561Z",
-          "wordCount": 10604,
-          "title": "你问我答三个表示 “骤降” 的近义词的区别：plunge、plummet、slump",
-          "imageUrl": "https://ichef.bbci.co.uk/images/ic/1200xn/p0j2t22f.jpg"
+          "description": "邱禮濤多產，人盡皆知。有好的劇本時，他能拍得工整，且總能放進去一些他自己的東...",
+          "link": "https://movie.douban.com/review/16025461/",
+          "publishedOn": "2024-06-29T09:42:48.000Z",
+          "wordCount": 870,
+          "title": "有一種爛叫邱禮濤 (评论: 海关战线)",
+          "imageUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2909591490.jpg"
         },
         {
-          "id": "68efa3a75ddb8cf98556d25c082ad2e2",
+          "id": "7bc6a72166da622ec04e47388087ffd6",
           "author": null,
-          "description": "Could we be on the way to finding a cure for this disease?",
-          "link": "https://www.bbc.co.uk/learningenglish/chinese/features/media-english/ep-240624",
-          "publishedOn": "2024-06-30T12:47:31.309Z",
-          "wordCount": 11622,
-          "title": "媒体英语Major cause of inflammatory bowel disease found 英国科学家找到炎症性肠病的主要病因",
-          "imageUrl": "https://ichef.bbci.co.uk/images/ic/1200xn/p0j4t57m.jpg"
+          "description": "作为邱礼涛常年来的黑粉（又黑又粉），邱和港片之间的关系着实有些难以评价，他在...",
+          "link": "https://movie.douban.com/review/16023925/",
+          "publishedOn": "2024-06-28T12:30:19.000Z",
+          "wordCount": 747,
+          "title": "请邱礼涛先完成导演的duty再说 (评论: 海关战线)",
+          "imageUrl": "https://img1.doubanio.com/view/thing_review/large/public/p10932518.jpg"
         },
         {
-          "id": "83472c8e8dda602fed222222622fa33e",
+          "id": "092e6b8fe8243ebfdeb861eb00666c68",
           "author": null,
-          "description": "Take the plunge and learn this new expression",
-          "link": "https://www.bbc.co.uk/learningenglish/chinese/features/authentic-real-english/ep-240625",
-          "publishedOn": "2024-06-30T12:47:31.206Z",
-          "wordCount": 9315,
-          "title": "地道英语Take the plunge 下定决心，采取行动",
-          "imageUrl": "https://ichef.bbci.co.uk/images/ic/1200xn/p0j1hhgr.jpg"
+          "description": "这不是影评！只是我看完第18部伍迪之后的一些观后感… 影片具有伍迪完整风格的意识...",
+          "link": "https://movie.douban.com/review/16023828/",
+          "publishedOn": "2024-06-28T11:19:13.000Z",
+          "wordCount": 744,
+          "title": "星尘往事（非影评） (评论: 星尘往事)",
+          "imageUrl": "https://img1.doubanio.com/view/thing_review/large/public/p10932259.jpg"
         },
         {
-          "id": "1c33a84a4c5da615b01e8ffee240ac87",
+          "id": "47a1e6d151f96f854090902274de08c4",
           "author": null,
-          "description": "Practise your English listening skills with this story",
-          "link": "https://www.bbc.co.uk/learningenglish/chinese/features/lingohack/ep-240627",
-          "publishedOn": "2024-06-30T12:47:28.173Z",
-          "wordCount": 10804,
-          "title": "英语大破解What studying whales in Antarctica can tell us about climate change 科学家通过监测南极鲸鱼研究气候变化",
-          "imageUrl": "https://ichef.bbci.co.uk/images/ic/1200xn/p0j5nyt7.jpg"
+          "description": "整整一年，我等了整整一年，才等到《玫瑰的故事》播出，但15天就播完了！多像我的...",
+          "link": "https://movie.douban.com/review/16019561/",
+          "publishedOn": "2024-06-26T04:17:10.000Z",
+          "wordCount": 753,
+          "title": "会演戏的大美女真是稀有物种：刘亦菲这次除了美貌全是演技！ (评论: 玫瑰的故事)",
+          "imageUrl": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2909198461.jpg"
+        }
+      ]
+    },
+    {
+      "title": "微博热搜榜",
+      "feedUrl": "https://plink.anyfeeder.com/weibo/search/hot",
+      "siteUrl": "https://s.weibo.com/top/summary?cate=realtimehot",
+      "articles": [
+        {
+          "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%82%96%E6%88%98%E5%88%B0%E6%9D%AD%E5%B7%9E",
+          "author": null,
+          "description": "肖战到杭州",
+          "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%82%96%E6%88%98%E5%88%B0%E6%9D%AD%E5%B7%9E",
+          "publishedOn": "2024-06-30T12:54:39.828Z",
+          "wordCount": 159,
+          "title": "肖战到杭州",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BD%93%E8%82%B2%E7%94%9F%E8%B0%88%E5%9B%BD%E5%AE%B6%E7%BA%A7%E8%BF%90%E5%8A%A8%E5%91%98%E8%AF%81%E9%80%A0%E5%81%87%E4%B8%8A%E5%90%8D%E6%A0%A1",
+          "author": null,
+          "description": "体育生谈国家级运动员证造假上名校",
+          "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BD%93%E8%82%B2%E7%94%9F%E8%B0%88%E5%9B%BD%E5%AE%B6%E7%BA%A7%E8%BF%90%E5%8A%A8%E5%91%98%E8%AF%81%E9%80%A0%E5%81%87%E4%B8%8A%E5%90%8D%E6%A0%A1",
+          "publishedOn": "2024-06-30T12:54:39.825Z",
+          "wordCount": 159,
+          "title": "体育生谈国家级运动员证造假上名校",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%BB%84%E6%99%AF%E7%91%9C%E8%BA%BA%E5%BA%8A%E4%B8%8A%E8%BF%98%E6%98%AF%E4%BC%B8%E4%B8%8D%E5%BC%80%E8%85%BF",
+          "author": null,
+          "description": "黄景瑜躺床上还是伸不开腿",
+          "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%BB%84%E6%99%AF%E7%91%9C%E8%BA%BA%E5%BA%8A%E4%B8%8A%E8%BF%98%E6%98%AF%E4%BC%B8%E4%B8%8D%E5%BC%80%E8%85%BF",
+          "publishedOn": "2024-06-30T12:54:39.822Z",
+          "wordCount": 159,
+          "title": "黄景瑜躺床上还是伸不开腿",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%9D%A5%E5%B9%BF%E8%A5%BF%E6%99%92%E9%BB%91%E4%BA%86",
+          "author": null,
+          "description": "王一博来广西晒黑了",
+          "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%9D%A5%E5%B9%BF%E8%A5%BF%E6%99%92%E9%BB%91%E4%BA%86",
+          "publishedOn": "2024-06-30T12:54:39.817Z",
+          "wordCount": 159,
+          "title": "王一博来广西晒黑了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%A7%E5%93%A5%E8%BF%9C%20%E5%BF%AB%E4%B9%90%E5%90%91%E5%89%8D%E5%86%B2",
+          "author": null,
+          "description": "大哥远 快乐向前冲",
+          "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%A7%E5%93%A5%E8%BF%9C%20%E5%BF%AB%E4%B9%90%E5%90%91%E5%89%8D%E5%86%B2",
+          "publishedOn": "2024-06-30T12:54:39.816Z",
+          "wordCount": 159,
+          "title": "大哥远 快乐向前冲",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%90%B4%E6%98%95%20%E9%99%88%E6%98%8A%E5%AE%87%E4%BE%9D%E7%84%B6%E9%9C%80%E8%A6%81%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D",
+          "author": null,
+          "description": "吴昕 陈昊宇依然需要自我介绍",
+          "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%90%B4%E6%98%95%20%E9%99%88%E6%98%8A%E5%AE%87%E4%BE%9D%E7%84%B6%E9%9C%80%E8%A6%81%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D",
+          "publishedOn": "2024-06-30T12:54:39.815Z",
+          "wordCount": 159,
+          "title": "吴昕 陈昊宇依然需要自我介绍",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%98%B4%E5%B9%B2%E7%9A%84%E8%A1%A3%E6%9C%8D%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E8%82%A1%E8%87%AD%E5%91%B3",
+          "author": null,
+          "description": "阴干的衣服为什么有股臭味",
+          "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%98%B4%E5%B9%B2%E7%9A%84%E8%A1%A3%E6%9C%8D%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E8%82%A1%E8%87%AD%E5%91%B3",
+          "publishedOn": "2024-06-30T12:54:39.813Z",
+          "wordCount": 159,
+          "title": "阴干的衣服为什么有股臭味",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E6%98%9F%E8%B6%8A%E5%89%A7%E5%90%8E%E4%B8%93%E5%9C%BA%E4%BA%91%E8%AE%BF%E8%B0%88",
+          "author": null,
+          "description": "王星越剧后专场云访谈",
+          "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E6%98%9F%E8%B6%8A%E5%89%A7%E5%90%8E%E4%B8%93%E5%9C%BA%E4%BA%91%E8%AE%BF%E8%B0%88",
+          "publishedOn": "2024-06-30T12:54:39.812Z",
+          "wordCount": 159,
+          "title": "王星越剧后专场云访谈",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%8E%E6%99%A8%E8%AF%B4%E8%BF%99%E4%B8%AA%E8%8A%82%E7%9B%AE%E5%B1%8F%E8%94%BD%E4%BA%86%E5%9B%BD%E5%86%85%E7%99%BE%E5%88%86%E4%B9%8B%E4%B9%9D%E5%8D%81%E7%9A%84%E6%BC%94%E5%91%98",
+          "author": null,
+          "description": "李晨说这个节目屏蔽了国内百分之九十的演员",
+          "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%8E%E6%99%A8%E8%AF%B4%E8%BF%99%E4%B8%AA%E8%8A%82%E7%9B%AE%E5%B1%8F%E8%94%BD%E4%BA%86%E5%9B%BD%E5%86%85%E7%99%BE%E5%88%86%E4%B9%8B%E4%B9%9D%E5%8D%81%E7%9A%84%E6%BC%94%E5%91%98",
+          "publishedOn": "2024-06-30T12:54:39.811Z",
+          "wordCount": 159,
+          "title": "李晨说这个节目屏蔽了国内百分之九十的演员",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E4%B8%BA%E4%BB%80%E4%B9%88%E6%80%BB%E8%A2%AB%E8%87%AA%E5%B7%B1%E4%BA%BA%E6%8B%86%E5%8F%B0",
+          "author": null,
+          "description": "东方甄选为什么总被自己人拆台",
+          "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E4%B8%BA%E4%BB%80%E4%B9%88%E6%80%BB%E8%A2%AB%E8%87%AA%E5%B7%B1%E4%BA%BA%E6%8B%86%E5%8F%B0",
+          "publishedOn": "2024-06-30T12:54:39.810Z",
+          "wordCount": 159,
+          "title": "东方甄选为什么总被自己人拆台",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%A8%E8%BF%AA%E7%9A%84%E7%8B%97%E5%AE%89%E4%B9%90%E6%AD%BB%E4%BA%86",
+          "author": null,
+          "description": "杨迪的狗安乐死了",
+          "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%A8%E8%BF%AA%E7%9A%84%E7%8B%97%E5%AE%89%E4%B9%90%E6%AD%BB%E4%BA%86",
+          "publishedOn": "2024-06-30T12:54:39.808Z",
+          "wordCount": 159,
+          "title": "杨迪的狗安乐死了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%9C%A8%E6%97%A5%E6%9C%AC%E6%B6%88%E8%B4%B9%E6%96%B0%E4%B8%89%E6%A0%B7",
+          "author": null,
+          "description": "中国游客在日本消费新三样",
+          "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%9C%A8%E6%97%A5%E6%9C%AC%E6%B6%88%E8%B4%B9%E6%96%B0%E4%B8%89%E6%A0%B7",
+          "publishedOn": "2024-06-30T12:54:39.807Z",
+          "wordCount": 159,
+          "title": "中国游客在日本消费新三样",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%B0%E5%AE%9E%E4%B8%AD%E7%9A%84%E9%98%BF%E5%8B%92%E6%B3%B0%E5%A4%8F%E5%AD%A3%E8%BD%AC%E5%9C%BA%E6%9D%A5%E4%BA%86",
+          "author": null,
+          "description": "现实中的阿勒泰夏季转场来了",
+          "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%B0%E5%AE%9E%E4%B8%AD%E7%9A%84%E9%98%BF%E5%8B%92%E6%B3%B0%E5%A4%8F%E5%AD%A3%E8%BD%AC%E5%9C%BA%E6%9D%A5%E4%BA%86",
+          "publishedOn": "2024-06-30T12:54:39.806Z",
+          "wordCount": 159,
+          "title": "现实中的阿勒泰夏季转场来了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%88%91%E6%98%AF9918.5%E4%B8%87%E5%88%86%E4%B9%8B%E4%B8%80",
+          "author": null,
+          "description": "我是9918.5万分之一",
+          "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%88%91%E6%98%AF9918.5%E4%B8%87%E5%88%86%E4%B9%8B%E4%B8%80",
+          "publishedOn": "2024-06-30T12:54:39.805Z",
+          "wordCount": 159,
+          "title": "我是9918.5万分之一",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B0%81%E6%87%82%E8%BE%9B%E8%8A%B7%E8%95%BE%E6%89%8B%E8%87%82%E9%9D%92%E7%AD%8B%E7%9A%84%E6%9D%80%E4%BC%A4%E5%8A%9B",
+          "author": null,
+          "description": "谁懂辛芷蕾手臂青筋的杀伤力",
+          "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B0%81%E6%87%82%E8%BE%9B%E8%8A%B7%E8%95%BE%E6%89%8B%E8%87%82%E9%9D%92%E7%AD%8B%E7%9A%84%E6%9D%80%E4%BC%A4%E5%8A%9B",
+          "publishedOn": "2024-06-30T12:54:39.798Z",
+          "wordCount": 159,
+          "title": "谁懂辛芷蕾手臂青筋的杀伤力",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3Daespa%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E7%9A%84SM%E5%A5%B3%E7%BB%83%E4%B9%A0%E7%94%9F",
+          "author": null,
+          "description": "aespa演唱会上的SM女练习生",
+          "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3Daespa%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E7%9A%84SM%E5%A5%B3%E7%BB%83%E4%B9%A0%E7%94%9F",
+          "publishedOn": "2024-06-30T12:54:39.796Z",
+          "wordCount": 159,
+          "title": "aespa演唱会上的SM女练习生",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%AD%89%E4%BA%86%E4%B8%80%E5%B9%B4%E7%AD%89%E6%9D%A5%E4%BA%86%E7%9B%B8%E6%9F%B3%E7%9A%84%E6%AD%BB%E8%AE%AF",
+          "author": null,
+          "description": "等了一年等来了相柳的死讯",
+          "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%AD%89%E4%BA%86%E4%B8%80%E5%B9%B4%E7%AD%89%E6%9D%A5%E4%BA%86%E7%9B%B8%E6%9F%B3%E7%9A%84%E6%AD%BB%E8%AE%AF",
+          "publishedOn": "2024-06-30T12:54:39.794Z",
+          "wordCount": 159,
+          "title": "等了一年等来了相柳的死讯",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%99%BD%E4%B9%8C%E8%BE%B9%E5%A2%83%E5%9C%B0%E5%8C%BA%E5%B1%80%E5%8A%BF%E7%B4%A7%E5%BC%A0",
+          "author": null,
+          "description": "白乌边境地区局势紧张",
+          "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%99%BD%E4%B9%8C%E8%BE%B9%E5%A2%83%E5%9C%B0%E5%8C%BA%E5%B1%80%E5%8A%BF%E7%B4%A7%E5%BC%A0",
+          "publishedOn": "2024-06-30T12:54:39.792Z",
+          "wordCount": 159,
+          "title": "白乌边境地区局势紧张",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%AB%98%E8%80%83%E5%BD%95%E5%8F%96%E6%9C%9F%E9%97%B4%E9%98%B2%E8%8C%83%E5%9B%9B%E5%A4%A7%E9%AA%97%E5%B1%80",
+          "author": null,
+          "description": "高考录取期间防范四大骗局",
+          "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%AB%98%E8%80%83%E5%BD%95%E5%8F%96%E6%9C%9F%E9%97%B4%E9%98%B2%E8%8C%83%E5%9B%9B%E5%A4%A7%E9%AA%97%E5%B1%80",
+          "publishedOn": "2024-06-30T12:54:39.790Z",
+          "wordCount": 159,
+          "title": "高考录取期间防范四大骗局",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AD%90%E5%AE%AB%E5%86%85%E8%86%9C%E5%BC%82%E4%BD%8D%E7%97%87",
+          "author": null,
+          "description": "子宫内膜异位症",
+          "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AD%90%E5%AE%AB%E5%86%85%E8%86%9C%E5%BC%82%E4%BD%8D%E7%97%87",
+          "publishedOn": "2024-06-30T12:54:39.788Z",
+          "wordCount": 159,
+          "title": "子宫内膜异位症",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BD%91%E7%BA%A2%E9%9D%A2%E7%AD%8B%E5%93%A5%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%A3%B0",
+          "author": null,
+          "description": "网红面筋哥女友发声",
+          "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BD%91%E7%BA%A2%E9%9D%A2%E7%AD%8B%E5%93%A5%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%A3%B0",
+          "publishedOn": "2024-06-30T12:54:39.786Z",
+          "wordCount": 159,
+          "title": "网红面筋哥女友发声",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BC%A0%E9%A6%A8%E4%BA%88%E5%A5%BD%E7%BB%86%E7%9A%84%E8%85%B0",
+          "author": null,
+          "description": "张馨予好细的腰",
+          "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BC%A0%E9%A6%A8%E4%BA%88%E5%A5%BD%E7%BB%86%E7%9A%84%E8%85%B0",
+          "publishedOn": "2024-06-30T12:54:39.784Z",
+          "wordCount": 159,
+          "title": "张馨予好细的腰",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%91%A8%E9%9C%87%E5%8D%97%E7%A8%8B%E6%BD%87%E7%8E%B0%E8%BA%ABKPL%E8%B5%9B%E5%9C%BA",
+          "author": null,
+          "description": "周震南程潇现身KPL赛场",
+          "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%91%A8%E9%9C%87%E5%8D%97%E7%A8%8B%E6%BD%87%E7%8E%B0%E8%BA%ABKPL%E8%B5%9B%E5%9C%BA",
+          "publishedOn": "2024-06-30T12:54:39.783Z",
+          "wordCount": 159,
+          "title": "周震南程潇现身KPL赛场",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8F%8D%E7%8F%A0%E5%AD%A6%E4%BC%9A%E4%B8%8B%E6%A5%BC%E6%A2%AF%E4%BA%86",
+          "author": null,
+          "description": "珍珠学会下楼梯了",
+          "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8F%8D%E7%8F%A0%E5%AD%A6%E4%BC%9A%E4%B8%8B%E6%A5%BC%E6%A2%AF%E4%BA%86",
+          "publishedOn": "2024-06-30T12:54:39.781Z",
+          "wordCount": 159,
+          "title": "珍珠学会下楼梯了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%8E%E9%80%82%E7%8E%8B%E5%BD%B1%E7%92%90%E9%A6%96%E6%98%A0%E7%A4%BC%E5%90%8C%E6%A1%86",
+          "author": null,
+          "description": "于适王影璐首映礼同框",
+          "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%8E%E9%80%82%E7%8E%8B%E5%BD%B1%E7%92%90%E9%A6%96%E6%98%A0%E7%A4%BC%E5%90%8C%E6%A1%86",
+          "publishedOn": "2024-06-30T12:54:39.779Z",
+          "wordCount": 159,
+          "title": "于适王影璐首映礼同框",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DKindle%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%AD%90%E4%B9%A6%E5%BA%97%E5%81%9C%E6%AD%A2%E4%B8%8B%E8%BD%BD%E6%9C%8D%E5%8A%A1",
+          "author": null,
+          "description": "Kindle中国电子书店停止下载服务",
+          "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DKindle%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%AD%90%E4%B9%A6%E5%BA%97%E5%81%9C%E6%AD%A2%E4%B8%8B%E8%BD%BD%E6%9C%8D%E5%8A%A1",
+          "publishedOn": "2024-06-30T12:54:39.777Z",
+          "wordCount": 159,
+          "title": "Kindle中国电子书店停止下载服务",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%BD%AE%E9%A1%B6%E6%96%B0%E7%8E%A9%E6%B3%95",
+          "author": null,
+          "description": "微信朋友圈置顶新玩法",
+          "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%BD%AE%E9%A1%B6%E6%96%B0%E7%8E%A9%E6%B3%95",
+          "publishedOn": "2024-06-30T12:54:39.775Z",
+          "wordCount": 159,
+          "title": "微信朋友圈置顶新玩法",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E5%95%A5%E6%98%AFcity%E4%B8%8Dcity%E4%BA%86",
+          "author": null,
+          "description": "终于知道啥是city不city了",
+          "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E5%95%A5%E6%98%AFcity%E4%B8%8Dcity%E4%BA%86",
+          "publishedOn": "2024-06-30T12:54:39.773Z",
+          "wordCount": 159,
+          "title": "终于知道啥是city不city了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%90%B4%E8%B0%A8%E8%A8%80%E7%8E%8B%E6%98%9F%E8%B6%8A%E6%8B%8D%E8%8A%AD%E8%8E%8E",
+          "author": null,
+          "description": "吴谨言王星越拍芭莎",
+          "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%90%B4%E8%B0%A8%E8%A8%80%E7%8E%8B%E6%98%9F%E8%B6%8A%E6%8B%8D%E8%8A%AD%E8%8E%8E",
+          "publishedOn": "2024-06-30T12:54:39.764Z",
+          "wordCount": 159,
+          "title": "吴谨言王星越拍芭莎",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8F%A0%E5%B3%B0%E6%AD%BB%E4%BA%A1%E5%9C%B0%E5%B8%A64%E5%85%B7%E9%81%97%E4%BD%93%E8%A2%AB%E8%BF%90%E5%9B%9E",
+          "author": null,
+          "description": "珠峰死亡地带4具遗体被运回",
+          "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8F%A0%E5%B3%B0%E6%AD%BB%E4%BA%A1%E5%9C%B0%E5%B8%A64%E5%85%B7%E9%81%97%E4%BD%93%E8%A2%AB%E8%BF%90%E5%9B%9E",
+          "publishedOn": "2024-06-30T12:54:39.759Z",
+          "wordCount": 159,
+          "title": "珠峰死亡地带4具遗体被运回",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E5%8B%89%20%E7%8C%AB%E7%8C%AB%E7%A5%9F%E7%A5%9F",
+          "author": null,
+          "description": "王勉 猫猫祟祟",
+          "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E5%8B%89%20%E7%8C%AB%E7%8C%AB%E7%A5%9F%E7%A5%9F",
+          "publishedOn": "2024-06-30T12:54:39.756Z",
+          "wordCount": 159,
+          "title": "王勉 猫猫祟祟",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%B3%E5%AD%A9%E5%B7%AE%E7%82%B9%E8%A2%AB%E5%B8%A6%E8%B5%B0%E7%88%B6%E4%BA%B2%E6%9F%A5%E7%9B%91%E6%8E%A7%E5%83%8F%E4%BA%BA%E8%B4%A9%E5%AD%90",
+          "author": null,
+          "description": "女孩差点被带走父亲查监控像人贩子",
+          "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%B3%E5%AD%A9%E5%B7%AE%E7%82%B9%E8%A2%AB%E5%B8%A6%E8%B5%B0%E7%88%B6%E4%BA%B2%E6%9F%A5%E7%9B%91%E6%8E%A7%E5%83%8F%E4%BA%BA%E8%B4%A9%E5%AD%90",
+          "publishedOn": "2024-06-30T12:54:39.747Z",
+          "wordCount": 159,
+          "title": "女孩差点被带走父亲查监控像人贩子",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B7%A9%E4%B9%89",
+          "author": null,
+          "description": "巩义",
+          "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B7%A9%E4%B9%89",
+          "publishedOn": "2024-06-30T12:54:39.746Z",
+          "wordCount": 159,
+          "title": "巩义",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%BE%99%E8%85%BE%E6%B9%BE%E5%8C%BA%E6%A1%A5%E8%A7%81%E6%9C%AA%E6%9D%A5",
+          "author": null,
+          "description": "龙腾湾区桥见未来",
+          "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%BE%99%E8%85%BE%E6%B9%BE%E5%8C%BA%E6%A1%A5%E8%A7%81%E6%9C%AA%E6%9D%A5",
+          "publishedOn": "2024-06-30T12:54:39.745Z",
+          "wordCount": 159,
+          "title": "龙腾湾区桥见未来",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BC%8A%E6%8B%89%E5%85%8B%E7%94%B7%E5%AD%90%E5%A6%BB%E5%84%BF%E4%B8%A7%E7%94%9F%E5%90%8E%E6%80%A7%E4%BE%B5%E5%90%8C%E8%88%B9%E5%B0%91%E5%A5%B3",
+          "author": null,
+          "description": "伊拉克男子妻儿丧生后性侵同船少女",
+          "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BC%8A%E6%8B%89%E5%85%8B%E7%94%B7%E5%AD%90%E5%A6%BB%E5%84%BF%E4%B8%A7%E7%94%9F%E5%90%8E%E6%80%A7%E4%BE%B5%E5%90%8C%E8%88%B9%E5%B0%91%E5%A5%B3",
+          "publishedOn": "2024-06-30T12:54:39.743Z",
+          "wordCount": 159,
+          "title": "伊拉克男子妻儿丧生后性侵同船少女",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%8E%E4%B8%80%E6%A1%90%E5%8F%91%E6%96%87%E5%9B%9E%E5%BA%94%E8%9C%88%E8%9A%A3",
+          "author": null,
+          "description": "李一桐发文回应蜈蚣",
+          "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%8E%E4%B8%80%E6%A1%90%E5%8F%91%E6%96%87%E5%9B%9E%E5%BA%94%E8%9C%88%E8%9A%A3",
+          "publishedOn": "2024-06-30T12:54:39.742Z",
+          "wordCount": 159,
+          "title": "李一桐发文回应蜈蚣",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%BB%84%E5%AD%90%E9%9F%AC%E8%AF%B4%E6%B2%A1%E6%9C%89%E9%B9%BF%E6%99%97%E5%B0%B1%E4%B8%8D%E4%BC%9A%E7%AD%BE%E5%BE%90%E8%89%BA%E6%B4%8B",
+          "author": null,
+          "description": "黄子韬说没有鹿晗就不会签徐艺洋",
+          "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%BB%84%E5%AD%90%E9%9F%AC%E8%AF%B4%E6%B2%A1%E6%9C%89%E9%B9%BF%E6%99%97%E5%B0%B1%E4%B8%8D%E4%BC%9A%E7%AD%BE%E5%BE%90%E8%89%BA%E6%B4%8B",
+          "publishedOn": "2024-06-30T12:54:39.741Z",
+          "wordCount": 159,
+          "title": "黄子韬说没有鹿晗就不会签徐艺洋",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%BB%84%E5%AD%90%E9%9F%AC%E5%BE%90%E8%89%BA%E6%B4%8B%E4%B8%80%E8%B7%AF%E4%B8%8A%E9%83%BD%E5%9C%A8%E6%8B%8C%E5%98%B4",
+          "author": null,
+          "description": "黄子韬徐艺洋一路上都在拌嘴",
+          "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%BB%84%E5%AD%90%E9%9F%AC%E5%BE%90%E8%89%BA%E6%B4%8B%E4%B8%80%E8%B7%AF%E4%B8%8A%E9%83%BD%E5%9C%A8%E6%8B%8C%E5%98%B4",
+          "publishedOn": "2024-06-30T12:54:39.740Z",
+          "wordCount": 159,
+          "title": "黄子韬徐艺洋一路上都在拌嘴",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%B7%E5%AD%A90%E7%82%B9%E8%A2%AB%E7%88%B6%E6%AF%8D%E8%96%85%E8%B5%B7%E8%BF%87%E7%94%9F%E6%97%A5%E7%A1%AC%E6%8E%A7%E6%83%85%E7%BB%AA",
+          "author": null,
+          "description": "男孩0点被父母薅起过生日硬控情绪",
+          "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%B7%E5%AD%A90%E7%82%B9%E8%A2%AB%E7%88%B6%E6%AF%8D%E8%96%85%E8%B5%B7%E8%BF%87%E7%94%9F%E6%97%A5%E7%A1%AC%E6%8E%A7%E6%83%85%E7%BB%AA",
+          "publishedOn": "2024-06-30T12:54:39.738Z",
+          "wordCount": 159,
+          "title": "男孩0点被父母薅起过生日硬控情绪",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BE%8E%E5%9B%BD%E7%BD%91%E7%BA%A2%E9%BC%BB%E7%A5%96%E8%87%AA%E6%9B%9D16%E5%B2%81%E8%B5%B7%E9%81%AD%E6%80%A7%E8%99%90%E5%BE%85",
+          "author": null,
+          "description": "美国网红鼻祖自曝16岁起遭性虐待",
+          "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BE%8E%E5%9B%BD%E7%BD%91%E7%BA%A2%E9%BC%BB%E7%A5%96%E8%87%AA%E6%9B%9D16%E5%B2%81%E8%B5%B7%E9%81%AD%E6%80%A7%E8%99%90%E5%BE%85",
+          "publishedOn": "2024-06-30T12:54:39.737Z",
+          "wordCount": 159,
+          "title": "美国网红鼻祖自曝16岁起遭性虐待",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AD%99%E6%B5%B7%E6%B4%8B%E5%9B%9E%E5%BA%94%E5%AD%99%E5%8D%93%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9",
+          "author": null,
+          "description": "孙海洋回应孙卓高考成绩",
+          "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AD%99%E6%B5%B7%E6%B4%8B%E5%9B%9E%E5%BA%94%E5%AD%99%E5%8D%93%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9",
+          "publishedOn": "2024-06-30T12:54:39.733Z",
+          "wordCount": 159,
+          "title": "孙海洋回应孙卓高考成绩",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%81%AB%E7%AE%AD",
+          "author": null,
+          "description": "火箭",
+          "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%81%AB%E7%AE%AD",
+          "publishedOn": "2024-06-30T12:54:39.732Z",
+          "wordCount": 159,
+          "title": "火箭",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B0%81%E5%AE%B6%E7%BB%BC%E8%89%BA%E4%B8%80%E4%B8%8B%E6%9D%A5%E4%B8%A4%E5%A3%AE%E5%A3%AE%E5%A6%88%E5%95%8A",
+          "author": null,
+          "description": "谁家综艺一下来两壮壮妈啊",
+          "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B0%81%E5%AE%B6%E7%BB%BC%E8%89%BA%E4%B8%80%E4%B8%8B%E6%9D%A5%E4%B8%A4%E5%A3%AE%E5%A3%AE%E5%A6%88%E5%95%8A",
+          "publishedOn": "2024-06-30T12:54:39.731Z",
+          "wordCount": 159,
+          "title": "谁家综艺一下来两壮壮妈啊",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%A9%BA%E8%B0%83%E5%BC%80%E4%B8%80%E4%BC%9A%E5%85%B3%E4%B8%80%E4%BC%9A%E6%9B%B4%E7%9C%81%E7%94%B5%E5%90%97",
+          "author": null,
+          "description": "空调开一会关一会更省电吗",
+          "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%A9%BA%E8%B0%83%E5%BC%80%E4%B8%80%E4%BC%9A%E5%85%B3%E4%B8%80%E4%BC%9A%E6%9B%B4%E7%9C%81%E7%94%B5%E5%90%97",
+          "publishedOn": "2024-06-30T12:54:39.730Z",
+          "wordCount": 159,
+          "title": "空调开一会关一会更省电吗",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%B7%E5%AD%90AI%E9%80%A0%E8%B0%A3%E4%B9%9D%E6%97%AC%E8%80%81%E4%BA%BA%E9%81%AD%E9%81%97%E5%BC%83%E6%88%90%E7%9A%AE%E5%8C%85%E9%AA%A8",
+          "author": null,
+          "description": "男子AI造谣九旬老人遭遗弃成皮包骨",
+          "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%B7%E5%AD%90AI%E9%80%A0%E8%B0%A3%E4%B9%9D%E6%97%AC%E8%80%81%E4%BA%BA%E9%81%AD%E9%81%97%E5%BC%83%E6%88%90%E7%9A%AE%E5%8C%85%E9%AA%A8",
+          "publishedOn": "2024-06-30T12:54:39.728Z",
+          "wordCount": 159,
+          "title": "男子AI造谣九旬老人遭遗弃成皮包骨",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%97%A5%E6%9C%AC%E6%8B%89%E9%9D%A2%E5%BA%97%E7%A6%81%E6%AD%A2%E9%A3%9F%E5%AE%A2%E7%94%A8%E8%80%B3%E6%9C%BA",
+          "author": null,
+          "description": "日本拉面店禁止食客用耳机",
+          "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%97%A5%E6%9C%AC%E6%8B%89%E9%9D%A2%E5%BA%97%E7%A6%81%E6%AD%A2%E9%A3%9F%E5%AE%A2%E7%94%A8%E8%80%B3%E6%9C%BA",
+          "publishedOn": "2024-06-30T12:54:39.727Z",
+          "wordCount": 159,
+          "title": "日本拉面店禁止食客用耳机",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E5%89%AA%E8%BE%91%E5%BC%A0%E6%B3%BD%E7%A6%B9%E6%8A%95%E7%A5%A8%E7%AC%AC%E4%B8%80",
+          "author": null,
+          "description": "时代峰峻剪辑张泽禹投票第一",
+          "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E5%89%AA%E8%BE%91%E5%BC%A0%E6%B3%BD%E7%A6%B9%E6%8A%95%E7%A5%A8%E7%AC%AC%E4%B8%80",
+          "publishedOn": "2024-06-30T12:54:39.725Z",
+          "wordCount": 159,
+          "title": "时代峰峻剪辑张泽禹投票第一",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%87%B4%E4%BF%A1%E7%A5%9D%E8%B4%BA%E6%B7%B1%E4%B8%AD%E9%80%9A%E9%81%93%E5%BB%BA%E6%88%90%E5%BC%80%E9%80%9A",
+          "author": null,
+          "description": "习近平致信祝贺深中通道建成开通",
+          "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%87%B4%E4%BF%A1%E7%A5%9D%E8%B4%BA%E6%B7%B1%E4%B8%AD%E9%80%9A%E9%81%93%E5%BB%BA%E6%88%90%E5%BC%80%E9%80%9A",
+          "publishedOn": "2024-06-30T12:54:39.722Z",
+          "wordCount": 159,
+          "title": "习近平致信祝贺深中通道建成开通",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%8F%B8%E6%9C%BA%E5%BC%BA%E5%A5%B8%E6%9C%AA%E6%88%90%E5%B9%B4%E4%B9%98%E5%AE%A2%E8%8E%B7%E5%88%913%E5%B9%B4",
+          "author": null,
+          "description": "网约车司机强奸未成年乘客获刑3年",
+          "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%8F%B8%E6%9C%BA%E5%BC%BA%E5%A5%B8%E6%9C%AA%E6%88%90%E5%B9%B4%E4%B9%98%E5%AE%A2%E8%8E%B7%E5%88%913%E5%B9%B4",
+          "publishedOn": "2024-06-30T12:54:39.721Z",
+          "wordCount": 159,
+          "title": "网约车司机强奸未成年乘客获刑3年",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%88%98%E7%95%8A%E5%AE%8F%E7%BA%AA%E5%87%8C%E5%B0%98%E8%85%8B%E4%B8%8B%E7%AE%A1%E7%90%86%E7%9A%84%E6%9E%81%E4%B8%8E%E6%9E%81",
+          "author": null,
+          "description": "刘畊宏纪凌尘腋下管理的极与极",
+          "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%88%98%E7%95%8A%E5%AE%8F%E7%BA%AA%E5%87%8C%E5%B0%98%E8%85%8B%E4%B8%8B%E7%AE%A1%E7%90%86%E7%9A%84%E6%9E%81%E4%B8%8E%E6%9E%81",
+          "publishedOn": "2024-06-30T12:54:39.719Z",
+          "wordCount": 159,
+          "title": "刘畊宏纪凌尘腋下管理的极与极",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%83%91%E5%B7%9E%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%AA%91%E5%85%B1%E4%BA%AB%E5%8D%95%E8%BD%A652%E5%85%AC%E9%87%8C%E5%88%B0%E5%BC%80%E5%B0%81",
+          "author": null,
+          "description": "郑州大学生骑共享单车52公里到开封",
+          "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%83%91%E5%B7%9E%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%AA%91%E5%85%B1%E4%BA%AB%E5%8D%95%E8%BD%A652%E5%85%AC%E9%87%8C%E5%88%B0%E5%BC%80%E5%B0%81",
+          "publishedOn": "2024-06-30T12:54:39.715Z",
+          "wordCount": 159,
+          "title": "郑州大学生骑共享单车52公里到开封",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DAngelababy%20%E8%BE%9B%E5%B7%B4%E7%9B%B4%E6%92%AD",
+          "author": null,
+          "description": "Angelababy 辛巴直播",
+          "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DAngelababy%20%E8%BE%9B%E5%B7%B4%E7%9B%B4%E6%92%AD",
+          "publishedOn": "2024-06-30T12:54:39.697Z",
+          "wordCount": 159,
+          "title": "Angelababy 辛巴直播",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "BBC News business",
+      "feedUrl": "https://plink.anyfeeder.com/bbc/business",
+      "siteUrl": "https://www.bbc.co.uk/news/business",
+      "articles": [
+        {
+          "id": "https://www.bbc.com/news/articles/cldyw4q5qllo",
+          "author": null,
+          "description": "Image source, Getty Images \nImage caption, \nThe former Honda site in Swindon will become a warehousing and logistics facility\n\n\n\n\nFaisal Islam\n\n\nEconomics editor\n\n@faisalislam\n\n\n\nReporting from\n\nSwindon\n\n\n\n\n\n\nPublished\n39 minutes ago\n\n\n\n\nAmid a vast expanse of rubble, dust and noise, a green crane yanks away at a corrugated roof like a frustrated dentist attempting to extract a particularly stubborn wisdom tooth.\nSwindon’s Honda factory - once one of the world’s most advanced car factories - is being demolished, three decades after it opened.\nThis used to be one of the fastest-growing towns in Europe. It was one of the jewels in the crown of investments attracted to the UK by Margaret Thatcher’s brand of 1980s enterprise. Swindon voted for her, John Major, Tony Blair, David Cameron, Theres…",
+          "link": "https://www.bbc.com/news/articles/cldyw4q5qllo",
+          "publishedOn": "2024-06-30T00:13:10.000Z",
+          "wordCount": 6740,
+          "title": "The big problem facing whoever wins the election",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/9166/live/41db4860-36c2-11ef-bbe0-29f79e992ddd.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/c880e78rl77o",
+          "author": null,
+          "description": "Published\n34 minutes ago\n\n\n\n\nThe computer expert who helped build the faulty Horizon software has finally spoken under oath about his involvement in the Post Office scandal.\nGareth Jenkins is a key figure, having appeared as an expert witness to defend Horizon in court cases, and is now at the centre of an alleged cover-up. His appearance at the inquiry was long-awaited after being postponed twice.\nHe gave evidence over four days - the longest run of questions any witness has faced - and gave his version of events.\nHere are five key moments from his evidence.\n\n\n1. He thought Horizon bugs were fixed quickly\n\n\nGareth Jenkins referred to Horizon's overall reliability throughout his testimony, even challenging findings from the landmark Bates v Post Office case that identified issues with the …",
+          "link": "https://www.bbc.com/news/articles/c880e78rl77o",
+          "publishedOn": "2024-06-28T21:31:24.000Z",
+          "wordCount": 6075,
+          "title": "What we learned from IT expert at Post Office inquiry",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/9142/live/46efa590-34aa-11ef-a044-9d4367d5b599.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/cpe35e7kgnzo",
+          "author": null,
+          "description": "Image source, Getty Images\n\n\n\nLiv McMahon\nBBC News\n\n\n\n\n\n\nPublished\n2 hours ago\n\n\n\n\nMarks & Spencer is launching a new service for clothing repairs and alterations.\nFrom August, customers will be able to book through a dedicated online hub and have their fixed items posted back to them within seven to ten days.\nThe work will be carried out by Deliveroo-style repairs start-up Sojo, and its in-house team of tailors, with prices starting at £5.\nThe move comes as retailers try to encourage more sustainable habits among their shoppers.\n\n\nSojo launched during the Covid-19 pandemic in 2021 with a mission to make repairing, not simply replacing, clothing more mainstream.\nM&S said its partnership with Sojo aimed to provide customers with ways to extend the life of their clothing.\n“Through the launch…",
+          "link": "https://www.bbc.com/news/articles/cpe35e7kgnzo",
+          "publishedOn": "2024-06-28T21:30:52.000Z",
+          "wordCount": 4883,
+          "title": "M&S to launch clothing repairs service",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/b154/live/a3f3b330-355e-11ef-b6d9-e13f185918e1.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/c3g03ejjl1yo",
+          "author": null,
+          "description": "Image source, Getty Images\n\n\n\nMitchell Labiak\nBusiness reporter\n\n\n\n\n\n\nPublished\n28 June 2024\n\n\n\n\nThousands of UK bank customers were hit by payment problems affecting some of the biggest High Street lenders on Friday.\nBanks including HSBC, Nationwide, Barclays and Virgin Money were all affected by issues with a system that operates payments between individuals and firms.\nThe group overseeing the payments system said the issue causing the problems has now been fixed, and the payment backlog has been cleared.\nHowever, several people have told the BBC they are still facing issues, with some saying they now have little cash left.\nThe timing of the glitches was particularly problematic given the last Friday of the month is when many salaried staff are usually paid.\nMany people also have to pay …",
+          "link": "https://www.bbc.com/news/articles/c3g03ejjl1yo",
+          "publishedOn": "2024-06-28T17:14:09.000Z",
+          "wordCount": 4287,
+          "title": "Major UK high street banks say payment issues fixed",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/91a7/live/a0049eb0-355e-11ef-b6d9-e13f185918e1.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/c880rekylxxo",
+          "author": null,
+          "description": "Image source, Getty Images\n\n\n\nLora Jones\nBusiness reporter, BBC News\n\n\n\n\n\n\nPublished\n7 hours ago\n\n\n\n\nLawyers acting on behalf of two people who fell ill in the E. coli outbreak have started legal action against two leading supermarkets.\nLegal firm Fieldfisher said on Friday it had issued letters of claim for breach of the Consumer Protection Act over own-brand sandwiches purchased in Tesco and Asda.\nThe claims for compensation relate to a man from the South East and an 11-year-old girl in the North West. \nOne person in England has died linked to the ongoing E. coli outbreak, the UK Health Security Agency said on Thursday, although they had underlying health conditions.\nThe E. coli outbreak is thought to be caused by some supermarket sandwiches containing salad leaves.\nThe large majority of…",
+          "link": "https://www.bbc.com/news/articles/c880rekylxxo",
+          "publishedOn": "2024-06-28T16:04:03.000Z",
+          "wordCount": 5244,
+          "title": "Asda and Tesco face legal action over E. coli cases",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/be5a/live/f7067c10-355e-11ef-b6d9-e13f185918e1.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/c51y8lj0rr1o",
+          "author": null,
+          "description": "Image source, Getty Images\n\n\n\nFaarea Masud and Lucy Hooker\nBusiness reporters, BBC News\n\n\n\n\n\n\nPublished\n28 June 2024\n\n\nComments\n\n\nUpdated 28 June 2024\n\n\nSlow economic growth and three major economic shocks have meant households' disposable incomes have grown very slowly since 2010, according to a think tank report.\nTypical household incomes went up by just £140 a year, new analysis from the Resolution Foundation showed.\nThat is a total rise over the 14 year period of just 7% - or an average of half a percent a year - in the amount people had left over to spend after paying tax.\nBy contrast, disposable incomes rose 38% over the 14 years up to 2010, the poverty-focused think tank wrote.\nHowever, poorer households had seen stronger income growth than richer ones, it said.\nThe Resolution Found…",
+          "link": "https://www.bbc.com/news/articles/c51y8lj0rr1o",
+          "publishedOn": "2024-06-28T14:46:10.000Z",
+          "wordCount": 5001,
+          "title": "Incomes have risen 'at a crawl' says think tank",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/4310/live/4e5bd510-34b9-11ef-a286-7d480ed4802f.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/c035j4vegvvo",
+          "author": null,
+          "description": "Tom Espiner\nBBC business reporter\n\nReporting from\n\nPost Office Horizon IT inquiry\n\n\n\n\n\n\nPublished\n28 June 2024\n\n\n\n\nFormer Fujitsu engineer and Horizon expert Gareth Jenkins has said he didn't think the software was \"a monster\" and that he was \"trapped into doing things I shouldn't have done\".\nSpeaking at an inquiry into the Horizon scandal, Mr Jenkins was accused by lawyer Flora Page of \"protecting\" it when he gave evidence as an expert witness between 2010 and 2013.\nMs Page represents Horizon victims including former sub-postmaster Seema Misra, who Mr Jenkins gave evidence against in 2010.\nMs Misra told the BBC the system was a monster which \"had blood on its hands, and so do the people who protect [it]\".\n\n\nBetween 1999 and 2015, the Post Office prosecuted hundreds of sub-postmasters on t…",
+          "link": "https://www.bbc.com/news/articles/c035j4vegvvo",
+          "publishedOn": "2024-06-28T13:07:26.000Z",
+          "wordCount": 4714,
+          "title": "Fujitsu expert: I didn't think Horizon was a monster",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/70f2/live/0cccbc00-354e-11ef-a8b8-7bfabe00f637.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/crg7rz7mlmno",
+          "author": null,
+          "description": "Image source, Getty Images\nImage caption, \nThe company had originally planned to shut down one of the blast furnaces by the end of June and the second by September\n\n\n\nMark Palmer\nBBC News\n\n\n\n\n\n\nPublished\n27 June 2024\n\n\nComments\n\n\nUpdated 28 June 2024\n\n\nWorkers at Tata Steel have been told the company is taking steps to potentially cease operations at much of the Port Talbot plant by 7 July because of a strike by the trade union Unite.\nThe company had originally been planning to shut one of the blast furnaces by the end of June and the second one by September.\nBut Port Talbot workers have been told that because of the strike from 8 July, the company can no longer be assured of sufficient resources being available to ensure safe and stable operations.\nThe Unite union said Tata's statement to…",
+          "link": "https://www.bbc.com/news/articles/crg7rz7mlmno",
+          "publishedOn": "2024-06-28T11:40:18.000Z",
+          "wordCount": 7624,
+          "title": "Strike may force Tata steel closures next week",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/cce2/live/6ccddf80-34ae-11ef-8557-bbe6d78d7b76.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/crg5n9edl4do",
+          "author": null,
+          "description": "Image source, PA\nImage caption, \nAer Lingus has described the potential of further strike action as entirely inappropriate\n\n\n\n\nPublished\n45 minutes ago\n\n\n\n\nA trade union committee is expected to meet on Friday to decide whether to give the green light to a further work stoppage by Aer Lingus pilots in Ireland.\nIrish broadcaster RTÉ is reporting that the recommendation for an additional strike was made by the Irish Air Line Pilots’ Association (IALPA) on Thursday after talks between it and Aer Lingus to resolve the ongoing pay dispute broke down without a resolution.\nThe airline issued an invitation for talks to IALPA on Wednesday after pilots began an indefinite work-to-rule, meaning they are not working overtime or carrying out any other out-of-hours duties.\nAn eight-hour strike from 05:0…",
+          "link": "https://www.bbc.com/news/articles/crg5n9edl4do",
+          "publishedOn": "2024-06-28T06:59:18.000Z",
+          "wordCount": 6185,
+          "title": "Aer Lingus pilots to consider further work stoppage",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/aa45/live/caca1880-3551-11ef-9e36-cb7b9a68823b.png"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/c6p2r9xzde4o",
+          "author": null,
+          "description": "Image source, Getting Images\n\n\n\nMichael Race\nBusiness reporter, BBC News\n\n\n\n\n\n\nPublished\n28 June 2024, 07:07 BST\n\n\nUpdated 25 minutes ago\n\n\nThe economy grew by more than initially estimated in the first three months of 2024 as the UK emerged from recession, revised official figures show.\nBetween January and March, the economy grew by 0.7% the Office for National Statistics (ONS) said.\nFigures released last month initially estimated growth had been 0.6%.\nThe strength of the economy has been a central battleground in the general election campaign, with growth having been sluggish in recent years.\nMost economists, politicians and businesses want to see GDP rising steadily, because it usually means people are spending more, extra jobs are created, more tax is paid to the government and workers get better pay rises.\nThe original figure for the first quarter of the year was stronger than economists had expected, and growth in the services sector, which includes businesses such as hairdressers, banks, and hospitality, helped to push it higher, the ONS said.\nBut while services growth was revised upwards, increases in manufacturing were revised down on the back of more data being collected.\nPaul Dales, chief UK economist at research company Capital Economics, said the faster growth rise in GDP in early 2024 was \"mainly due to upward revisions to consumer spending\".\nHe added the new figure suggested \"whoever is Prime Minister this time next week may benefit from the economic recovery being a bit stronger\".\n\n\n\nRelated Topics\n\n\nUK economy",
+          "link": "https://www.bbc.com/news/articles/c6p2r9xzde4o",
+          "publishedOn": "2024-06-28T06:36:17.000Z",
+          "wordCount": 4842,
+          "title": "UK economy grew more than first estimated in early 2024",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/fbb9/live/e63249b0-3517-11ef-a124-37bfe9bd814e.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/c1vd7y5rnnwo",
+          "author": null,
+          "description": "Image source, Reuters\nImage caption, \nProsecutors say through their actions the employees avoided losses ranging from $24,000 to more than$108,000.\n\n\n\nJoão da Silva\nBusiness reporter\n\n\n\n\n\n\nPublished\n7 minutes ago\n\n\n\n\nThree employees of subsidiaries of HYBE, the agency behind K-pop superstars BTS, have been charged with insider trading by South Korean prosecutors.\nThey are being accused of selling shares in the agency before BTS members announced they were taking a break on 14 June, 2022.\nThe announcement sent HYBE shares plunging 25% when markets opened, resulting in a loss in market value of nearly 2 trillion won ($1.4 billion).\nThe prosecutors said the three employees acted with prior knowledge of what was about to happen, avoiding losses ranging from $24,000 to more than $108,000.\nAt the time, many analysts speculated about the reasons for the hiatus, with some saying the band members would have to attend South Korea's mandatory 18-month military service.\nSouth Korea is still technically at war with North Korea, so nearly all able-bodied men are obliged to enlist for 18 months by the time they turn 28.\nAll members of the band would end up being drafted in the months and years that followed.\nThe oldest member of the hit boy band, Jin, was discharged earlier this month after completing his service.\nThe other six - J-Hope, V, RM, Jimin, Jung Kook and Suga - are still serving and the band is expected to reunite only in June 2025.\nFans of the wildly popular boyband are hoping Jin's return is also the beginning of BTS' return from its hiatus. \n\n\n\nRelated Topics\n\n\nInternational Business\nK-pop\nBTS",
+          "link": "https://www.bbc.com/news/articles/c1vd7y5rnnwo",
+          "publishedOn": "2024-06-28T05:58:54.000Z",
+          "wordCount": 3797,
+          "title": "K-pop agents charged with insider trading over BTS",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/b2ff/live/32fc45b0-350f-11ef-a380-735af68ea2c6.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/c19k3rrjl22o",
+          "author": null,
+          "description": "Image source, Getty Images\nImage caption, \nNike shares plunged more than 12% in after hours trading\n\n\n\nJoão da Silva\nBusiness reporter\n\n\n\n\n\n\nPublished\n28 June 2024, 05:51 BST\n\n\nComments\n\n\n\n\nNike has said it expects a surprise 10% drop in quarterly revenue, as it faces growing competition from newer rivals such as On and Hoka.\nThe news sent Nike shares plunging more than 12% in after hours trading, which could mean a loss of $15bn in market value if the losses hold on Friday.\nThe world's largest sportswear company also told investors it is facing weakening demand in international markets, including in China. \nBut Nike is optimistic that new products and a marketing campaign at the upcoming Olympic Games in Paris will help the company regain momentum with consumers.\n\"The Paris Olympics offers us a pinnacle moment to communicate our vision of sport to the world,\" CEO John Donahoe said on the earnings call.\nThe company also lowered its outlook for the 2025 fiscal year. \nIt said direct-to-consumer business declined 8%, as some customers went for more trendy upstart brands.\n\"There's a sense that Nike just hasn't innovated enough, it hasn't marketed enough, it hasn't told enough stories around its products,\" the Managing director of GlobalData Retail, Neil Saunders, told the BBC.\nThe sportswear giant's strategy to sell its products through its own stores and website instead of wholesales like Foot Locker hurt sales, Reuters said. \n\"Nike needs to get on the front foot again in terms of persuading people to buy its products,\" Mr Saunders added. \nNike is currently the top sponsor of jerseys at the UEFA Euro 2024 football tournament, beating out brands like Adidas and Puma.\nThey are sponsoring nine national teams including England, France and Portugal.\n\n\n\nRelated Topics\n\n\nInternational Business\nNike, Inc.",
+          "link": "https://www.bbc.com/news/articles/c19k3rrjl22o",
+          "publishedOn": "2024-06-28T04:51:17.000Z",
+          "wordCount": 3827,
+          "title": "Nike tumbles as upstarts grab market share",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/db1d/live/68c5e0a0-3502-11ef-8cbb-0bb6bab9d0df.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/cz9dp3ye77do",
+          "author": null,
+          "description": "Image source, Getty Images\nImage caption, \nThis sort of charging could be a speedy process in the future\n\n\n\nZoe Kleinman\nTechnology editor\n\n\n\n\n\n\nPublished\n15 minutes ago\n\n\n\n\nAn electric car battery developed by UK start-up Nyobolt has successfully charged from 10% to 80% in four minutes and 37 seconds in its first live demonstration.\nIt was achieved with a specially-built concept sports car on a test track in Bedford, and is part of industry-wide efforts to get electric vehicles (EVs) charging more quickly.\nBy comparison, an existing Tesla supercharger can charge a car battery to 80% in 15-20 minutes.\nExperts say eliminating so-called \"range anxiety\" is key to increasing uptake of EVs - but also stress the importance of improving the charging infrastructure.\n“Developing technology that ena…",
+          "link": "https://www.bbc.com/news/articles/cz9dp3ye77do",
+          "publishedOn": "2024-06-27T23:00:31.000Z",
+          "wordCount": 4428,
+          "title": "Electric car battery charges in under five minutes in track test",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/b72c/live/224dccf0-348a-11ef-a1a9-87b99e80208b.png"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/crggl32dz2lo",
+          "author": null,
+          "description": "Image source, EPA\nImage caption, \nCampaigners and family members of those who have died of opioids outside the US Supreme Court\n\n\n\nNatalie Sherman\nBBC News\n\n\n\n\n\n\nPublished\n27 June 2024\n\n\n\n\nThe US Supreme Court has struck down a part of the bankruptcy deal for Purdue Pharma that would have shielded members of the Sackler family from future lawsuits over their role in fuelling the opioid crisis.\nThe Sacklers, who owned and operated the Oxycontin-maker for decades, had agreed to pay $6bn (£4.7bn) towards a wider settlement in exchange for sweeping protections against civil claims related to the addictive opioid.\nBut the nation's top court ruled that granting such protections to the Sacklers, who did not themselves declare bankruptcy was not authorised under law.\nSackler family members said th…",
+          "link": "https://www.bbc.com/news/articles/crggl32dz2lo",
+          "publishedOn": "2024-06-27T20:38:55.000Z",
+          "wordCount": 6824,
+          "title": "Justices reject plan to shield Sacklers in Purdue opioid deal",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/41e2/live/b8302950-24fb-11ef-80aa-699d54c46324.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/c3gvxdlrgw0o",
+          "author": null,
+          "description": "Image source, Alamy\nImage caption, \nThursday was the third day the inquiry heard from Gareth Jenkins. He will conclude his oral evidence on Friday\n\n\n\nTom Espiner\nBBC business reporter\n\nReporting from\n\nPost Office Horizon IT Inquiry\n\n\n\n\n\n\nPublished\n27 June 2024\n\n\n\n\nA Fujitsu software expert who helped build the Horizon system has said he felt pressurised by the Post Office over evidence he gave in the 2010 prosecution of sub-postmistress Seema Misra.\nGareth Jenkins said the Post Office \"clearly\" wanted him to say that \"everything was perfect, and I don't think I actually said that\".\nHowever, in an email discussing the case at the time, he said Mrs Misra had \"jumped on the bandwagon\" in blaming Horizon for shortfalls in accounts.\nMrs Misra told the BBC that this was an example of a culture t…",
+          "link": "https://www.bbc.com/news/articles/c3gvxdlrgw0o",
+          "publishedOn": "2024-06-27T15:34:37.000Z",
+          "wordCount": 5969,
+          "title": "IT expert 'pressurised' by Post Office over evidence",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/6edd/live/f2b20330-34a7-11ef-bdc5-41d7421c2adf.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/cqv5dww0w9do",
+          "author": null,
+          "description": "Image source, Getty Images\n\n\n\nMichael Race\nBusiness reporter, BBC News\n\n\n\n\n\n\nPublished\n27 June 2024\n\n\nComments\n\n\n\n\nEngland's European Championship games may not have been exciting viewing so far, but the boss of Currys hopes the Three Lions stay in the tournament to continue a boost in sales of big TVs.\nThe electricals chain said UK sales were up by more than 30% in the past month, with boss Alex Baldock adding so-called \"supersize\" screens - 85 inches and above - were proving popular.\n\"Long may England and Denmark stay in the Euros - that's doing well for us,\" Mr Baldock said.\nAs well as strong UK sales in the run-up to the tournament, which also featured Scotland, the retail boss said TV sales in the Nordics - its other main market - were up as much as 90% on last year.\n\"Large-screen TVs…",
+          "link": "https://www.bbc.com/news/articles/cqv5dww0w9do",
+          "publishedOn": "2024-06-27T11:16:24.000Z",
+          "wordCount": 4586,
+          "title": "'Supersize' TV sales shoot up thanks to Euro 2024",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ad40/live/af690100-347f-11ef-a53b-67ee534ca28a.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/cydvp336y3no",
+          "author": null,
+          "description": "Image source, Reuters\nImage caption, \nJob aspirants speak to a hiring agent outside the Foxconn factory near Chennai\n\n\n\n\nPublished\n13 minutes ago\n\n\n\n\nThe Indian government has sought a detailed report from Tamil Nadu state following media reports that Apple supplier Foxconn was allegedly rejecting married women for iPhone assembly jobs.\nA Reuters investigation, external alleged that Foxconn had excluded married women from jobs at its main India iPhone plant near Chennai, citing their greater family responsibilities compared to unmarried women.\nThe federal labour ministry says the law \"clearly stipulates that no discrimination (is) to be made while recruiting men and women workers\". \nNeither Apple nor the Tamil Nadu state government responded to requests for comment from Reuters.\n\n\nThe BBC has also reached out to Foxconn and the Tamil Nadu labour department for a response.\nFoxconn, the largest supplier of Apple iPhones, set up its first factory in Tamil Nadu in 2017 but has since been aggressively expanding its operations in India. \nIn 2023, it began assembling the iPhone 15 in the state and earlier this year, Foxconn tied up with Google to make Pixel smartphones in Tamil Nadu.\nRights activists say the reports about the firm's hiring practices in India are concerning, given that thousands look to its factories for employment opportunities.\nReuters said it spoke to numerous employees and Foxconn hiring agencies for the story.\nThe report said that hiring agents and Foxconn HR sources \"cited family duties, pregnancy and higher absenteeism as reasons why Foxconn did not hire married women at the plant\".\nThis isn't the first time the firm has come under the scanner for its labour practices.\nIn 2018, a US-based rights group had accused the firm of overworking and underpaying temporary workers at its factory in China that manufactured products for Amazon.\nIn 2022, its iPhone factory in China saw protests by workers who claimed that they had not been paid certain dues.\n\n\n\nRelated Topics\n\n\nEmployment\nIndia\nApple",
+          "link": "https://www.bbc.com/news/articles/cydvp336y3no",
+          "publishedOn": "2024-06-27T05:55:59.000Z",
+          "wordCount": 4313,
+          "title": "India to probe iPhone factory hiring practices",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/404d/live/0e1bad10-3444-11ef-bdc5-41d7421c2adf.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/cx7728n6x7do",
+          "author": null,
+          "description": "Image source, Delia-Ioana/BBC News\nImage caption, \nDelia-Ioana said she can't imagine being able to afford a mortgage\n\n\n\nAlix Hattenstone, Miguel Roca-Terry and Jonathan Fagg\nBBC England Data Unit\n\n\n\n\n\n\nPublished\n27 June 2024\n\n\n\n\nThe average cost of renting privately in England has risen by nearly a quarter since the last general election.\nIn December 2019 rent cost £1,064 a month on average according to the Office for National Statistics (ONS, external). By May 2024 this had risen by 22% to £1,301 for new and existing tenancies.\nRenters have told the BBC they have settled for mouldy properties, sofa-surfed or moved back in with relatives.\nThe National Residential Landlords Association blamed a “chronic shortage” of private rental homes on high interest rates prompting landlords to leave t…",
+          "link": "https://www.bbc.com/news/articles/cx7728n6x7do",
+          "publishedOn": "2024-06-27T05:16:50.000Z",
+          "wordCount": 6592,
+          "title": "'How will we afford children with rent increases?'",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/6c65/live/75d695b0-3475-11ef-a53b-67ee534ca28a.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/ce4q55gvde2o",
+          "author": null,
+          "description": "Image source, Getty Images\nImage caption, \nRichard Cuevas claimed he witnessed substandard work on a crucial section of the Boeing 787\n\n\n\n\nPublished\n27 June 2024\n\n\n\n\nAn aircraft mechanic who was contracted to repair Boeing planes has alleged he was labelled a \"snitch\" and then sacked for speaking up over safety concerns.\nRichard Cuevas claimed he witnessed substandard manufacturing and maintenance work on a crucial section of Boeing 787 aircraft.\nBoeing, which has been dogged by questions over whether its safety culture is rigorous enough, said the issues had been investigated and \"did not present a safety concern\".\nLawyers representing Mr Cuevas alleged he reported critical issues that could create a serious public safety risk and has filed complaints with the Federal Aviation Administrat…",
+          "link": "https://www.bbc.com/news/articles/ce4q55gvde2o",
+          "publishedOn": "2024-06-27T01:09:19.000Z",
+          "wordCount": 4572,
+          "title": "Mechanic claims he was sacked for raising Boeing concerns",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/cfaf/live/088db570-341f-11ef-b6dc-b363c9fc63dd.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/c9xx8122893o",
+          "author": null,
+          "description": "Image source, Getty Images\nImage caption, \nAmazon had to defend the use of AI technology in its physical grocery stores\n\n\n\nEmma Woollacott\nTechnology reporter\n\n\n\n\n\n\nPublished\n5 minutes ago\n\n\n\n\nAmazon received critical headlines this year when reports questioned the “Just Walk Out” technology installed at many of its physical grocery stores.\nThe AI-powered system enables customers at its Amazon Fresh and Amazon Go shops to simply pick their items, and then leave.\nOpen to people who have registered via an app, the AI uses facial recognition technology, and lots of sensors and cameras, to work out what you have chosen. You then get automatically billed.\nHowever, back in April it was widely reported that rather than solely using AI, Just Walk Out needed around 1,000 workers in India to manuall…",
+          "link": "https://www.bbc.com/news/articles/c9xx8122893o",
+          "publishedOn": "2024-06-26T23:08:39.000Z",
+          "wordCount": 6858,
+          "title": "What is 'AI washing' and why is it a problem?",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/900d/live/70647aa0-3378-11ef-bdc5-41d7421c2adf.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/cp00569p6d3o",
+          "author": null,
+          "description": "Image source, PA Media\nImage caption, \nSurfers in Aberdeen stage a protest on the beach calling for an end to new oil and gas licensing\n\n\n\nKevin Keane\nBBC Scotland environment correspondent\n\n\n\n\n\n\nPublished\n29 minutes ago\n\n\n\n\n\"Do you support new oil and gas licences, yes or no?\"\nThat's the binary question which has been at the centre of the political debate in Scotland since parties began preparing to fight the general election.\nPolitical leaders have been hurling accusations that 100,000 jobs in Scotland will be at risk if no more licences are issued.\nBut that figure is 40,000 more than the total number of people in Scotland whose roles currently rely directly or indirectly on fossil fuel extraction.\nAnd analysis by BBC Scotland News suggests that new licences will only extend the life of …",
+          "link": "https://www.bbc.com/news/articles/cp00569p6d3o",
+          "publishedOn": "2024-06-26T21:58:15.000Z",
+          "wordCount": 6377,
+          "title": "Would new licences save the North Sea oil and gas industry?",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/2cf7/live/43fbc200-338e-11ef-8a2d-672b7bae794d.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/c255l8d0j95o",
+          "author": null,
+          "description": "Image source, Google\nImage caption, \nThe factory in Flint may have to close due to the UK government's ban on plastic in wet wipes\n\n\n\nGeorgia Ferda\nBBC News\n\n\n\n\n\n\nPublished\n26 June 2024\n\n\n\n\nHundreds of jobs are at risk after a nappies and wet wipes manufacturer announced it is considering closing one of its sites.\nKimberly-Clark said the UK government's deadline to remove plastic from wet wipes by mid-2026 \"significantly limits\" its ability to adapt its processes in time, meaning it may \"no longer be viable\" to keep its site running in Flint, Flintshire.\nThe manufacturer said phasing out plastics from its baby wipes had \"long been part\" of its sustainability plans. \nThe UK government announced new legislation, external to ban wet wipes containing plastic in April 2024. \n\n\nAround 220 people…",
+          "link": "https://www.bbc.com/news/articles/c255l8d0j95o",
+          "publishedOn": "2024-06-26T20:03:26.000Z",
+          "wordCount": 4159,
+          "title": "Hundreds of jobs at risk at wet wipe factory",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/1737/live/f8ff5c70-33ca-11ef-bdc5-41d7421c2adf.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/cn007pd8vjxo",
+          "author": null,
+          "description": "Image source, PA Media\nImage caption, \nDominic Chappell was jailed for tax evasion in 2020\n\n\n\nCharlotte Edwards\nBBC Business reporter\n\n\n\n\n\n\nPublished\n26 June 2024\n\n\n\n\nEx-BHS director Dominic Chappell has been ordered to pay £50m to cover losses the firm incurred before its collapse.\nA High Court judge said Mr Chappell tried to “plunder the BHS Group whenever possible\" after he bought the company for £1 from Sir Phillip Green in 2015.\nThe ex-director was imprisoned for six years in 2020 over tax evasion.\nHe has since been sued by BHS liquidators FRP Advisory.\n\n\nAt a hearing on Tuesday, Mr Justice Leech said Mr Chappell never had a realistic plan to secure capital for the company when he acquired it.\nThe judge also said Mr Chappell “should make the payments” outlined, which includes £21.5m f…",
+          "link": "https://www.bbc.com/news/articles/cn007pd8vjxo",
+          "publishedOn": "2024-06-26T10:48:11.000Z",
+          "wordCount": 3760,
+          "title": "Ex-BHS director must pay £50m over firm's collapse",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ab19/live/ff98c9e0-339d-11ef-8699-9f505da6f2b0.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/ce993qynp25o",
+          "author": null,
+          "description": "Image source, Getty Images\n\n\n\nSimon Jack\nBBC Business editor\n\n\n\n\n\n\nPublished\n25 June 2024\n\n\nComments\n\n\nUpdated 26 June 2024\n\n\nThousands of former and current Royal Mail staff are being asked to sell their shares to a Czech billionaire.\nOn Wednesday morning, Daniel Kretinsky’s investment group, which wants to buy Royal Mail's parent company, published its formal offer online, external and sent it by post.\nMr Kretinsky can now formally start lobbying investors to accept the offer.\nHe needs the approval of shareholders of three quarters of the parent company, but this task will be made easier because he already owns 27.5% of it.\nBig asset managers including Blackrock, UBS, Vanguard and Schroders own most of the other 72.5% of International Distribution Services (IDS) that Mr Kretinsky does no…",
+          "link": "https://www.bbc.com/news/articles/ce993qynp25o",
+          "publishedOn": "2024-06-26T07:14:24.000Z",
+          "wordCount": 4676,
+          "title": "Czech billionaire offers to buy all Royal Mail staff shares",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/90e5/live/bc016390-3307-11ef-9f4c-8785b0c18838.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/cw00lkpwrngo",
+          "author": null,
+          "description": "Image source, Owen Midwinter\nImage caption, \nOwen and his girlfriend Cori are just some of thousands affected by the decision to close blast furnaces at Port Talbot Steelworks\n\n\n\nPaul Heaney\nBBC Wales Investigates\n\n\n\n\n\n\nPublished\n25 June 2024\n\n\nUpdated 26 June 2024\n\n\nOwen Midwinter thought he had a \"job for life\" when he started a five-year apprenticeship at Tata Steel in Port Talbot. \nBut 18 months on, that security has been replaced with uncertainty - and the 23-year-old and his girlfriend may have to delay their plans to start a family. \nNew analysis for the BBC suggests his town could lose more than £200m in wages because of job cuts at the steelworks.\nProf Calvin Jones, its author, said it was an \"end of an era\" for UK steelmaking, similar to the closure of coal mines in the 1980s. \n\n…",
+          "link": "https://www.bbc.com/news/articles/cw00lkpwrngo",
+          "publishedOn": "2024-06-26T05:09:01.000Z",
+          "wordCount": 6827,
+          "title": "Steelwork closures' ripple effect on town's wages",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/1aaf/live/745f6ae0-2e26-11ef-8715-85651e35d56b.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/c1ddmxmz1lpo",
+          "author": null,
+          "description": "Image source, Reuters\nImage caption, \nThe tie-up will allow VW and Rivian to share technology\n\n\n\nJoão da Silva\nBusiness reporter\n\n\n\n\n\n\nPublished\n26 June 2024\n\n\nComments\n\n\n\n\nGerman car making giant Volkswagen (VW) says it will invest up to $5bn (£3.94bn) in Tesla rival Rivian.\nThe deal creates a joint venture that will allow VW and the US-based electric vehicle (EV) maker to share technology.\nRivian shares jumped by almost 50% after the announcement.\nThe tie-up comes as competition intensifies between EV makers and Western countries move to impose tariffs on Chinese imports.\nUnder the agreement, VW said it will initially invest $1bn in the electric truck and SUV maker, with another $4bn to be put into the company by 2026.\nFounded in 2009, Rivian has not yet posted a quarterly profit. In the…",
+          "link": "https://www.bbc.com/news/articles/c1ddmxmz1lpo",
+          "publishedOn": "2024-06-26T01:41:00.000Z",
+          "wordCount": 4198,
+          "title": "VW to invest up to $5bn in Tesla rival Rivian",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/489d/live/675eb070-334a-11ef-a338-cff579e52648.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/c1ee540jypyo",
+          "author": null,
+          "description": "This video can not be played\nTo play this video you need to enable JavaScript in your browser.\n\n\nMedia caption, \nJailed sub-postmistress does not accept Horizon engineer's apology\n\n\n\nTom Espiner \nBBC business reporter\n\nReporting from\n\nPost Office Horizon IT Inquiry\n\n\n\n\n\n\nPublished\n25 June 2024\n\n\n\n\nA former sub-postmistress who was wrongly jailed while pregnant has rejected an apology from an ex-Fujitsu engineer whose evidence helped convict her.\nSeema Misra told the BBC that a statement from Gareth Jenkins was \"too little, too late\".\nThe Post Office wrongly prosecuted about 700 sub-postmasters between 1999 and 2015 for theft and fraud on the basis of incorrect data from their IT system.\nAt the inquiry into the scandal on Tuesday, Mrs Misra said she wanted to know \"why on Earth he did what …",
+          "link": "https://www.bbc.com/news/articles/c1ee540jypyo",
+          "publishedOn": "2024-06-25T15:32:28.000Z",
+          "wordCount": 4605,
+          "title": "Wrongly jailed sub-postmistress rejects apology",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/0b65/live/ff87e3f0-332f-11ef-90be-b75b34b0bbb2.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/c4nn6z6z4ypo",
+          "author": null,
+          "description": "Image source,  Linköping University\nImage caption, \nIt might look basic - but could this be the future of screens?\n\n\n\nChris Baraniuk\nTechnology Reporter\n\n\n\n\n\n\nPublished\n25 June 2024\n\n\n\n\nAt first glance, it looks like a relic from the 1980s. A tiny computer screen with flickering, low-resolution text scrolling across it. But this could be the future.\nThe screen was made using perovskite light emitting diode (PeLED) technology. It is radically different to the LED technology used in your smartphone display today, and it could lead to devices that are thinner, cheaper and have longer battery life.\nNot only that, PeLEDs are very unusual in that they can absorb light as well as emit it, meaning you can use the same material to integrate touch, fingerprint and ambient light-sensing capabilities,…",
+          "link": "https://www.bbc.com/news/articles/c4nn6z6z4ypo",
+          "publishedOn": "2024-06-24T23:02:12.000Z",
+          "wordCount": 6667,
+          "title": "The screen tech that can do almost anything",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/5f71/live/d7d07e10-2d55-11ef-90be-b75b34b0bbb2.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/cyrr3mm8evyo",
+          "author": null,
+          "description": "Image source, Shutterstock\nImage caption, \nThe Line, a planned 170km long linear city, may now initially extend for only 2.4km\n\n\n\nSameer Hashmi\nMiddle East Business Correspondent BBC News\n\nReporting from\n\nRiyadh  \n\n\n\n\n\n\nPublished\n6 minutes ago\n\n\n\n\n“They can keep saying that, and we can keep proving them wrong.”\nThat was the response of Saudi Arabia’s Crown Prince Mohammed bin Salman in a TV documentary broadcast in July 2023, while talking about scepticism surrounding Saudi Arabia’s flagship construction projects.\nAlmost a year later, some of the doubts are turning out to be true.\nIn recent months, Saudi Arabia has seemingly scaled back plans for its vast desert development project Neom, which is the centrepiece of Vision 2030.\nThis is the economic diversification programme spearheaded by …",
+          "link": "https://www.bbc.com/news/articles/cyrr3mm8evyo",
+          "publishedOn": "2024-06-23T23:03:08.000Z",
+          "wordCount": 6736,
+          "title": "Huge Saudi construction projects 'might get scaled down'",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a5fb/live/74e23510-2d9a-11ef-8900-6f6987843028.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/c6pp1nvw5zwo",
+          "author": null,
+          "description": "Image source, Getty Images\nImage caption, \nApple is due to rollout its new AI-powered operating system\n\n\n\nMatthew Wall\nTechnology reporter\n\n\n\n\n\n\nPublished\n20 June 2024\n\n\n\n\nOur mobile phones are getting a whole lot smarter, but what about the telecoms networks they run on?\nLast week, Apple became the latest mobile phone firm to announce that it will be adding artificial intelligence (AI) to its handsets’ operating system.\nCalled Apple Intelligence, and also due to be incorporated into the phones’ Siri chatbot, it aims to make them easier and quicker to use. And turn Siri into even more of a personal assistant.\nIt follows after Samsung’s Galaxy AI, and Google’s Gemini AI for its own Pixel handsets.\nThis increased of use AI means phones will be doing a lot more computing, and that means they’…",
+          "link": "https://www.bbc.com/news/articles/c6pp1nvw5zwo",
+          "publishedOn": "2024-06-19T23:02:43.000Z",
+          "wordCount": 6088,
+          "title": "How mobile phone networks are embracing AI",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/5314/live/266c1290-2c99-11ef-90b1-bf36248cf254.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/cx99qv2w1ddo",
+          "author": null,
+          "description": "Image source, Getty Images\nImage caption, \nElectricity demand from data centres is rising fast\n\n\n\nZoe Corbyn\nTechnology Reporter\n\nReporting from\n\nSan Francisco\n\n\n\n\n\n\nPublished\n18 June 2024\n\n\n\n\nModern computing's appetite for electricity is increasing at an alarming rate.\nBy 2026 consumption by data centres, artificial intelligence (AI) and cryptocurrency could be as much as double 2022 levels, according to a recent report from the International Energy Agency (IEA), external.\nIt estimates that in 2026 energy consumption by those three sectors could be roughly equivalent to Japan's annual energy needs.\nCompanies like Nvidia - whose computer chips underpin most AI applications today - are working on developing more energy efficient hardware.\nBut could an alternative path be to build computers…",
+          "link": "https://www.bbc.com/news/articles/cx99qv2w1ddo",
+          "publishedOn": "2024-06-17T23:24:11.000Z",
+          "wordCount": 6939,
+          "title": "Could brain-like computers be a 'competition killer'?",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/6540/live/ee37e3a0-2cce-11ef-a044-9d4367d5b599.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/czkkgnp1d2xo",
+          "author": null,
+          "description": "Image source, Guy Hedgecoe\nImage caption, \nSpain has invested heavily in wind farms, such as the one at Sierra del Romeral\n\n\n\nGuy Hedgecoe\nBBC News, in central Spain\n\n\n\n\n\n\nPublished\n17 June 2024\n\n\n\n\nThe patchwork plains of Castilla-La Mancha, in central Spain, were once known for their windmills.\nBut now it is wind turbines, their modern-day equivalent, which are much more visible on the region’s skyline.\nThe 28 vast turbines of the Sierra del Romeral windfarm, perched on hills not far from the historic city of Toledo, look out over this landscape.\nOperated by Spanish firm Iberdrola, they are part of a trend that has accelerated Spain’s renewable energy output over the past half-decade, making the country a major presence in the industry.\nSpain’s total wind generation capacity, its prime r…",
+          "link": "https://www.bbc.com/news/articles/czkkgnp1d2xo",
+          "publishedOn": "2024-06-16T23:06:49.000Z",
+          "wordCount": 6081,
+          "title": "Too much of a good thing? Spain's green energy can exceed demand",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/1715/live/99fbfc50-2c87-11ef-a044-9d4367d5b599.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/c511p8gdn21o",
+          "author": null,
+          "description": "Image source, Movers+Shakers\nImage caption, \nLilia Souri and AJ Pulvirenti - hosts of the podcast Gen Z on Gen Z\n\n\n\nSam Gruet\nTechnology Reporter\n\n\n\n\n\n\nPublished\n14 June 2024\n\n\n\n\nShopping habits have not been the same since the Covid pandemic and resulting lockdowns.\nFor many, and particularly younger shoppers, it saw the lines blur between social media and e-commerce.\nUnable to shop in person, and with TikTok downloads soaring, a trend began that would go on to be described as a cultural phenomenon: #TikTokMadeMeBuyIt.\nThe hashtag, where users post what they’ve bought thanks to recommendations about products on the app, has now been posted more than seven billion times.\nFor Lilia Souri and AJ Pulvirenti who co-host the marketing podcast \"Gen Z on Gen Z\" by creative agency Movers+Shakers, …",
+          "link": "https://www.bbc.com/news/articles/c511p8gdn21o",
+          "publishedOn": "2024-06-13T23:09:47.000Z",
+          "wordCount": 5947,
+          "title": "The battle for Gen Z social shoppers",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/4a0a/live/91ab6850-2409-11ef-894c-a90c371c460d.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/c9xxjx7e2gjo",
+          "author": null,
+          "description": "Image source, Shepherd’s Grain\nImage caption, \nJeremy Bunch, second right, is asking his farmers to use AI to guide their decisions\n\n\n\nSuzanne Bearne\nBusiness reporter\n\n\n\n\n\n\nPublished\n13 June 2024\n\n\n\n\nLike the bosses of many food companies, Jeremy Bunch is worried about the impact of climate change on his business.\n“Weather and the climate are maybe the number one risk to our company,” says the boss of US flour firm Shepherd’s Grain.\nBased in Idaho, the business sources wheat from farmers across the US Pacific northwest.\nAs weather patterns become more unpredictable, Mr Bunch says: “I need to have a plan B, and plan C, in case plan A fails.”\nTo help strengthen these plans, Mr Bunch’s company is now using an AI-powered software system called ClimateAi.\nUsing current and past data, such as f…",
+          "link": "https://www.bbc.com/news/articles/c9xxjx7e2gjo",
+          "publishedOn": "2024-06-12T23:06:31.000Z",
+          "wordCount": 6500,
+          "title": "'We are creating new crops five-times faster'",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/b70b/live/7bf4c1d0-27d5-11ef-baa7-25d483663b8e.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/cd116m3jyn1o",
+          "author": null,
+          "description": "Image caption, \nIan Crawford oversees the archiving of Imperial War Museum media\n\n\n\nBen Morris\nEditor, BBC Technology of Business\n\n\n\n\n\n\nPublished\n12 June 2024\n\n\n\n\nThe year 2039 might seem like a long way off, but Ian Crawford is already planning for it.\nIt will mark the 100th anniversary of the outbreak of World War Two - a big year for his employer, the Imperial War Museum. \nMr Crawford is chief information officer at the museum, and oversees a project to digitise its huge collection of pictures, audio and film.\nWith a collection of around 24,000 hours of film and video, and 11 million photographs, it's a vast task. \nAnd in the run-up to 2039, World War II material will be a priority.\nMaking digital copies of those historical sources is vital as the original copies degrade over time, and …",
+          "link": "https://www.bbc.com/news/articles/cd116m3jyn1o",
+          "publishedOn": "2024-06-11T23:03:29.000Z",
+          "wordCount": 6388,
+          "title": "'Insane' amounts of data spurs new storage tech",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/9d37/live/e14f1f10-3394-11ef-90be-b75b34b0bbb2.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/cpww6w412n7o",
+          "author": null,
+          "description": "Image source, Getty Images\nImage caption, \nChinese firms are said to be able to make electric cars for 25% less than their European and US rivals\n\n\n\nTheo Leggett\nBBC international business correspondent\n\n\n\n\n\n\nPublished\n11 June 2024\n\n\n\n\nWith China accused of selling electric cars at artificially low prices, the European Union is widely expected to hit them with tariffs this week.\nThe BYD Seagull is a tiny, cheap, neatly styled electric vehicle (EV). An urban runabout that won’t break any speed records, but nor will it break the bank.\nIn China, it has a starting price of 69,800 yuan ($9,600; £7,500). If it comes to Europe, it is expected to cost at least double that figure due to safety regulations. But that would still be, by electric car standards, very cheap.\nFor European manufacturers th…",
+          "link": "https://www.bbc.com/news/articles/cpww6w412n7o",
+          "publishedOn": "2024-06-10T23:01:25.000Z",
+          "wordCount": 7048,
+          "title": "Why the EU might be about to make Chinese electric cars more expensive",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/869d/live/fdc24090-2675-11ef-8c01-1b99a1df16e2.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/cm55yv0g0veo",
+          "author": null,
+          "description": "Image source, Getty Images\nImage caption, \nHas President Milei kept his promise to cut government spending?\n\n\n\nRobert Plummer\nBBC News\n\n\n\n\n\n\nPublished\n10 June 2024\n\n\n\n\nWhen Javier Milei was campaigning last year to become the president of Argentina, he brandished a chainsaw to symbolise his determination to substantially cut public spending.\nNow six months into his right-wing presidency, how is his shock therapy for both the country’s government and economy working?\n“The changes our country needs are drastic,” Mr Milei said shortly after being elected. “There is no room for gradualism.”\nAnd he certainly took swift action. In his initial package of measures, he devalued Argentina’s currency, the peso, by 50%, slashed state subsidies for fuel, and cut the number of government ministries by h…",
+          "link": "https://www.bbc.com/news/articles/cm55yv0g0veo",
+          "publishedOn": "2024-06-09T23:10:08.000Z",
+          "wordCount": 7311,
+          "title": "Have Milei's first six months improved the Argentine economy?",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/4d1b/live/0c380f10-2324-11ef-baa7-25d483663b8e.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/c5115lgd592o",
+          "author": null,
+          "description": "Image source, Getty Images\n\n\n\nNatalie Sherman\nBBC News\n\nReporting from\n\nNew York\n\n\n\n\n\n\nPublished\n9 June 2024\n\n\n\n\nAndrew Buckley, a self-described \"mocha guy\", recently swore off his Starbucks habit, reeling after the firm's latest price increase sent the cost of his drink above $6.\nThe 50-year-old, who works in tech sales in Idaho, had been a loyal customer for decades, treasuring his near-daily venti mocha as a little luxury that allowed him to stretch his legs during the work day. \nBut the company's latest price increase crossed a line. \n\"It was the straw that broke the camel's back on my feelings of inflation in general. It's like, 'That's it. I can't do it anymore,'\" says Mr Buckley, who rang up customer service with complaints before heading to social media to vent.  \n\"I just lost it,…",
+          "link": "https://www.bbc.com/news/articles/c5115lgd592o",
+          "publishedOn": "2024-06-09T00:09:10.000Z",
+          "wordCount": 7171,
+          "title": "Price hikes and boycotts: Is trouble brewing at Starbucks?",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/e544/live/6165b900-24e2-11ef-a13a-0b8c563da930.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/cleex2epjn8o",
+          "author": null,
+          "description": "Image source, PA\n\n\n\n\nDouglas Fraser\n\n\nBusiness and economy editor, Scotland\n\n\n\n\n\n\nPublished\n8 June 2024\n\n\n\n\nTaylor Swift is not just a musical phenomenon, but a business unicorn too. \nThe Eras tour which has arrived in Edinburgh is reckoned to be pushing her wealth well north of $1bn (£785.51m).\nForbes, the money magazine, reckons she is worth $600m (£471m) from performance and her back catalogue is worth as much, while she has around $125m  (£98.2m) worth of real estate.\nOther musicians who have reached such heights have done so by investing their musical earnings in other ventures.\nThis daughter of Pennsylvania, and of a financial broker, mints money with astute leverage of her market power. It's known as Swiftonomics. \nShe is reputed to demand more than 100% of gross ticket sales, leavi…",
+          "link": "https://www.bbc.com/news/articles/cleex2epjn8o",
+          "publishedOn": "2024-06-08T14:59:54.000Z",
+          "wordCount": 8129,
+          "title": "How 'Swiftonomics' is impacting the music industry",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/d8ac/live/ec3a1800-25a0-11ef-8b8c-51da4a2ef232.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/cp991n2v0m2o",
+          "author": null,
+          "description": "Image source, Getty Images\n\n\n\nDaniel Thomas, Lora Jones & Lucy Hooker\nBusiness reporters, BBC News\n\n\n\n\n\n\nPublished\n7 June 2024\n\n\n\n\nThe biggest order 17-year-old Michaela says she ever made on Shein was for £150, when she bought \"16 plus items\".\nLike millions of others, she's a huge fan of the ultra-fast fashion giant, mostly because of how affordable it is. \nShe also likes the way the influencers on YouTube she watches offer Shein discount codes, which makes her \"buy more\".\nOver the last decade, Shein has gone from a little-known brand among older shoppers to one of the biggest fast fashion retailers globally.\nThe Chinese-founded firm - which also sells a huge range of beauty and home products - doubled its profits to more than $2bn, external (£1.6bn) last year, making more than the Swedis…",
+          "link": "https://www.bbc.com/news/articles/cp991n2v0m2o",
+          "publishedOn": "2024-06-07T21:34:53.000Z",
+          "wordCount": 6165,
+          "title": "The rise and rise of fashion giant Shein",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a2ef/live/b451d6f0-24a9-11ef-8fcf-bdfddcab4264.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/business-64291327",
+          "author": null,
+          "description": "By Kevin Peachey & Lucy Hooker\nBBC News\n\n\n\n\nTwo years of rising prices have left many people struggling to pay their bills and in debt.\nIf you are in that position one option is to seek a debt relief order (DRO). Since 6 April in England and Wales there has no longer been a £90 fee for applying for one.\nA DRO lets people who have got into severe difficulties start afresh.\nBut there are other ways to tackle your debt. So what can you do if you find yourself in difficulty?\n\n\nWhat should I do if I'm struggling with debt?\n\n\nFirst, work out how much you owe, who to, and how much you need to pay each month, says the charity Citizens Advice.\nNext, create a budget by adding up your income, such as your wage and any benefits you receive, then taking away the amount you need for essential living cos…",
+          "link": "https://www.bbc.co.uk/news/business-64291327",
+          "publishedOn": "2024-06-07T06:50:18.000Z",
+          "wordCount": 6921,
+          "title": "What to do if you are in debt and need help",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/2A2F/production/_131899701_guide_to_debt_4_976-nc.png"
         }
       ]
     }

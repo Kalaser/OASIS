@@ -2,58 +2,528 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Kalaser.github.io/OASIS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-30T12:47:36.845Z</updated>
+    <updated>2024-06-30T12:54:48.956Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Kalaser.github.io/OASIS/index.html"/>
     <link rel="self" href="https://Kalaser.github.io/OASIS/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[随身英语Is time travel possible? 时间旅行可以实现吗？]]></title>
-        <id>157a755db0dab973ff647ebe63867980</id>
-        <link href="https://www.bbc.co.uk/learningenglish/chinese/features/take-away-english/ep-240624"/>
-        <updated>2024-06-30T12:47:31.651Z</updated>
-        <summary type="html"><![CDATA[Is it easier to travel to the future or the past?]]></summary>
+        <title type="html"><![CDATA[肖战到杭州]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%82%96%E6%88%98%E5%88%B0%E6%9D%AD%E5%B7%9E</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%82%96%E6%88%98%E5%88%B0%E6%9D%AD%E5%B7%9E"/>
+        <updated>2024-06-30T12:54:39.828Z</updated>
+        <summary type="html"><![CDATA[肖战到杭州]]></summary>
         <author>
-            <name>BBC 英语教学</name>
+            <name>微博热搜榜</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[你问我答三个表示 “骤降” 的近义词的区别：plunge、plummet、slump]]></title>
-        <id>302051021a006fde27064b0ab6bca920</id>
-        <link href="https://www.bbc.co.uk/learningenglish/chinese/features/q-and-a/ep-240626"/>
-        <updated>2024-06-30T12:47:31.561Z</updated>
-        <summary type="html"><![CDATA[Plunge into this episode and learn about these words]]></summary>
+        <title type="html"><![CDATA[体育生谈国家级运动员证造假上名校]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BD%93%E8%82%B2%E7%94%9F%E8%B0%88%E5%9B%BD%E5%AE%B6%E7%BA%A7%E8%BF%90%E5%8A%A8%E5%91%98%E8%AF%81%E9%80%A0%E5%81%87%E4%B8%8A%E5%90%8D%E6%A0%A1</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BD%93%E8%82%B2%E7%94%9F%E8%B0%88%E5%9B%BD%E5%AE%B6%E7%BA%A7%E8%BF%90%E5%8A%A8%E5%91%98%E8%AF%81%E9%80%A0%E5%81%87%E4%B8%8A%E5%90%8D%E6%A0%A1"/>
+        <updated>2024-06-30T12:54:39.825Z</updated>
+        <summary type="html"><![CDATA[体育生谈国家级运动员证造假上名校]]></summary>
         <author>
-            <name>BBC 英语教学</name>
+            <name>微博热搜榜</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[媒体英语Major cause of inflammatory bowel disease found 英国科学家找到炎症性肠病的主要病因]]></title>
-        <id>68efa3a75ddb8cf98556d25c082ad2e2</id>
-        <link href="https://www.bbc.co.uk/learningenglish/chinese/features/media-english/ep-240624"/>
-        <updated>2024-06-30T12:47:31.309Z</updated>
-        <summary type="html"><![CDATA[Could we be on the way to finding a cure for this disease?]]></summary>
+        <title type="html"><![CDATA[黄景瑜躺床上还是伸不开腿]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%BB%84%E6%99%AF%E7%91%9C%E8%BA%BA%E5%BA%8A%E4%B8%8A%E8%BF%98%E6%98%AF%E4%BC%B8%E4%B8%8D%E5%BC%80%E8%85%BF</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%BB%84%E6%99%AF%E7%91%9C%E8%BA%BA%E5%BA%8A%E4%B8%8A%E8%BF%98%E6%98%AF%E4%BC%B8%E4%B8%8D%E5%BC%80%E8%85%BF"/>
+        <updated>2024-06-30T12:54:39.822Z</updated>
+        <summary type="html"><![CDATA[黄景瑜躺床上还是伸不开腿]]></summary>
         <author>
-            <name>BBC 英语教学</name>
+            <name>微博热搜榜</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[地道英语Take the plunge 下定决心，采取行动]]></title>
-        <id>83472c8e8dda602fed222222622fa33e</id>
-        <link href="https://www.bbc.co.uk/learningenglish/chinese/features/authentic-real-english/ep-240625"/>
-        <updated>2024-06-30T12:47:31.206Z</updated>
-        <summary type="html"><![CDATA[Take the plunge and learn this new expression]]></summary>
+        <title type="html"><![CDATA[王一博来广西晒黑了]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%9D%A5%E5%B9%BF%E8%A5%BF%E6%99%92%E9%BB%91%E4%BA%86</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%9D%A5%E5%B9%BF%E8%A5%BF%E6%99%92%E9%BB%91%E4%BA%86"/>
+        <updated>2024-06-30T12:54:39.817Z</updated>
+        <summary type="html"><![CDATA[王一博来广西晒黑了]]></summary>
         <author>
-            <name>BBC 英语教学</name>
+            <name>微博热搜榜</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[英语大破解What studying whales in Antarctica can tell us about climate change 科学家通过监测南极鲸鱼研究气候变化]]></title>
-        <id>1c33a84a4c5da615b01e8ffee240ac87</id>
-        <link href="https://www.bbc.co.uk/learningenglish/chinese/features/lingohack/ep-240627"/>
-        <updated>2024-06-30T12:47:28.173Z</updated>
-        <summary type="html"><![CDATA[Practise your English listening skills with this story]]></summary>
+        <title type="html"><![CDATA[大哥远 快乐向前冲]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%A7%E5%93%A5%E8%BF%9C%20%E5%BF%AB%E4%B9%90%E5%90%91%E5%89%8D%E5%86%B2</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%A7%E5%93%A5%E8%BF%9C%20%E5%BF%AB%E4%B9%90%E5%90%91%E5%89%8D%E5%86%B2"/>
+        <updated>2024-06-30T12:54:39.816Z</updated>
+        <summary type="html"><![CDATA[大哥远 快乐向前冲]]></summary>
         <author>
-            <name>BBC 英语教学</name>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴昕 陈昊宇依然需要自我介绍]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%90%B4%E6%98%95%20%E9%99%88%E6%98%8A%E5%AE%87%E4%BE%9D%E7%84%B6%E9%9C%80%E8%A6%81%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%90%B4%E6%98%95%20%E9%99%88%E6%98%8A%E5%AE%87%E4%BE%9D%E7%84%B6%E9%9C%80%E8%A6%81%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D"/>
+        <updated>2024-06-30T12:54:39.815Z</updated>
+        <summary type="html"><![CDATA[吴昕 陈昊宇依然需要自我介绍]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阴干的衣服为什么有股臭味]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%98%B4%E5%B9%B2%E7%9A%84%E8%A1%A3%E6%9C%8D%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E8%82%A1%E8%87%AD%E5%91%B3</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%98%B4%E5%B9%B2%E7%9A%84%E8%A1%A3%E6%9C%8D%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E8%82%A1%E8%87%AD%E5%91%B3"/>
+        <updated>2024-06-30T12:54:39.813Z</updated>
+        <summary type="html"><![CDATA[阴干的衣服为什么有股臭味]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[王星越剧后专场云访谈]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E6%98%9F%E8%B6%8A%E5%89%A7%E5%90%8E%E4%B8%93%E5%9C%BA%E4%BA%91%E8%AE%BF%E8%B0%88</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E6%98%9F%E8%B6%8A%E5%89%A7%E5%90%8E%E4%B8%93%E5%9C%BA%E4%BA%91%E8%AE%BF%E8%B0%88"/>
+        <updated>2024-06-30T12:54:39.812Z</updated>
+        <summary type="html"><![CDATA[王星越剧后专场云访谈]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[李晨说这个节目屏蔽了国内百分之九十的演员]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%8E%E6%99%A8%E8%AF%B4%E8%BF%99%E4%B8%AA%E8%8A%82%E7%9B%AE%E5%B1%8F%E8%94%BD%E4%BA%86%E5%9B%BD%E5%86%85%E7%99%BE%E5%88%86%E4%B9%8B%E4%B9%9D%E5%8D%81%E7%9A%84%E6%BC%94%E5%91%98</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%8E%E6%99%A8%E8%AF%B4%E8%BF%99%E4%B8%AA%E8%8A%82%E7%9B%AE%E5%B1%8F%E8%94%BD%E4%BA%86%E5%9B%BD%E5%86%85%E7%99%BE%E5%88%86%E4%B9%8B%E4%B9%9D%E5%8D%81%E7%9A%84%E6%BC%94%E5%91%98"/>
+        <updated>2024-06-30T12:54:39.811Z</updated>
+        <summary type="html"><![CDATA[李晨说这个节目屏蔽了国内百分之九十的演员]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[东方甄选为什么总被自己人拆台]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E4%B8%BA%E4%BB%80%E4%B9%88%E6%80%BB%E8%A2%AB%E8%87%AA%E5%B7%B1%E4%BA%BA%E6%8B%86%E5%8F%B0</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E4%B8%BA%E4%BB%80%E4%B9%88%E6%80%BB%E8%A2%AB%E8%87%AA%E5%B7%B1%E4%BA%BA%E6%8B%86%E5%8F%B0"/>
+        <updated>2024-06-30T12:54:39.810Z</updated>
+        <summary type="html"><![CDATA[东方甄选为什么总被自己人拆台]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[杨迪的狗安乐死了]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%A8%E8%BF%AA%E7%9A%84%E7%8B%97%E5%AE%89%E4%B9%90%E6%AD%BB%E4%BA%86</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%A8%E8%BF%AA%E7%9A%84%E7%8B%97%E5%AE%89%E4%B9%90%E6%AD%BB%E4%BA%86"/>
+        <updated>2024-06-30T12:54:39.808Z</updated>
+        <summary type="html"><![CDATA[杨迪的狗安乐死了]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国游客在日本消费新三样]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%9C%A8%E6%97%A5%E6%9C%AC%E6%B6%88%E8%B4%B9%E6%96%B0%E4%B8%89%E6%A0%B7</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%9C%A8%E6%97%A5%E6%9C%AC%E6%B6%88%E8%B4%B9%E6%96%B0%E4%B8%89%E6%A0%B7"/>
+        <updated>2024-06-30T12:54:39.807Z</updated>
+        <summary type="html"><![CDATA[中国游客在日本消费新三样]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[现实中的阿勒泰夏季转场来了]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%B0%E5%AE%9E%E4%B8%AD%E7%9A%84%E9%98%BF%E5%8B%92%E6%B3%B0%E5%A4%8F%E5%AD%A3%E8%BD%AC%E5%9C%BA%E6%9D%A5%E4%BA%86</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%B0%E5%AE%9E%E4%B8%AD%E7%9A%84%E9%98%BF%E5%8B%92%E6%B3%B0%E5%A4%8F%E5%AD%A3%E8%BD%AC%E5%9C%BA%E6%9D%A5%E4%BA%86"/>
+        <updated>2024-06-30T12:54:39.806Z</updated>
+        <summary type="html"><![CDATA[现实中的阿勒泰夏季转场来了]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我是9918.5万分之一]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%88%91%E6%98%AF9918.5%E4%B8%87%E5%88%86%E4%B9%8B%E4%B8%80</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%88%91%E6%98%AF9918.5%E4%B8%87%E5%88%86%E4%B9%8B%E4%B8%80"/>
+        <updated>2024-06-30T12:54:39.805Z</updated>
+        <summary type="html"><![CDATA[我是9918.5万分之一]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谁懂辛芷蕾手臂青筋的杀伤力]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B0%81%E6%87%82%E8%BE%9B%E8%8A%B7%E8%95%BE%E6%89%8B%E8%87%82%E9%9D%92%E7%AD%8B%E7%9A%84%E6%9D%80%E4%BC%A4%E5%8A%9B</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B0%81%E6%87%82%E8%BE%9B%E8%8A%B7%E8%95%BE%E6%89%8B%E8%87%82%E9%9D%92%E7%AD%8B%E7%9A%84%E6%9D%80%E4%BC%A4%E5%8A%9B"/>
+        <updated>2024-06-30T12:54:39.798Z</updated>
+        <summary type="html"><![CDATA[谁懂辛芷蕾手臂青筋的杀伤力]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[aespa演唱会上的SM女练习生]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3Daespa%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E7%9A%84SM%E5%A5%B3%E7%BB%83%E4%B9%A0%E7%94%9F</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3Daespa%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E7%9A%84SM%E5%A5%B3%E7%BB%83%E4%B9%A0%E7%94%9F"/>
+        <updated>2024-06-30T12:54:39.796Z</updated>
+        <summary type="html"><![CDATA[aespa演唱会上的SM女练习生]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[等了一年等来了相柳的死讯]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%AD%89%E4%BA%86%E4%B8%80%E5%B9%B4%E7%AD%89%E6%9D%A5%E4%BA%86%E7%9B%B8%E6%9F%B3%E7%9A%84%E6%AD%BB%E8%AE%AF</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%AD%89%E4%BA%86%E4%B8%80%E5%B9%B4%E7%AD%89%E6%9D%A5%E4%BA%86%E7%9B%B8%E6%9F%B3%E7%9A%84%E6%AD%BB%E8%AE%AF"/>
+        <updated>2024-06-30T12:54:39.794Z</updated>
+        <summary type="html"><![CDATA[等了一年等来了相柳的死讯]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[白乌边境地区局势紧张]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%99%BD%E4%B9%8C%E8%BE%B9%E5%A2%83%E5%9C%B0%E5%8C%BA%E5%B1%80%E5%8A%BF%E7%B4%A7%E5%BC%A0</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%99%BD%E4%B9%8C%E8%BE%B9%E5%A2%83%E5%9C%B0%E5%8C%BA%E5%B1%80%E5%8A%BF%E7%B4%A7%E5%BC%A0"/>
+        <updated>2024-06-30T12:54:39.792Z</updated>
+        <summary type="html"><![CDATA[白乌边境地区局势紧张]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高考录取期间防范四大骗局]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%AB%98%E8%80%83%E5%BD%95%E5%8F%96%E6%9C%9F%E9%97%B4%E9%98%B2%E8%8C%83%E5%9B%9B%E5%A4%A7%E9%AA%97%E5%B1%80</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%AB%98%E8%80%83%E5%BD%95%E5%8F%96%E6%9C%9F%E9%97%B4%E9%98%B2%E8%8C%83%E5%9B%9B%E5%A4%A7%E9%AA%97%E5%B1%80"/>
+        <updated>2024-06-30T12:54:39.790Z</updated>
+        <summary type="html"><![CDATA[高考录取期间防范四大骗局]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[子宫内膜异位症]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AD%90%E5%AE%AB%E5%86%85%E8%86%9C%E5%BC%82%E4%BD%8D%E7%97%87</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AD%90%E5%AE%AB%E5%86%85%E8%86%9C%E5%BC%82%E4%BD%8D%E7%97%87"/>
+        <updated>2024-06-30T12:54:39.788Z</updated>
+        <summary type="html"><![CDATA[子宫内膜异位症]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网红面筋哥女友发声]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BD%91%E7%BA%A2%E9%9D%A2%E7%AD%8B%E5%93%A5%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%A3%B0</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BD%91%E7%BA%A2%E9%9D%A2%E7%AD%8B%E5%93%A5%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%A3%B0"/>
+        <updated>2024-06-30T12:54:39.786Z</updated>
+        <summary type="html"><![CDATA[网红面筋哥女友发声]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[张馨予好细的腰]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BC%A0%E9%A6%A8%E4%BA%88%E5%A5%BD%E7%BB%86%E7%9A%84%E8%85%B0</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BC%A0%E9%A6%A8%E4%BA%88%E5%A5%BD%E7%BB%86%E7%9A%84%E8%85%B0"/>
+        <updated>2024-06-30T12:54:39.784Z</updated>
+        <summary type="html"><![CDATA[张馨予好细的腰]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[周震南程潇现身KPL赛场]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%91%A8%E9%9C%87%E5%8D%97%E7%A8%8B%E6%BD%87%E7%8E%B0%E8%BA%ABKPL%E8%B5%9B%E5%9C%BA</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%91%A8%E9%9C%87%E5%8D%97%E7%A8%8B%E6%BD%87%E7%8E%B0%E8%BA%ABKPL%E8%B5%9B%E5%9C%BA"/>
+        <updated>2024-06-30T12:54:39.783Z</updated>
+        <summary type="html"><![CDATA[周震南程潇现身KPL赛场]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[珍珠学会下楼梯了]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8F%8D%E7%8F%A0%E5%AD%A6%E4%BC%9A%E4%B8%8B%E6%A5%BC%E6%A2%AF%E4%BA%86</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8F%8D%E7%8F%A0%E5%AD%A6%E4%BC%9A%E4%B8%8B%E6%A5%BC%E6%A2%AF%E4%BA%86"/>
+        <updated>2024-06-30T12:54:39.781Z</updated>
+        <summary type="html"><![CDATA[珍珠学会下楼梯了]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[于适王影璐首映礼同框]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%8E%E9%80%82%E7%8E%8B%E5%BD%B1%E7%92%90%E9%A6%96%E6%98%A0%E7%A4%BC%E5%90%8C%E6%A1%86</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%8E%E9%80%82%E7%8E%8B%E5%BD%B1%E7%92%90%E9%A6%96%E6%98%A0%E7%A4%BC%E5%90%8C%E6%A1%86"/>
+        <updated>2024-06-30T12:54:39.779Z</updated>
+        <summary type="html"><![CDATA[于适王影璐首映礼同框]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kindle中国电子书店停止下载服务]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DKindle%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%AD%90%E4%B9%A6%E5%BA%97%E5%81%9C%E6%AD%A2%E4%B8%8B%E8%BD%BD%E6%9C%8D%E5%8A%A1</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DKindle%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%AD%90%E4%B9%A6%E5%BA%97%E5%81%9C%E6%AD%A2%E4%B8%8B%E8%BD%BD%E6%9C%8D%E5%8A%A1"/>
+        <updated>2024-06-30T12:54:39.777Z</updated>
+        <summary type="html"><![CDATA[Kindle中国电子书店停止下载服务]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微信朋友圈置顶新玩法]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%BD%AE%E9%A1%B6%E6%96%B0%E7%8E%A9%E6%B3%95</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%BD%AE%E9%A1%B6%E6%96%B0%E7%8E%A9%E6%B3%95"/>
+        <updated>2024-06-30T12:54:39.775Z</updated>
+        <summary type="html"><![CDATA[微信朋友圈置顶新玩法]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[终于知道啥是city不city了]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E5%95%A5%E6%98%AFcity%E4%B8%8Dcity%E4%BA%86</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E5%95%A5%E6%98%AFcity%E4%B8%8Dcity%E4%BA%86"/>
+        <updated>2024-06-30T12:54:39.773Z</updated>
+        <summary type="html"><![CDATA[终于知道啥是city不city了]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴谨言王星越拍芭莎]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%90%B4%E8%B0%A8%E8%A8%80%E7%8E%8B%E6%98%9F%E8%B6%8A%E6%8B%8D%E8%8A%AD%E8%8E%8E</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%90%B4%E8%B0%A8%E8%A8%80%E7%8E%8B%E6%98%9F%E8%B6%8A%E6%8B%8D%E8%8A%AD%E8%8E%8E"/>
+        <updated>2024-06-30T12:54:39.764Z</updated>
+        <summary type="html"><![CDATA[吴谨言王星越拍芭莎]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[珠峰死亡地带4具遗体被运回]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8F%A0%E5%B3%B0%E6%AD%BB%E4%BA%A1%E5%9C%B0%E5%B8%A64%E5%85%B7%E9%81%97%E4%BD%93%E8%A2%AB%E8%BF%90%E5%9B%9E</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8F%A0%E5%B3%B0%E6%AD%BB%E4%BA%A1%E5%9C%B0%E5%B8%A64%E5%85%B7%E9%81%97%E4%BD%93%E8%A2%AB%E8%BF%90%E5%9B%9E"/>
+        <updated>2024-06-30T12:54:39.759Z</updated>
+        <summary type="html"><![CDATA[珠峰死亡地带4具遗体被运回]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[王勉 猫猫祟祟]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E5%8B%89%20%E7%8C%AB%E7%8C%AB%E7%A5%9F%E7%A5%9F</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E5%8B%89%20%E7%8C%AB%E7%8C%AB%E7%A5%9F%E7%A5%9F"/>
+        <updated>2024-06-30T12:54:39.756Z</updated>
+        <summary type="html"><![CDATA[王勉 猫猫祟祟]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[女孩差点被带走父亲查监控像人贩子]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%B3%E5%AD%A9%E5%B7%AE%E7%82%B9%E8%A2%AB%E5%B8%A6%E8%B5%B0%E7%88%B6%E4%BA%B2%E6%9F%A5%E7%9B%91%E6%8E%A7%E5%83%8F%E4%BA%BA%E8%B4%A9%E5%AD%90</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%B3%E5%AD%A9%E5%B7%AE%E7%82%B9%E8%A2%AB%E5%B8%A6%E8%B5%B0%E7%88%B6%E4%BA%B2%E6%9F%A5%E7%9B%91%E6%8E%A7%E5%83%8F%E4%BA%BA%E8%B4%A9%E5%AD%90"/>
+        <updated>2024-06-30T12:54:39.747Z</updated>
+        <summary type="html"><![CDATA[女孩差点被带走父亲查监控像人贩子]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[巩义]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B7%A9%E4%B9%89</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B7%A9%E4%B9%89"/>
+        <updated>2024-06-30T12:54:39.746Z</updated>
+        <summary type="html"><![CDATA[巩义]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[龙腾湾区桥见未来]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%BE%99%E8%85%BE%E6%B9%BE%E5%8C%BA%E6%A1%A5%E8%A7%81%E6%9C%AA%E6%9D%A5</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%BE%99%E8%85%BE%E6%B9%BE%E5%8C%BA%E6%A1%A5%E8%A7%81%E6%9C%AA%E6%9D%A5"/>
+        <updated>2024-06-30T12:54:39.745Z</updated>
+        <summary type="html"><![CDATA[龙腾湾区桥见未来]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊拉克男子妻儿丧生后性侵同船少女]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BC%8A%E6%8B%89%E5%85%8B%E7%94%B7%E5%AD%90%E5%A6%BB%E5%84%BF%E4%B8%A7%E7%94%9F%E5%90%8E%E6%80%A7%E4%BE%B5%E5%90%8C%E8%88%B9%E5%B0%91%E5%A5%B3</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BC%8A%E6%8B%89%E5%85%8B%E7%94%B7%E5%AD%90%E5%A6%BB%E5%84%BF%E4%B8%A7%E7%94%9F%E5%90%8E%E6%80%A7%E4%BE%B5%E5%90%8C%E8%88%B9%E5%B0%91%E5%A5%B3"/>
+        <updated>2024-06-30T12:54:39.743Z</updated>
+        <summary type="html"><![CDATA[伊拉克男子妻儿丧生后性侵同船少女]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[李一桐发文回应蜈蚣]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%8E%E4%B8%80%E6%A1%90%E5%8F%91%E6%96%87%E5%9B%9E%E5%BA%94%E8%9C%88%E8%9A%A3</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%8E%E4%B8%80%E6%A1%90%E5%8F%91%E6%96%87%E5%9B%9E%E5%BA%94%E8%9C%88%E8%9A%A3"/>
+        <updated>2024-06-30T12:54:39.742Z</updated>
+        <summary type="html"><![CDATA[李一桐发文回应蜈蚣]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黄子韬说没有鹿晗就不会签徐艺洋]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%BB%84%E5%AD%90%E9%9F%AC%E8%AF%B4%E6%B2%A1%E6%9C%89%E9%B9%BF%E6%99%97%E5%B0%B1%E4%B8%8D%E4%BC%9A%E7%AD%BE%E5%BE%90%E8%89%BA%E6%B4%8B</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%BB%84%E5%AD%90%E9%9F%AC%E8%AF%B4%E6%B2%A1%E6%9C%89%E9%B9%BF%E6%99%97%E5%B0%B1%E4%B8%8D%E4%BC%9A%E7%AD%BE%E5%BE%90%E8%89%BA%E6%B4%8B"/>
+        <updated>2024-06-30T12:54:39.741Z</updated>
+        <summary type="html"><![CDATA[黄子韬说没有鹿晗就不会签徐艺洋]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黄子韬徐艺洋一路上都在拌嘴]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%BB%84%E5%AD%90%E9%9F%AC%E5%BE%90%E8%89%BA%E6%B4%8B%E4%B8%80%E8%B7%AF%E4%B8%8A%E9%83%BD%E5%9C%A8%E6%8B%8C%E5%98%B4</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%BB%84%E5%AD%90%E9%9F%AC%E5%BE%90%E8%89%BA%E6%B4%8B%E4%B8%80%E8%B7%AF%E4%B8%8A%E9%83%BD%E5%9C%A8%E6%8B%8C%E5%98%B4"/>
+        <updated>2024-06-30T12:54:39.740Z</updated>
+        <summary type="html"><![CDATA[黄子韬徐艺洋一路上都在拌嘴]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[男孩0点被父母薅起过生日硬控情绪]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%B7%E5%AD%A90%E7%82%B9%E8%A2%AB%E7%88%B6%E6%AF%8D%E8%96%85%E8%B5%B7%E8%BF%87%E7%94%9F%E6%97%A5%E7%A1%AC%E6%8E%A7%E6%83%85%E7%BB%AA</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%B7%E5%AD%A90%E7%82%B9%E8%A2%AB%E7%88%B6%E6%AF%8D%E8%96%85%E8%B5%B7%E8%BF%87%E7%94%9F%E6%97%A5%E7%A1%AC%E6%8E%A7%E6%83%85%E7%BB%AA"/>
+        <updated>2024-06-30T12:54:39.738Z</updated>
+        <summary type="html"><![CDATA[男孩0点被父母薅起过生日硬控情绪]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国网红鼻祖自曝16岁起遭性虐待]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BE%8E%E5%9B%BD%E7%BD%91%E7%BA%A2%E9%BC%BB%E7%A5%96%E8%87%AA%E6%9B%9D16%E5%B2%81%E8%B5%B7%E9%81%AD%E6%80%A7%E8%99%90%E5%BE%85</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BE%8E%E5%9B%BD%E7%BD%91%E7%BA%A2%E9%BC%BB%E7%A5%96%E8%87%AA%E6%9B%9D16%E5%B2%81%E8%B5%B7%E9%81%AD%E6%80%A7%E8%99%90%E5%BE%85"/>
+        <updated>2024-06-30T12:54:39.737Z</updated>
+        <summary type="html"><![CDATA[美国网红鼻祖自曝16岁起遭性虐待]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[孙海洋回应孙卓高考成绩]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AD%99%E6%B5%B7%E6%B4%8B%E5%9B%9E%E5%BA%94%E5%AD%99%E5%8D%93%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AD%99%E6%B5%B7%E6%B4%8B%E5%9B%9E%E5%BA%94%E5%AD%99%E5%8D%93%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9"/>
+        <updated>2024-06-30T12:54:39.733Z</updated>
+        <summary type="html"><![CDATA[孙海洋回应孙卓高考成绩]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[火箭]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%81%AB%E7%AE%AD</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%81%AB%E7%AE%AD"/>
+        <updated>2024-06-30T12:54:39.732Z</updated>
+        <summary type="html"><![CDATA[火箭]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谁家综艺一下来两壮壮妈啊]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B0%81%E5%AE%B6%E7%BB%BC%E8%89%BA%E4%B8%80%E4%B8%8B%E6%9D%A5%E4%B8%A4%E5%A3%AE%E5%A3%AE%E5%A6%88%E5%95%8A</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B0%81%E5%AE%B6%E7%BB%BC%E8%89%BA%E4%B8%80%E4%B8%8B%E6%9D%A5%E4%B8%A4%E5%A3%AE%E5%A3%AE%E5%A6%88%E5%95%8A"/>
+        <updated>2024-06-30T12:54:39.731Z</updated>
+        <summary type="html"><![CDATA[谁家综艺一下来两壮壮妈啊]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[空调开一会关一会更省电吗]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%A9%BA%E8%B0%83%E5%BC%80%E4%B8%80%E4%BC%9A%E5%85%B3%E4%B8%80%E4%BC%9A%E6%9B%B4%E7%9C%81%E7%94%B5%E5%90%97</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%A9%BA%E8%B0%83%E5%BC%80%E4%B8%80%E4%BC%9A%E5%85%B3%E4%B8%80%E4%BC%9A%E6%9B%B4%E7%9C%81%E7%94%B5%E5%90%97"/>
+        <updated>2024-06-30T12:54:39.730Z</updated>
+        <summary type="html"><![CDATA[空调开一会关一会更省电吗]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[男子AI造谣九旬老人遭遗弃成皮包骨]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%B7%E5%AD%90AI%E9%80%A0%E8%B0%A3%E4%B9%9D%E6%97%AC%E8%80%81%E4%BA%BA%E9%81%AD%E9%81%97%E5%BC%83%E6%88%90%E7%9A%AE%E5%8C%85%E9%AA%A8</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%B7%E5%AD%90AI%E9%80%A0%E8%B0%A3%E4%B9%9D%E6%97%AC%E8%80%81%E4%BA%BA%E9%81%AD%E9%81%97%E5%BC%83%E6%88%90%E7%9A%AE%E5%8C%85%E9%AA%A8"/>
+        <updated>2024-06-30T12:54:39.728Z</updated>
+        <summary type="html"><![CDATA[男子AI造谣九旬老人遭遗弃成皮包骨]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本拉面店禁止食客用耳机]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%97%A5%E6%9C%AC%E6%8B%89%E9%9D%A2%E5%BA%97%E7%A6%81%E6%AD%A2%E9%A3%9F%E5%AE%A2%E7%94%A8%E8%80%B3%E6%9C%BA</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%97%A5%E6%9C%AC%E6%8B%89%E9%9D%A2%E5%BA%97%E7%A6%81%E6%AD%A2%E9%A3%9F%E5%AE%A2%E7%94%A8%E8%80%B3%E6%9C%BA"/>
+        <updated>2024-06-30T12:54:39.727Z</updated>
+        <summary type="html"><![CDATA[日本拉面店禁止食客用耳机]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[时代峰峻剪辑张泽禹投票第一]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E5%89%AA%E8%BE%91%E5%BC%A0%E6%B3%BD%E7%A6%B9%E6%8A%95%E7%A5%A8%E7%AC%AC%E4%B8%80</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E5%89%AA%E8%BE%91%E5%BC%A0%E6%B3%BD%E7%A6%B9%E6%8A%95%E7%A5%A8%E7%AC%AC%E4%B8%80"/>
+        <updated>2024-06-30T12:54:39.725Z</updated>
+        <summary type="html"><![CDATA[时代峰峻剪辑张泽禹投票第一]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[习近平致信祝贺深中通道建成开通]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%87%B4%E4%BF%A1%E7%A5%9D%E8%B4%BA%E6%B7%B1%E4%B8%AD%E9%80%9A%E9%81%93%E5%BB%BA%E6%88%90%E5%BC%80%E9%80%9A</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%87%B4%E4%BF%A1%E7%A5%9D%E8%B4%BA%E6%B7%B1%E4%B8%AD%E9%80%9A%E9%81%93%E5%BB%BA%E6%88%90%E5%BC%80%E9%80%9A"/>
+        <updated>2024-06-30T12:54:39.722Z</updated>
+        <summary type="html"><![CDATA[习近平致信祝贺深中通道建成开通]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网约车司机强奸未成年乘客获刑3年]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%8F%B8%E6%9C%BA%E5%BC%BA%E5%A5%B8%E6%9C%AA%E6%88%90%E5%B9%B4%E4%B9%98%E5%AE%A2%E8%8E%B7%E5%88%913%E5%B9%B4</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%8F%B8%E6%9C%BA%E5%BC%BA%E5%A5%B8%E6%9C%AA%E6%88%90%E5%B9%B4%E4%B9%98%E5%AE%A2%E8%8E%B7%E5%88%913%E5%B9%B4"/>
+        <updated>2024-06-30T12:54:39.721Z</updated>
+        <summary type="html"><![CDATA[网约车司机强奸未成年乘客获刑3年]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[刘畊宏纪凌尘腋下管理的极与极]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%88%98%E7%95%8A%E5%AE%8F%E7%BA%AA%E5%87%8C%E5%B0%98%E8%85%8B%E4%B8%8B%E7%AE%A1%E7%90%86%E7%9A%84%E6%9E%81%E4%B8%8E%E6%9E%81</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%88%98%E7%95%8A%E5%AE%8F%E7%BA%AA%E5%87%8C%E5%B0%98%E8%85%8B%E4%B8%8B%E7%AE%A1%E7%90%86%E7%9A%84%E6%9E%81%E4%B8%8E%E6%9E%81"/>
+        <updated>2024-06-30T12:54:39.719Z</updated>
+        <summary type="html"><![CDATA[刘畊宏纪凌尘腋下管理的极与极]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[郑州大学生骑共享单车52公里到开封]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%83%91%E5%B7%9E%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%AA%91%E5%85%B1%E4%BA%AB%E5%8D%95%E8%BD%A652%E5%85%AC%E9%87%8C%E5%88%B0%E5%BC%80%E5%B0%81</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%83%91%E5%B7%9E%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%AA%91%E5%85%B1%E4%BA%AB%E5%8D%95%E8%BD%A652%E5%85%AC%E9%87%8C%E5%88%B0%E5%BC%80%E5%B0%81"/>
+        <updated>2024-06-30T12:54:39.715Z</updated>
+        <summary type="html"><![CDATA[郑州大学生骑共享单车52公里到开封]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Angelababy 辛巴直播]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DAngelababy%20%E8%BE%9B%E5%B7%B4%E7%9B%B4%E6%92%AD</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DAngelababy%20%E8%BE%9B%E5%B7%B4%E7%9B%B4%E6%92%AD"/>
+        <updated>2024-06-30T12:54:39.697Z</updated>
+        <summary type="html"><![CDATA[Angelababy 辛巴直播]]></summary>
+        <author>
+            <name>微博热搜榜</name>
         </author>
     </entry>
     <entry>
@@ -313,6 +783,324 @@ ATG 可以帮助传输前舱的重要数据，例如如飞行数据、舱内视�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The big problem facing whoever wins the election]]></title>
+        <id>https://www.bbc.com/news/articles/cldyw4q5qllo</id>
+        <link href="https://www.bbc.com/news/articles/cldyw4q5qllo"/>
+        <updated>2024-06-30T00:13:10.000Z</updated>
+        <summary type="html"><![CDATA[Image source, Getty Images 
+Image caption, 
+The former Honda site in Swindon will become a warehousing and logistics facility
+
+
+
+
+Faisal Islam
+
+
+Economics editor
+
+@faisalislam
+
+
+
+Reporting from
+
+Swindon
+
+
+
+
+
+
+Published
+39 minutes ago
+
+
+
+
+Amid a vast expanse of rubble, dust and noise, a green crane yanks away at a corrugated roof like a frustrated dentist attempting to extract a particularly stubborn wisdom tooth.
+Swindon’s Honda factory - once one of the world’s most advanced car factories - is being demolished, three decades after it opened.
+This used to be one of the fastest-growing towns in Europe. It was one of the jewels in the crown of investments attracted to the UK by Margaret Thatcher’s brand of 1980s enterprise. Swindon voted for her, John Major, Tony Blair, David Cameron, Theres…]]></summary>
+        <author>
+            <name>BBC News business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[女主角很美的精神状态 (评论: 寂静之地：入侵日)]]></title>
+        <id>e3b5705f015ee6cab236966c95f0f8e0</id>
+        <link href="https://movie.douban.com/review/16025803/"/>
+        <updated>2024-06-29T13:17:26.000Z</updated>
+        <summary type="html"><![CDATA[很出乎意料。竟然是一部小清新恐怖片。 这个系列的特色就是，主创已经不再把焦点放...]]></summary>
+        <author>
+            <name>豆瓣最受欢迎的影评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有一種爛叫邱禮濤 (评论: 海关战线)]]></title>
+        <id>b021f1c83bcf4ea6e239860ac5b115ee</id>
+        <link href="https://movie.douban.com/review/16025461/"/>
+        <updated>2024-06-29T09:42:48.000Z</updated>
+        <summary type="html"><![CDATA[邱禮濤多產，人盡皆知。有好的劇本時，他能拍得工整，且總能放進去一些他自己的東...]]></summary>
+        <author>
+            <name>豆瓣最受欢迎的影评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What we learned from IT expert at Post Office inquiry]]></title>
+        <id>https://www.bbc.com/news/articles/c880e78rl77o</id>
+        <link href="https://www.bbc.com/news/articles/c880e78rl77o"/>
+        <updated>2024-06-28T21:31:24.000Z</updated>
+        <summary type="html"><![CDATA[Published
+34 minutes ago
+
+
+
+
+The computer expert who helped build the faulty Horizon software has finally spoken under oath about his involvement in the Post Office scandal.
+Gareth Jenkins is a key figure, having appeared as an expert witness to defend Horizon in court cases, and is now at the centre of an alleged cover-up. His appearance at the inquiry was long-awaited after being postponed twice.
+He gave evidence over four days - the longest run of questions any witness has faced - and gave his version of events.
+Here are five key moments from his evidence.
+
+
+1. He thought Horizon bugs were fixed quickly
+
+
+Gareth Jenkins referred to Horizon's overall reliability throughout his testimony, even challenging findings from the landmark Bates v Post Office case that identified issues with the …]]></summary>
+        <author>
+            <name>BBC News business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[M&S to launch clothing repairs service]]></title>
+        <id>https://www.bbc.com/news/articles/cpe35e7kgnzo</id>
+        <link href="https://www.bbc.com/news/articles/cpe35e7kgnzo"/>
+        <updated>2024-06-28T21:30:52.000Z</updated>
+        <summary type="html"><![CDATA[Image source, Getty Images
+
+
+
+Liv McMahon
+BBC News
+
+
+
+
+
+
+Published
+2 hours ago
+
+
+
+
+Marks & Spencer is launching a new service for clothing repairs and alterations.
+From August, customers will be able to book through a dedicated online hub and have their fixed items posted back to them within seven to ten days.
+The work will be carried out by Deliveroo-style repairs start-up Sojo, and its in-house team of tailors, with prices starting at £5.
+The move comes as retailers try to encourage more sustainable habits among their shoppers.
+
+
+Sojo launched during the Covid-19 pandemic in 2021 with a mission to make repairing, not simply replacing, clothing more mainstream.
+M&S said its partnership with Sojo aimed to provide customers with ways to extend the life of their clothing.
+“Through the launch…]]></summary>
+        <author>
+            <name>BBC News business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Major UK high street banks say payment issues fixed]]></title>
+        <id>https://www.bbc.com/news/articles/c3g03ejjl1yo</id>
+        <link href="https://www.bbc.com/news/articles/c3g03ejjl1yo"/>
+        <updated>2024-06-28T17:14:09.000Z</updated>
+        <summary type="html"><![CDATA[Image source, Getty Images
+
+
+
+Mitchell Labiak
+Business reporter
+
+
+
+
+
+
+Published
+28 June 2024
+
+
+
+
+Thousands of UK bank customers were hit by payment problems affecting some of the biggest High Street lenders on Friday.
+Banks including HSBC, Nationwide, Barclays and Virgin Money were all affected by issues with a system that operates payments between individuals and firms.
+The group overseeing the payments system said the issue causing the problems has now been fixed, and the payment backlog has been cleared.
+However, several people have told the BBC they are still facing issues, with some saying they now have little cash left.
+The timing of the glitches was particularly problematic given the last Friday of the month is when many salaried staff are usually paid.
+Many people also have to pay …]]></summary>
+        <author>
+            <name>BBC News business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asda and Tesco face legal action over E. coli cases]]></title>
+        <id>https://www.bbc.com/news/articles/c880rekylxxo</id>
+        <link href="https://www.bbc.com/news/articles/c880rekylxxo"/>
+        <updated>2024-06-28T16:04:03.000Z</updated>
+        <summary type="html"><![CDATA[Image source, Getty Images
+
+
+
+Lora Jones
+Business reporter, BBC News
+
+
+
+
+
+
+Published
+7 hours ago
+
+
+
+
+Lawyers acting on behalf of two people who fell ill in the E. coli outbreak have started legal action against two leading supermarkets.
+Legal firm Fieldfisher said on Friday it had issued letters of claim for breach of the Consumer Protection Act over own-brand sandwiches purchased in Tesco and Asda.
+The claims for compensation relate to a man from the South East and an 11-year-old girl in the North West. 
+One person in England has died linked to the ongoing E. coli outbreak, the UK Health Security Agency said on Thursday, although they had underlying health conditions.
+The E. coli outbreak is thought to be caused by some supermarket sandwiches containing salad leaves.
+The large majority of…]]></summary>
+        <author>
+            <name>BBC News business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Incomes have risen 'at a crawl' says think tank]]></title>
+        <id>https://www.bbc.com/news/articles/c51y8lj0rr1o</id>
+        <link href="https://www.bbc.com/news/articles/c51y8lj0rr1o"/>
+        <updated>2024-06-28T14:46:10.000Z</updated>
+        <summary type="html"><![CDATA[Image source, Getty Images
+
+
+
+Faarea Masud and Lucy Hooker
+Business reporters, BBC News
+
+
+
+
+
+
+Published
+28 June 2024
+
+
+Comments
+
+
+Updated 28 June 2024
+
+
+Slow economic growth and three major economic shocks have meant households' disposable incomes have grown very slowly since 2010, according to a think tank report.
+Typical household incomes went up by just £140 a year, new analysis from the Resolution Foundation showed.
+That is a total rise over the 14 year period of just 7% - or an average of half a percent a year - in the amount people had left over to spend after paying tax.
+By contrast, disposable incomes rose 38% over the 14 years up to 2010, the poverty-focused think tank wrote.
+However, poorer households had seen stronger income growth than richer ones, it said.
+The Resolution Found…]]></summary>
+        <author>
+            <name>BBC News business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fujitsu expert: I didn't think Horizon was a monster]]></title>
+        <id>https://www.bbc.com/news/articles/c035j4vegvvo</id>
+        <link href="https://www.bbc.com/news/articles/c035j4vegvvo"/>
+        <updated>2024-06-28T13:07:26.000Z</updated>
+        <summary type="html"><![CDATA[Tom Espiner
+BBC business reporter
+
+Reporting from
+
+Post Office Horizon IT inquiry
+
+
+
+
+
+
+Published
+28 June 2024
+
+
+
+
+Former Fujitsu engineer and Horizon expert Gareth Jenkins has said he didn't think the software was "a monster" and that he was "trapped into doing things I shouldn't have done".
+Speaking at an inquiry into the Horizon scandal, Mr Jenkins was accused by lawyer Flora Page of "protecting" it when he gave evidence as an expert witness between 2010 and 2013.
+Ms Page represents Horizon victims including former sub-postmaster Seema Misra, who Mr Jenkins gave evidence against in 2010.
+Ms Misra told the BBC the system was a monster which "had blood on its hands, and so do the people who protect [it]".
+
+
+Between 1999 and 2015, the Post Office prosecuted hundreds of sub-postmasters on t…]]></summary>
+        <author>
+            <name>BBC News business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[请邱礼涛先完成导演的duty再说 (评论: 海关战线)]]></title>
+        <id>7bc6a72166da622ec04e47388087ffd6</id>
+        <link href="https://movie.douban.com/review/16023925/"/>
+        <updated>2024-06-28T12:30:19.000Z</updated>
+        <summary type="html"><![CDATA[作为邱礼涛常年来的黑粉（又黑又粉），邱和港片之间的关系着实有些难以评价，他在...]]></summary>
+        <author>
+            <name>豆瓣最受欢迎的影评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strike may force Tata steel closures next week]]></title>
+        <id>https://www.bbc.com/news/articles/crg7rz7mlmno</id>
+        <link href="https://www.bbc.com/news/articles/crg7rz7mlmno"/>
+        <updated>2024-06-28T11:40:18.000Z</updated>
+        <summary type="html"><![CDATA[Image source, Getty Images
+Image caption, 
+The company had originally planned to shut down one of the blast furnaces by the end of June and the second by September
+
+
+
+Mark Palmer
+BBC News
+
+
+
+
+
+
+Published
+27 June 2024
+
+
+Comments
+
+
+Updated 28 June 2024
+
+
+Workers at Tata Steel have been told the company is taking steps to potentially cease operations at much of the Port Talbot plant by 7 July because of a strike by the trade union Unite.
+The company had originally been planning to shut one of the blast furnaces by the end of June and the second one by September.
+But Port Talbot workers have been told that because of the strike from 8 July, the company can no longer be assured of sufficient resources being available to ensure safe and stable operations.
+The Unite union said Tata's statement to…]]></summary>
+        <author>
+            <name>BBC News business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[星尘往事（非影评） (评论: 星尘往事)]]></title>
+        <id>092e6b8fe8243ebfdeb861eb00666c68</id>
+        <link href="https://movie.douban.com/review/16023828/"/>
+        <updated>2024-06-28T11:19:13.000Z</updated>
+        <summary type="html"><![CDATA[这不是影评！只是我看完第18部伍迪之后的一些观后感… 影片具有伍迪完整风格的意识...]]></summary>
+        <author>
+            <name>豆瓣最受欢迎的影评</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[姜萍事件的疑点分析]]></title>
         <id>http://zhuanlan.zhihu.com/p/705650067</id>
         <link href="http://zhuanlan.zhihu.com/p/705650067?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
@@ -325,6 +1113,124 @@ ATG 可以帮助传输前舱的重要数据，例如如飞行数据、舱内视�
 阿里巴巴竞赛的初赛的考试范围基本达到了数学系三至四年级的本科生学习的内容，考试内容可能涵盖这个阶段的学生学过的几乎所有课程，…]]></summary>
         <author>
             <name>袁新意</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aer Lingus pilots to consider further work stoppage]]></title>
+        <id>https://www.bbc.com/news/articles/crg5n9edl4do</id>
+        <link href="https://www.bbc.com/news/articles/crg5n9edl4do"/>
+        <updated>2024-06-28T06:59:18.000Z</updated>
+        <summary type="html"><![CDATA[Image source, PA
+Image caption, 
+Aer Lingus has described the potential of further strike action as entirely inappropriate
+
+
+
+
+Published
+45 minutes ago
+
+
+
+
+A trade union committee is expected to meet on Friday to decide whether to give the green light to a further work stoppage by Aer Lingus pilots in Ireland.
+Irish broadcaster RTÉ is reporting that the recommendation for an additional strike was made by the Irish Air Line Pilots’ Association (IALPA) on Thursday after talks between it and Aer Lingus to resolve the ongoing pay dispute broke down without a resolution.
+The airline issued an invitation for talks to IALPA on Wednesday after pilots began an indefinite work-to-rule, meaning they are not working overtime or carrying out any other out-of-hours duties.
+An eight-hour strike from 05:0…]]></summary>
+        <author>
+            <name>BBC News business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UK economy grew more than first estimated in early 2024]]></title>
+        <id>https://www.bbc.com/news/articles/c6p2r9xzde4o</id>
+        <link href="https://www.bbc.com/news/articles/c6p2r9xzde4o"/>
+        <updated>2024-06-28T06:36:17.000Z</updated>
+        <summary type="html"><![CDATA[Image source, Getting Images
+
+
+
+Michael Race
+Business reporter, BBC News
+
+
+
+
+
+
+Published
+28 June 2024, 07:07 BST
+
+
+Updated 25 minutes ago
+
+
+The economy grew by more than initially estimated in the first three months of 2024 as the UK emerged from recession, revised official figures show.
+Between January and March, the economy grew by 0.7% the Office for National Statistics (ONS) said.
+Figures released last month initially estimated growth had been 0.6%.
+The strength of the economy has been a central battleground in the general election campaign, with growth having been sluggish in recent years.
+Most economists, politicians and businesses want to see GDP rising steadily, because it usually means people are spending more, extra jobs are created, more tax is paid to the government and workers get better pay rises.
+The original figure for the first quarter of the year was stronger than economists had expected, and growth in the services sector, which includes businesses such as hairdressers, banks, and hospitality, helped to push it higher, the ONS said.
+But while services growth was revised upwards, increases in manufacturing were revised down on the back of more data being collected.
+Paul Dales, chief UK economist at research company Capital Economics, said the faster growth rise in GDP in early 2024 was "mainly due to upward revisions to consumer spending".
+He added the new figure suggested "whoever is Prime Minister this time next week may benefit from the economic recovery being a bit stronger".
+
+
+
+Related Topics
+
+
+UK economy]]></summary>
+        <author>
+            <name>BBC News business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[K-pop agents charged with insider trading over BTS]]></title>
+        <id>https://www.bbc.com/news/articles/c1vd7y5rnnwo</id>
+        <link href="https://www.bbc.com/news/articles/c1vd7y5rnnwo"/>
+        <updated>2024-06-28T05:58:54.000Z</updated>
+        <summary type="html"><![CDATA[Image source, Reuters
+Image caption, 
+Prosecutors say through their actions the employees avoided losses ranging from $24,000 to more than$108,000.
+
+
+
+João da Silva
+Business reporter
+
+
+
+
+
+
+Published
+7 minutes ago
+
+
+
+
+Three employees of subsidiaries of HYBE, the agency behind K-pop superstars BTS, have been charged with insider trading by South Korean prosecutors.
+They are being accused of selling shares in the agency before BTS members announced they were taking a break on 14 June, 2022.
+The announcement sent HYBE shares plunging 25% when markets opened, resulting in a loss in market value of nearly 2 trillion won ($1.4 billion).
+The prosecutors said the three employees acted with prior knowledge of what was about to happen, avoiding losses ranging from $24,000 to more than $108,000.
+At the time, many analysts speculated about the reasons for the hiatus, with some saying the band members would have to attend South Korea's mandatory 18-month military service.
+South Korea is still technically at war with North Korea, so nearly all able-bodied men are obliged to enlist for 18 months by the time they turn 28.
+All members of the band would end up being drafted in the months and years that followed.
+The oldest member of the hit boy band, Jin, was discharged earlier this month after completing his service.
+The other six - J-Hope, V, RM, Jimin, Jung Kook and Suga - are still serving and the band is expected to reunite only in June 2025.
+Fans of the wildly popular boyband are hoping Jin's return is also the beginning of BTS' return from its hiatus. 
+
+
+
+Related Topics
+
+
+International Business
+K-pop
+BTS]]></summary>
+        <author>
+            <name>BBC News business</name>
         </author>
     </entry>
     <entry>
@@ -363,6 +1269,58 @@ ATG 可以帮助传输前舱的重要数据，例如如飞行数据、舱内视�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Nike tumbles as upstarts grab market share]]></title>
+        <id>https://www.bbc.com/news/articles/c19k3rrjl22o</id>
+        <link href="https://www.bbc.com/news/articles/c19k3rrjl22o"/>
+        <updated>2024-06-28T04:51:17.000Z</updated>
+        <summary type="html"><![CDATA[Image source, Getty Images
+Image caption, 
+Nike shares plunged more than 12% in after hours trading
+
+
+
+João da Silva
+Business reporter
+
+
+
+
+
+
+Published
+28 June 2024, 05:51 BST
+
+
+Comments
+
+
+
+
+Nike has said it expects a surprise 10% drop in quarterly revenue, as it faces growing competition from newer rivals such as On and Hoka.
+The news sent Nike shares plunging more than 12% in after hours trading, which could mean a loss of $15bn in market value if the losses hold on Friday.
+The world's largest sportswear company also told investors it is facing weakening demand in international markets, including in China. 
+But Nike is optimistic that new products and a marketing campaign at the upcoming Olympic Games in Paris will help the company regain momentum with consumers.
+"The Paris Olympics offers us a pinnacle moment to communicate our vision of sport to the world," CEO John Donahoe said on the earnings call.
+The company also lowered its outlook for the 2025 fiscal year. 
+It said direct-to-consumer business declined 8%, as some customers went for more trendy upstart brands.
+"There's a sense that Nike just hasn't innovated enough, it hasn't marketed enough, it hasn't told enough stories around its products," the Managing director of GlobalData Retail, Neil Saunders, told the BBC.
+The sportswear giant's strategy to sell its products through its own stores and website instead of wholesales like Foot Locker hurt sales, Reuters said. 
+"Nike needs to get on the front foot again in terms of persuading people to buy its products," Mr Saunders added. 
+Nike is currently the top sponsor of jerseys at the UEFA Euro 2024 football tournament, beating out brands like Adidas and Puma.
+They are sponsoring nine national teams including England, France and Portugal.
+
+
+
+Related Topics
+
+
+International Business
+Nike, Inc.]]></summary>
+        <author>
+            <name>BBC News business</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《艾尔登法环》新DLC究竟讲了一个什么故事？]]></title>
         <id>http://www.zhihu.com/question/659834846/answer/3544334514</id>
         <link href="http://www.zhihu.com/question/659834846/answer/3544334514?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
@@ -383,6 +1341,110 @@ ATG 可以帮助传输前舱的重要数据，例如如飞行数据、舱内视�
 畸齿软鞭：“随意排列、嵌人丑陋牙齿的软鞭。肮脏的牙齿上涂满各种细…]]></summary>
         <author>
             <name>嘉木</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Electric car battery charges in under five minutes in track test]]></title>
+        <id>https://www.bbc.com/news/articles/cz9dp3ye77do</id>
+        <link href="https://www.bbc.com/news/articles/cz9dp3ye77do"/>
+        <updated>2024-06-27T23:00:31.000Z</updated>
+        <summary type="html"><![CDATA[Image source, Getty Images
+Image caption, 
+This sort of charging could be a speedy process in the future
+
+
+
+Zoe Kleinman
+Technology editor
+
+
+
+
+
+
+Published
+15 minutes ago
+
+
+
+
+An electric car battery developed by UK start-up Nyobolt has successfully charged from 10% to 80% in four minutes and 37 seconds in its first live demonstration.
+It was achieved with a specially-built concept sports car on a test track in Bedford, and is part of industry-wide efforts to get electric vehicles (EVs) charging more quickly.
+By comparison, an existing Tesla supercharger can charge a car battery to 80% in 15-20 minutes.
+Experts say eliminating so-called "range anxiety" is key to increasing uptake of EVs - but also stress the importance of improving the charging infrastructure.
+“Developing technology that ena…]]></summary>
+        <author>
+            <name>BBC News business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Justices reject plan to shield Sacklers in Purdue opioid deal]]></title>
+        <id>https://www.bbc.com/news/articles/crggl32dz2lo</id>
+        <link href="https://www.bbc.com/news/articles/crggl32dz2lo"/>
+        <updated>2024-06-27T20:38:55.000Z</updated>
+        <summary type="html"><![CDATA[Image source, EPA
+Image caption, 
+Campaigners and family members of those who have died of opioids outside the US Supreme Court
+
+
+
+Natalie Sherman
+BBC News
+
+
+
+
+
+
+Published
+27 June 2024
+
+
+
+
+The US Supreme Court has struck down a part of the bankruptcy deal for Purdue Pharma that would have shielded members of the Sackler family from future lawsuits over their role in fuelling the opioid crisis.
+The Sacklers, who owned and operated the Oxycontin-maker for decades, had agreed to pay $6bn (£4.7bn) towards a wider settlement in exchange for sweeping protections against civil claims related to the addictive opioid.
+But the nation's top court ruled that granting such protections to the Sacklers, who did not themselves declare bankruptcy was not authorised under law.
+Sackler family members said th…]]></summary>
+        <author>
+            <name>BBC News business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IT expert 'pressurised' by Post Office over evidence]]></title>
+        <id>https://www.bbc.com/news/articles/c3gvxdlrgw0o</id>
+        <link href="https://www.bbc.com/news/articles/c3gvxdlrgw0o"/>
+        <updated>2024-06-27T15:34:37.000Z</updated>
+        <summary type="html"><![CDATA[Image source, Alamy
+Image caption, 
+Thursday was the third day the inquiry heard from Gareth Jenkins. He will conclude his oral evidence on Friday
+
+
+
+Tom Espiner
+BBC business reporter
+
+Reporting from
+
+Post Office Horizon IT Inquiry
+
+
+
+
+
+
+Published
+27 June 2024
+
+
+
+
+A Fujitsu software expert who helped build the Horizon system has said he felt pressurised by the Post Office over evidence he gave in the 2010 prosecution of sub-postmistress Seema Misra.
+Gareth Jenkins said the Post Office "clearly" wanted him to say that "everything was perfect, and I don't think I actually said that".
+However, in an email discussing the case at the time, he said Mrs Misra had "jumped on the bandwagon" in blaming Horizon for shortfalls in accounts.
+Mrs Misra told the BBC that this was an example of a culture t…]]></summary>
+        <author>
+            <name>BBC News business</name>
         </author>
     </entry>
     <entry>
@@ -419,6 +1481,41 @@ ATG 可以帮助传输前舱的重要数据，例如如飞行数据、舱内视�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA['Supersize' TV sales shoot up thanks to Euro 2024]]></title>
+        <id>https://www.bbc.com/news/articles/cqv5dww0w9do</id>
+        <link href="https://www.bbc.com/news/articles/cqv5dww0w9do"/>
+        <updated>2024-06-27T11:16:24.000Z</updated>
+        <summary type="html"><![CDATA[Image source, Getty Images
+
+
+
+Michael Race
+Business reporter, BBC News
+
+
+
+
+
+
+Published
+27 June 2024
+
+
+Comments
+
+
+
+
+England's European Championship games may not have been exciting viewing so far, but the boss of Currys hopes the Three Lions stay in the tournament to continue a boost in sales of big TVs.
+The electricals chain said UK sales were up by more than 30% in the past month, with boss Alex Baldock adding so-called "supersize" screens - 85 inches and above - were proving popular.
+"Long may England and Denmark stay in the Euros - that's doing well for us," Mr Baldock said.
+As well as strong UK sales in the run-up to the tournament, which also featured Scotland, the retail boss said TV sales in the Nordics - its other main market - were up as much as 90% on last year.
+"Large-screen TVs…]]></summary>
+        <author>
+            <name>BBC News business</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[如何评价《艾尔登法环》的简体中文翻译水平？]]></title>
         <id>http://www.zhihu.com/question/527929084/answer/2623487818</id>
         <link href="http://www.zhihu.com/question/527929084/answer/2623487818?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
@@ -443,6 +1540,52 @@ ATG 可以帮助传输前舱的重要数据，例如如飞行数据、舱内视�
 几十年的游戏生涯常识告诉我，FS社，一个拥有近千名日籍为主员工、总部位于东京市涩谷的、只开发日本游戏的厂商。新作《EldenRing》并没有理由会被人误认为存在着一个虚空中的“英文原本”。稍有社会经验的搬砖者都知道，即使FS…]]></summary>
         <author>
             <name>迷你灾变</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[India to probe iPhone factory hiring practices]]></title>
+        <id>https://www.bbc.com/news/articles/cydvp336y3no</id>
+        <link href="https://www.bbc.com/news/articles/cydvp336y3no"/>
+        <updated>2024-06-27T05:55:59.000Z</updated>
+        <summary type="html"><![CDATA[Image source, Reuters
+Image caption, 
+Job aspirants speak to a hiring agent outside the Foxconn factory near Chennai
+
+
+
+
+Published
+13 minutes ago
+
+
+
+
+The Indian government has sought a detailed report from Tamil Nadu state following media reports that Apple supplier Foxconn was allegedly rejecting married women for iPhone assembly jobs.
+A Reuters investigation, external alleged that Foxconn had excluded married women from jobs at its main India iPhone plant near Chennai, citing their greater family responsibilities compared to unmarried women.
+The federal labour ministry says the law "clearly stipulates that no discrimination (is) to be made while recruiting men and women workers". 
+Neither Apple nor the Tamil Nadu state government responded to requests for comment from Reuters.
+
+
+The BBC has also reached out to Foxconn and the Tamil Nadu labour department for a response.
+Foxconn, the largest supplier of Apple iPhones, set up its first factory in Tamil Nadu in 2017 but has since been aggressively expanding its operations in India. 
+In 2023, it began assembling the iPhone 15 in the state and earlier this year, Foxconn tied up with Google to make Pixel smartphones in Tamil Nadu.
+Rights activists say the reports about the firm's hiring practices in India are concerning, given that thousands look to its factories for employment opportunities.
+Reuters said it spoke to numerous employees and Foxconn hiring agencies for the story.
+The report said that hiring agents and Foxconn HR sources "cited family duties, pregnancy and higher absenteeism as reasons why Foxconn did not hire married women at the plant".
+This isn't the first time the firm has come under the scanner for its labour practices.
+In 2018, a US-based rights group had accused the firm of overworking and underpaying temporary workers at its factory in China that manufactured products for Amazon.
+In 2022, its iPhone factory in China saw protests by workers who claimed that they had not been paid certain dues.
+
+
+
+Related Topics
+
+
+Employment
+India
+Apple]]></summary>
+        <author>
+            <name>BBC News business</name>
         </author>
     </entry>
     <entry>
@@ -521,6 +1664,39 @@ ATG 可以帮助传输前舱的重要数据，例如如飞行数据、舱内视�
 　　这场关于“游戏难度”的争论似乎还将一直持续下去，吵不出个所以然。事实上，关于游戏…]]></summary>
         <author>
             <name>战术大米</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['How will we afford children with rent increases?']]></title>
+        <id>https://www.bbc.com/news/articles/cx7728n6x7do</id>
+        <link href="https://www.bbc.com/news/articles/cx7728n6x7do"/>
+        <updated>2024-06-27T05:16:50.000Z</updated>
+        <summary type="html"><![CDATA[Image source, Delia-Ioana/BBC News
+Image caption, 
+Delia-Ioana said she can't imagine being able to afford a mortgage
+
+
+
+Alix Hattenstone, Miguel Roca-Terry and Jonathan Fagg
+BBC England Data Unit
+
+
+
+
+
+
+Published
+27 June 2024
+
+
+
+
+The average cost of renting privately in England has risen by nearly a quarter since the last general election.
+In December 2019 rent cost £1,064 a month on average according to the Office for National Statistics (ONS, external). By May 2024 this had risen by 22% to £1,301 for new and existing tenancies.
+Renters have told the BBC they have settled for mouldy properties, sofa-surfed or moved back in with relatives.
+The National Residential Landlords Association blamed a “chronic shortage” of private rental homes on high interest rates prompting landlords to leave t…]]></summary>
+        <author>
+            <name>BBC News business</name>
         </author>
     </entry>
     <entry>
@@ -693,6 +1869,135 @@ https://zhuanlan.zhihu.com/p/673425527
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Mechanic claims he was sacked for raising Boeing concerns]]></title>
+        <id>https://www.bbc.com/news/articles/ce4q55gvde2o</id>
+        <link href="https://www.bbc.com/news/articles/ce4q55gvde2o"/>
+        <updated>2024-06-27T01:09:19.000Z</updated>
+        <summary type="html"><![CDATA[Image source, Getty Images
+Image caption, 
+Richard Cuevas claimed he witnessed substandard work on a crucial section of the Boeing 787
+
+
+
+
+Published
+27 June 2024
+
+
+
+
+An aircraft mechanic who was contracted to repair Boeing planes has alleged he was labelled a "snitch" and then sacked for speaking up over safety concerns.
+Richard Cuevas claimed he witnessed substandard manufacturing and maintenance work on a crucial section of Boeing 787 aircraft.
+Boeing, which has been dogged by questions over whether its safety culture is rigorous enough, said the issues had been investigated and "did not present a safety concern".
+Lawyers representing Mr Cuevas alleged he reported critical issues that could create a serious public safety risk and has filed complaints with the Federal Aviation Administrat…]]></summary>
+        <author>
+            <name>BBC News business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is 'AI washing' and why is it a problem?]]></title>
+        <id>https://www.bbc.com/news/articles/c9xx8122893o</id>
+        <link href="https://www.bbc.com/news/articles/c9xx8122893o"/>
+        <updated>2024-06-26T23:08:39.000Z</updated>
+        <summary type="html"><![CDATA[Image source, Getty Images
+Image caption, 
+Amazon had to defend the use of AI technology in its physical grocery stores
+
+
+
+Emma Woollacott
+Technology reporter
+
+
+
+
+
+
+Published
+5 minutes ago
+
+
+
+
+Amazon received critical headlines this year when reports questioned the “Just Walk Out” technology installed at many of its physical grocery stores.
+The AI-powered system enables customers at its Amazon Fresh and Amazon Go shops to simply pick their items, and then leave.
+Open to people who have registered via an app, the AI uses facial recognition technology, and lots of sensors and cameras, to work out what you have chosen. You then get automatically billed.
+However, back in April it was widely reported that rather than solely using AI, Just Walk Out needed around 1,000 workers in India to manuall…]]></summary>
+        <author>
+            <name>BBC News business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Would new licences save the North Sea oil and gas industry?]]></title>
+        <id>https://www.bbc.com/news/articles/cp00569p6d3o</id>
+        <link href="https://www.bbc.com/news/articles/cp00569p6d3o"/>
+        <updated>2024-06-26T21:58:15.000Z</updated>
+        <summary type="html"><![CDATA[Image source, PA Media
+Image caption, 
+Surfers in Aberdeen stage a protest on the beach calling for an end to new oil and gas licensing
+
+
+
+Kevin Keane
+BBC Scotland environment correspondent
+
+
+
+
+
+
+Published
+29 minutes ago
+
+
+
+
+"Do you support new oil and gas licences, yes or no?"
+That's the binary question which has been at the centre of the political debate in Scotland since parties began preparing to fight the general election.
+Political leaders have been hurling accusations that 100,000 jobs in Scotland will be at risk if no more licences are issued.
+But that figure is 40,000 more than the total number of people in Scotland whose roles currently rely directly or indirectly on fossil fuel extraction.
+And analysis by BBC Scotland News suggests that new licences will only extend the life of …]]></summary>
+        <author>
+            <name>BBC News business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hundreds of jobs at risk at wet wipe factory]]></title>
+        <id>https://www.bbc.com/news/articles/c255l8d0j95o</id>
+        <link href="https://www.bbc.com/news/articles/c255l8d0j95o"/>
+        <updated>2024-06-26T20:03:26.000Z</updated>
+        <summary type="html"><![CDATA[Image source, Google
+Image caption, 
+The factory in Flint may have to close due to the UK government's ban on plastic in wet wipes
+
+
+
+Georgia Ferda
+BBC News
+
+
+
+
+
+
+Published
+26 June 2024
+
+
+
+
+Hundreds of jobs are at risk after a nappies and wet wipes manufacturer announced it is considering closing one of its sites.
+Kimberly-Clark said the UK government's deadline to remove plastic from wet wipes by mid-2026 "significantly limits" its ability to adapt its processes in time, meaning it may "no longer be viable" to keep its site running in Flint, Flintshire.
+The manufacturer said phasing out plastics from its baby wipes had "long been part" of its sustainability plans. 
+The UK government announced new legislation, external to ban wet wipes containing plastic in April 2024. 
+
+
+Around 220 people…]]></summary>
+        <author>
+            <name>BBC News business</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《Finding Paradise》完结感想]]></title>
         <id>http://zhuanlan.zhihu.com/p/658883010</id>
         <link href="http://zhuanlan.zhihu.com/p/658883010?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
@@ -708,6 +2013,43 @@ https://zhuanlan.zhihu.com/p/673425527
 这个问题困扰了我很久，一直百思不得其解。Colin走进西格蒙德为了实现自己的愿望，但他似乎什么都不想要，他不要金钱，不要名誉，不要周游世界甚至不要改变任何东西，他只是想过充实的一生。要填补一个对自己的生活全然满意的人内心的空洞，这简直比哄莫名其妙生气的对象还要困难。而最后，他愿望的实现…]]></summary>
         <author>
             <name>pppure</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ex-BHS director must pay £50m over firm's collapse]]></title>
+        <id>https://www.bbc.com/news/articles/cn007pd8vjxo</id>
+        <link href="https://www.bbc.com/news/articles/cn007pd8vjxo"/>
+        <updated>2024-06-26T10:48:11.000Z</updated>
+        <summary type="html"><![CDATA[Image source, PA Media
+Image caption, 
+Dominic Chappell was jailed for tax evasion in 2020
+
+
+
+Charlotte Edwards
+BBC Business reporter
+
+
+
+
+
+
+Published
+26 June 2024
+
+
+
+
+Ex-BHS director Dominic Chappell has been ordered to pay £50m to cover losses the firm incurred before its collapse.
+A High Court judge said Mr Chappell tried to “plunder the BHS Group whenever possible" after he bought the company for £1 from Sir Phillip Green in 2015.
+The ex-director was imprisoned for six years in 2020 over tax evasion.
+He has since been sued by BHS liquidators FRP Advisory.
+
+
+At a hearing on Tuesday, Mr Justice Leech said Mr Chappell never had a realistic plan to secure capital for the company when he acquired it.
+The judge also said Mr Chappell “should make the payments” outlined, which includes £21.5m f…]]></summary>
+        <author>
+            <name>BBC News business</name>
         </author>
     </entry>
     <entry>
@@ -878,6 +2220,166 @@ Zeta Eta
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Czech billionaire offers to buy all Royal Mail staff shares]]></title>
+        <id>https://www.bbc.com/news/articles/ce993qynp25o</id>
+        <link href="https://www.bbc.com/news/articles/ce993qynp25o"/>
+        <updated>2024-06-26T07:14:24.000Z</updated>
+        <summary type="html"><![CDATA[Image source, Getty Images
+
+
+
+Simon Jack
+BBC Business editor
+
+
+
+
+
+
+Published
+25 June 2024
+
+
+Comments
+
+
+Updated 26 June 2024
+
+
+Thousands of former and current Royal Mail staff are being asked to sell their shares to a Czech billionaire.
+On Wednesday morning, Daniel Kretinsky’s investment group, which wants to buy Royal Mail's parent company, published its formal offer online, external and sent it by post.
+Mr Kretinsky can now formally start lobbying investors to accept the offer.
+He needs the approval of shareholders of three quarters of the parent company, but this task will be made easier because he already owns 27.5% of it.
+Big asset managers including Blackrock, UBS, Vanguard and Schroders own most of the other 72.5% of International Distribution Services (IDS) that Mr Kretinsky does no…]]></summary>
+        <author>
+            <name>BBC News business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steelwork closures' ripple effect on town's wages]]></title>
+        <id>https://www.bbc.com/news/articles/cw00lkpwrngo</id>
+        <link href="https://www.bbc.com/news/articles/cw00lkpwrngo"/>
+        <updated>2024-06-26T05:09:01.000Z</updated>
+        <summary type="html"><![CDATA[Image source, Owen Midwinter
+Image caption, 
+Owen and his girlfriend Cori are just some of thousands affected by the decision to close blast furnaces at Port Talbot Steelworks
+
+
+
+Paul Heaney
+BBC Wales Investigates
+
+
+
+
+
+
+Published
+25 June 2024
+
+
+Updated 26 June 2024
+
+
+Owen Midwinter thought he had a "job for life" when he started a five-year apprenticeship at Tata Steel in Port Talbot. 
+But 18 months on, that security has been replaced with uncertainty - and the 23-year-old and his girlfriend may have to delay their plans to start a family. 
+New analysis for the BBC suggests his town could lose more than £200m in wages because of job cuts at the steelworks.
+Prof Calvin Jones, its author, said it was an "end of an era" for UK steelmaking, similar to the closure of coal mines in the 1980s. 
+
+…]]></summary>
+        <author>
+            <name>BBC News business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[会演戏的大美女真是稀有物种：刘亦菲这次除了美貌全是演技！ (评论: 玫瑰的故事)]]></title>
+        <id>47a1e6d151f96f854090902274de08c4</id>
+        <link href="https://movie.douban.com/review/16019561/"/>
+        <updated>2024-06-26T04:17:10.000Z</updated>
+        <summary type="html"><![CDATA[整整一年，我等了整整一年，才等到《玫瑰的故事》播出，但15天就播完了！多像我的...]]></summary>
+        <author>
+            <name>豆瓣最受欢迎的影评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VW to invest up to $5bn in Tesla rival Rivian]]></title>
+        <id>https://www.bbc.com/news/articles/c1ddmxmz1lpo</id>
+        <link href="https://www.bbc.com/news/articles/c1ddmxmz1lpo"/>
+        <updated>2024-06-26T01:41:00.000Z</updated>
+        <summary type="html"><![CDATA[Image source, Reuters
+Image caption, 
+The tie-up will allow VW and Rivian to share technology
+
+
+
+João da Silva
+Business reporter
+
+
+
+
+
+
+Published
+26 June 2024
+
+
+Comments
+
+
+
+
+German car making giant Volkswagen (VW) says it will invest up to $5bn (£3.94bn) in Tesla rival Rivian.
+The deal creates a joint venture that will allow VW and the US-based electric vehicle (EV) maker to share technology.
+Rivian shares jumped by almost 50% after the announcement.
+The tie-up comes as competition intensifies between EV makers and Western countries move to impose tariffs on Chinese imports.
+Under the agreement, VW said it will initially invest $1bn in the electric truck and SUV maker, with another $4bn to be put into the company by 2026.
+Founded in 2009, Rivian has not yet posted a quarterly profit. In the…]]></summary>
+        <author>
+            <name>BBC News business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wrongly jailed sub-postmistress rejects apology]]></title>
+        <id>https://www.bbc.com/news/articles/c1ee540jypyo</id>
+        <link href="https://www.bbc.com/news/articles/c1ee540jypyo"/>
+        <updated>2024-06-25T15:32:28.000Z</updated>
+        <summary type="html"><![CDATA[This video can not be played
+To play this video you need to enable JavaScript in your browser.
+
+
+Media caption, 
+Jailed sub-postmistress does not accept Horizon engineer's apology
+
+
+
+Tom Espiner 
+BBC business reporter
+
+Reporting from
+
+Post Office Horizon IT Inquiry
+
+
+
+
+
+
+Published
+25 June 2024
+
+
+
+
+A former sub-postmistress who was wrongly jailed while pregnant has rejected an apology from an ex-Fujitsu engineer whose evidence helped convict her.
+Seema Misra told the BBC that a statement from Gareth Jenkins was "too little, too late".
+The Post Office wrongly prosecuted about 700 sub-postmasters between 1999 and 2015 for theft and fraud on the basis of incorrect data from their IT system.
+At the inquiry into the scandal on Tuesday, Mrs Misra said she wanted to know "why on Earth he did what …]]></summary>
+        <author>
+            <name>BBC News business</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[需要加 5.67 升机油的车，机油加到 5 升的时候启动了，会不会造成磨损拉缸？]]></title>
         <id>http://www.zhihu.com/question/656080007/answer/3502136014</id>
         <link href="http://www.zhihu.com/question/656080007/answer/3502136014?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
@@ -939,6 +2441,38 @@ Zeta Eta
 大家 7 汽车的机油加注过多会有什么后果？]]></summary>
         <author>
             <name>4号技师 翔子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The screen tech that can do almost anything]]></title>
+        <id>https://www.bbc.com/news/articles/c4nn6z6z4ypo</id>
+        <link href="https://www.bbc.com/news/articles/c4nn6z6z4ypo"/>
+        <updated>2024-06-24T23:02:12.000Z</updated>
+        <summary type="html"><![CDATA[Image source,  Linköping University
+Image caption, 
+It might look basic - but could this be the future of screens?
+
+
+
+Chris Baraniuk
+Technology Reporter
+
+
+
+
+
+
+Published
+25 June 2024
+
+
+
+
+At first glance, it looks like a relic from the 1980s. A tiny computer screen with flickering, low-resolution text scrolling across it. But this could be the future.
+The screen was made using perovskite light emitting diode (PeLED) technology. It is radically different to the LED technology used in your smartphone display today, and it could lead to devices that are thinner, cheaper and have longer battery life.
+Not only that, PeLEDs are very unusual in that they can absorb light as well as emit it, meaning you can use the same material to integrate touch, fingerprint and ambient light-sensing capabilities,…]]></summary>
+        <author>
+            <name>BBC News business</name>
         </author>
     </entry>
     <entry>
@@ -1119,6 +2653,44 @@ Bread Crumb（面包屑）设计方法是非常基础的一个方法，就像字
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Huge Saudi construction projects 'might get scaled down']]></title>
+        <id>https://www.bbc.com/news/articles/cyrr3mm8evyo</id>
+        <link href="https://www.bbc.com/news/articles/cyrr3mm8evyo"/>
+        <updated>2024-06-23T23:03:08.000Z</updated>
+        <summary type="html"><![CDATA[Image source, Shutterstock
+Image caption, 
+The Line, a planned 170km long linear city, may now initially extend for only 2.4km
+
+
+
+Sameer Hashmi
+Middle East Business Correspondent BBC News
+
+Reporting from
+
+Riyadh  
+
+
+
+
+
+
+Published
+6 minutes ago
+
+
+
+
+“They can keep saying that, and we can keep proving them wrong.”
+That was the response of Saudi Arabia’s Crown Prince Mohammed bin Salman in a TV documentary broadcast in July 2023, while talking about scepticism surrounding Saudi Arabia’s flagship construction projects.
+Almost a year later, some of the doubts are turning out to be true.
+In recent months, Saudi Arabia has seemingly scaled back plans for its vast desert development project Neom, which is the centrepiece of Vision 2030.
+This is the economic diversification programme spearheaded by …]]></summary>
+        <author>
+            <name>BBC News business</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[现已可游玩，如何评价艾尔登法环DLC《黄金树幽影》？]]></title>
         <id>http://www.zhihu.com/question/659482075/answer/3537454020</id>
         <link href="http://www.zhihu.com/question/659482075/answer/3537454020?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
@@ -1295,6 +2867,40 @@ Prefab本身就是unity的一个“配置文件”，跟我们做游戏的用的
 　　速通玩家们经常会在视频中通过一些良性BUG，令角色呈现出一种不可思议的状…]]></summary>
         <author>
             <name>战术大米</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How mobile phone networks are embracing AI]]></title>
+        <id>https://www.bbc.com/news/articles/c6pp1nvw5zwo</id>
+        <link href="https://www.bbc.com/news/articles/c6pp1nvw5zwo"/>
+        <updated>2024-06-19T23:02:43.000Z</updated>
+        <summary type="html"><![CDATA[Image source, Getty Images
+Image caption, 
+Apple is due to rollout its new AI-powered operating system
+
+
+
+Matthew Wall
+Technology reporter
+
+
+
+
+
+
+Published
+20 June 2024
+
+
+
+
+Our mobile phones are getting a whole lot smarter, but what about the telecoms networks they run on?
+Last week, Apple became the latest mobile phone firm to announce that it will be adding artificial intelligence (AI) to its handsets’ operating system.
+Called Apple Intelligence, and also due to be incorporated into the phones’ Siri chatbot, it aims to make them easier and quicker to use. And turn Siri into even more of a personal assistant.
+It follows after Samsung’s Galaxy AI, and Google’s Gemini AI for its own Pixel handsets.
+This increased of use AI means phones will be doing a lot more computing, and that means they’…]]></summary>
+        <author>
+            <name>BBC News business</name>
         </author>
     </entry>
     <entry>
@@ -1552,6 +3158,44 @@ Prefab本身就是unity的一个“配置文件”，跟我们做游戏的用的
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Could brain-like computers be a 'competition killer'?]]></title>
+        <id>https://www.bbc.com/news/articles/cx99qv2w1ddo</id>
+        <link href="https://www.bbc.com/news/articles/cx99qv2w1ddo"/>
+        <updated>2024-06-17T23:24:11.000Z</updated>
+        <summary type="html"><![CDATA[Image source, Getty Images
+Image caption, 
+Electricity demand from data centres is rising fast
+
+
+
+Zoe Corbyn
+Technology Reporter
+
+Reporting from
+
+San Francisco
+
+
+
+
+
+
+Published
+18 June 2024
+
+
+
+
+Modern computing's appetite for electricity is increasing at an alarming rate.
+By 2026 consumption by data centres, artificial intelligence (AI) and cryptocurrency could be as much as double 2022 levels, according to a recent report from the International Energy Agency (IEA), external.
+It estimates that in 2026 energy consumption by those three sectors could be roughly equivalent to Japan's annual energy needs.
+Companies like Nvidia - whose computer chips underpin most AI applications today - are working on developing more energy efficient hardware.
+But could an alternative path be to build computers…]]></summary>
+        <author>
+            <name>BBC News business</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[猛踩油门 VS 慢慢开车，哪种驾驶习惯更伤车？]]></title>
         <id>http://www.zhihu.com/question/656520879/answer/3508158516</id>
         <link href="http://www.zhihu.com/question/656520879/answer/3508158516?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
@@ -1588,6 +3232,40 @@ Prefab本身就是unity的一个“配置文件”，跟我们做游戏的用的
 开车一听音乐就想踩油门，享受超车的感觉，这是为什么？]]></summary>
         <author>
             <name>王大富</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Too much of a good thing? Spain's green energy can exceed demand]]></title>
+        <id>https://www.bbc.com/news/articles/czkkgnp1d2xo</id>
+        <link href="https://www.bbc.com/news/articles/czkkgnp1d2xo"/>
+        <updated>2024-06-16T23:06:49.000Z</updated>
+        <summary type="html"><![CDATA[Image source, Guy Hedgecoe
+Image caption, 
+Spain has invested heavily in wind farms, such as the one at Sierra del Romeral
+
+
+
+Guy Hedgecoe
+BBC News, in central Spain
+
+
+
+
+
+
+Published
+17 June 2024
+
+
+
+
+The patchwork plains of Castilla-La Mancha, in central Spain, were once known for their windmills.
+But now it is wind turbines, their modern-day equivalent, which are much more visible on the region’s skyline.
+The 28 vast turbines of the Sierra del Romeral windfarm, perched on hills not far from the historic city of Toledo, look out over this landscape.
+Operated by Spanish firm Iberdrola, they are part of a trend that has accelerated Spain’s renewable energy output over the past half-decade, making the country a major presence in the industry.
+Spain’s total wind generation capacity, its prime r…]]></summary>
+        <author>
+            <name>BBC News business</name>
         </author>
     </entry>
     <entry>
@@ -1689,6 +3367,109 @@ iG第一波的视野放置时间太早了，此时图上已经没有iG视野，�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The battle for Gen Z social shoppers]]></title>
+        <id>https://www.bbc.com/news/articles/c511p8gdn21o</id>
+        <link href="https://www.bbc.com/news/articles/c511p8gdn21o"/>
+        <updated>2024-06-13T23:09:47.000Z</updated>
+        <summary type="html"><![CDATA[Image source, Movers+Shakers
+Image caption, 
+Lilia Souri and AJ Pulvirenti - hosts of the podcast Gen Z on Gen Z
+
+
+
+Sam Gruet
+Technology Reporter
+
+
+
+
+
+
+Published
+14 June 2024
+
+
+
+
+Shopping habits have not been the same since the Covid pandemic and resulting lockdowns.
+For many, and particularly younger shoppers, it saw the lines blur between social media and e-commerce.
+Unable to shop in person, and with TikTok downloads soaring, a trend began that would go on to be described as a cultural phenomenon: #TikTokMadeMeBuyIt.
+The hashtag, where users post what they’ve bought thanks to recommendations about products on the app, has now been posted more than seven billion times.
+For Lilia Souri and AJ Pulvirenti who co-host the marketing podcast "Gen Z on Gen Z" by creative agency Movers+Shakers, …]]></summary>
+        <author>
+            <name>BBC News business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['We are creating new crops five-times faster']]></title>
+        <id>https://www.bbc.com/news/articles/c9xxjx7e2gjo</id>
+        <link href="https://www.bbc.com/news/articles/c9xxjx7e2gjo"/>
+        <updated>2024-06-12T23:06:31.000Z</updated>
+        <summary type="html"><![CDATA[Image source, Shepherd’s Grain
+Image caption, 
+Jeremy Bunch, second right, is asking his farmers to use AI to guide their decisions
+
+
+
+Suzanne Bearne
+Business reporter
+
+
+
+
+
+
+Published
+13 June 2024
+
+
+
+
+Like the bosses of many food companies, Jeremy Bunch is worried about the impact of climate change on his business.
+“Weather and the climate are maybe the number one risk to our company,” says the boss of US flour firm Shepherd’s Grain.
+Based in Idaho, the business sources wheat from farmers across the US Pacific northwest.
+As weather patterns become more unpredictable, Mr Bunch says: “I need to have a plan B, and plan C, in case plan A fails.”
+To help strengthen these plans, Mr Bunch’s company is now using an AI-powered software system called ClimateAi.
+Using current and past data, such as f…]]></summary>
+        <author>
+            <name>BBC News business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Insane' amounts of data spurs new storage tech]]></title>
+        <id>https://www.bbc.com/news/articles/cd116m3jyn1o</id>
+        <link href="https://www.bbc.com/news/articles/cd116m3jyn1o"/>
+        <updated>2024-06-11T23:03:29.000Z</updated>
+        <summary type="html"><![CDATA[Image caption, 
+Ian Crawford oversees the archiving of Imperial War Museum media
+
+
+
+Ben Morris
+Editor, BBC Technology of Business
+
+
+
+
+
+
+Published
+12 June 2024
+
+
+
+
+The year 2039 might seem like a long way off, but Ian Crawford is already planning for it.
+It will mark the 100th anniversary of the outbreak of World War Two - a big year for his employer, the Imperial War Museum. 
+Mr Crawford is chief information officer at the museum, and oversees a project to digitise its huge collection of pictures, audio and film.
+With a collection of around 24,000 hours of film and video, and 11 million photographs, it's a vast task. 
+And in the run-up to 2039, World War II material will be a priority.
+Making digital copies of those historical sources is vital as the original copies degrade over time, and …]]></summary>
+        <author>
+            <name>BBC News business</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[为什么国家大力发展电车？而其他国家并没有多少电车？]]></title>
         <id>http://www.zhihu.com/question/656815564/answer/3517246293</id>
         <link href="http://www.zhihu.com/question/656815564/answer/3517246293?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
@@ -1717,6 +3498,39 @@ iG第一波的视野放置时间太早了，此时图上已经没有iG视野，�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Why the EU might be about to make Chinese electric cars more expensive]]></title>
+        <id>https://www.bbc.com/news/articles/cpww6w412n7o</id>
+        <link href="https://www.bbc.com/news/articles/cpww6w412n7o"/>
+        <updated>2024-06-10T23:01:25.000Z</updated>
+        <summary type="html"><![CDATA[Image source, Getty Images
+Image caption, 
+Chinese firms are said to be able to make electric cars for 25% less than their European and US rivals
+
+
+
+Theo Leggett
+BBC international business correspondent
+
+
+
+
+
+
+Published
+11 June 2024
+
+
+
+
+With China accused of selling electric cars at artificially low prices, the European Union is widely expected to hit them with tariffs this week.
+The BYD Seagull is a tiny, cheap, neatly styled electric vehicle (EV). An urban runabout that won’t break any speed records, but nor will it break the bank.
+In China, it has a starting price of 69,800 yuan ($9,600; £7,500). If it comes to Europe, it is expected to cost at least double that figure due to safety regulations. But that would still be, by electric car standards, very cheap.
+For European manufacturers th…]]></summary>
+        <author>
+            <name>BBC News business</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[有哪些你上了大学才明白的道理?]]></title>
         <id>http://www.zhihu.com/question/325482916/answer/3525346940</id>
         <link href="http://www.zhihu.com/question/325482916/answer/3525346940?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
@@ -1733,6 +3547,111 @@ iG第一波的视野放置时间太早了，此时图上已经没有iG视野，�
 其中一位同学我印象特别深刻，她一毕业就找到了在新加坡媒体工作的机会，现在又前往了英国做投资报道，在校期间的她就展现出了很强的信息获取能力。在多数同学还停留在校园…]]></summary>
         <author>
             <name>夏冰雹</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Have Milei's first six months improved the Argentine economy?]]></title>
+        <id>https://www.bbc.com/news/articles/cm55yv0g0veo</id>
+        <link href="https://www.bbc.com/news/articles/cm55yv0g0veo"/>
+        <updated>2024-06-09T23:10:08.000Z</updated>
+        <summary type="html"><![CDATA[Image source, Getty Images
+Image caption, 
+Has President Milei kept his promise to cut government spending?
+
+
+
+Robert Plummer
+BBC News
+
+
+
+
+
+
+Published
+10 June 2024
+
+
+
+
+When Javier Milei was campaigning last year to become the president of Argentina, he brandished a chainsaw to symbolise his determination to substantially cut public spending.
+Now six months into his right-wing presidency, how is his shock therapy for both the country’s government and economy working?
+“The changes our country needs are drastic,” Mr Milei said shortly after being elected. “There is no room for gradualism.”
+And he certainly took swift action. In his initial package of measures, he devalued Argentina’s currency, the peso, by 50%, slashed state subsidies for fuel, and cut the number of government ministries by h…]]></summary>
+        <author>
+            <name>BBC News business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Price hikes and boycotts: Is trouble brewing at Starbucks?]]></title>
+        <id>https://www.bbc.com/news/articles/c5115lgd592o</id>
+        <link href="https://www.bbc.com/news/articles/c5115lgd592o"/>
+        <updated>2024-06-09T00:09:10.000Z</updated>
+        <summary type="html"><![CDATA[Image source, Getty Images
+
+
+
+Natalie Sherman
+BBC News
+
+Reporting from
+
+New York
+
+
+
+
+
+
+Published
+9 June 2024
+
+
+
+
+Andrew Buckley, a self-described "mocha guy", recently swore off his Starbucks habit, reeling after the firm's latest price increase sent the cost of his drink above $6.
+The 50-year-old, who works in tech sales in Idaho, had been a loyal customer for decades, treasuring his near-daily venti mocha as a little luxury that allowed him to stretch his legs during the work day. 
+But the company's latest price increase crossed a line. 
+"It was the straw that broke the camel's back on my feelings of inflation in general. It's like, 'That's it. I can't do it anymore,'" says Mr Buckley, who rang up customer service with complaints before heading to social media to vent.  
+"I just lost it,…]]></summary>
+        <author>
+            <name>BBC News business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How 'Swiftonomics' is impacting the music industry]]></title>
+        <id>https://www.bbc.com/news/articles/cleex2epjn8o</id>
+        <link href="https://www.bbc.com/news/articles/cleex2epjn8o"/>
+        <updated>2024-06-08T14:59:54.000Z</updated>
+        <summary type="html"><![CDATA[Image source, PA
+
+
+
+
+Douglas Fraser
+
+
+Business and economy editor, Scotland
+
+
+
+
+
+
+Published
+8 June 2024
+
+
+
+
+Taylor Swift is not just a musical phenomenon, but a business unicorn too. 
+The Eras tour which has arrived in Edinburgh is reckoned to be pushing her wealth well north of $1bn (£785.51m).
+Forbes, the money magazine, reckons she is worth $600m (£471m) from performance and her back catalogue is worth as much, while she has around $125m  (£98.2m) worth of real estate.
+Other musicians who have reached such heights have done so by investing their musical earnings in other ventures.
+This daughter of Pennsylvania, and of a financial broker, mints money with astute leverage of her market power. It's known as Swiftonomics. 
+She is reputed to demand more than 100% of gross ticket sales, leavi…]]></summary>
+        <author>
+            <name>BBC News business</name>
         </author>
     </entry>
     <entry>
@@ -1794,6 +3713,64 @@ iG第一波的视野放置时间太早了，此时图上已经没有iG视野，�
 怎样用知乎学习到有关高考的内容？]]></summary>
         <author>
             <name>编辑部小李</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The rise and rise of fashion giant Shein]]></title>
+        <id>https://www.bbc.com/news/articles/cp991n2v0m2o</id>
+        <link href="https://www.bbc.com/news/articles/cp991n2v0m2o"/>
+        <updated>2024-06-07T21:34:53.000Z</updated>
+        <summary type="html"><![CDATA[Image source, Getty Images
+
+
+
+Daniel Thomas, Lora Jones & Lucy Hooker
+Business reporters, BBC News
+
+
+
+
+
+
+Published
+7 June 2024
+
+
+
+
+The biggest order 17-year-old Michaela says she ever made on Shein was for £150, when she bought "16 plus items".
+Like millions of others, she's a huge fan of the ultra-fast fashion giant, mostly because of how affordable it is. 
+She also likes the way the influencers on YouTube she watches offer Shein discount codes, which makes her "buy more".
+Over the last decade, Shein has gone from a little-known brand among older shoppers to one of the biggest fast fashion retailers globally.
+The Chinese-founded firm - which also sells a huge range of beauty and home products - doubled its profits to more than $2bn, external (£1.6bn) last year, making more than the Swedis…]]></summary>
+        <author>
+            <name>BBC News business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What to do if you are in debt and need help]]></title>
+        <id>https://www.bbc.co.uk/news/business-64291327</id>
+        <link href="https://www.bbc.co.uk/news/business-64291327"/>
+        <updated>2024-06-07T06:50:18.000Z</updated>
+        <summary type="html"><![CDATA[By Kevin Peachey & Lucy Hooker
+BBC News
+
+
+
+
+Two years of rising prices have left many people struggling to pay their bills and in debt.
+If you are in that position one option is to seek a debt relief order (DRO). Since 6 April in England and Wales there has no longer been a £90 fee for applying for one.
+A DRO lets people who have got into severe difficulties start afresh.
+But there are other ways to tackle your debt. So what can you do if you find yourself in difficulty?
+
+
+What should I do if I'm struggling with debt?
+
+
+First, work out how much you owe, who to, and how much you need to pay each month, says the charity Citizens Advice.
+Next, create a budget by adding up your income, such as your wage and any benefits you receive, then taking away the amount you need for essential living cos…]]></summary>
+        <author>
+            <name>BBC News business</name>
         </author>
     </entry>
     <entry>
