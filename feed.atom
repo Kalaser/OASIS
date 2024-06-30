@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-30T11:59:21.655Z</id>
+    <id>https://Kalaser.github.io/OASIS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-30T11:59:21.655Z</updated>
+    <updated>2024-06-30T12:20:50.679Z</updated>
     <generator>osmosfeed 1.15.1</generator>
-    <link rel="alternate" href="index.html"/>
+    <link rel="alternate" href="https://Kalaser.github.io/OASIS/index.html"/>
+    <link rel="self" href="https://Kalaser.github.io/OASIS/feed.atom"/>
     <entry>
         <title type="html"><![CDATA[Tales Of An Eternal Summer (July 2024 Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2024/06/desktop-wallpaper-calendars-july-2024/</id>
