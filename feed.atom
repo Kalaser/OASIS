@@ -2,10 +2,766 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Kalaser.github.io/OASIS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-07T01:01:17.218Z</updated>
+    <updated>2024-07-08T00:58:19.059Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Kalaser.github.io/OASIS/index.html"/>
     <link rel="self" href="https://Kalaser.github.io/OASIS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[韩廷 强制爱]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%9F%A9%E5%BB%B7%20%E5%BC%BA%E5%88%B6%E7%88%B1</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%9F%A9%E5%BB%B7%20%E5%BC%BA%E5%88%B6%E7%88%B1"/>
+        <updated>2024-07-08T00:58:14.666Z</updated>
+        <summary type="html"><![CDATA[韩廷 强制爱]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gumayusi要三比零TES]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DGumayusi%E8%A6%81%E4%B8%89%E6%AF%94%E9%9B%B6TES</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DGumayusi%E8%A6%81%E4%B8%89%E6%AF%94%E9%9B%B6TES"/>
+        <updated>2024-07-08T00:58:14.665Z</updated>
+        <summary type="html"><![CDATA[Gumayusi要三比零TES]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[时代少年团对接回应]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E5%AF%B9%E6%8E%A5%E5%9B%9E%E5%BA%94</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E5%AF%B9%E6%8E%A5%E5%9B%9E%E5%BA%94"/>
+        <updated>2024-07-08T00:58:14.663Z</updated>
+        <summary type="html"><![CDATA[时代少年团对接回应]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[赵露思 路透]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B5%B5%E9%9C%B2%E6%80%9D%20%E8%B7%AF%E9%80%8F</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B5%B5%E9%9C%B2%E6%80%9D%20%E8%B7%AF%E9%80%8F"/>
+        <updated>2024-07-08T00:58:14.660Z</updated>
+        <summary type="html"><![CDATA[赵露思 路透]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不ban小炮]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%8Dban%E5%B0%8F%E7%82%AE</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%8Dban%E5%B0%8F%E7%82%AE"/>
+        <updated>2024-07-08T00:58:14.659Z</updated>
+        <summary type="html"><![CDATA[不ban小炮]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[369鳄鱼]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D369%E9%B3%84%E9%B1%BC</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D369%E9%B3%84%E9%B1%BC"/>
+        <updated>2024-07-08T00:58:14.657Z</updated>
+        <summary type="html"><![CDATA[369鳄鱼]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TES全华班]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DTES%E5%85%A8%E5%8D%8E%E7%8F%AD</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DTES%E5%85%A8%E5%8D%8E%E7%8F%AD"/>
+        <updated>2024-07-08T00:58:14.655Z</updated>
+        <summary type="html"><![CDATA[TES全华班]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[骄阳似我 李现田曦薇]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%AA%84%E9%98%B3%E4%BC%BC%E6%88%91%20%E6%9D%8E%E7%8E%B0%E7%94%B0%E6%9B%A6%E8%96%87</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%AA%84%E9%98%B3%E4%BC%BC%E6%88%91%20%E6%9D%8E%E7%8E%B0%E7%94%B0%E6%9B%A6%E8%96%87"/>
+        <updated>2024-07-08T00:58:14.654Z</updated>
+        <summary type="html"><![CDATA[骄阳似我 李现田曦薇]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[化妆的尽头是淡妆]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8C%96%E5%A6%86%E7%9A%84%E5%B0%BD%E5%A4%B4%E6%98%AF%E6%B7%A1%E5%A6%86</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8C%96%E5%A6%86%E7%9A%84%E5%B0%BD%E5%A4%B4%E6%98%AF%E6%B7%A1%E5%A6%86"/>
+        <updated>2024-07-08T00:58:14.652Z</updated>
+        <summary type="html"><![CDATA[化妆的尽头是淡妆]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[T1拿到赛点]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DT1%E6%8B%BF%E5%88%B0%E8%B5%9B%E7%82%B9</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DT1%E6%8B%BF%E5%88%B0%E8%B5%9B%E7%82%B9"/>
+        <updated>2024-07-08T00:58:14.649Z</updated>
+        <summary type="html"><![CDATA[T1拿到赛点]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[汉密尔顿英国主场夺冠]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B1%89%E5%AF%86%E5%B0%94%E9%A1%BF%E8%8B%B1%E5%9B%BD%E4%B8%BB%E5%9C%BA%E5%A4%BA%E5%86%A0</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B1%89%E5%AF%86%E5%B0%94%E9%A1%BF%E8%8B%B1%E5%9B%BD%E4%B8%BB%E5%9C%BA%E5%A4%BA%E5%86%A0"/>
+        <updated>2024-07-08T00:58:14.647Z</updated>
+        <summary type="html"><![CDATA[汉密尔顿英国主场夺冠]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[呼吸时突然胸部莫名刺痛]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%91%BC%E5%90%B8%E6%97%B6%E7%AA%81%E7%84%B6%E8%83%B8%E9%83%A8%E8%8E%AB%E5%90%8D%E5%88%BA%E7%97%9B</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%91%BC%E5%90%B8%E6%97%B6%E7%AA%81%E7%84%B6%E8%83%B8%E9%83%A8%E8%8E%AB%E5%90%8D%E5%88%BA%E7%97%9B"/>
+        <updated>2024-07-08T00:58:14.641Z</updated>
+        <summary type="html"><![CDATA[呼吸时突然胸部莫名刺痛]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[警方通报男子骚扰并殴打女子]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E9%AA%9A%E6%89%B0%E5%B9%B6%E6%AE%B4%E6%89%93%E5%A5%B3%E5%AD%90</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E9%AA%9A%E6%89%B0%E5%B9%B6%E6%AE%B4%E6%89%93%E5%A5%B3%E5%AD%90"/>
+        <updated>2024-07-08T00:58:14.639Z</updated>
+        <summary type="html"><![CDATA[警方通报男子骚扰并殴打女子]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zeus 幽默]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DZeus%20%E5%B9%BD%E9%BB%98</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DZeus%20%E5%B9%BD%E9%BB%98"/>
+        <updated>2024-07-08T00:58:14.637Z</updated>
+        <summary type="html"><![CDATA[Zeus 幽默]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么不ban兰博]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8Dban%E5%85%B0%E5%8D%9A</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8Dban%E5%85%B0%E5%8D%9A"/>
+        <updated>2024-07-08T00:58:14.636Z</updated>
+        <summary type="html"><![CDATA[为什么不ban兰博]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[普京没空吃饭偷吃零食]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%99%AE%E4%BA%AC%E6%B2%A1%E7%A9%BA%E5%90%83%E9%A5%AD%E5%81%B7%E5%90%83%E9%9B%B6%E9%A3%9F</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%99%AE%E4%BA%AC%E6%B2%A1%E7%A9%BA%E5%90%83%E9%A5%AD%E5%81%B7%E5%90%83%E9%9B%B6%E9%A3%9F"/>
+        <updated>2024-07-08T00:58:14.634Z</updated>
+        <summary type="html"><![CDATA[普京没空吃饭偷吃零食]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[河南暴雨实况]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B2%B3%E5%8D%97%E6%9A%B4%E9%9B%A8%E5%AE%9E%E5%86%B5</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B2%B3%E5%8D%97%E6%9A%B4%E9%9B%A8%E5%AE%9E%E5%86%B5"/>
+        <updated>2024-07-08T00:58:14.632Z</updated>
+        <summary type="html"><![CDATA[河南暴雨实况]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[石油杯 奶油杯]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%9F%B3%E6%B2%B9%E6%9D%AF%20%E5%A5%B6%E6%B2%B9%E6%9D%AF</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%9F%B3%E6%B2%B9%E6%9D%AF%20%E5%A5%B6%E6%B2%B9%E6%9D%AF"/>
+        <updated>2024-07-08T00:58:14.630Z</updated>
+        <summary type="html"><![CDATA[石油杯 奶油杯]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[奚梦瑶2岁女儿身高]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%9A%E6%A2%A6%E7%91%B62%E5%B2%81%E5%A5%B3%E5%84%BF%E8%BA%AB%E9%AB%98</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%9A%E6%A2%A6%E7%91%B62%E5%B2%81%E5%A5%B3%E5%84%BF%E8%BA%AB%E9%AB%98"/>
+        <updated>2024-07-08T00:58:14.628Z</updated>
+        <summary type="html"><![CDATA[奚梦瑶2岁女儿身高]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[369单杀Zeus]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D369%E5%8D%95%E6%9D%80Zeus</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D369%E5%8D%95%E6%9D%80Zeus"/>
+        <updated>2024-07-08T00:58:14.625Z</updated>
+        <summary type="html"><![CDATA[369单杀Zeus]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中储粮回应罐车运输油罐混用]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%82%A8%E7%B2%AE%E5%9B%9E%E5%BA%94%E7%BD%90%E8%BD%A6%E8%BF%90%E8%BE%93%E6%B2%B9%E7%BD%90%E6%B7%B7%E7%94%A8</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%AD%E5%82%A8%E7%B2%AE%E5%9B%9E%E5%BA%94%E7%BD%90%E8%BD%A6%E8%BF%90%E8%BE%93%E6%B2%B9%E7%BD%90%E6%B7%B7%E7%94%A8"/>
+        <updated>2024-07-08T00:58:14.623Z</updated>
+        <summary type="html"><![CDATA[中储粮回应罐车运输油罐混用]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[洞庭湖决堤被冲毁的家和生计]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B4%9E%E5%BA%AD%E6%B9%96%E5%86%B3%E5%A0%A4%E8%A2%AB%E5%86%B2%E6%AF%81%E7%9A%84%E5%AE%B6%E5%92%8C%E7%94%9F%E8%AE%A1</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B4%9E%E5%BA%AD%E6%B9%96%E5%86%B3%E5%A0%A4%E8%A2%AB%E5%86%B2%E6%AF%81%E7%9A%84%E5%AE%B6%E5%92%8C%E7%94%9F%E8%AE%A1"/>
+        <updated>2024-07-08T00:58:14.621Z</updated>
+        <summary type="html"><![CDATA[洞庭湖决堤被冲毁的家和生计]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[沙特杯超长暂停时间]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B2%99%E7%89%B9%E6%9D%AF%E8%B6%85%E9%95%BF%E6%9A%82%E5%81%9C%E6%97%B6%E9%97%B4</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B2%99%E7%89%B9%E6%9D%AF%E8%B6%85%E9%95%BF%E6%9A%82%E5%81%9C%E6%97%B6%E9%97%B4"/>
+        <updated>2024-07-08T00:58:14.619Z</updated>
+        <summary type="html"><![CDATA[沙特杯超长暂停时间]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BLG Wei]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DBLG%20Wei</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DBLG%20Wei"/>
+        <updated>2024-07-08T00:58:14.616Z</updated>
+        <summary type="html"><![CDATA[BLG Wei]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小奶油单杀Faker]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B0%8F%E5%A5%B6%E6%B2%B9%E5%8D%95%E6%9D%80Faker</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B0%8F%E5%A5%B6%E6%B2%B9%E5%8D%95%E6%9D%80Faker"/>
+        <updated>2024-07-08T00:58:14.614Z</updated>
+        <summary type="html"><![CDATA[小奶油单杀Faker]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[T1 版本]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DT1%20%E7%89%88%E6%9C%AC</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DT1%20%E7%89%88%E6%9C%AC"/>
+        <updated>2024-07-08T00:58:14.611Z</updated>
+        <summary type="html"><![CDATA[T1 版本]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TES对战T1]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DTES%E5%AF%B9%E6%88%98T1</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DTES%E5%AF%B9%E6%88%98T1"/>
+        <updated>2024-07-08T00:58:14.610Z</updated>
+        <summary type="html"><![CDATA[TES对战T1]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[47岁男子洗头后心梗离世]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D47%E5%B2%81%E7%94%B7%E5%AD%90%E6%B4%97%E5%A4%B4%E5%90%8E%E5%BF%83%E6%A2%97%E7%A6%BB%E4%B8%96</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D47%E5%B2%81%E7%94%B7%E5%AD%90%E6%B4%97%E5%A4%B4%E5%90%8E%E5%BF%83%E6%A2%97%E7%A6%BB%E4%B8%96"/>
+        <updated>2024-07-08T00:58:14.608Z</updated>
+        <summary type="html"><![CDATA[47岁男子洗头后心梗离世]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三访塔吉克斯坦习近平主席心系这份兄弟情谊]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%89%E8%AE%BF%E5%A1%94%E5%90%89%E5%85%8B%E6%96%AF%E5%9D%A6%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E5%BF%83%E7%B3%BB%E8%BF%99%E4%BB%BD%E5%85%84%E5%BC%9F%E6%83%85%E8%B0%8A</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%89%E8%AE%BF%E5%A1%94%E5%90%89%E5%85%8B%E6%96%AF%E5%9D%A6%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E5%BF%83%E7%B3%BB%E8%BF%99%E4%BB%BD%E5%85%84%E5%BC%9F%E6%83%85%E8%B0%8A"/>
+        <updated>2024-07-08T00:58:14.607Z</updated>
+        <summary type="html"><![CDATA[三访塔吉克斯坦习近平主席心系这份兄弟情谊]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[睡眠不足为什么会引起糖尿病]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%9D%A1%E7%9C%A0%E4%B8%8D%E8%B6%B3%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E5%BC%95%E8%B5%B7%E7%B3%96%E5%B0%BF%E7%97%85</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%9D%A1%E7%9C%A0%E4%B8%8D%E8%B6%B3%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E5%BC%95%E8%B5%B7%E7%B3%96%E5%B0%BF%E7%97%85"/>
+        <updated>2024-07-08T00:58:14.605Z</updated>
+        <summary type="html"><![CDATA[睡眠不足为什么会引起糖尿病]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韩雪夫妇与好友聚餐]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%9F%A9%E9%9B%AA%E5%A4%AB%E5%A6%87%E4%B8%8E%E5%A5%BD%E5%8F%8B%E8%81%9A%E9%A4%90</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%9F%A9%E9%9B%AA%E5%A4%AB%E5%A6%87%E4%B8%8E%E5%A5%BD%E5%8F%8B%E8%81%9A%E9%A4%90"/>
+        <updated>2024-07-08T00:58:14.604Z</updated>
+        <summary type="html"><![CDATA[韩雪夫妇与好友聚餐]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大学生为丽水近30对老人补拍结婚照]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%B8%BA%E4%B8%BD%E6%B0%B4%E8%BF%9130%E5%AF%B9%E8%80%81%E4%BA%BA%E8%A1%A5%E6%8B%8D%E7%BB%93%E5%A9%9A%E7%85%A7</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%B8%BA%E4%B8%BD%E6%B0%B4%E8%BF%9130%E5%AF%B9%E8%80%81%E4%BA%BA%E8%A1%A5%E6%8B%8D%E7%BB%93%E5%A9%9A%E7%85%A7"/>
+        <updated>2024-07-08T00:58:14.601Z</updated>
+        <summary type="html"><![CDATA[大学生为丽水近30对老人补拍结婚照]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人机局]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%BA%E6%9C%BA%E5%B1%80</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%BA%E6%9C%BA%E5%B1%80"/>
+        <updated>2024-07-08T00:58:14.599Z</updated>
+        <summary type="html"><![CDATA[人机局]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[成毅金发]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%88%90%E6%AF%85%E9%87%91%E5%8F%91</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%88%90%E6%AF%85%E9%87%91%E5%8F%91"/>
+        <updated>2024-07-08T00:58:14.597Z</updated>
+        <summary type="html"><![CDATA[成毅金发]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有香港人去深圳买一周的菜]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9C%89%E9%A6%99%E6%B8%AF%E4%BA%BA%E5%8E%BB%E6%B7%B1%E5%9C%B3%E4%B9%B0%E4%B8%80%E5%91%A8%E7%9A%84%E8%8F%9C</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9C%89%E9%A6%99%E6%B8%AF%E4%BA%BA%E5%8E%BB%E6%B7%B1%E5%9C%B3%E4%B9%B0%E4%B8%80%E5%91%A8%E7%9A%84%E8%8F%9C"/>
+        <updated>2024-07-08T00:58:14.592Z</updated>
+        <summary type="html"><![CDATA[有香港人去深圳买一周的菜]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BabyMonster新歌舞台]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DBabyMonster%E6%96%B0%E6%AD%8C%E8%88%9E%E5%8F%B0</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DBabyMonster%E6%96%B0%E6%AD%8C%E8%88%9E%E5%8F%B0"/>
+        <updated>2024-07-08T00:58:14.590Z</updated>
+        <summary type="html"><![CDATA[BabyMonster新歌舞台]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[体重48公斤00后女警缴毒48公斤]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BD%93%E9%87%8D48%E5%85%AC%E6%96%A400%E5%90%8E%E5%A5%B3%E8%AD%A6%E7%BC%B4%E6%AF%9248%E5%85%AC%E6%96%A4</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BD%93%E9%87%8D48%E5%85%AC%E6%96%A400%E5%90%8E%E5%A5%B3%E8%AD%A6%E7%BC%B4%E6%AF%9248%E5%85%AC%E6%96%A4"/>
+        <updated>2024-07-08T00:58:14.588Z</updated>
+        <summary type="html"><![CDATA[体重48公斤00后女警缴毒48公斤]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TES先下一城]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DTES%E5%85%88%E4%B8%8B%E4%B8%80%E5%9F%8E</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DTES%E5%85%88%E4%B8%8B%E4%B8%80%E5%9F%8E"/>
+        <updated>2024-07-08T00:58:14.587Z</updated>
+        <summary type="html"><![CDATA[TES先下一城]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[默杀 王圣迪已是nextlevel]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%BB%98%E6%9D%80%20%E7%8E%8B%E5%9C%A3%E8%BF%AA%E5%B7%B2%E6%98%AFnextlevel</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%BB%98%E6%9D%80%20%E7%8E%8B%E5%9C%A3%E8%BF%AA%E5%B7%B2%E6%98%AFnextlevel"/>
+        <updated>2024-07-08T00:58:14.585Z</updated>
+        <summary type="html"><![CDATA[默杀 王圣迪已是nextlevel]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[宋亚轩刘耀文的车被追尾]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AE%8B%E4%BA%9A%E8%BD%A9%E5%88%98%E8%80%80%E6%96%87%E7%9A%84%E8%BD%A6%E8%A2%AB%E8%BF%BD%E5%B0%BE</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AE%8B%E4%BA%9A%E8%BD%A9%E5%88%98%E8%80%80%E6%96%87%E7%9A%84%E8%BD%A6%E8%A2%AB%E8%BF%BD%E5%B0%BE"/>
+        <updated>2024-07-08T00:58:14.583Z</updated>
+        <summary type="html"><![CDATA[宋亚轩刘耀文的车被追尾]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BP完了采访教练思路]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DBP%E5%AE%8C%E4%BA%86%E9%87%87%E8%AE%BF%E6%95%99%E7%BB%83%E6%80%9D%E8%B7%AF</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DBP%E5%AE%8C%E4%BA%86%E9%87%87%E8%AE%BF%E6%95%99%E7%BB%83%E6%80%9D%E8%B7%AF"/>
+        <updated>2024-07-08T00:58:14.580Z</updated>
+        <summary type="html"><![CDATA[BP完了采访教练思路]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[任敏瘦了]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BB%BB%E6%95%8F%E7%98%A6%E4%BA%86</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BB%BB%E6%95%8F%E7%98%A6%E4%BA%86"/>
+        <updated>2024-07-08T00:58:14.579Z</updated>
+        <summary type="html"><![CDATA[任敏瘦了]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[古人的解暑智慧]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8F%A4%E4%BA%BA%E7%9A%84%E8%A7%A3%E6%9A%91%E6%99%BA%E6%85%A7</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8F%A4%E4%BA%BA%E7%9A%84%E8%A7%A3%E6%9A%91%E6%99%BA%E6%85%A7"/>
+        <updated>2024-07-08T00:58:14.577Z</updated>
+        <summary type="html"><![CDATA[古人的解暑智慧]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[张本智和男单夺冠]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E7%94%B7%E5%8D%95%E5%A4%BA%E5%86%A0</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E7%94%B7%E5%8D%95%E5%A4%BA%E5%86%A0"/>
+        <updated>2024-07-08T00:58:14.572Z</updated>
+        <summary type="html"><![CDATA[张本智和男单夺冠]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[五月天深圳]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%94%E6%9C%88%E5%A4%A9%E6%B7%B1%E5%9C%B3</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%94%E6%9C%88%E5%A4%A9%E6%B7%B1%E5%9C%B3"/>
+        <updated>2024-07-08T00:58:14.570Z</updated>
+        <summary type="html"><![CDATA[五月天深圳]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[店长余承东邀你品鉴享界S9]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BA%97%E9%95%BF%E4%BD%99%E6%89%BF%E4%B8%9C%E9%82%80%E4%BD%A0%E5%93%81%E9%89%B4%E4%BA%AB%E7%95%8CS9</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BA%97%E9%95%BF%E4%BD%99%E6%89%BF%E4%B8%9C%E9%82%80%E4%BD%A0%E5%93%81%E9%89%B4%E4%BA%AB%E7%95%8CS9"/>
+        <updated>2024-07-08T00:58:14.567Z</updated>
+        <summary type="html"><![CDATA[店长余承东邀你品鉴享界S9]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[把微信所有人设置成了仅聊天]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%8A%8A%E5%BE%AE%E4%BF%A1%E6%89%80%E6%9C%89%E4%BA%BA%E8%AE%BE%E7%BD%AE%E6%88%90%E4%BA%86%E4%BB%85%E8%81%8A%E5%A4%A9</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%8A%8A%E5%BE%AE%E4%BF%A1%E6%89%80%E6%9C%89%E4%BA%BA%E8%AE%BE%E7%BD%AE%E6%88%90%E4%BA%86%E4%BB%85%E8%81%8A%E5%A4%A9"/>
+        <updated>2024-07-08T00:58:14.565Z</updated>
+        <summary type="html"><![CDATA[把微信所有人设置成了仅聊天]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[faker状态]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3Dfaker%E7%8A%B6%E6%80%81</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3Dfaker%E7%8A%B6%E6%80%81"/>
+        <updated>2024-07-08T00:58:14.561Z</updated>
+        <summary type="html"><![CDATA[faker状态]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[羽毛球为何成体制内第一运动]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BE%BD%E6%AF%9B%E7%90%83%E4%B8%BA%E4%BD%95%E6%88%90%E4%BD%93%E5%88%B6%E5%86%85%E7%AC%AC%E4%B8%80%E8%BF%90%E5%8A%A8</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BE%BD%E6%AF%9B%E7%90%83%E4%B8%BA%E4%BD%95%E6%88%90%E4%BD%93%E5%88%B6%E5%86%85%E7%AC%AC%E4%B8%80%E8%BF%90%E5%8A%A8"/>
+        <updated>2024-07-08T00:58:14.554Z</updated>
+        <summary type="html"><![CDATA[羽毛球为何成体制内第一运动]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[求井盖闭嘴教程]]></title>
+        <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B1%82%E4%BA%95%E7%9B%96%E9%97%AD%E5%98%B4%E6%95%99%E7%A8%8B</id>
+        <link href="https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B1%82%E4%BA%95%E7%9B%96%E9%97%AD%E5%98%B4%E6%95%99%E7%A8%8B"/>
+        <updated>2024-07-08T00:58:14.540Z</updated>
+        <summary type="html"><![CDATA[求井盖闭嘴教程]]></summary>
+        <author>
+            <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果 x 华纳《F1》电影首支预告发布：布拉德・皮特主演，2025 年 6 月 25 日全球上映]]></title>
+        <id>https://www.ithome.com/0/780/255.htm</id>
+        <link href="https://www.ithome.com/0/780/255.htm"/>
+        <updated>2024-07-07T14:13:21.000Z</updated>
+        <summary type="html"><![CDATA[IT之家 7 月 7 日消息，在 F1 英国大奖赛开赛之际，由华纳兄弟负责院线发行的苹果《F1》电影发布了其首支预告片。
+ 
+
+7 月 5 日，苹果原创电影（Apple Original Films）的 F1 电影项目官宣片名正式定为《F1》，并发布了电影海报。
+
+
+
+
+
+▲ 预告截图
+据介绍，这部电影由约瑟夫・科辛斯基（Joseph Kosinski）执导，杰里・布鲁克海默（Jerry Bruckheimer）和查德・阿曼（Chad Oman）担任制片，布拉德・皮特（Brad Pitt）领衔主演，刘易斯・汉密尔顿（Lewis Hamilton）的道恩・阿波罗电影公司（Dawn Apollo Films）也参与其中。
+
+布拉德・皮特（Brad Pitt）将在这部影片中饰演一位重返一级方程式赛车赛场的前车手，而达姆森・伊德里斯（Damson Idris）将饰演他在 APXGP 车队的新手队友，这是一支虚构的车队，他们将与这项运动的车手和车队展开较量。
+
+
+IT之家此前报道，《F1》电影已经定档 2025 年 6 月 25 日全球上映、6 月 27 日北美上映。
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
+        <author>
+            <name>IT 之家 - IT 资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[漫改真人电影《工作细胞》第二支预告发布，定档 12 月 13 日上映]]></title>
+        <id>https://www.ithome.com/0/780/249.htm</id>
+        <link href="https://www.ithome.com/0/780/249.htm"/>
+        <updated>2024-07-07T13:09:58.000Z</updated>
+        <summary type="html"><![CDATA[IT之家 7 月 7 日消息，漫改真人电影《工作细胞》新版预告公布，该电影定档今年 12 月 13 日在日本上映。
+
+真人电影将以《工作细胞》和衍生作《工作细胞 BLACK》2 部漫画为原作展开故事，永野芽郁、佐藤健分别饰演红血球和白血球，阿部贞夫饰演生活习惯不健康的父亲，芦田爱菜饰演重视健康的女儿。影片将描述在不同的人体内世界里细胞工作的样子。
+
+IT之家查询获悉，《工作细胞》原著作者为清水茜，目前已衍生出轻小说、电视动画作品、电影等相关内容作品，动画剧集第一季（中文版）已于 2021 年 2 月在中国中央电视台电影频道播出。
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
+        <author>
+            <name>IT 之家 - IT 资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[央视评 App 自动续费：“进坑”容易“出坑”难]]></title>
+        <id>https://www.ithome.com/0/780/246.htm</id>
+        <link href="https://www.ithome.com/0/780/246.htm"/>
+        <updated>2024-07-07T12:39:14.000Z</updated>
+        <summary type="html"><![CDATA[感谢IT之家网友 花花蚣子 的线索投递！
+IT之家 7 月 7 日消息，今日央视新闻发文报道 App 自动续费存在的问题，文章称近年来 App 自动续费频频遭到消费者投诉，“进坑”容易“出坑”难。
+
+图源 Pexels
+如今很多 App 推出了自动续费功能，消费者在享受初次优惠试用后，往往会在不知情的情况下被自动转入付费服务，而取消这一服务却异常困难。报道称，最近，温州市的李女士就遇到了这样的问题。她下载了一款视频剪辑软件，该软件提供了 7 天的免费试用期，软件首页上标明了“7 天免费试用，之后按 298 每年自动续费”的字样。李女士在试用期间并不满意，于是卸载了软件，却发现自己在试用期后还是被强制收了费。李女士认为商家行为属于强买强卖，于是想找商家理论，但根本联系不到后台售后客服。
+李女士认为，商家应在扣款前确认消费者是否满意，是否愿意继续订阅服务。温州市鹿城区市场监管部门迅速介入调查，发现商家在提示自动续费时使用了极小的字体，导致消费者难以注意到这一信息。涉诉商家辩称，这是因为不同手机系统存在不同的操作要求而导致的。例如，安卓用户可以在 App 内取消订阅，而苹果用户则需要进入设置中的个人账户来操作。
+消费者权益保护专家指出，自动续费的核心问题在于消费者的知情权和选择权没有得到充分保障，消费者在不充分知情的情况下，没有经过同意就被直接扣除了费用。中国法学会消费者权益保护法研究会副秘书长陈音江表示，消费者即使卸载了 App，也会继续被扣费，这严重侵犯了消费者的知情权和财产安全。
+在市场监管部门的调解下，李女士最终得到了退款。然而，还有许多消费者面临着类似的苦恼。据黑猫消费投诉平台数据显示，从 2023 年 4 月 1 日至 2024 年 3 月 31 日，一年内该平台接到的自动续费投诉达到 70011 次，消费者损失超过两千万元。
+中国消费者协会表示，网络自动续费的投诉主要集中在开通付费服务前的侵权问题和服务过程中的权益保障问题。中国消费者协会投诉部副主任郭耀宗表示，主要表现为以低价免费试用等形式诱导消费。还有比如到期未尽到有效提示义务；强制提前续费；还有消费者取消自动续费以后，已付费服务被立即终止；还有自动续费退费难，关闭自动续费以后仍被扣费以及无法联系人工客服等。
+据IT之家了解，《中华人民共和国消费者权益保护法实施条例》已于今年 7 月 1 日起施行，要求经营者在提供自动展期或续费服务前，必须显著地提醒消费者注意，以保障消费者的权益。
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
+        <author>
+            <name>IT 之家 - IT 资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Omdia：2028 年全球音乐零售市场将达 534 亿美元，中国销售额有望在五年内翻番]]></title>
+        <id>https://www.ithome.com/0/780/239.htm</id>
+        <link href="https://www.ithome.com/0/780/239.htm"/>
+        <updated>2024-07-07T11:08:08.000Z</updated>
+        <summary type="html"><![CDATA[IT之家 7 月 7 日消息，市场研究机构 Omdia 在最新预测中指出，全球音乐零售市场销售额将持续增长，其中订阅服务将推动大部分增长；中国市场销售额有望在五年内翻番，成为亚洲第一大、世界第二大音乐市场。
+
+2024 年底，全球销售额将达到 439 亿美元（IT之家备注：当前约 3196.75 亿元人民币）
+
+2027 年突破 500 亿美元（当前约 3640.94 亿元人民币）
+
+2028 年达到 534 亿美元（当前约 3888.53 亿元人民币）
+
+
+▲ 图源 Omdia
+其中，订阅服务（包括 Spotify、Apple Music 和 YouTube Music 等平台）将推动大部分增长，从 2023 年的 243 亿美元（当前约 1769.5 亿元人民币）增长到今年的 268 亿美元（当前约 1951.55 亿元人民币），增幅达 10.4%。
+到 2028 年，订阅收入预计将超过 344 亿美元（当前约 2504.97 亿元人民币），年复合增长率预计为 7.2%。
+
+▲ 图源 Pexels
+该机构指出，未来五年广告（年复合增长率 5.7%）的增长速度将超过实体销售（年复合增长率 2%），但实体销售仍将是第二大收入来源。
+Omdia 预计，中国市场将在 2026 年超过德国、2027 年超过英国、最早 2029 年超越日本，成为亚洲第一大、世界第二大音乐市场。
+
+2023 年：19.7 亿美元（当前约 143.45 亿元人民币）
+
+2024 年：预计达 24 亿美元（当前约 174.77 亿元人民币），增长 22.1%
+
+2026 年：预计达 30 亿美元（当前约 218.46 亿元人民币）
+
+2028 年：预计达 40 亿美元（当前约 291.28 亿元人民币），实现五年内翻番
+
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
+        <author>
+            <name>IT 之家 - IT 资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[机构：台积电多数客户已同意上调代工价格换取可靠的供应]]></title>
+        <id>https://www.ithome.com/0/780/235.htm</id>
+        <link href="https://www.ithome.com/0/780/235.htm"/>
+        <updated>2024-07-07T10:41:40.000Z</updated>
+        <summary type="html"><![CDATA[感谢IT之家网友 Diixx、Hi_World 的线索投递！
+IT之家 7 月 7 日消息，据证券时报报道，麦格理证券在最新发布的报告中指出，根据供应链访查，台积电多数客户已同意上调代工价格换取可靠的供应，这将带动台积电的毛利率进一步攀升。
+
+图源 Pixabay
+据分析师测算，台积电的毛利率将于 2025 年攀升至 55.1%；2026 年将逼近六成，达到 59.3%。业内人士称，此次涨价可能是基于市场需求、产能、成本方面的考量。有消息显示，苹果、高通、英伟达与 AMD 等四大厂大举包下台积电 3nm 家族制程产能，并涌现客户排队潮，一路排到 2026 年。目前半导体产业链的涨价消息愈发密集，其中包括，高通、台积电、华虹等厂商，覆盖 IC 设计、芯片代工等环节，而受益于 AI 浪潮，DRAM（内存）和 SSD（固态硬盘）报价上涨也较为明显。
+IT之家本月早些时候报道，消息人士 @手机晶片达人 爆料称，台积电正准备从明年 1 月 1 日起宣布涨价，主要针对 3/5nm，其他制程维持原价。据称，台积电计划将其 3/5nm 制程的 AI 产品报价提高 5%-10% ，非 AI 产品提高 0-5% 。
+实际上，上个月台湾地区工商时报也表示台积电已经开始传出涨价消息。全球七大科技巨头（英伟达、AMD、英特尔、高通、联发科、苹果及谷歌）将陆续导入台积电 3nm 制程，例如高通骁龙 8 Gen 4、联发科天玑 9400 及苹果 A18、M4 系列都将采用 N3 家族打造，其中基于 N3E 工艺的高通骁龙 8 Gen 4 已率先开始涨价，较上一代报价激增 25%，预计将超过 250 美元。
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
+        <author>
+            <name>IT 之家 - IT 资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tata job guarantees part of negotiations - business secretary]]></title>
+        <id>https://www.bbc.com/news/articles/c10lm46z54mo</id>
+        <link href="https://www.bbc.com/news/articles/c10lm46z54mo"/>
+        <updated>2024-07-07T09:15:36.000Z</updated>
+        <summary type="html"><![CDATA[This video can not be played
+To play this video you need to enable JavaScript in your browser.
+
+
+Media caption, 
+Port Talbot's Tata steel plant future a 'major priority' - Reynolds
+
+
+
+Mark Palmer & Nick Bourne
+BBC News
+
+
+
+
+
+
+Published
+8 minutes ago
+
+
+
+
+The UK government's new business secretary has said "job guarantees" will form part of the negotiations with steel giant Tata about its Port Talbot site.
+Jonathan Reynolds said there was "a better deal available" on the future of the plant and that it was a "major priority".
+The previous Conservative government agreed a £500m rescue package to help keep the plant open and shift to greener production methods, but 2,800 UK jobs would still be lost.
+Mr Reynolds said he and Prime Minister Sir Keir Starmer had already spoken to Tata and were invo…]]></summary>
+        <author>
+            <name>BBC News business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[58 亿美元售卖篮网，蔡崇信狠赚了一笔]]></title>
+        <id>https://www.ithome.com/0/780/225.htm</id>
+        <link href="https://www.ithome.com/0/780/225.htm"/>
+        <updated>2024-07-07T08:34:06.000Z</updated>
+        <summary type="html"><![CDATA[作者｜孙鹏越
+编辑｜大风
+蔡崇信，最终还是放下了他的篮球梦。
+据媒体报道，科赫家族将以 6.88 亿美元（约合 50 亿元人民币）收购布鲁克林篮网队 15% 的股权。
+不仅买下 15% 的股权，科赫家族还向蔡崇信开出 58 亿美元（约合 421 亿元人民币）的估值，想要将篮网队彻底收入麾下。
+不得不说，作为投资界有名的“财神爷”，蔡崇信又做了一笔好生意。2019 年，以总价 23.5 亿美元收购的篮网队，在五年时间翻了近一倍。
+这笔重磅交易如果能够完成，将打破 2022 年 NFL 丹佛野马队以 46.5 亿美元被收购的交易记录。
+1、NBA 商业挖潜空间巨大
+虽然 NBA 在国内影响力巨大，堪称第一运动，但在美国本土的第一运动是棒球，第二运动是橄榄球，NBA 的影响力只能排第三。
+那为什么 NBA 俱乐部的价值却逐年增高，甚至在五年之内翻了一倍呢？
+美媒 Sportico 发布的最新统计数据，NBA30 支球队的总估值达 1200 亿美元，平均每支球队价值达 40 亿美元，与同期相比增长 33%。
+首先，最影响 NBA 球市是转播权。
+在 2014 年，NBA 与 TNT 和迪士尼（ESPN）签订了一份时长为 9 年价值 240 亿美元的转播合同，这份合同马上就要到期。
+等到这份价值 240 亿美元合同结束后，NBA 官方立马引来了新的大金主：迪士尼（ESPN）、NBC、亚马逊。
+据美国体育媒体 Sports Business Journal 报道，NBA 与迪士尼（ESPN）、NBC 以及亚马逊三方，即将达成为期 11 年，总额超过 760 亿美元的媒体版权协议，该转播架构将在 2025-2026 赛季开启。
+
+凯尔特人 VS 独行侠
+11 年，760 亿美元，折合每个赛季转播费用为 69 亿美元。这份合同对比一下“世界第一运动”足球，就能看出来差距。
+足球赛事中，影响…]]></summary>
+        <author>
+            <name>IT 之家 - IT 资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[首次！德国海上风电场将使用中国制造的风机]]></title>
+        <id>https://www.ithome.com/0/780/218.htm</id>
+        <link href="https://www.ithome.com/0/780/218.htm"/>
+        <updated>2024-07-07T07:55:24.000Z</updated>
+        <summary type="html"><![CDATA[IT之家 7 月 7 日消息，德国计划首次在其北海海上风电场采用中国制造的风力发电机组。
+
+汉堡清洁能源资产管理公司 Luxcara 与中国明阳智能能源公司签署了优先供货商协议，后者将为“Waterkant”海上风电场提供 16 台全球最强大的海上风力发电机组，每台机组容量高达 18.5 兆瓦。这些巨型风机的转子直径为 260 米，建成后“Waterkant”风电场将可为大约 40 万户家庭提供清洁电力。
+IT之家注意到，Luxcara 公司于 2023 年底启动了国际招标，并在选择明阳的涡轮机时强调，该决定是基于“严格的尽职调查，涵盖供应链、符合欧盟分类法标准的环境、社会和公司治理 (ESG) 以及由知名国际顾问公司提供的网络安全评估”。
+然而，德国经济部发言人对路透社表示，将对使用中国风力发电机组的德国海上风电场进行更仔细的审查，重点关注安全和竞争方面的问题。发言人表示，联邦政府将密切关注这一决定，一方面要考虑关键基础设施问题，另一方面还要维护公平竞争的市场环境。
+德国已设定目标，到 2030 年实现 80% 的清洁电力。
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
+        <author>
+            <name>IT 之家 - IT 资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马斯克否认延迟披露推特持股信息是故意为之，称系误解规则]]></title>
+        <id>https://www.ithome.com/0/780/214.htm</id>
+        <link href="https://www.ithome.com/0/780/214.htm"/>
+        <updated>2024-07-07T07:37:53.000Z</updated>
+        <summary type="html"><![CDATA[IT之家 7 月 7 日消息，据路透社报道，特斯拉 CEO 埃隆・马斯克 (Elon Musk) 希望驳回一名推特前股东对他的诉讼，该诉讼指控马斯克在 2022 年初延迟披露了其持有大量推特股份。马斯克辩称，“所有迹象”显示他的延迟披露是“一个错误”。
+
+周三深夜，马斯克在曼哈顿联邦法院提交的文件中表示，认为他想要欺骗不知情其持有 9.2% 推特股份的股东，并因这些股东出售股票而错失巨大利益的说法“令人难以置信”。
+参与集体诉讼的投资者表示，马斯克及其财富管理人贾里德・伯查尔 (Jared Birchall) 知道美国证券交易委员会 (SEC) 的规定，要求马斯克在 2022 年 3 月 24 日之前披露其持有推特 5% 以上股份的信息，但马斯克却推迟了 11 天。
+投资者表示，这使得马斯克能够以更低的价格购买更多股票，节省了超过 2 亿美元的资金。2022 年 4 月 4 日，马斯克披露其持有 9.2% 的推特股份后，推特 (现已更名为 X) 的股价上涨了 27%。
+马斯克在文件中表示，他原本打算在 2022 年底披露其持有的推特股份，但在意识到自己误解了美国证券交易委员会的披露规则后，他立即做出了披露。
+“这不是一个欺诈计划，”马斯克说，“所有迹象，包括诉状中的指控，都指向这是一个失误。”
+马斯克还否认了投资者关于一位未透露姓名的摩根士丹利银行家帮助制定交易策略以在不引起市场注意的情况下大量收购推特股票的说法。
+马斯克最终在 2022 年 10 月以 440 亿美元（IT之家备注：当前约 3204.03 亿元人民币）收购了位于旧金山的推特公司。美国证券交易委员会也对他收购推特股票的行为展开了调查。
+去年 9 月，美国地区法官安德鲁・卡特 (Andrew Carter) 拒绝驳回该诉讼的早期版本，理由是证据表明马斯克理解美国证券交易委员会的披露规定，并且曾宣誓对此进行过陈述。
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
+        <author>
+            <name>IT 之家 - IT 资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黑客盯上加密货币，报告称 2024 上半年被盗金额同比翻倍达 13.8 亿美元]]></title>
+        <id>https://www.ithome.com/0/780/213.htm</id>
+        <link href="https://www.ithome.com/0/780/213.htm"/>
+        <updated>2024-07-07T07:24:52.000Z</updated>
+        <summary type="html"><![CDATA[IT之家 7 月 7 日消息，据区块链研究机构 TRM Labs 周五发布的报告显示，2024 年上半年全球加密货币盗窃案激增，金额是去年同期的两倍以上。这主要归因于少数大规模攻击事件和加密货币价格的上涨。
+
+图源 Pexels
+报告显示，截至 2024 年 6 月 24 日，黑客今年窃取的加密货币价值超过 13.8 亿美元（IT之家备注：当前约 100.49 亿元人民币），而 2023 年同期仅为 6.57 亿美元。除此之外，今年的单次盗窃案平均金额也比去年同期高出 50%。
+今年迄今为止，最大规模的加密货币盗窃案之一是日本加密货币交易所 DMM Bitcoin 发生的“未经授权泄露”事件，损失了价值约 3.08 亿美元的比特币。
+加密货币公司经常成为黑客攻击和网络攻击的目标，不过如此大规模的损失事件并不常见。
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
+        <author>
+            <name>IT 之家 - IT 资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中科大 2024 年少年班录取名单公布：52 名学生入围，长三角占比超 50%]]></title>
+        <id>https://www.ithome.com/0/780/205.htm</id>
+        <link href="https://www.ithome.com/0/780/205.htm"/>
+        <updated>2024-07-07T06:50:53.000Z</updated>
+        <summary type="html"><![CDATA[IT之家 7 月 7 日消息，今日，中国科学技术大学少年班学院官方微信公众号公布了《中国科学技术大学 2024 年少年班录取名单公示》，共有 52 名学子入围。
+
+从地区来看，来自长三角的录取学生众多，占比达 51.9%。江苏省今年入围人数多达 12 人，安徽省共有 7 人入围，同在长三角的浙江省和上海市各有 4 人。
+剩余省份中，北京有 6 人录取，湖北有 5 人，广东有 4 人，河南、辽宁各有 2 人，河北、湖南、江西、山东、四川、天津各有 1 名学生录取。
+从学校来看，北京市第八中学成为今年入选学生最多的中学，共有 5 名同学被中国科学技术大学 2024 年少年班录取。合肥市第一中学、南京市外国语学校、苏州中学各有 3 名学生被录取。
+从性别来看，录取名单共有男生 50 人，女生 2 人。
+
+IT之家从公开资料获悉，1978 年 3 月，中国科学技术大学破格选拔一批成绩优异的少年，创建了少年班。少年班作为一种全新的教育形式，不是一开始就设计、规划好的，而是在探索和实践中不断创新和完善。先行先试自主招生选拔，开创宽口径、个性化教育模式，倡导科教结合，实行学导制和弹性学制，开启学科交叉培养。
+2024 年中科大少年班招生对象及报名条件：
+
+理想信念坚定，综合素质优异，数理基础有特长，有志于服务国家重大战略需求、从事基础学科及前沿交叉学科研究的中学生。
+
+原则上为高二年级，少年班面向 2008 年 1 月 1 日及以后出生的考生，少年班“创新试点班”面向 2007 年 1 月 1 日及以后出生的考生；少数特别优秀的高一年级及以下的学生可破格选拔。
+
+材料评审通过的考生须参加入围考试，科目为数学、物理，重点考察相关学科基础、逻辑思维能力。随后，中科大为通过入围考试的考生组织少年创新科学营，全面系统地考查学生的知识基础、学习能力及综合素质。
+少年创新科学营期间，中科大根据考生的综合测试成绩（基础知识、学习能力、非智力因素）确定入选资格考生名单。入选资格考生的录取资格档次分为 A 档、B 档和 C 档。
+中科大少年班及创新试点班入选资格考生高考成绩达到相应录取资格档次的要求，且按规定完成确认程序后，即选入少年班及创新试点班拟录取名单，可由中科大单独录取。
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
+        <author>
+            <name>IT 之家 - IT 资讯</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[秦彻好帅]]></title>
         <id>https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%A7%A6%E5%BD%BB%E5%A5%BD%E5%B8%85</id>
@@ -494,6 +1250,77 @@
         <summary type="html"><![CDATA[中国友谊勋章如何颁授]]></summary>
         <author>
             <name>微博热搜榜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fake police scammers convinced me I was on China's 'most wanted' list]]></title>
+        <id>https://www.bbc.com/news/articles/c6p2lq0qk41o</id>
+        <link href="https://www.bbc.com/news/articles/c6p2lq0qk41o"/>
+        <updated>2024-07-07T00:21:06.000Z</updated>
+        <summary type="html"><![CDATA[Image caption, 
+Helen Young was targeted by scammers who posed as Chinese police officers
+
+
+
+Elaine Chong and Ed Main
+BBC Trending
+
+
+
+
+
+
+Published
+6 July 2024
+
+
+Updated 19 minutes ago
+
+
+Chinese people around the world are being targeted by an elaborate scam in which criminals pretend to be Chinese police. A British-Chinese woman has told the BBC that she handed over her life savings to con men who wore uniforms in video calls and gave her a virtual tour of what appeared to be a police station.
+
+
+Helen Young still has nightmares about the fortnight that she was made to believe she was on China’s most wanted list.
+Scammers posing as Chinese police manipulated the London-based accountant into believing she was under investigation for a massive fraud back in her homeland.
+Helen was presented w…]]></summary>
+        <author>
+            <name>BBC News business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Starmer hired key-cutting boss as prisons minister]]></title>
+        <id>https://www.bbc.com/news/articles/cp08y5p52e2o</id>
+        <link href="https://www.bbc.com/news/articles/cp08y5p52e2o"/>
+        <updated>2024-07-06T15:12:39.000Z</updated>
+        <summary type="html"><![CDATA[Image source, No 10 Downing Street
+Image caption, 
+James Timpson is well-known for hiring former prisoners
+
+
+
+Sima Kotecha
+Senior UK Correspondent
+
+
+Lucy Clarke-Billings
+BBC News
+
+
+
+
+
+
+Published
+6 July 2024
+
+
+
+
+Prime Minister Sir Keir Starmer says he has appointed a CEO known for employing ex-offenders as the new prisons minister because he "walks the walk". 
+James Timpson, of the Timpson Group, which provides key cutting and shoe repair services, has made a name for himself hiring hundreds of former prisoners. He previously said only a third of people in prison should be there. 
+During his first news conference as prime minister on Saturday, Sir Keir said Mr Timpson had invested "a huge amount over many years" into rehabilitating offenders and he was "very pleased" to have given him the p…]]></summary>
+        <author>
+            <name>BBC News business</name>
         </author>
     </entry>
     <entry>
@@ -10368,99 +11195,6 @@ Forbes, the money magazine, reckons she is worth $600m (£471m) from performance
 Other musicians who have reached such heights have done so by investing their musical earnings in other ventures.
 This daughter of Pennsylvania, and of a financial broker, mints money with astute leverage of her market power. It's known as Swiftonomics. 
 She is reputed to demand more than 100% of gross ticket sales, leavi…]]></summary>
-        <author>
-            <name>BBC News business</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《大人的高考-知乎卷》正式发布！如果再参加一次高考，你能得几分？]]></title>
-        <id>http://www.zhihu.com/question/658295422/answer/3522782228</id>
-        <link href="http://www.zhihu.com/question/658295422/answer/3522782228?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
-        <updated>2024-06-08T07:37:47.000Z</updated>
-        <summary type="html"><![CDATA[《大人的高考-知乎卷》试卷正式发布，知乎日报编辑部率先开「烤」！
-
-
- 在经过了严格的试卷密封性检查和发卷流程后，编辑部人员进入了火热地答题状态……
-
-
-
- 考场纪律严明，配备严肃的专业监考人员，适时阻止部分考生过分强烈的交流意图和忍不住想要掏出手机的行为。
-
-
-
-这一次「大人的高考」没有排名，也没有分数线，
-你可以打开手机，在知乎搜索相关知识点，也可以发想法问其他知友这道题怎么做；
-如果有人和你一起做题，也可以相互讨论，把这张试卷当成一次怀旧游戏；
-当然，如果你想要还原那年今日，也可以安安静静地在房间里，关掉所有电子设备，沉浸式做完这一小时的题目。
-❤️高考过的大人们，请放轻松，
-这一次不再是一分千人的竞争，而是一份触手可及的青春，
-我们希望能够让你短暂地忘掉大人世界里的那些复杂又无解的烦恼，
-回到那个窗外是蝉鸣和栀子花香的盛夏，
-回到那个抬头便能看到倒计时，电风扇吱吱呀呀，却总在课间充满欢声笑语的教室，
-更是回到那个上知天文下知地理，转着笔专心致志解出每一道题，对未来充满期待的你自己。
-
-知乎日报编辑部祝所有大人们：
-在未来的「人生」考场，从容、顺利，不留遗憾。
-✍️别忘了带#大人的高考 和 #我和知友对答案 发布想法晒出自己的做题过程和环境哦，有机会得到编辑部为大家准备的端午粽子礼盒！
- ‍ 小李会在这两天随处云监考，点赞评论大家的试卷哟！
-
- 更多活动规则和玩法 ：知乎特别策划｜大人的高考
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-来源：知乎 www.zhihu.com
-编辑部小李
-点击下载
-359 个回答，查看全部。
-《大人的高考-知乎卷》答案公布，你得了几分？能讲讲为什么想重做高考题吗？
-怎样用知乎学习到有关高考的内容？]]></summary>
-        <author>
-            <name>编辑部小李</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The rise and rise of fashion giant Shein]]></title>
-        <id>https://www.bbc.com/news/articles/cp991n2v0m2o</id>
-        <link href="https://www.bbc.com/news/articles/cp991n2v0m2o"/>
-        <updated>2024-06-07T21:34:53.000Z</updated>
-        <summary type="html"><![CDATA[Image source, Getty Images
-
-
-
-Daniel Thomas, Lora Jones & Lucy Hooker
-Business reporters, BBC News
-
-
-
-
-
-
-Published
-7 June 2024
-
-
-
-
-The biggest order 17-year-old Michaela says she ever made on Shein was for £150, when she bought "16 plus items".
-Like millions of others, she's a huge fan of the ultra-fast fashion giant, mostly because of how affordable it is. 
-She also likes the way the influencers on YouTube she watches offer Shein discount codes, which makes her "buy more".
-Over the last decade, Shein has gone from a little-known brand among older shoppers to one of the biggest fast fashion retailers globally.
-The Chinese-founded firm - which also sells a huge range of beauty and home products - doubled its profits to more than $2bn, external (£1.6bn) last year, making more than the Swedis…]]></summary>
         <author>
             <name>BBC News business</name>
         </author>
