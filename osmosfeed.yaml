@@ -5,7 +5,7 @@
 
 cacheUrl: https://Kalaser.github.io/OASIS/cache.json
 sources:
-  - href: https://rsshub.app/zhihu/hotlist
   - href: https://www.zhihu.com/rss
-  - href: https://www.gcores.com/rss
-  - href: http://node2.feed43.com/mryw.xml
+  - href: https://plink.anyfeeder.com/zaobao/realtime/world
+  - href: http://hellogithub.com/rss
+  - href: https://catcoding.me/atom.xml
