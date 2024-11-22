@@ -306,12 +306,6 @@
           "imageUrl": null
         }
       ]
-    },
-    {
-      "title": "编程随想的博客",
-      "feedUrl": "https://feeds2.feedburner.com/programthink",
-      "siteUrl": "https://program-think.blogspot.com/",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
