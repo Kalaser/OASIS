@@ -5,4 +5,5 @@
 
 cacheUrl: https://Kalaser.github.io/OASIS/cache.json
 sources:
-  - href: https://blog.codinghorror.com/rss
+  - href: https://blog.codinghorror.com/rss 
+  - href: https://news.ycombinator.com/rss
