@@ -22,43 +22,6 @@
           "imageUrl": "https://img.hellogithub.com/logo/meta.jpg"
         }
       ]
-    },
-    {
-      "title": "CatCoding",
-      "feedUrl": "https://catcoding.me/atom.xml",
-      "siteUrl": "/atom.xml",
-      "articles": [
-        {
-          "id": "http://catcoding.me/p/ckb-new-verify/",
-          "author": null,
-          "description": "<p>CKB 相关技术文章第三篇。</p>\n<h2 id=\"背景\"><a href=\"#背景\" class=\"headerlink\" title=\"背景\"></a>背景</h2><p>CKB 的每一个交易在提交到交易池之前都会经过一个 script verification 的过",
-          "link": "http://catcoding.me/p/ckb-new-verify/",
-          "publishedOn": "2024-11-07T12:03:24.000Z",
-          "wordCount": 543,
-          "title": "CKB new script verification with VM pause",
-          "imageUrl": " http://catcoding.me/css/images/logo.png "
-        },
-        {
-          "id": "http://catcoding.me/p/ckb-rbf/",
-          "author": null,
-          "description": "<p>CKB 相关技术文章第二篇。</p>\n<h2 id=\"Replace-by-fee\"><a href=\"#Replace-by-fee\" class=\"headerlink\" title=\"Replace by fee\"></a>Replace by fee</h2><h3",
-          "link": "http://catcoding.me/p/ckb-rbf/",
-          "publishedOn": "2024-11-06T11:55:13.000Z",
-          "wordCount": 468,
-          "title": "CKB RBF 设计和实现",
-          "imageUrl": " http://catcoding.me/css/images/logo.png "
-        },
-        {
-          "id": "http://catcoding.me/p/ckb-txpool-refactor/",
-          "author": null,
-          "description": "<p> 在 11.9 号清迈的 <a href=\"https://share.foresightnews.pro/article/detail/70811\">CKCON</a> 会议上我会做一个关于 CKB 交易池的演讲，这是我准备的 slides <a href=\"https:",
-          "link": "http://catcoding.me/p/ckb-txpool-refactor/",
-          "publishedOn": "2024-11-06T11:39:21.000Z",
-          "wordCount": 653,
-          "title": "CKB 交易池重构",
-          "imageUrl": " http://catcoding.me/css/images/logo.png "
-        }
-      ]
     }
   ],
   "cliVersion": "1.15.1"
