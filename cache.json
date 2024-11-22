@@ -5,23 +5,6 @@
       "feedUrl": "https://www.zhihu.com/rss",
       "siteUrl": "http://www.zhihu.com",
       "articles": []
-    },
-    {
-      "title": "HelloGitHub 月刊",
-      "feedUrl": "http://hellogithub.com/rss",
-      "siteUrl": "https://hellogithub.com",
-      "articles": [
-        {
-          "id": "https://hellogithub.com/periodical/volume/103",
-          "author": null,
-          "description": "本期共有 43 个项目，包含 C 项目 (2)，C# 项目 (2)，C++ 项目 (3)，Go 项目 (5)，Java 项目 (2)，JavaScript 项目 (5)，Kotlin 项目 (2)，Python 项目 (5)，Rust 项目 (3)，Swift 项目 (2)，人工智能 (4)，其它 (7)，开源书籍 (1)",
-          "link": "https://hellogithub.com/periodical/volume/103",
-          "publishedOn": "2024-10-28T00:04:36.000Z",
-          "wordCount": 4136,
-          "title": "HelloGitHub 第 103 期",
-          "imageUrl": "https://img.hellogithub.com/logo/meta.jpg"
-        }
-      ]
     }
   ],
   "cliVersion": "1.15.1"
