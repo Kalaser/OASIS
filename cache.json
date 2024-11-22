@@ -306,6 +306,12 @@
           "imageUrl": null
         }
       ]
+    },
+    {
+      "title": "Coding Horror",
+      "feedUrl": "https://blog.codinghorror.com/rss",
+      "siteUrl": "https://blog.codinghorror.com/",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
