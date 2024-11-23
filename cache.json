@@ -12,6 +12,146 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://docs.maxxinteractive.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://docs.maxxinteractive.com/",
+          "publishedOn": "2024-11-22T23:21:18.000Z",
+          "wordCount": 1554,
+          "title": "MaXX Interactive Desktop -- the little brother of the great SGI Desktop on IRIX",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/ColleagueRiley/RGFW",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/ColleagueRiley/RGFW",
+          "publishedOn": "2024-11-22T21:31:51.000Z",
+          "wordCount": 7114,
+          "title": "RGFW: Single-header C99 window abstraction library",
+          "imageUrl": "https://opengraph.githubassets.com/3262f4c1ffc462bbb4cb5606a21a078eb131d102a5d139f17f64ebe8abe7f171/ColleagueRiley/RGFW"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42217504",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=42217504",
+          "publishedOn": "2024-11-22T21:27:43.000Z",
+          "wordCount": 1689,
+          "title": "Ask HN: To those with successful browser extension(s), how did you grow it?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.korny.info/2024/11/17/translating-my-grandfathers-biography",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.korny.info/2024/11/17/translating-my-grandfathers-biography",
+          "publishedOn": "2024-11-22T18:43:36.000Z",
+          "wordCount": 2160,
+          "title": "Translating My Grandfather's Biograpy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.quantum-machines.co/blog/understanding-googles-quantum-error-correction-breakthrough/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.quantum-machines.co/blog/understanding-googles-quantum-error-correction-breakthrough/",
+          "publishedOn": "2024-11-22T17:53:29.000Z",
+          "wordCount": 3922,
+          "title": "Understanding Google's Quantum Error Correction Breakthrough",
+          "imageUrl": "https://www.quantum-machines.co/wp-content/uploads/2024/11/Google-banner-1024x251.png"
+        },
+        {
+          "id": "https://benwang.dev/2023/02/26/Phased-Array-Microphone.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://benwang.dev/2023/02/26/Phased-Array-Microphone.html",
+          "publishedOn": "2024-11-22T17:10:44.000Z",
+          "wordCount": 2867,
+          "title": "Phased Array Microphone (2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42215453",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=42215453",
+          "publishedOn": "2024-11-22T17:00:36.000Z",
+          "wordCount": 303,
+          "title": "Wasp (YC W21) is hiring a framework engineer to build Laravel for JavaScript",
+          "imageUrl": null
+        },
+        {
+          "id": "https://jordaneldredge.com/notes/webamp-modern/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jordaneldredge.com/notes/webamp-modern/",
+          "publishedOn": "2024-11-22T16:58:35.000Z",
+          "wordCount": 3273,
+          "title": "Rendering \"modern\" Winamp skins in the browser",
+          "imageUrl": "https://jordaneldredge.com/notion-mirror/84ebb48c-616a-4f51-ae9a-991a4e0a7e9b/8b644494-12b4-4aa3-8e6f-fd02f95341bd/Screenshot_2024-11-19_at_4.39.04_PM.png"
+        },
+        {
+          "id": "https://www.cnbc.com/2024/11/22/amazon-to-invest-another-4-billion-in-anthropic-openais-biggest-rival.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.cnbc.com/2024/11/22/amazon-to-invest-another-4-billion-in-anthropic-openais-biggest-rival.html",
+          "publishedOn": "2024-11-22T16:25:17.000Z",
+          "wordCount": 28875,
+          "title": "Amazon to invest another $4B in Anthropic",
+          "imageUrl": "https://image.cnbcfm.com/api/v1/image/108066948-1732286555480-108066948-1732286380649-gettyimages-2147920473-AA_19042024_1633891.jpg?v=1732286576&w=1920&h=1080"
+        },
+        {
+          "id": "https://www.tangramvision.com/blog/the-deceptively-asymmetric-unit-sphere",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.tangramvision.com/blog/the-deceptively-asymmetric-unit-sphere",
+          "publishedOn": "2024-11-22T16:00:01.000Z",
+          "wordCount": 6519,
+          "title": "The Deceptively Asymmetric Unit Sphere",
+          "imageUrl": "https://cdn.prod.website-files.com/5fff85e7f613e35edb5806ed/673f9355ee605c3a333626f5_hero-sphere.png"
+        },
+        {
+          "id": "https://thoughts.wyounas.com/p/what-made-dostoevsky-immortal",
+          "author": null,
+          "description": "Comments",
+          "link": "https://thoughts.wyounas.com/p/what-made-dostoevsky-immortal",
+          "publishedOn": "2024-11-22T14:59:47.000Z",
+          "wordCount": 6078,
+          "title": "What made Dostoevsky's work immortal",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F363b2e5d-d3f7-479c-b1e8-3bfdc37e547c_6240x4160.jpeg"
+        },
+        {
+          "id": "https://www.opb.org/article/2024/11/17/salmon-return-to-lay-eggs-in-historic-habitat-after-largest-dam-removal-project-in-us-history/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.opb.org/article/2024/11/17/salmon-return-to-lay-eggs-in-historic-habitat-after-largest-dam-removal-project-in-us-history/",
+          "publishedOn": "2024-11-22T13:27:12.000Z",
+          "wordCount": 4074,
+          "title": "Salmon return to lay eggs in historic habitat after dam removal project",
+          "imageUrl": "https://opb-opb-prod.cdn.arcpublishing.com/resizer/v2/LGNPDXOGT5BVVFRWUYS2JOUJZM.jpg?auth=4044d38dcd2939dc685d1e8ed46985f104509dd24221fb95319420e09aed3ad1&width=1200&height=675&smart=true"
+        },
+        {
+          "id": "https://duckdb.org/2024/11/22/runtime-extensible-parsers.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://duckdb.org/2024/11/22/runtime-extensible-parsers.html",
+          "publishedOn": "2024-11-22T13:23:28.000Z",
+          "wordCount": 3424,
+          "title": "Runtime-Extensible SQL Parsers Using Peg",
+          "imageUrl": "https://duckdb.org/images/blog/thumbs/ast.png"
+        },
+        {
+          "id": "https://kubuszok.com/2019/from-string-to-ast-parsing/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://kubuszok.com/2019/from-string-to-ast-parsing/",
+          "publishedOn": "2024-11-22T12:35:30.000Z",
+          "wordCount": 11239,
+          "title": "From string to AST: parsing (2019)",
+          "imageUrl": "https://kubuszok.com/images/mathematics-and-computer-science.jpg"
+        },
+        {
           "id": "https://venturebeat.com/ai/xpander-ais-agent-graph-system-makes-ai-agents-more-reliable-by-giving-them-info-step-by-step/",
           "author": null,
           "description": "Comments",
@@ -42,6 +182,46 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.narratively.com/p/his-biggest-hit-sold-more-copies-than-any-of-the-beatles-so-why-havent-you-heard-of-him",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.narratively.com/p/his-biggest-hit-sold-more-copies-than-any-of-the-beatles-so-why-havent-you-heard-of-him",
+          "publishedOn": "2024-11-22T10:58:25.000Z",
+          "wordCount": 1697,
+          "title": "Prince Nico Mbarga’s biggest hit outsold any of The Beatles’ (2017)",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4ae70172-cf84-416e-92ae-03e2b8351868_2048x1152.jpeg"
+        },
+        {
+          "id": "https://5-million-devs.netlify.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://5-million-devs.netlify.com/",
+          "publishedOn": "2024-11-22T10:31:56.000Z",
+          "wordCount": 34,
+          "title": "Show HN: A Marble Madness-inspired WebGL game we built for Netlify",
+          "imageUrl": "https://5-million-devs.netlify.com/og-image.jpg"
+        },
+        {
+          "id": "https://www.goto10retro.com/p/faster-atari-st-digital-magazine",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.goto10retro.com/p/faster-atari-st-digital-magazine",
+          "publishedOn": "2024-11-22T09:33:53.000Z",
+          "wordCount": 4593,
+          "title": "FaSTer: Atari ST Digital Magazine",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F439e28e9-8fd8-4f97-b3ea-05095f42bea8_1024x768.jpeg"
+        },
+        {
+          "id": "https://github.com/ricott1/rebels-in-the-sky",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/ricott1/rebels-in-the-sky",
+          "publishedOn": "2024-11-22T08:21:39.000Z",
+          "wordCount": 4096,
+          "title": "Show HN: Rebels in the sky – Terminal game about space pirates",
+          "imageUrl": "https://opengraph.githubassets.com/e73f9a77fea1c5da5a9a345d04ef376b54a7619b714f2783902f152475943268/ricott1/rebels-in-the-sky"
+        },
+        {
           "id": "https://ontopia.net/topicmaps/materials/tao.html",
           "author": null,
           "description": "Comments",
@@ -70,6 +250,16 @@
           "wordCount": null,
           "title": "Mechanically strong yet metabolizable plastic breaks down in seawater",
           "imageUrl": null
+        },
+        {
+          "id": "https://developer.chrome.com/blog/next-for-webgpu",
+          "author": null,
+          "description": "Comments",
+          "link": "https://developer.chrome.com/blog/next-for-webgpu",
+          "publishedOn": "2024-11-21T22:18:57.000Z",
+          "wordCount": 1181,
+          "title": "What's Next for WebGPU",
+          "imageUrl": "https://developer.chrome.com/static/blog/next-for-webgpu/image/hero.jpg"
         },
         {
           "id": "https://arxiv.org/abs/2409.08107",
@@ -202,6 +392,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://rachit.pl/post/you-have-built-a-compiler/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://rachit.pl/post/you-have-built-a-compiler/",
+          "publishedOn": "2024-11-19T17:51:14.000Z",
+          "wordCount": 534,
+          "title": "Dear sir, you have built a compiler (2022)",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.yossarian.net/2023/06/27/Software-defined-Internet-radio-with-Liquidsoap",
           "author": null,
           "description": "Comments",
@@ -209,6 +409,16 @@
           "publishedOn": "2024-11-19T12:08:57.000Z",
           "wordCount": 1316,
           "title": "Software-defined (Internet) radio with Liquidsoap (2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://jennyjams.net/blog/cpp-mixin/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jennyjams.net/blog/cpp-mixin/",
+          "publishedOn": "2024-11-19T10:58:48.000Z",
+          "wordCount": 1078,
+          "title": "A C++ Mixin System",
           "imageUrl": null
         },
         {
@@ -262,6 +472,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://lucumr.pocoo.org/2024/11/18/threads-beat-async-await/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lucumr.pocoo.org/2024/11/18/threads-beat-async-await/",
+          "publishedOn": "2024-11-18T12:07:03.000Z",
+          "wordCount": 5889,
+          "title": "Playground Wisdom: Threads Beat Async/Await",
+          "imageUrl": null
+        },
+        {
           "id": "https://mszula.github.io/visual-sorting/",
           "author": null,
           "description": "Comments",
@@ -270,6 +490,16 @@
           "wordCount": 243,
           "title": "Interactive Visual Sorting",
           "imageUrl": "/visual-sorting/demo.png"
+        },
+        {
+          "id": "https://quuxplusone.github.io/blog/2024/09/04/the-game-is-flawed/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://quuxplusone.github.io/blog/2024/09/04/the-game-is-flawed/",
+          "publishedOn": "2024-11-17T13:30:29.000Z",
+          "wordCount": 3064,
+          "title": "Nash equilibria in Ballmer's binary-search interview game",
+          "imageUrl": null
         },
         {
           "id": "https://www.historytoday.com/archive/behind-times/fear-friendship-and-channel-tunnel",
