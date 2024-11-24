@@ -12,6 +12,186 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://www.science.org/doi/10.1126/sciadv.adn9188",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.science.org/doi/10.1126/sciadv.adn9188",
+          "publishedOn": "2024-11-23T23:30:39.000Z",
+          "wordCount": null,
+          "title": "Ice base melt revealed by multibeam imagery of an Antarctic ice shelf",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cdc.gov/media/releases/2024/p1122-h5n1-bird-flu.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.cdc.gov/media/releases/2024/p1122-h5n1-bird-flu.html",
+          "publishedOn": "2024-11-23T23:22:45.000Z",
+          "wordCount": 899,
+          "title": "CDC Confirms H5N1 Bird Flu Infection in California Child: First Child Case in US",
+          "imageUrl": "https://www.cdc.gov/media/images/releases/iconic-images/outbreaks/dairy-cows.jpg?_=76663"
+        },
+        {
+          "id": "https://github.com/p8952/bocker",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/p8952/bocker",
+          "publishedOn": "2024-11-23T23:18:51.000Z",
+          "wordCount": 3240,
+          "title": "Bocker: Docker implemented in around 100 lines of Bash (2015)",
+          "imageUrl": "https://opengraph.githubassets.com/2a49fdfc5b35837d1061728f2a86e97b10223e919bacb88790202308577f620c/p8952/bocker"
+        },
+        {
+          "id": "https://old.reddit.com/r/Wordpress/comments/1gy8bud/wordpressorg_has_apparently_released_secure/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://old.reddit.com/r/Wordpress/comments/1gy8bud/wordpressorg_has_apparently_released_secure/",
+          "publishedOn": "2024-11-23T22:21:56.000Z",
+          "wordCount": null,
+          "title": "Wordpress.org released Secure Custom Fields \"PRO\" version with ACF pro features",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hub.jhu.edu/2024/11/21/ancient-alphabet-discovered-syria/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://hub.jhu.edu/2024/11/21/ancient-alphabet-discovered-syria/",
+          "publishedOn": "2024-11-23T22:11:22.000Z",
+          "wordCount": 2143,
+          "title": "Evidence of oldest known alphabetic writing unearthed in ancient Syrian city",
+          "imageUrl": "https://api.hub.jhu.edu/factory/sites/default/files/styles/soft_crop_1300/public/2024-11/alphabet1.jpg"
+        },
+        {
+          "id": "https://libera.chat/news/llm-etiquette",
+          "author": null,
+          "description": "Comments",
+          "link": "https://libera.chat/news/llm-etiquette",
+          "publishedOn": "2024-11-23T22:06:12.000Z",
+          "wordCount": 1337,
+          "title": "Establishing an etiquette for LLM use on Libera.Chat",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lupyuen.github.io/articles/ci4",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lupyuen.github.io/articles/ci4",
+          "publishedOn": "2024-11-23T21:44:10.000Z",
+          "wordCount": 3263,
+          "title": "Continuous Integration Dashboard for Apache NuttX RTOS (Prometheus and Grafana)",
+          "imageUrl": "https://lupyuen.github.io/images/ci4-dashboard.png"
+        },
+        {
+          "id": "http://www.righto.com/2024/11/antenna-diodes-in-pentium-processor.html",
+          "author": null,
+          "description": "Comments",
+          "link": "http://www.righto.com/2024/11/antenna-diodes-in-pentium-processor.html",
+          "publishedOn": "2024-11-23T20:35:26.000Z",
+          "wordCount": 5397,
+          "title": "Antenna Diodes in the Pentium Processor",
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_uOvXB2UVONhDqbDzkCowNDOmRMS84gqeq59zWkm_zsQ7q5RmJQbJFhTy1Yz-au1Yk55RD4J6ZQWyXKJNfg99GORwZa9ATOAmXX1OczKDXMAa3iRsdL_ewWo7DTvcu7RZ0iLos=w1200-h630-p-k-no-nu"
+        },
+        {
+          "id": "https://noswampcoolers.blogspot.com/2020/04/energy-is-frame-dependent.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://noswampcoolers.blogspot.com/2020/04/energy-is-frame-dependent.html",
+          "publishedOn": "2024-11-23T19:34:50.000Z",
+          "wordCount": 3949,
+          "title": "Energy is frame-dependent, infrastructure of energy is frame-independent (2020)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/9elements-SkylakeX-Coreboot",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.phoronix.com/news/9elements-SkylakeX-Coreboot",
+          "publishedOn": "2024-11-23T19:26:05.000Z",
+          "wordCount": 1805,
+          "title": "9elements Takes over Intel 1st Gen Xeon Scalable Skylake Support Within Coreboot",
+          "imageUrl": null
+        },
+        {
+          "id": "https://newsletter.weskao.com/p/how-to-give-a-senior-leader-feedback-without-getting-fired",
+          "author": null,
+          "description": "Comments",
+          "link": "https://newsletter.weskao.com/p/how-to-give-a-senior-leader-feedback-without-getting-fired",
+          "publishedOn": "2024-11-23T19:15:54.000Z",
+          "wordCount": 5892,
+          "title": "How to give a senior leader feedback (without getting fired)",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffbd4fe8a-4415-44ef-8b3a-0c635a9286c9_500x282.jpeg"
+        },
+        {
+          "id": "https://pluralistic.net/2024/11/23/hack-the-class-war/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://pluralistic.net/2024/11/23/hack-the-class-war/",
+          "publishedOn": "2024-11-23T17:33:03.000Z",
+          "wordCount": 3258,
+          "title": "Reverse engineers bust sleazy gig work platform",
+          "imageUrl": null
+        },
+        {
+          "id": "https://arxiv.org/abs/2201.13188",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arxiv.org/abs/2201.13188",
+          "publishedOn": "2024-11-23T15:51:21.000Z",
+          "wordCount": 891,
+          "title": "Size and albedo of the largest detected Oort-cloud object",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "https://www.ycombinator.com/companies/alloy-automation/jobs/RGzvGvb-software-engineering-manager",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ycombinator.com/companies/alloy-automation/jobs/RGzvGvb-software-engineering-manager",
+          "publishedOn": "2024-11-23T12:00:53.000Z",
+          "wordCount": 1731,
+          "title": "Alloy Automation (YC W20) Is Hiring",
+          "imageUrl": "/images/original/missing.png"
+        },
+        {
+          "id": "https://www.smithsonianmag.com/smart-news/check-out-the-highest-resolution-images-ever-captured-of-the-suns-entire-surface-180985518/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.smithsonianmag.com/smart-news/check-out-the-highest-resolution-images-ever-captured-of-the-suns-entire-surface-180985518/",
+          "publishedOn": "2024-11-23T10:01:30.000Z",
+          "wordCount": 3136,
+          "title": "Highest-resolution images ever captured of the sun’s surface",
+          "imageUrl": "https://th-thumbnailer.cdn-si-edu.com/ibQuOvP_nSaBGozhQc4iPwKkiKU=/fit-in/1200x0/filters:focal(1394x903:1395x904)/https%3A%2F%2Ftf-cmsv2-smithsonianmag-media.s3.amazonaws.com%2Ffiler_public%2F01%2F52%2F0152b828-56b8-4e46-8263-e48660486d42%2Fscreenshot_2024-11-21_at_44419_pm.png"
+        },
+        {
+          "id": "https://www.openmptcprouter.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.openmptcprouter.com/",
+          "publishedOn": "2024-11-23T08:58:19.000Z",
+          "wordCount": 1342,
+          "title": "OpenMPTCProuter: Aggregate and encrypt multiple internet connections using MPTCP",
+          "imageUrl": "https://www.openmptcprouter.com/img/statuspage.png"
+        },
+        {
+          "id": "https://jennyjams.net/blog/copygc/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jennyjams.net/blog/copygc/",
+          "publishedOn": "2024-11-23T03:11:06.000Z",
+          "wordCount": 3591,
+          "title": "Baby’s Second Garbage Collector",
+          "imageUrl": null
+        },
+        {
+          "id": "https://fabiensanglard.net/quake3/network.php",
+          "author": null,
+          "description": "Comments",
+          "link": "https://fabiensanglard.net/quake3/network.php",
+          "publishedOn": "2024-11-23T00:55:00.000Z",
+          "wordCount": 1431,
+          "title": "Quake 3 Source Code Review: Network Model (2012)",
+          "imageUrl": null
+        },
+        {
           "id": "https://docs.maxxinteractive.com/",
           "author": null,
           "description": "Comments",
@@ -122,6 +302,16 @@
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F363b2e5d-d3f7-479c-b1e8-3bfdc37e547c_6240x4160.jpeg"
         },
         {
+          "id": "https://historyonthefox.wordpress.com/2014/04/06/the-remarkable-life-and-astonishing-times-of-dwight-smith-young/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://historyonthefox.wordpress.com/2014/04/06/the-remarkable-life-and-astonishing-times-of-dwight-smith-young/",
+          "publishedOn": "2024-11-22T14:02:56.000Z",
+          "wordCount": 5835,
+          "title": "The remarkable life and astonishing times of Dwight Smith Young",
+          "imageUrl": "https://historyonthefox.wordpress.com/wp-content/uploads/2014/04/1911-abt-dsy-in-darkroom.jpg?w=163"
+        },
+        {
           "id": "https://www.opb.org/article/2024/11/17/salmon-return-to-lay-eggs-in-historic-habitat-after-largest-dam-removal-project-in-us-history/",
           "author": null,
           "description": "Comments",
@@ -200,6 +390,16 @@
           "wordCount": 34,
           "title": "Show HN: A Marble Madness-inspired WebGL game we built for Netlify",
           "imageUrl": "https://5-million-devs.netlify.com/og-image.jpg"
+        },
+        {
+          "id": "https://blog.separateconcerns.com/2017-05-07-itc.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.separateconcerns.com/2017-05-07-itc.html",
+          "publishedOn": "2024-11-22T10:04:31.000Z",
+          "wordCount": 727,
+          "title": "A short introduction to Interval Tree Clocks",
+          "imageUrl": null
         },
         {
           "id": "https://www.goto10retro.com/p/faster-atari-st-digital-magazine",
@@ -402,6 +602,26 @@
           "imageUrl": null
         },
         {
+          "id": "https://johncarlosbaez.wordpress.com/2015/08/11/the-physics-of-butterfly-wings/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://johncarlosbaez.wordpress.com/2015/08/11/the-physics-of-butterfly-wings/",
+          "publishedOn": "2024-11-19T13:17:08.000Z",
+          "wordCount": 5996,
+          "title": "The Physics of Butterfly Wings",
+          "imageUrl": "http://math.ucr.edu/home/baez/ecological/morpho_peleides.jpg"
+        },
+        {
+          "id": "https://www.nature.com/articles/d41586-024-03756-w",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nature.com/articles/d41586-024-03756-w",
+          "publishedOn": "2024-11-19T12:29:14.000Z",
+          "wordCount": 4521,
+          "title": "A silly science prize changed my career",
+          "imageUrl": "https://media.nature.com/lw1200/magazine-assets/d41586-024-03756-w/d41586-024-03756-w_27716260.jpg"
+        },
+        {
           "id": "https://blog.yossarian.net/2023/06/27/Software-defined-Internet-radio-with-Liquidsoap",
           "author": null,
           "description": "Comments",
@@ -430,6 +650,16 @@
           "wordCount": 4514,
           "title": "Is Python That Slow?",
           "imageUrl": "https://blog.miguelgrinberg.com/static/cards/is-python-really-that-slow.jpg"
+        },
+        {
+          "id": "https://www.verbeeld.be/2024/11/17/using-gps-in-the-year-1565/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.verbeeld.be/2024/11/17/using-gps-in-the-year-1565/",
+          "publishedOn": "2024-11-19T09:31:31.000Z",
+          "wordCount": null,
+          "title": "Using GPS in the Year 1565",
+          "imageUrl": null
         },
         {
           "id": "https://www.polarsignals.com/blog/posts/2024/11/13/lua-unwinding",
@@ -462,6 +692,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://omelkonian.github.io/data/publications/music-grammars.pdf",
+          "author": null,
+          "description": "Comments",
+          "link": "https://omelkonian.github.io/data/publications/music-grammars.pdf",
+          "publishedOn": "2024-11-18T14:33:04.000Z",
+          "wordCount": 3046,
+          "title": "Music as Language (2019) [pdf]",
+          "imageUrl": null
+        },
+        {
           "id": "https://ccrma.stanford.edu/~elisse/256A/final/growing%20music%20-%20musical%20interpretations%20of%20l-systems.pdf",
           "author": null,
           "description": "Comments",
@@ -480,6 +720,36 @@
           "wordCount": 5889,
           "title": "Playground Wisdom: Threads Beat Async/Await",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.johndcook.com/blog/2008/09/19/writes-large-correct-programs/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.johndcook.com/blog/2008/09/19/writes-large-correct-programs/",
+          "publishedOn": "2024-11-18T12:06:32.000Z",
+          "wordCount": 3280,
+          "title": "Writes Large Correct Programs (2008)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/specfy/stack-analyser",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/specfy/stack-analyser",
+          "publishedOn": "2024-11-18T10:38:41.000Z",
+          "wordCount": 5025,
+          "title": "Stack Analyser: detect technologies used inside a repo",
+          "imageUrl": "https://opengraph.githubassets.com/8448e4df98dd68bce8cd8ad75972978c9eb8e568dddee80d26c4215e596b5d1c/specfy/stack-analyser"
+        },
+        {
+          "id": "https://iximiuz.com/en/series/computer-networking-fundamentals/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://iximiuz.com/en/series/computer-networking-fundamentals/",
+          "publishedOn": "2024-11-18T10:08:41.000Z",
+          "wordCount": 887,
+          "title": "Computer Networking Fundamentals – Learning Series (2023)",
+          "imageUrl": "https://iximiuz.com/computer-networking-fundamentals/kdpv.png"
         },
         {
           "id": "https://mszula.github.io/visual-sorting/",
