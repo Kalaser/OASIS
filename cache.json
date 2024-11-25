@@ -12,6 +12,246 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://herecomesthemoon.net/2024/11/two-factions-of-cpp/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://herecomesthemoon.net/2024/11/two-factions-of-cpp/",
+          "publishedOn": "2024-11-24T23:21:36.000Z",
+          "wordCount": 2016,
+          "title": "The Two Factions of C++",
+          "imageUrl": "https://herecomesthemoon.net/2024/11/two-factions-of-cpp/images/dithers/not-bad-at-all-header_dithered.png"
+        },
+        {
+          "id": "https://mashable.com/article/bluesky-gaining-ground-on-competitor-meta-threads",
+          "author": null,
+          "description": "Comments",
+          "link": "https://mashable.com/article/bluesky-gaining-ground-on-competitor-meta-threads",
+          "publishedOn": "2024-11-24T22:23:14.000Z",
+          "wordCount": 2212,
+          "title": "Bluesky is on the verge of overtaking Threads in all the ways that matter",
+          "imageUrl": "https://helios-i.mashable.com/imagery/articles/05ga38nPz2tMnT4fT0Plssj/hero-image.fill.size_1200x675.v1732394007.jpg"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=E3N-z-Y8cuw",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.youtube.com/watch?v=E3N-z-Y8cuw",
+          "publishedOn": "2024-11-24T21:58:25.000Z",
+          "wordCount": null,
+          "title": "No More Storage Limits: M.2 Adapter for Apple's M1 MacBooks [video]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.combinationsmag.com/build-network-societies-not-network-states/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.combinationsmag.com/build-network-societies-not-network-states/",
+          "publishedOn": "2024-11-24T21:54:19.000Z",
+          "wordCount": 3678,
+          "title": "Build network societies, not network states",
+          "imageUrl": "https://www.combinationsmag.com/content/images/2024/10/open-graph.png"
+        },
+        {
+          "id": "https://lemon.rip/w/c99-vla-tricks/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lemon.rip/w/c99-vla-tricks/",
+          "publishedOn": "2024-11-24T21:42:03.000Z",
+          "wordCount": 1665,
+          "title": "C99 doesn't need function bodies: VLAs are Turing complete",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer",
+          "publishedOn": "2024-11-24T21:01:01.000Z",
+          "wordCount": 1064,
+          "title": "Continue (YC S23) Is Hiring a Software Engineer in San Francisco",
+          "imageUrl": "https://yc-workatastartup-production.s3.amazonaws.com/jobs_company_jobs/images/62784/486ce26cd07847905dd8cda6e83084596bf8368a.png?1718314240"
+        },
+        {
+          "id": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB491/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB491/",
+          "publishedOn": "2024-11-24T20:52:05.000Z",
+          "wordCount": 3421,
+          "title": "Removing half a ton of HEU from Kazakhstan (2014)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://danielmangum.com/posts/this-website-is-hosted-on-bluesky/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://danielmangum.com/posts/this-website-is-hosted-on-bluesky/",
+          "publishedOn": "2024-11-24T20:43:33.000Z",
+          "wordCount": 2883,
+          "title": "This website is hosted on Bluesky",
+          "imageUrl": "https://danielmangum.com/images/twitter-card.png"
+        },
+        {
+          "id": "https://www.sqlite.org/lang_with.html#outlandish_recursive_query_examples",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.sqlite.org/lang_with.html#outlandish_recursive_query_examples",
+          "publishedOn": "2024-11-24T20:42:42.000Z",
+          "wordCount": 4502,
+          "title": "SQLite: Outlandish Recursive Query Examples",
+          "imageUrl": null
+        },
+        {
+          "id": "https://chipsandcheese.com/p/pushing-amds-infinity-fabric-to-its",
+          "author": null,
+          "description": "Comments",
+          "link": "https://chipsandcheese.com/p/pushing-amds-infinity-fabric-to-its",
+          "publishedOn": "2024-11-24T20:39:01.000Z",
+          "wordCount": 11034,
+          "title": "Pushing AMD's Infinity Fabric to Its Limit",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6dad193f-4091-413f-9d9c-35c723e9b107_2239x1267.png"
+        },
+        {
+          "id": "https://gitlab.com/owl-lisp/owl",
+          "author": null,
+          "description": "Comments",
+          "link": "https://gitlab.com/owl-lisp/owl",
+          "publishedOn": "2024-11-24T20:37:27.000Z",
+          "wordCount": 422,
+          "title": "Owl Lisp – A functional Scheme for world domination",
+          "imageUrl": "https://gitlab.com/uploads/-/system/project/avatar/6759456/owl-logo-2.png"
+        },
+        {
+          "id": "https://www.starlink.com/business/direct-to-cell",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.starlink.com/business/direct-to-cell",
+          "publishedOn": "2024-11-24T20:08:34.000Z",
+          "wordCount": 3704,
+          "title": "Starlink Direct to Cell",
+          "imageUrl": "https://www.starlink.com/assets/images/social/share.png"
+        },
+        {
+          "id": "https://www.electronicsweekly.com/news/business/hynix-launches-321-layer-nanzd-2024-11/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.electronicsweekly.com/news/business/hynix-launches-321-layer-nanzd-2024-11/",
+          "publishedOn": "2024-11-24T19:30:10.000Z",
+          "wordCount": 2332,
+          "title": "Hynix launches 321-layer NAND",
+          "imageUrl": "https://static.electronicsweekly.com/wp-content/uploads/2024/11/21164158/IMG_0492.webp"
+        },
+        {
+          "id": "https://sloonz.github.io/posts/wireguard-beyond-basic-configuration/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://sloonz.github.io/posts/wireguard-beyond-basic-configuration/",
+          "publishedOn": "2024-11-24T18:08:04.000Z",
+          "wordCount": 2223,
+          "title": "WireGuard: Beyond the most basic configuration",
+          "imageUrl": null
+        },
+        {
+          "id": "https://inside.java/2024/11/22/mark-scavenge-gc/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://inside.java/2024/11/22/mark-scavenge-gc/",
+          "publishedOn": "2024-11-24T17:40:12.000Z",
+          "wordCount": 1453,
+          "title": "Mark–Scavenge: Waiting for Trash to Take Itself Out",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.wral.com/news/local/nc-state-marshall-brain-dies-november-2024/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.wral.com/news/local/nc-state-marshall-brain-dies-november-2024/",
+          "publishedOn": "2024-11-24T16:39:07.000Z",
+          "wordCount": 708,
+          "title": "Marshall Brain has died",
+          "imageUrl": "https://images.wral.com/d5e9f942-c3e4-42f0-b449-f6b85291bf11?w=1200&h=630"
+        },
+        {
+          "id": "https://zkorean.com/hangul/history_of_hangul",
+          "author": null,
+          "description": "Comments",
+          "link": "https://zkorean.com/hangul/history_of_hangul",
+          "publishedOn": "2024-11-24T15:46:14.000Z",
+          "wordCount": 369,
+          "title": "History of Hangul",
+          "imageUrl": "http://a2.twimg.com/profile_images/224305761/zklogo_bigger.png"
+        },
+        {
+          "id": "https://github.com/huggingface/smollm",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/huggingface/smollm",
+          "publishedOn": "2024-11-24T15:44:30.000Z",
+          "wordCount": 3922,
+          "title": "Full LLM training and evaluation toolkit",
+          "imageUrl": "https://opengraph.githubassets.com/0006e83c3151f8b9682b5ffb2da007bc2db6e14dc04f9d116b9932a4b8bb5318/huggingface/smollm"
+        },
+        {
+          "id": "https://files.spritely.institute/papers/petnames.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://files.spritely.institute/papers/petnames.html",
+          "publishedOn": "2024-11-24T14:38:40.000Z",
+          "wordCount": 3658,
+          "title": "Petnames: A humane approach to secure, decentralized naming",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/taylorogan/status/1859146242519167249",
+          "author": null,
+          "description": "Comments",
+          "link": "https://twitter.com/taylorogan/status/1859146242519167249",
+          "publishedOn": "2024-11-24T14:37:31.000Z",
+          "wordCount": 6,
+          "title": "The size of BYD's factory",
+          "imageUrl": null
+        },
+        {
+          "id": "https://wtf-8.xn--stpie-k0a81a.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://wtf-8.xn--stpie-k0a81a.com/",
+          "publishedOn": "2024-11-24T09:38:06.000Z",
+          "wordCount": 174,
+          "title": "Charset=\"WTF-8\"",
+          "imageUrl": "https://wtf-8.xn--stpie-k0a81a.com/preview.webp"
+        },
+        {
+          "id": "https://apnews.com/article/denmark-forest-trees-fertilizer-e55416347fcc385a3ea8e2415726f908",
+          "author": null,
+          "description": "Comments",
+          "link": "https://apnews.com/article/denmark-forest-trees-fertilizer-e55416347fcc385a3ea8e2415726f908",
+          "publishedOn": "2024-11-24T05:59:06.000Z",
+          "wordCount": null,
+          "title": "Denmark will plant 1B trees and convert 10% of farmland into forest",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.macchaffee.com/blog/2024/you-have-built-a-kubernetes/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.macchaffee.com/blog/2024/you-have-built-a-kubernetes/",
+          "publishedOn": "2024-11-24T05:03:13.000Z",
+          "wordCount": 609,
+          "title": "Dear friend, you have built a Kubernetes",
+          "imageUrl": "https://www.macchaffee.com/static/favicon.png"
+        },
+        {
+          "id": "https://en.wikipedia.org/wiki/2007_Boston_Mooninite_panic",
+          "author": null,
+          "description": "Comments",
+          "link": "https://en.wikipedia.org/wiki/2007_Boston_Mooninite_panic",
+          "publishedOn": "2024-11-24T02:54:02.000Z",
+          "wordCount": 6624,
+          "title": "2007 Boston Mooninite Panic",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/ATHF_LED_in_Cambridge.jpg"
+        },
+        {
           "id": "https://www.science.org/doi/10.1126/sciadv.adn9188",
           "author": null,
           "description": "Comments",
@@ -80,6 +320,16 @@
           "wordCount": 3263,
           "title": "Continuous Integration Dashboard for Apache NuttX RTOS (Prometheus and Grafana)",
           "imageUrl": "https://lupyuen.github.io/images/ci4-dashboard.png"
+        },
+        {
+          "id": "https://www.patrickcraig.co.uk/other/compression.htm",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.patrickcraig.co.uk/other/compression.htm",
+          "publishedOn": "2024-11-23T21:10:03.000Z",
+          "wordCount": 9223,
+          "title": "The $5000 Compression Challenge (2001)",
+          "imageUrl": null
         },
         {
           "id": "http://www.righto.com/2024/11/antenna-diodes-in-pentium-processor.html",
@@ -302,6 +552,26 @@
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F363b2e5d-d3f7-479c-b1e8-3bfdc37e547c_6240x4160.jpeg"
         },
         {
+          "id": "https://www.nasa.gov/science-research/planetary-science/astrobiology/nasa-mystery-of-lifes-handedness-deepens/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nasa.gov/science-research/planetary-science/astrobiology/nasa-mystery-of-lifes-handedness-deepens/",
+          "publishedOn": "2024-11-22T14:35:38.000Z",
+          "wordCount": 2219,
+          "title": "NASA: Mystery of Life's Handedness Deepens",
+          "imageUrl": "https://www.nasa.gov/wp-content/uploads/2024/11/l-r-isovaline-print.jpg"
+        },
+        {
+          "id": "https://irenezhang.net/blog/2019/05/21/demikernel.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://irenezhang.net/blog/2019/05/21/demikernel.html",
+          "publishedOn": "2024-11-22T14:32:09.000Z",
+          "wordCount": 1191,
+          "title": "The Case for a High-Level Kernel-Bypass I/O Abstraction (2019)",
+          "imageUrl": null
+        },
+        {
           "id": "https://historyonthefox.wordpress.com/2014/04/06/the-remarkable-life-and-astonishing-times-of-dwight-smith-young/",
           "author": null,
           "description": "Comments",
@@ -430,6 +700,16 @@
           "wordCount": 8401,
           "title": "The Tao of Topic Maps (2000)",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.thenation.com/article/culture/slouch-back-pain-history/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.thenation.com/article/culture/slouch-back-pain-history/",
+          "publishedOn": "2024-11-22T06:17:56.000Z",
+          "wordCount": 7512,
+          "title": "Slouch: Posture panic in modern America",
+          "imageUrl": "https://www.thenation.com/wp-content/uploads/2024/11/GettyImages-515959094.jpg"
         },
         {
           "id": "https://github.com/pingcap/autoflow",
@@ -602,6 +882,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://xiph.org/video/vid2.shtml",
+          "author": null,
+          "description": "Comments",
+          "link": "https://xiph.org/video/vid2.shtml",
+          "publishedOn": "2024-11-19T13:27:40.000Z",
+          "wordCount": 326,
+          "title": "Digital Show and Tell (2013): Xiph's Monty on Digital Audio",
+          "imageUrl": null
+        },
+        {
           "id": "https://johncarlosbaez.wordpress.com/2015/08/11/the-physics-of-butterfly-wings/",
           "author": null,
           "description": "Comments",
@@ -760,6 +1050,16 @@
           "wordCount": 243,
           "title": "Interactive Visual Sorting",
           "imageUrl": "/visual-sorting/demo.png"
+        },
+        {
+          "id": "https://nautil.us/the-power-of-small-brain-networks-1138987/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://nautil.us/the-power-of-small-brain-networks-1138987/",
+          "publishedOn": "2024-11-18T08:25:36.000Z",
+          "wordCount": 6413,
+          "title": "The Power of Small Brain Networks",
+          "imageUrl": "https://assets.nautil.us/sites/3/nautilus/MZRvuNHu-Renken_HERO.png?auto=compress&fm=png&ixlib=php-3.3.1"
         },
         {
           "id": "https://quuxplusone.github.io/blog/2024/09/04/the-game-is-flawed/",

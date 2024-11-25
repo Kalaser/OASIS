@@ -2,10 +2,250 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Kalaser.github.io/OASIS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-24T01:14:20.199Z</updated>
+    <updated>2024-11-25T01:10:39.469Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Kalaser.github.io/OASIS/index.html"/>
     <link rel="self" href="https://Kalaser.github.io/OASIS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Two Factions of C++]]></title>
+        <id>https://herecomesthemoon.net/2024/11/two-factions-of-cpp/</id>
+        <link href="https://herecomesthemoon.net/2024/11/two-factions-of-cpp/"/>
+        <updated>2024-11-24T23:21:36.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bluesky is on the verge of overtaking Threads in all the ways that matter]]></title>
+        <id>https://mashable.com/article/bluesky-gaining-ground-on-competitor-meta-threads</id>
+        <link href="https://mashable.com/article/bluesky-gaining-ground-on-competitor-meta-threads"/>
+        <updated>2024-11-24T22:23:14.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No More Storage Limits: M.2 Adapter for Apple's M1 MacBooks [video]]]></title>
+        <id>https://www.youtube.com/watch?v=E3N-z-Y8cuw</id>
+        <link href="https://www.youtube.com/watch?v=E3N-z-Y8cuw"/>
+        <updated>2024-11-24T21:58:25.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build network societies, not network states]]></title>
+        <id>https://www.combinationsmag.com/build-network-societies-not-network-states/</id>
+        <link href="https://www.combinationsmag.com/build-network-societies-not-network-states/"/>
+        <updated>2024-11-24T21:54:19.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C99 doesn't need function bodies: VLAs are Turing complete]]></title>
+        <id>https://lemon.rip/w/c99-vla-tricks/</id>
+        <link href="https://lemon.rip/w/c99-vla-tricks/"/>
+        <updated>2024-11-24T21:42:03.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Continue (YC S23) Is Hiring a Software Engineer in San Francisco]]></title>
+        <id>https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer</id>
+        <link href="https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer"/>
+        <updated>2024-11-24T21:01:01.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Removing half a ton of HEU from Kazakhstan (2014)]]></title>
+        <id>https://nsarchive2.gwu.edu/NSAEBB/NSAEBB491/</id>
+        <link href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB491/"/>
+        <updated>2024-11-24T20:52:05.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This website is hosted on Bluesky]]></title>
+        <id>https://danielmangum.com/posts/this-website-is-hosted-on-bluesky/</id>
+        <link href="https://danielmangum.com/posts/this-website-is-hosted-on-bluesky/"/>
+        <updated>2024-11-24T20:43:33.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQLite: Outlandish Recursive Query Examples]]></title>
+        <id>https://www.sqlite.org/lang_with.html#outlandish_recursive_query_examples</id>
+        <link href="https://www.sqlite.org/lang_with.html#outlandish_recursive_query_examples"/>
+        <updated>2024-11-24T20:42:42.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pushing AMD's Infinity Fabric to Its Limit]]></title>
+        <id>https://chipsandcheese.com/p/pushing-amds-infinity-fabric-to-its</id>
+        <link href="https://chipsandcheese.com/p/pushing-amds-infinity-fabric-to-its"/>
+        <updated>2024-11-24T20:39:01.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Owl Lisp – A functional Scheme for world domination]]></title>
+        <id>https://gitlab.com/owl-lisp/owl</id>
+        <link href="https://gitlab.com/owl-lisp/owl"/>
+        <updated>2024-11-24T20:37:27.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Starlink Direct to Cell]]></title>
+        <id>https://www.starlink.com/business/direct-to-cell</id>
+        <link href="https://www.starlink.com/business/direct-to-cell"/>
+        <updated>2024-11-24T20:08:34.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hynix launches 321-layer NAND]]></title>
+        <id>https://www.electronicsweekly.com/news/business/hynix-launches-321-layer-nanzd-2024-11/</id>
+        <link href="https://www.electronicsweekly.com/news/business/hynix-launches-321-layer-nanzd-2024-11/"/>
+        <updated>2024-11-24T19:30:10.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WireGuard: Beyond the most basic configuration]]></title>
+        <id>https://sloonz.github.io/posts/wireguard-beyond-basic-configuration/</id>
+        <link href="https://sloonz.github.io/posts/wireguard-beyond-basic-configuration/"/>
+        <updated>2024-11-24T18:08:04.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mark–Scavenge: Waiting for Trash to Take Itself Out]]></title>
+        <id>https://inside.java/2024/11/22/mark-scavenge-gc/</id>
+        <link href="https://inside.java/2024/11/22/mark-scavenge-gc/"/>
+        <updated>2024-11-24T17:40:12.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marshall Brain has died]]></title>
+        <id>https://www.wral.com/news/local/nc-state-marshall-brain-dies-november-2024/</id>
+        <link href="https://www.wral.com/news/local/nc-state-marshall-brain-dies-november-2024/"/>
+        <updated>2024-11-24T16:39:07.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[History of Hangul]]></title>
+        <id>https://zkorean.com/hangul/history_of_hangul</id>
+        <link href="https://zkorean.com/hangul/history_of_hangul"/>
+        <updated>2024-11-24T15:46:14.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Full LLM training and evaluation toolkit]]></title>
+        <id>https://github.com/huggingface/smollm</id>
+        <link href="https://github.com/huggingface/smollm"/>
+        <updated>2024-11-24T15:44:30.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Petnames: A humane approach to secure, decentralized naming]]></title>
+        <id>https://files.spritely.institute/papers/petnames.html</id>
+        <link href="https://files.spritely.institute/papers/petnames.html"/>
+        <updated>2024-11-24T14:38:40.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The size of BYD's factory]]></title>
+        <id>https://twitter.com/taylorogan/status/1859146242519167249</id>
+        <link href="https://twitter.com/taylorogan/status/1859146242519167249"/>
+        <updated>2024-11-24T14:37:31.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Charset="WTF-8"]]></title>
+        <id>https://wtf-8.xn--stpie-k0a81a.com/</id>
+        <link href="https://wtf-8.xn--stpie-k0a81a.com/"/>
+        <updated>2024-11-24T09:38:06.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Denmark will plant 1B trees and convert 10% of farmland into forest]]></title>
+        <id>https://apnews.com/article/denmark-forest-trees-fertilizer-e55416347fcc385a3ea8e2415726f908</id>
+        <link href="https://apnews.com/article/denmark-forest-trees-fertilizer-e55416347fcc385a3ea8e2415726f908"/>
+        <updated>2024-11-24T05:59:06.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dear friend, you have built a Kubernetes]]></title>
+        <id>https://www.macchaffee.com/blog/2024/you-have-built-a-kubernetes/</id>
+        <link href="https://www.macchaffee.com/blog/2024/you-have-built-a-kubernetes/"/>
+        <updated>2024-11-24T05:03:13.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2007 Boston Mooninite Panic]]></title>
+        <id>https://en.wikipedia.org/wiki/2007_Boston_Mooninite_panic</id>
+        <link href="https://en.wikipedia.org/wiki/2007_Boston_Mooninite_panic"/>
+        <updated>2024-11-24T02:54:02.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ice base melt revealed by multibeam imagery of an Antarctic ice shelf]]></title>
         <id>https://www.science.org/doi/10.1126/sciadv.adn9188</id>
@@ -71,6 +311,16 @@
         <id>https://lupyuen.github.io/articles/ci4</id>
         <link href="https://lupyuen.github.io/articles/ci4"/>
         <updated>2024-11-23T21:44:10.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The $5000 Compression Challenge (2001)]]></title>
+        <id>https://www.patrickcraig.co.uk/other/compression.htm</id>
+        <link href="https://www.patrickcraig.co.uk/other/compression.htm"/>
+        <updated>2024-11-23T21:10:03.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -297,6 +547,26 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[NASA: Mystery of Life's Handedness Deepens]]></title>
+        <id>https://www.nasa.gov/science-research/planetary-science/astrobiology/nasa-mystery-of-lifes-handedness-deepens/</id>
+        <link href="https://www.nasa.gov/science-research/planetary-science/astrobiology/nasa-mystery-of-lifes-handedness-deepens/"/>
+        <updated>2024-11-22T14:35:38.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Case for a High-Level Kernel-Bypass I/O Abstraction (2019)]]></title>
+        <id>https://irenezhang.net/blog/2019/05/21/demikernel.html</id>
+        <link href="https://irenezhang.net/blog/2019/05/21/demikernel.html"/>
+        <updated>2024-11-22T14:32:09.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The remarkable life and astonishing times of Dwight Smith Young]]></title>
         <id>https://historyonthefox.wordpress.com/2014/04/06/the-remarkable-life-and-astonishing-times-of-dwight-smith-young/</id>
         <link href="https://historyonthefox.wordpress.com/2014/04/06/the-remarkable-life-and-astonishing-times-of-dwight-smith-young/"/>
@@ -421,6 +691,16 @@
         <id>https://ontopia.net/topicmaps/materials/tao.html</id>
         <link href="https://ontopia.net/topicmaps/materials/tao.html"/>
         <updated>2024-11-22T06:52:35.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slouch: Posture panic in modern America]]></title>
+        <id>https://www.thenation.com/article/culture/slouch-back-pain-history/</id>
+        <link href="https://www.thenation.com/article/culture/slouch-back-pain-history/"/>
+        <updated>2024-11-22T06:17:56.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -597,6 +877,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Digital Show and Tell (2013): Xiph's Monty on Digital Audio]]></title>
+        <id>https://xiph.org/video/vid2.shtml</id>
+        <link href="https://xiph.org/video/vid2.shtml"/>
+        <updated>2024-11-19T13:27:40.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Physics of Butterfly Wings]]></title>
         <id>https://johncarlosbaez.wordpress.com/2015/08/11/the-physics-of-butterfly-wings/</id>
         <link href="https://johncarlosbaez.wordpress.com/2015/08/11/the-physics-of-butterfly-wings/"/>
@@ -751,6 +1041,16 @@
         <id>https://mszula.github.io/visual-sorting/</id>
         <link href="https://mszula.github.io/visual-sorting/"/>
         <updated>2024-11-18T09:57:04.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Power of Small Brain Networks]]></title>
+        <id>https://nautil.us/the-power-of-small-brain-networks-1138987/</id>
+        <link href="https://nautil.us/the-power-of-small-brain-networks-1138987/"/>
+        <updated>2024-11-18T08:25:36.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
