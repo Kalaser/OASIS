@@ -12,6 +12,186 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-functionality-conditional-writes/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-functionality-conditional-writes/",
+          "publishedOn": "2024-11-25T22:11:31.000Z",
+          "wordCount": 1019,
+          "title": "Amazon S3 Adds Put-If-Match (Compare-and-Swap)",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "https://manchestermill.co.uk/p/the-secret-history-of-the-worlds",
+          "author": null,
+          "description": "Comments",
+          "link": "https://manchestermill.co.uk/p/the-secret-history-of-the-worlds",
+          "publishedOn": "2024-11-25T20:51:23.000Z",
+          "wordCount": 5622,
+          "title": "The First Suburb",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F504ec120-6b4e-45d9-819e-134533eab1b2_994x644.png"
+        },
+        {
+          "id": "https://www.viksnewsletter.com/p/short-intro-to-automotive-lidar",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.viksnewsletter.com/p/short-intro-to-automotive-lidar",
+          "publishedOn": "2024-11-25T20:12:27.000Z",
+          "wordCount": 6471,
+          "title": "A Short Introduction to Automotive Lidar Technology",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc68959f4-8bfc-412e-ae61-9027a0d864ad_1456x1048.png"
+        },
+        {
+          "id": "https://www.metmuseum.org/perspectives/peter-hristoff-islamic-prayer-rugs",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.metmuseum.org/perspectives/peter-hristoff-islamic-prayer-rugs",
+          "publishedOn": "2024-11-25T19:45:45.000Z",
+          "wordCount": 1805,
+          "title": "Prayer, Placement, and Absolution: Peter Hristoff on Islamic Prayer Rugs (2015)",
+          "imageUrl": "https://cdn.sanity.io/images/cctd4ker/production/0557c2763374e97543439a995cb9eefe6e03a177-600x338.jpg?w=600&q=75&auto=format"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Osn3JXaT3W8",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.youtube.com/watch?v=Osn3JXaT3W8",
+          "publishedOn": "2024-11-25T19:30:21.000Z",
+          "wordCount": null,
+          "title": "Summary of \"Improvising cellular playgrounds in Realtalk\", Aug 2023 [video]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ldenoue.github.io/readabletranscripts/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ldenoue.github.io/readabletranscripts/",
+          "publishedOn": "2024-11-25T18:44:22.000Z",
+          "wordCount": 40,
+          "title": "Show HN: Gemini LLM corrects ASR YouTube transcripts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://huntlie.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://huntlie.com/",
+          "publishedOn": "2024-11-25T17:56:34.000Z",
+          "wordCount": 1591,
+          "title": "Show HN: I am Building a Producthunt alternative",
+          "imageUrl": "https://huntlie.com/og-image.png"
+        },
+        {
+          "id": "http://www.call-with-current-continuation.org/fleng/fleng.html",
+          "author": null,
+          "description": "Comments",
+          "link": "http://www.call-with-current-continuation.org/fleng/fleng.html",
+          "publishedOn": "2024-11-25T17:44:51.000Z",
+          "wordCount": 8339,
+          "title": "Fleng 22 (concurrent logic programming)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://replit.com/careers",
+          "author": null,
+          "description": "Comments",
+          "link": "https://replit.com/careers",
+          "publishedOn": "2024-11-25T17:00:59.000Z",
+          "wordCount": null,
+          "title": "Replit (YC W18) Is Hiring Software Engineers in the Bay Area",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.anthropic.com/news/model-context-protocol",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.anthropic.com/news/model-context-protocol",
+          "publishedOn": "2024-11-25T16:14:22.000Z",
+          "wordCount": 1602,
+          "title": "Model Context Protocol",
+          "imageUrl": "https://cdn.sanity.io/images/4zrzovbb/website/1aef864f9b246c740fe3cef6e1068f2220995d5e-2400x1260.png"
+        },
+        {
+          "id": "https://www.flowtide.app/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.flowtide.app/",
+          "publishedOn": "2024-11-25T15:51:59.000Z",
+          "wordCount": 1087,
+          "title": "Show HN: Minimal, customizable new tab for Chrome/Firefox",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/destel/rill",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/destel/rill",
+          "publishedOn": "2024-11-25T15:41:22.000Z",
+          "wordCount": 9510,
+          "title": "Show HN: Rill – Composable concurrency toolkit for Go",
+          "imageUrl": "https://opengraph.githubassets.com/8aac5d973fb7c315c053fd75861cc0cd037ec903d6f0991996af8b623c71e2ef/destel/rill"
+        },
+        {
+          "id": "https://cacm.acm.org/research-highlights/computing-with-time-microarchitectural-weird-machines/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://cacm.acm.org/research-highlights/computing-with-time-microarchitectural-weird-machines/",
+          "publishedOn": "2024-11-25T11:42:06.000Z",
+          "wordCount": 9661,
+          "title": "Computing with Time: Microarchitectural Weird Machines",
+          "imageUrl": null
+        },
+        {
+          "id": "https://articles.foletta.org/post/2024-01-08-a-day-in-the-life-the-bgp-table/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://articles.foletta.org/post/2024-01-08-a-day-in-the-life-the-bgp-table/",
+          "publishedOn": "2024-11-25T05:41:45.000Z",
+          "wordCount": 2969,
+          "title": "A Day in the Life: The Global BGP Table",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.bbc.com/future/article/20241029-the-caving-scientists-exploring-the-darkest-places-on-earth",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bbc.com/future/article/20241029-the-caving-scientists-exploring-the-darkest-places-on-earth",
+          "publishedOn": "2024-11-25T03:25:33.000Z",
+          "wordCount": 11119,
+          "title": "Caving scientists exploring the darkest places on Earth",
+          "imageUrl": "https://ychef.files.bbci.co.uk/624x351/p0k0yqzd.jpg"
+        },
+        {
+          "id": "https://nicole.express/2024/its-a-bird-its-a-plane-its-super-cassette-vision.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://nicole.express/2024/its-a-bird-its-a-plane-its-super-cassette-vision.html",
+          "publishedOn": "2024-11-25T02:50:03.000Z",
+          "wordCount": 2597,
+          "title": "It's a bird, it's a plane, it's Super Cassette Vision",
+          "imageUrl": "https://nicole.express/assets/img/subpar/y2-cross.png"
+        },
+        {
+          "id": "https://sqlitestudio.pl/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://sqlitestudio.pl/",
+          "publishedOn": "2024-11-25T00:36:46.000Z",
+          "wordCount": 112,
+          "title": "SQLiteStudio: Create, edit, browse SQLite databases",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mmaaz.ca/writings/pipip.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://mmaaz.ca/writings/pipip.html",
+          "publishedOn": "2024-11-25T00:17:15.000Z",
+          "wordCount": 3727,
+          "title": "Solving Boolean satisfiability and integer programming with Python packaging",
+          "imageUrl": "https://www.mmaaz.ca/writings/media/cover.jpg"
+        },
+        {
           "id": "https://herecomesthemoon.net/2024/11/two-factions-of-cpp/",
           "author": null,
           "description": "Comments",
@@ -20,6 +200,16 @@
           "wordCount": 2016,
           "title": "The Two Factions of C++",
           "imageUrl": "https://herecomesthemoon.net/2024/11/two-factions-of-cpp/images/dithers/not-bad-at-all-header_dithered.png"
+        },
+        {
+          "id": "https://trilogydata.dev/demo",
+          "author": null,
+          "description": "Comments",
+          "link": "https://trilogydata.dev/demo",
+          "publishedOn": "2024-11-24T22:53:03.000Z",
+          "wordCount": 3295,
+          "title": "Show HN: Trilogy – A Reusable, Composable SQL Experiment",
+          "imageUrl": null
         },
         {
           "id": "https://mashable.com/article/bluesky-gaining-ground-on-competitor-meta-threads",
@@ -492,6 +682,16 @@
           "imageUrl": "https://www.quantum-machines.co/wp-content/uploads/2024/11/Google-banner-1024x251.png"
         },
         {
+          "id": "https://www.volexity.com/blog/2024/11/22/the-nearest-neighbor-attack-how-a-russian-apt-weaponized-nearby-wi-fi-networks-for-covert-access/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.volexity.com/blog/2024/11/22/the-nearest-neighbor-attack-how-a-russian-apt-weaponized-nearby-wi-fi-networks-for-covert-access/",
+          "publishedOn": "2024-11-22T17:34:32.000Z",
+          "wordCount": 4922,
+          "title": "The Nearest Neighbor Attack",
+          "imageUrl": "https://www.volexity.com/wp-content/uploads/2024/11/Volexity-Blog-The-Nearest-Neighbor-Attack-How-A-Russian-APT-Weaponized-Nearby-Wi-Fi-Networks-for-Covert-Access-300x157.png"
+        },
+        {
           "id": "https://benwang.dev/2023/02/26/Phased-Array-Microphone.html",
           "author": null,
           "description": "Comments",
@@ -582,6 +782,16 @@
           "imageUrl": "https://historyonthefox.wordpress.com/wp-content/uploads/2014/04/1911-abt-dsy-in-darkroom.jpg?w=163"
         },
         {
+          "id": "https://www.optics.dev/Monocle/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.optics.dev/Monocle/",
+          "publishedOn": "2024-11-22T13:48:47.000Z",
+          "wordCount": 161,
+          "title": "Monocle: Optics Library for Scala",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.opb.org/article/2024/11/17/salmon-return-to-lay-eggs-in-historic-habitat-after-largest-dam-removal-project-in-us-history/",
           "author": null,
           "description": "Comments",
@@ -640,6 +850,16 @@
           "wordCount": 3138,
           "title": "A Camera the Size of a Grain of Salt Could Change Imaging as We Know It",
           "imageUrl": null
+        },
+        {
+          "id": "https://phys.org/news/2024-11-chemists-world-thinnest-spaghetti.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://phys.org/news/2024-11-chemists-world-thinnest-spaghetti.html",
+          "publishedOn": "2024-11-22T11:37:17.000Z",
+          "wordCount": 2356,
+          "title": "Chemists Create World's Thinnest Spaghetti",
+          "imageUrl": "https://scx2.b-cdn.net/gfx/news/hires/2024/chemists-create-worlds.jpg"
         },
         {
           "id": "https://www.narratively.com/p/his-biggest-hit-sold-more-copies-than-any-of-the-beatles-so-why-havent-you-heard-of-him",
@@ -852,6 +1072,16 @@
           "imageUrl": "https://abenezerbelachew.com/trees.png"
         },
         {
+          "id": "https://www.chronicle.com/article/scratching-the-surface",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.chronicle.com/article/scratching-the-surface",
+          "publishedOn": "2024-11-21T06:18:43.000Z",
+          "wordCount": null,
+          "title": "Scratching the Surface: How geology shaped American culture",
+          "imageUrl": null
+        },
+        {
           "id": "https://doomsdaymachines.net/p/the-meme-ification-of-the-demon-core",
           "author": null,
           "description": "Comments",
@@ -872,6 +1102,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://newatlas.com/marine/flipping-flip-ship-saved/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://newatlas.com/marine/flipping-flip-ship-saved/",
+          "publishedOn": "2024-11-20T11:01:17.000Z",
+          "wordCount": 4694,
+          "title": "Flipping FLIP ship saved from scrapyard at last minute",
+          "imageUrl": "https://assets.newatlas.com/dims4/default/e13743b/2147483647/strip/true/crop/1379x724+0+100/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F03%2F11%2Ffec87c2a425ea3ecc6761e3c8fee%2Fflip-1.jpg&na.image_optimisation=0"
+        },
+        {
           "id": "https://rachit.pl/post/you-have-built-a-compiler/",
           "author": null,
           "description": "Comments",
@@ -880,6 +1120,16 @@
           "wordCount": 534,
           "title": "Dear sir, you have built a compiler (2022)",
           "imageUrl": null
+        },
+        {
+          "id": "https://slack.engineering/astra-dynamic-chunks-how-we-saved-by-redesigning-a-key-part-of-astra/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://slack.engineering/astra-dynamic-chunks-how-we-saved-by-redesigning-a-key-part-of-astra/",
+          "publishedOn": "2024-11-19T13:41:51.000Z",
+          "wordCount": 1951,
+          "title": "Astra Dynamic Chunks: How We Saved by Redesigning a Key Part of Astra",
+          "imageUrl": "https://slack.engineering/wp-content/uploads/sites/7/2024/11/unnamed.png?w=640"
         },
         {
           "id": "https://xiph.org/video/vid2.shtml",
@@ -950,6 +1200,16 @@
           "wordCount": null,
           "title": "Using GPS in the Year 1565",
           "imageUrl": null
+        },
+        {
+          "id": "https://caneuro.github.io/blog/2024/study-skullwhistle/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://caneuro.github.io/blog/2024/study-skullwhistle/",
+          "publishedOn": "2024-11-19T09:23:33.000Z",
+          "wordCount": 292,
+          "title": "The scary sound of Aztec skull whistles",
+          "imageUrl": "https://caneuro.github.io/assets/theme/images/sw1.jpg"
         },
         {
           "id": "https://www.polarsignals.com/blog/posts/2024/11/13/lua-unwinding",
@@ -1070,6 +1330,26 @@
           "wordCount": 3064,
           "title": "Nash equilibria in Ballmer's binary-search interview game",
           "imageUrl": null
+        },
+        {
+          "id": "https://blog.mbrt.dev/posts/transactional-object-storage/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.mbrt.dev/posts/transactional-object-storage/",
+          "publishedOn": "2024-11-17T13:20:33.000Z",
+          "wordCount": 11428,
+          "title": "Transactional Object Storage?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.weatherzone.com.au/news/making-waves-through-the-wallace-line/1890090",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.weatherzone.com.au/news/making-waves-through-the-wallace-line/1890090",
+          "publishedOn": "2024-11-17T11:15:25.000Z",
+          "wordCount": 4176,
+          "title": "Making waves through the Wallace Line",
+          "imageUrl": "https://www.weatherzone.com.au/news-thumbnail/2957682"
         },
         {
           "id": "https://www.historytoday.com/archive/behind-times/fear-friendship-and-channel-tunnel",

@@ -2,15 +2,205 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Kalaser.github.io/OASIS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-25T01:10:39.469Z</updated>
+    <updated>2024-11-26T01:09:52.181Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Kalaser.github.io/OASIS/index.html"/>
     <link rel="self" href="https://Kalaser.github.io/OASIS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon S3 Adds Put-If-Match (Compare-and-Swap)]]></title>
+        <id>https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-functionality-conditional-writes/</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-functionality-conditional-writes/"/>
+        <updated>2024-11-25T22:11:31.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The First Suburb]]></title>
+        <id>https://manchestermill.co.uk/p/the-secret-history-of-the-worlds</id>
+        <link href="https://manchestermill.co.uk/p/the-secret-history-of-the-worlds"/>
+        <updated>2024-11-25T20:51:23.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Short Introduction to Automotive Lidar Technology]]></title>
+        <id>https://www.viksnewsletter.com/p/short-intro-to-automotive-lidar</id>
+        <link href="https://www.viksnewsletter.com/p/short-intro-to-automotive-lidar"/>
+        <updated>2024-11-25T20:12:27.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prayer, Placement, and Absolution: Peter Hristoff on Islamic Prayer Rugs (2015)]]></title>
+        <id>https://www.metmuseum.org/perspectives/peter-hristoff-islamic-prayer-rugs</id>
+        <link href="https://www.metmuseum.org/perspectives/peter-hristoff-islamic-prayer-rugs"/>
+        <updated>2024-11-25T19:45:45.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Summary of "Improvising cellular playgrounds in Realtalk", Aug 2023 [video]]]></title>
+        <id>https://www.youtube.com/watch?v=Osn3JXaT3W8</id>
+        <link href="https://www.youtube.com/watch?v=Osn3JXaT3W8"/>
+        <updated>2024-11-25T19:30:21.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Gemini LLM corrects ASR YouTube transcripts]]></title>
+        <id>https://ldenoue.github.io/readabletranscripts/</id>
+        <link href="https://ldenoue.github.io/readabletranscripts/"/>
+        <updated>2024-11-25T18:44:22.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I am Building a Producthunt alternative]]></title>
+        <id>https://huntlie.com/</id>
+        <link href="https://huntlie.com/"/>
+        <updated>2024-11-25T17:56:34.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fleng 22 (concurrent logic programming)]]></title>
+        <id>http://www.call-with-current-continuation.org/fleng/fleng.html</id>
+        <link href="http://www.call-with-current-continuation.org/fleng/fleng.html"/>
+        <updated>2024-11-25T17:44:51.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Replit (YC W18) Is Hiring Software Engineers in the Bay Area]]></title>
+        <id>https://replit.com/careers</id>
+        <link href="https://replit.com/careers"/>
+        <updated>2024-11-25T17:00:59.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Model Context Protocol]]></title>
+        <id>https://www.anthropic.com/news/model-context-protocol</id>
+        <link href="https://www.anthropic.com/news/model-context-protocol"/>
+        <updated>2024-11-25T16:14:22.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Minimal, customizable new tab for Chrome/Firefox]]></title>
+        <id>https://www.flowtide.app/</id>
+        <link href="https://www.flowtide.app/"/>
+        <updated>2024-11-25T15:51:59.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Rill – Composable concurrency toolkit for Go]]></title>
+        <id>https://github.com/destel/rill</id>
+        <link href="https://github.com/destel/rill"/>
+        <updated>2024-11-25T15:41:22.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computing with Time: Microarchitectural Weird Machines]]></title>
+        <id>https://cacm.acm.org/research-highlights/computing-with-time-microarchitectural-weird-machines/</id>
+        <link href="https://cacm.acm.org/research-highlights/computing-with-time-microarchitectural-weird-machines/"/>
+        <updated>2024-11-25T11:42:06.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Day in the Life: The Global BGP Table]]></title>
+        <id>https://articles.foletta.org/post/2024-01-08-a-day-in-the-life-the-bgp-table/</id>
+        <link href="https://articles.foletta.org/post/2024-01-08-a-day-in-the-life-the-bgp-table/"/>
+        <updated>2024-11-25T05:41:45.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Caving scientists exploring the darkest places on Earth]]></title>
+        <id>https://www.bbc.com/future/article/20241029-the-caving-scientists-exploring-the-darkest-places-on-earth</id>
+        <link href="https://www.bbc.com/future/article/20241029-the-caving-scientists-exploring-the-darkest-places-on-earth"/>
+        <updated>2024-11-25T03:25:33.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It's a bird, it's a plane, it's Super Cassette Vision]]></title>
+        <id>https://nicole.express/2024/its-a-bird-its-a-plane-its-super-cassette-vision.html</id>
+        <link href="https://nicole.express/2024/its-a-bird-its-a-plane-its-super-cassette-vision.html"/>
+        <updated>2024-11-25T02:50:03.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQLiteStudio: Create, edit, browse SQLite databases]]></title>
+        <id>https://sqlitestudio.pl/</id>
+        <link href="https://sqlitestudio.pl/"/>
+        <updated>2024-11-25T00:36:46.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solving Boolean satisfiability and integer programming with Python packaging]]></title>
+        <id>https://mmaaz.ca/writings/pipip.html</id>
+        <link href="https://mmaaz.ca/writings/pipip.html"/>
+        <updated>2024-11-25T00:17:15.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Two Factions of C++]]></title>
         <id>https://herecomesthemoon.net/2024/11/two-factions-of-cpp/</id>
         <link href="https://herecomesthemoon.net/2024/11/two-factions-of-cpp/"/>
         <updated>2024-11-24T23:21:36.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Trilogy – A Reusable, Composable SQL Experiment]]></title>
+        <id>https://trilogydata.dev/demo</id>
+        <link href="https://trilogydata.dev/demo"/>
+        <updated>2024-11-24T22:53:03.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -487,6 +677,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Nearest Neighbor Attack]]></title>
+        <id>https://www.volexity.com/blog/2024/11/22/the-nearest-neighbor-attack-how-a-russian-apt-weaponized-nearby-wi-fi-networks-for-covert-access/</id>
+        <link href="https://www.volexity.com/blog/2024/11/22/the-nearest-neighbor-attack-how-a-russian-apt-weaponized-nearby-wi-fi-networks-for-covert-access/"/>
+        <updated>2024-11-22T17:34:32.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Phased Array Microphone (2023)]]></title>
         <id>https://benwang.dev/2023/02/26/Phased-Array-Microphone.html</id>
         <link href="https://benwang.dev/2023/02/26/Phased-Array-Microphone.html"/>
@@ -577,6 +777,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Monocle: Optics Library for Scala]]></title>
+        <id>https://www.optics.dev/Monocle/</id>
+        <link href="https://www.optics.dev/Monocle/"/>
+        <updated>2024-11-22T13:48:47.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Salmon return to lay eggs in historic habitat after dam removal project]]></title>
         <id>https://www.opb.org/article/2024/11/17/salmon-return-to-lay-eggs-in-historic-habitat-after-largest-dam-removal-project-in-us-history/</id>
         <link href="https://www.opb.org/article/2024/11/17/salmon-return-to-lay-eggs-in-historic-habitat-after-largest-dam-removal-project-in-us-history/"/>
@@ -631,6 +841,16 @@
         <id>https://cacm.acm.org/news/a-camera-the-size-of-a-grain-of-salt-could-change-imaging-as-we-know-it/</id>
         <link href="https://cacm.acm.org/news/a-camera-the-size-of-a-grain-of-salt-could-change-imaging-as-we-know-it/"/>
         <updated>2024-11-22T11:39:53.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chemists Create World's Thinnest Spaghetti]]></title>
+        <id>https://phys.org/news/2024-11-chemists-world-thinnest-spaghetti.html</id>
+        <link href="https://phys.org/news/2024-11-chemists-world-thinnest-spaghetti.html"/>
+        <updated>2024-11-22T11:37:17.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -847,6 +1067,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Scratching the Surface: How geology shaped American culture]]></title>
+        <id>https://www.chronicle.com/article/scratching-the-surface</id>
+        <link href="https://www.chronicle.com/article/scratching-the-surface"/>
+        <updated>2024-11-21T06:18:43.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The meme-ification of the “Demon Core”]]></title>
         <id>https://doomsdaymachines.net/p/the-meme-ification-of-the-demon-core</id>
         <link href="https://doomsdaymachines.net/p/the-meme-ification-of-the-demon-core"/>
@@ -867,10 +1097,30 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Flipping FLIP ship saved from scrapyard at last minute]]></title>
+        <id>https://newatlas.com/marine/flipping-flip-ship-saved/</id>
+        <link href="https://newatlas.com/marine/flipping-flip-ship-saved/"/>
+        <updated>2024-11-20T11:01:17.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Dear sir, you have built a compiler (2022)]]></title>
         <id>https://rachit.pl/post/you-have-built-a-compiler/</id>
         <link href="https://rachit.pl/post/you-have-built-a-compiler/"/>
         <updated>2024-11-19T17:51:14.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Astra Dynamic Chunks: How We Saved by Redesigning a Key Part of Astra]]></title>
+        <id>https://slack.engineering/astra-dynamic-chunks-how-we-saved-by-redesigning-a-key-part-of-astra/</id>
+        <link href="https://slack.engineering/astra-dynamic-chunks-how-we-saved-by-redesigning-a-key-part-of-astra/"/>
+        <updated>2024-11-19T13:41:51.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -941,6 +1191,16 @@
         <id>https://www.verbeeld.be/2024/11/17/using-gps-in-the-year-1565/</id>
         <link href="https://www.verbeeld.be/2024/11/17/using-gps-in-the-year-1565/"/>
         <updated>2024-11-19T09:31:31.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The scary sound of Aztec skull whistles]]></title>
+        <id>https://caneuro.github.io/blog/2024/study-skullwhistle/</id>
+        <link href="https://caneuro.github.io/blog/2024/study-skullwhistle/"/>
+        <updated>2024-11-19T09:23:33.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -1061,6 +1321,26 @@
         <id>https://quuxplusone.github.io/blog/2024/09/04/the-game-is-flawed/</id>
         <link href="https://quuxplusone.github.io/blog/2024/09/04/the-game-is-flawed/"/>
         <updated>2024-11-17T13:30:29.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transactional Object Storage?]]></title>
+        <id>https://blog.mbrt.dev/posts/transactional-object-storage/</id>
+        <link href="https://blog.mbrt.dev/posts/transactional-object-storage/"/>
+        <updated>2024-11-17T13:20:33.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making waves through the Wallace Line]]></title>
+        <id>https://www.weatherzone.com.au/news/making-waves-through-the-wallace-line/1890090</id>
+        <link href="https://www.weatherzone.com.au/news/making-waves-through-the-wallace-line/1890090"/>
+        <updated>2024-11-17T11:15:25.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
