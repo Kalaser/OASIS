@@ -2,10 +2,270 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Kalaser.github.io/OASIS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-26T01:09:52.181Z</updated>
+    <updated>2024-11-27T01:12:58.371Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Kalaser.github.io/OASIS/index.html"/>
     <link rel="self" href="https://Kalaser.github.io/OASIS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Quality of code is too high]]></title>
+        <id>https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition/issues/509</id>
+        <link href="https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition/issues/509"/>
+        <updated>2024-11-27T00:25:21.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ISPs say their "excellent customer service" is why users don't switch providers]]></title>
+        <id>https://arstechnica.com/tech-policy/2024/11/isps-say-their-excellent-customer-service-is-why-users-dont-switch-providers/</id>
+        <link href="https://arstechnica.com/tech-policy/2024/11/isps-say-their-excellent-customer-service-is-why-users-dont-switch-providers/"/>
+        <updated>2024-11-27T00:14:25.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Executing ARM Jazelle (JVM Bytecode) on the Wii's Starlet]]></title>
+        <id>https://github.com/thamugadi/jazelle-wii</id>
+        <link href="https://github.com/thamugadi/jazelle-wii"/>
+        <updated>2024-11-27T00:04:59.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 10's farewell tour – not AI PCs – set to drive laptop sales in 2025]]></title>
+        <id>https://www.theregister.com/2024/11/26/trendforce_laptop_sales_2025/</id>
+        <link href="https://www.theregister.com/2024/11/26/trendforce_laptop_sales_2025/"/>
+        <updated>2024-11-26T23:36:13.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Has anyone tried adapting a court reporter keyboard for writing code?]]></title>
+        <id>https://news.ycombinator.com/item?id=42251040</id>
+        <link href="https://news.ycombinator.com/item?id=42251040"/>
+        <updated>2024-11-26T22:56:47.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I created a lightweight JavaScript library to visualize JSON as a graph]]></title>
+        <id>https://github.com/xzitlou/jsontr.ee</id>
+        <link href="https://github.com/xzitlou/jsontr.ee"/>
+        <updated>2024-11-26T22:41:14.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon tripled prices for the basic tier of their auth service Cognito]]></title>
+        <id>https://saasprices.net/blog/aws-price-rise</id>
+        <link href="https://saasprices.net/blog/aws-price-rise"/>
+        <updated>2024-11-26T21:30:01.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D-Link says "just buy a new router" after 9.8 critical vulnerability [video]]]></title>
+        <id>https://www.youtube.com/watch?v=52v6gKPA4TM</id>
+        <link href="https://www.youtube.com/watch?v=52v6gKPA4TM"/>
+        <updated>2024-11-26T20:36:17.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZetaOffice: LibreOffice in the Browser]]></title>
+        <id>https://zetaoffice.net/</id>
+        <link href="https://zetaoffice.net/"/>
+        <updated>2024-11-26T20:32:24.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Rhapsody Report (1997)]]></title>
+        <id>https://www.uvm.edu/~sjc/raposody.html</id>
+        <link href="https://www.uvm.edu/~sjc/raposody.html"/>
+        <updated>2024-11-26T20:10:47.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Artificial Intelligence and the Future of Work]]></title>
+        <id>https://nap.nationalacademies.org/resource/27644/interactive/</id>
+        <link href="https://nap.nationalacademies.org/resource/27644/interactive/"/>
+        <updated>2024-11-26T19:31:24.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GenChess]]></title>
+        <id>https://labs.google/genchess</id>
+        <link href="https://labs.google/genchess"/>
+        <updated>2024-11-26T18:47:04.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teen mathematicians tie knots through a mind-blowing fractal]]></title>
+        <id>https://www.quantamagazine.org/teen-mathematicians-tie-knots-through-a-mind-blowing-fractal-20241126/</id>
+        <link href="https://www.quantamagazine.org/teen-mathematicians-tie-knots-through-a-mind-blowing-fractal-20241126/"/>
+        <updated>2024-11-26T18:43:26.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The industry structure of LLM makers]]></title>
+        <id>https://calpaterson.com/porter.html</id>
+        <link href="https://calpaterson.com/porter.html"/>
+        <updated>2024-11-26T18:35:26.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1B nested loop iterations]]></title>
+        <id>https://benjdd.com/languages/</id>
+        <link href="https://benjdd.com/languages/"/>
+        <updated>2024-11-26T18:17:57.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launch HN: Human Layer (YC F24) – Human-in-the-Loop API for AI Systems]]></title>
+        <id>https://news.ycombinator.com/item?id=42247368</id>
+        <link href="https://news.ycombinator.com/item?id=42247368"/>
+        <updated>2024-11-26T16:57:12.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Silent Poems – Visual expression of unspoken thoughts]]></title>
+        <id>https://silentpoems.net/</id>
+        <link href="https://silentpoems.net/"/>
+        <updated>2024-11-26T15:30:56.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Henry James and H.G. Wells (1958)]]></title>
+        <id>https://www.bopsecrets.org/rexroth/essays/james-wells.htm</id>
+        <link href="https://www.bopsecrets.org/rexroth/essays/james-wells.htm"/>
+        <updated>2024-11-26T13:33:35.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLVM-powered devirtualization]]></title>
+        <id>https://blog.thalium.re/posts/llvm-powered-devirtualization/</id>
+        <link href="https://blog.thalium.re/posts/llvm-powered-devirtualization/"/>
+        <updated>2024-11-26T12:38:34.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: SQLite Plugin for Jekyll]]></title>
+        <id>https://github.com/captn3m0/jekyll-sqlite</id>
+        <link href="https://github.com/captn3m0/jekyll-sqlite"/>
+        <updated>2024-11-26T12:11:31.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Revolution in How Robots Learn]]></title>
+        <id>https://www.newyorker.com/magazine/2024/12/02/a-revolution-in-how-robots-learn</id>
+        <link href="https://www.newyorker.com/magazine/2024/12/02/a-revolution-in-how-robots-learn"/>
+        <updated>2024-11-26T12:08:37.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A solution to The Onion problem of J. Kenji Lopez-Alt (2021)]]></title>
+        <id>https://medium.com/@drspoulsen/a-solution-to-the-onion-problem-of-j-kenji-l%C3%B3pez-alt-c3c4ab22e67c</id>
+        <link href="https://medium.com/@drspoulsen/a-solution-to-the-onion-problem-of-j-kenji-l%C3%B3pez-alt-c3c4ab22e67c"/>
+        <updated>2024-11-26T11:38:11.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git-crypt – transparent file encryption in Git]]></title>
+        <id>https://www.agwa.name/projects/git-crypt/</id>
+        <link href="https://www.agwa.name/projects/git-crypt/"/>
+        <updated>2024-11-26T09:45:40.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We can mine asteroids for space food]]></title>
+        <id>https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/how-we-can-mine-asteroids-for-space-food/9EF3C4FA6F32368D09994EB7910C7035</id>
+        <link href="https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/how-we-can-mine-asteroids-for-space-food/9EF3C4FA6F32368D09994EB7910C7035"/>
+        <updated>2024-11-26T09:29:55.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Setelinleikkaus: When Finns snipped their cash in half to curb inflation]]></title>
+        <id>http://jpkoning.blogspot.com/2024/11/setelinleikkaus-when-finns-snipped.html</id>
+        <link href="http://jpkoning.blogspot.com/2024/11/setelinleikkaus-when-finns-snipped.html"/>
+        <updated>2024-11-26T08:52:00.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sombrero Galaxy dazzles in new James Webb image]]></title>
+        <id>https://science.nasa.gov/missions/webb/hats-off-to-nasas-webb-sombrero-galaxy-dazzles-in-new-image/</id>
+        <link href="https://science.nasa.gov/missions/webb/hats-off-to-nasas-webb-sombrero-galaxy-dazzles-in-new-image/"/>
+        <updated>2024-11-25T22:13:05.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon S3 Adds Put-If-Match (Compare-and-Swap)]]></title>
         <id>https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-functionality-conditional-writes/</id>
@@ -637,6 +897,26 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Remembering Cyberia, the first ever cyber cafe]]></title>
+        <id>https://www.vice.com/en/article/worlds-first-ever-cyber-cafe-cyberia-london/</id>
+        <link href="https://www.vice.com/en/article/worlds-first-ever-cyber-cafe-cyberia-london/"/>
+        <updated>2024-11-22T23:10:18.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating a social photo frame from scratch]]></title>
+        <id>https://insignificantdatascience.substack.com/p/creating-a-custom-social-photo-frame</id>
+        <link href="https://insignificantdatascience.substack.com/p/creating-a-custom-social-photo-frame"/>
+        <updated>2024-11-22T22:43:18.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[RGFW: Single-header C99 window abstraction library]]></title>
         <id>https://github.com/ColleagueRiley/RGFW</id>
         <link href="https://github.com/ColleagueRiley/RGFW"/>
@@ -867,6 +1147,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The AI reporter that took my old job just got fired]]></title>
+        <id>https://www.wired.com/story/the-ai-reporter-who-took-my-old-job-just-got-fired/</id>
+        <link href="https://www.wired.com/story/the-ai-reporter-who-took-my-old-job-just-got-fired/"/>
+        <updated>2024-11-22T10:34:20.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Show HN: A Marble Madness-inspired WebGL game we built for Netlify]]></title>
         <id>https://5-million-devs.netlify.com/</id>
         <link href="https://5-million-devs.netlify.com/"/>
@@ -1091,6 +1381,16 @@
         <id>https://trailimap.com/</id>
         <link href="https://trailimap.com/"/>
         <updated>2024-11-20T20:23:55.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FQL: A KV Query Language]]></title>
+        <id>https://github.com/janderland/fql</id>
+        <link href="https://github.com/janderland/fql"/>
+        <updated>2024-11-20T15:50:39.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>

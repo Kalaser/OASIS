@@ -12,6 +12,266 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition/issues/509",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition/issues/509",
+          "publishedOn": "2024-11-27T00:25:21.000Z",
+          "wordCount": 875,
+          "title": "Quality of code is too high",
+          "imageUrl": "https://opengraph.githubassets.com/19037d10ac374f4349ed501c07028a411351f55a7c8ab6e2efc11e712f8d328c/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition/issues/509"
+        },
+        {
+          "id": "https://arstechnica.com/tech-policy/2024/11/isps-say-their-excellent-customer-service-is-why-users-dont-switch-providers/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arstechnica.com/tech-policy/2024/11/isps-say-their-excellent-customer-service-is-why-users-dont-switch-providers/",
+          "publishedOn": "2024-11-27T00:14:25.000Z",
+          "wordCount": 2599,
+          "title": "ISPs say their \"excellent customer service\" is why users don't switch providers",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/11/call-center-robot-1152x648.jpg"
+        },
+        {
+          "id": "https://github.com/thamugadi/jazelle-wii",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/thamugadi/jazelle-wii",
+          "publishedOn": "2024-11-27T00:04:59.000Z",
+          "wordCount": 2024,
+          "title": "Executing ARM Jazelle (JVM Bytecode) on the Wii's Starlet",
+          "imageUrl": "https://opengraph.githubassets.com/9d88ae58b9a08e1590a29e6a01267939a42adf5ca2f9c629cb33a0ba6b159e4d/thamugadi/jazelle-wii"
+        },
+        {
+          "id": "https://www.theregister.com/2024/11/26/trendforce_laptop_sales_2025/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theregister.com/2024/11/26/trendforce_laptop_sales_2025/",
+          "publishedOn": "2024-11-26T23:36:13.000Z",
+          "wordCount": 1569,
+          "title": "Windows 10's farewell tour – not AI PCs – set to drive laptop sales in 2025",
+          "imageUrl": "https://regmedia.co.uk/2019/08/29/goodbye_shutterstock.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42251040",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=42251040",
+          "publishedOn": "2024-11-26T22:56:47.000Z",
+          "wordCount": 1634,
+          "title": "Ask HN: Has anyone tried adapting a court reporter keyboard for writing code?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/xzitlou/jsontr.ee",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/xzitlou/jsontr.ee",
+          "publishedOn": "2024-11-26T22:41:14.000Z",
+          "wordCount": 2637,
+          "title": "Show HN: I created a lightweight JavaScript library to visualize JSON as a graph",
+          "imageUrl": "https://repository-images.githubusercontent.com/894105996/df17f930-36f7-4446-aeaa-c2cabe4181c9"
+        },
+        {
+          "id": "https://saasprices.net/blog/aws-price-rise",
+          "author": null,
+          "description": "Comments",
+          "link": "https://saasprices.net/blog/aws-price-rise",
+          "publishedOn": "2024-11-26T21:30:01.000Z",
+          "wordCount": 403,
+          "title": "Amazon tripled prices for the basic tier of their auth service Cognito",
+          "imageUrl": "https://saasprices.net/images/og-image.png"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=52v6gKPA4TM",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.youtube.com/watch?v=52v6gKPA4TM",
+          "publishedOn": "2024-11-26T20:36:17.000Z",
+          "wordCount": null,
+          "title": "D-Link says \"just buy a new router\" after 9.8 critical vulnerability [video]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://zetaoffice.net/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://zetaoffice.net/",
+          "publishedOn": "2024-11-26T20:32:24.000Z",
+          "wordCount": 704,
+          "title": "ZetaOffice: LibreOffice in the Browser",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.uvm.edu/~sjc/raposody.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.uvm.edu/~sjc/raposody.html",
+          "publishedOn": "2024-11-26T20:10:47.000Z",
+          "wordCount": 8667,
+          "title": "Apple Rhapsody Report (1997)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nap.nationalacademies.org/resource/27644/interactive/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://nap.nationalacademies.org/resource/27644/interactive/",
+          "publishedOn": "2024-11-26T19:31:24.000Z",
+          "wordCount": 2218,
+          "title": "Artificial Intelligence and the Future of Work",
+          "imageUrl": null
+        },
+        {
+          "id": "https://labs.google/genchess",
+          "author": null,
+          "description": "Comments",
+          "link": "https://labs.google/genchess",
+          "publishedOn": "2024-11-26T18:47:04.000Z",
+          "wordCount": 76,
+          "title": "GenChess",
+          "imageUrl": "https://labs.google/genchess/images/genChess_OG.png"
+        },
+        {
+          "id": "https://www.quantamagazine.org/teen-mathematicians-tie-knots-through-a-mind-blowing-fractal-20241126/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.quantamagazine.org/teen-mathematicians-tie-knots-through-a-mind-blowing-fractal-20241126/",
+          "publishedOn": "2024-11-26T18:43:26.000Z",
+          "wordCount": 3192,
+          "title": "Teen mathematicians tie knots through a mind-blowing fractal",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2024/11/KnotsInFractals-crDaveWhyte-Social.jpg"
+        },
+        {
+          "id": "https://calpaterson.com/porter.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://calpaterson.com/porter.html",
+          "publishedOn": "2024-11-26T18:35:26.000Z",
+          "wordCount": 2147,
+          "title": "The industry structure of LLM makers",
+          "imageUrl": "https://calpaterson.com/images/photo/watford.jpeg"
+        },
+        {
+          "id": "https://benjdd.com/languages/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://benjdd.com/languages/",
+          "publishedOn": "2024-11-26T18:17:57.000Z",
+          "wordCount": 842,
+          "title": "1B nested loop iterations",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42247368",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=42247368",
+          "publishedOn": "2024-11-26T16:57:12.000Z",
+          "wordCount": 8720,
+          "title": "Launch HN: Human Layer (YC F24) – Human-in-the-Loop API for AI Systems",
+          "imageUrl": null
+        },
+        {
+          "id": "https://silentpoems.net/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://silentpoems.net/",
+          "publishedOn": "2024-11-26T15:30:56.000Z",
+          "wordCount": 4,
+          "title": "Show HN: Silent Poems – Visual expression of unspoken thoughts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.bopsecrets.org/rexroth/essays/james-wells.htm",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bopsecrets.org/rexroth/essays/james-wells.htm",
+          "publishedOn": "2024-11-26T13:33:35.000Z",
+          "wordCount": 1362,
+          "title": "Henry James and H.G. Wells (1958)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.thalium.re/posts/llvm-powered-devirtualization/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.thalium.re/posts/llvm-powered-devirtualization/",
+          "publishedOn": "2024-11-26T12:38:34.000Z",
+          "wordCount": 1495,
+          "title": "LLVM-powered devirtualization",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/captn3m0/jekyll-sqlite",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/captn3m0/jekyll-sqlite",
+          "publishedOn": "2024-11-26T12:11:31.000Z",
+          "wordCount": 4204,
+          "title": "Show HN: SQLite Plugin for Jekyll",
+          "imageUrl": "https://opengraph.githubassets.com/ddf8340cd30a9aad78e8abca3a752b77e0b69ee5c8d7c2f3d88ddb60a7077fb6/captn3m0/jekyll-sqlite"
+        },
+        {
+          "id": "https://www.newyorker.com/magazine/2024/12/02/a-revolution-in-how-robots-learn",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.newyorker.com/magazine/2024/12/02/a-revolution-in-how-robots-learn",
+          "publishedOn": "2024-11-26T12:08:37.000Z",
+          "wordCount": 58279,
+          "title": "A Revolution in How Robots Learn",
+          "imageUrl": "https://media.newyorker.com/photos/672bbfc945527a03112f7e09/16:9/w_1280,c_limit/r45251.jpg"
+        },
+        {
+          "id": "https://medium.com/@drspoulsen/a-solution-to-the-onion-problem-of-j-kenji-l%C3%B3pez-alt-c3c4ab22e67c",
+          "author": null,
+          "description": "Comments",
+          "link": "https://medium.com/@drspoulsen/a-solution-to-the-onion-problem-of-j-kenji-l%C3%B3pez-alt-c3c4ab22e67c",
+          "publishedOn": "2024-11-26T11:38:11.000Z",
+          "wordCount": 4470,
+          "title": "A solution to The Onion problem of J. Kenji Lopez-Alt (2021)",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*njf0KQvZwF_qK3ZNQfTDhw.png"
+        },
+        {
+          "id": "https://www.agwa.name/projects/git-crypt/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.agwa.name/projects/git-crypt/",
+          "publishedOn": "2024-11-26T09:45:40.000Z",
+          "wordCount": 1025,
+          "title": "Git-crypt – transparent file encryption in Git",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/how-we-can-mine-asteroids-for-space-food/9EF3C4FA6F32368D09994EB7910C7035",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/how-we-can-mine-asteroids-for-space-food/9EF3C4FA6F32368D09994EB7910C7035",
+          "publishedOn": "2024-11-26T09:29:55.000Z",
+          "wordCount": 61024,
+          "title": "We can mine asteroids for space food",
+          "imageUrl": "https://static.cambridge.org/covers/IJA_0_0_0/international_journal of astrobiology.jpg?send-full-size-image=true"
+        },
+        {
+          "id": "http://jpkoning.blogspot.com/2024/11/setelinleikkaus-when-finns-snipped.html",
+          "author": null,
+          "description": "Comments",
+          "link": "http://jpkoning.blogspot.com/2024/11/setelinleikkaus-when-finns-snipped.html",
+          "publishedOn": "2024-11-26T08:52:00.000Z",
+          "wordCount": 7387,
+          "title": "Setelinleikkaus: When Finns snipped their cash in half to curb inflation",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguMeQgdtXJj1VETYkeIqr1I_DZlvtwkvhFyLpzzp1ZLnv_iojm4YSzTClauECyZH2O5qCOj-whdONh2uUQGUyC37ka_dd2m_-lJx7eQWcyd_Yn-VCwB74wK82dglqmVrvBw4pXN5Vf5JWhqRa8A7T2ALHp-aABLVnGeZeqHs8hPw90HHi6EcJMFqk0qJY/w1200-h630-p-k-no-nu/heinonen2.PNG"
+        },
+        {
+          "id": "https://science.nasa.gov/missions/webb/hats-off-to-nasas-webb-sombrero-galaxy-dazzles-in-new-image/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://science.nasa.gov/missions/webb/hats-off-to-nasas-webb-sombrero-galaxy-dazzles-in-new-image/",
+          "publishedOn": "2024-11-25T22:13:05.000Z",
+          "wordCount": 6912,
+          "title": "Sombrero Galaxy dazzles in new James Webb image",
+          "imageUrl": "https://science.nasa.gov/wp-content/uploads/2024/11/webb-stsci-01jcgz71j2wy7vrn04ypbyb5x4-2k.png?w=1024"
+        },
+        {
           "id": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-functionality-conditional-writes/",
           "author": null,
           "description": "Comments",
@@ -642,6 +902,26 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.vice.com/en/article/worlds-first-ever-cyber-cafe-cyberia-london/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.vice.com/en/article/worlds-first-ever-cyber-cafe-cyberia-london/",
+          "publishedOn": "2024-11-22T23:10:18.000Z",
+          "wordCount": 5224,
+          "title": "Remembering Cyberia, the first ever cyber cafe",
+          "imageUrl": "https://www.vice.com/wp-content/uploads/sites/2/2024/11/IMG-5731_d67bd9.jpg?resize=2000,1347"
+        },
+        {
+          "id": "https://insignificantdatascience.substack.com/p/creating-a-custom-social-photo-frame",
+          "author": null,
+          "description": "Comments",
+          "link": "https://insignificantdatascience.substack.com/p/creating-a-custom-social-photo-frame",
+          "publishedOn": "2024-11-22T22:43:18.000Z",
+          "wordCount": null,
+          "title": "Creating a social photo frame from scratch",
+          "imageUrl": null
+        },
+        {
           "id": "https://github.com/ColleagueRiley/RGFW",
           "author": null,
           "description": "Comments",
@@ -872,6 +1152,16 @@
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4ae70172-cf84-416e-92ae-03e2b8351868_2048x1152.jpeg"
         },
         {
+          "id": "https://www.wired.com/story/the-ai-reporter-who-took-my-old-job-just-got-fired/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.wired.com/story/the-ai-reporter-who-took-my-old-job-just-got-fired/",
+          "publishedOn": "2024-11-22T10:34:20.000Z",
+          "wordCount": 22085,
+          "title": "The AI reporter that took my old job just got fired",
+          "imageUrl": "https://media.wired.com/photos/67360e99bbd4a14fa947ed16/191:100/w_1280,c_limit/ai-news-reporter-cul-522968702.jpg"
+        },
+        {
           "id": "https://5-million-devs.netlify.com/",
           "author": null,
           "description": "Comments",
@@ -1100,6 +1390,16 @@
           "wordCount": 82,
           "title": "Show HN: Bike route planner that follows almost only official bike trails",
           "imageUrl": null
+        },
+        {
+          "id": "https://github.com/janderland/fql",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/janderland/fql",
+          "publishedOn": "2024-11-20T15:50:39.000Z",
+          "wordCount": 7728,
+          "title": "FQL: A KV Query Language",
+          "imageUrl": "https://opengraph.githubassets.com/5ef3de59d746605cae3fe868b6f8981deb06135551052880172b2018287ec711/janderland/fql"
         },
         {
           "id": "https://newatlas.com/marine/flipping-flip-ship-saved/",
