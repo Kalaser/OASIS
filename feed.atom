@@ -2,10 +2,230 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Kalaser.github.io/OASIS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-29T01:10:36.574Z</updated>
+    <updated>2024-11-30T01:08:51.783Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Kalaser.github.io/OASIS/index.html"/>
     <link rel="self" href="https://Kalaser.github.io/OASIS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TfL abandons plans for driverless tube trains]]></title>
+        <id>https://www.ianvisits.co.uk/articles/tfl-abandons-plans-for-driverless-tube-trains-77435/</id>
+        <link href="https://www.ianvisits.co.uk/articles/tfl-abandons-plans-for-driverless-tube-trains-77435/"/>
+        <updated>2024-11-29T23:48:53.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA's Europa Clipper: Miles Down, Instruments Deploying]]></title>
+        <id>https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-millions-of-miles-down-instruments-deploying/</id>
+        <link href="https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-millions-of-miles-down-instruments-deploying/"/>
+        <updated>2024-11-29T23:47:19.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brick and Mortar Triangle Fraud]]></title>
+        <id>https://getcho.app/blog/triangle-fraud-brick-mortar/</id>
+        <link href="https://getcho.app/blog/triangle-fraud-brick-mortar/"/>
+        <updated>2024-11-29T23:07:24.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Who is "Absolute Persistence", and why is their spyware on 600M computers?]]></title>
+        <id>https://www.absolute.com/platform/persistence/</id>
+        <link href="https://www.absolute.com/platform/persistence/"/>
+        <updated>2024-11-29T22:32:18.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Deterioration of Google]]></title>
+        <id>https://www.baldurbjarnason.com/2024/the-deterioration-of-google/</id>
+        <link href="https://www.baldurbjarnason.com/2024/the-deterioration-of-google/"/>
+        <updated>2024-11-29T22:26:43.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Hall SC-VGA-2 Video Processor, the Atari ST and NeXTSTEP]]></title>
+        <id>http://oldvcr.blogspot.com/2024/11/the-hall-sc-vga-2-video-processor-atari.html</id>
+        <link href="http://oldvcr.blogspot.com/2024/11/the-hall-sc-vga-2-video-processor-atari.html"/>
+        <updated>2024-11-29T22:16:28.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Platform for senior devs to learn other programming languages?]]></title>
+        <id>https://news.ycombinator.com/item?id=42276995</id>
+        <link href="https://news.ycombinator.com/item?id=42276995"/>
+        <updated>2024-11-29T20:49:28.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breaking the 4Chan CAPTCHA]]></title>
+        <id>https://www.nullpt.rs/breaking-the-4chan-captcha</id>
+        <link href="https://www.nullpt.rs/breaking-the-4chan-captcha"/>
+        <updated>2024-11-29T20:32:22.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Australian Online Safety Amendment (Social Media Minimum Age) Bill 2024]]></title>
+        <id>https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r7284</id>
+        <link href="https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r7284"/>
+        <updated>2024-11-29T20:09:25.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jank is now running on LLVM IR]]></title>
+        <id>https://jank-lang.org/blog/2024-11-29-llvm-ir/</id>
+        <link href="https://jank-lang.org/blog/2024-11-29-llvm-ir/"/>
+        <updated>2024-11-29T20:05:14.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What does this button do? – My new car has a mysterious and undocumented switch]]></title>
+        <id>https://blog.koenvh.nl/what-does-this-button-do-cm42u2oi7000a09l42f54g2pr</id>
+        <link href="https://blog.koenvh.nl/what-does-this-button-do-cm42u2oi7000a09l42f54g2pr"/>
+        <updated>2024-11-29T19:59:47.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Calmy Leon – The Ultimate Relaxing Music and Sound Generator]]></title>
+        <id>https://calmyleon.com/</id>
+        <link href="https://calmyleon.com/"/>
+        <updated>2024-11-29T18:52:57.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Influence of Bell Labs]]></title>
+        <id>https://www.construction-physics.com/p/the-influence-of-bell-labs</id>
+        <link href="https://www.construction-physics.com/p/the-influence-of-bell-labs"/>
+        <updated>2024-11-29T18:36:34.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simple Sabotage for the 21st Century – Specific Suggestions]]></title>
+        <id>https://specificsuggestions.com/</id>
+        <link href="https://specificsuggestions.com/"/>
+        <updated>2024-11-29T18:33:39.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CleaR: Robust and Generalized Parameter-Efficient Fine-Tuning for Noisy Labels]]></title>
+        <id>https://arxiv.org/abs/2411.00873</id>
+        <link href="https://arxiv.org/abs/2411.00873"/>
+        <updated>2024-11-29T18:22:54.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chinese pebble-bed nuclear reactor passes "meltdown" test]]></title>
+        <id>https://www.ans.org/news/article-6241/china-pebblebed-reactor-passes-meltdown-test/</id>
+        <link href="https://www.ans.org/news/article-6241/china-pebblebed-reactor-passes-meltdown-test/"/>
+        <updated>2024-11-29T18:21:55.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sieve (YC W22) Is Hiring Engineers to Build the Future of Video AI]]></title>
+        <id>https://www.sievedata.com/</id>
+        <link href="https://www.sievedata.com/"/>
+        <updated>2024-11-29T17:00:58.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why pipes sometimes get "stuck": buffering]]></title>
+        <id>https://jvns.ca/blog/2024/11/29/why-pipes-get-stuck-buffering/</id>
+        <link href="https://jvns.ca/blog/2024/11/29/why-pipes-get-stuck-buffering/"/>
+        <updated>2024-11-29T16:43:51.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Llama.cpp guide – Running LLMs locally on any hardware, from scratch]]></title>
+        <id>https://steelph0enix.github.io/posts/llama-cpp-guide/</id>
+        <link href="https://steelph0enix.github.io/posts/llama-cpp-guide/"/>
+        <updated>2024-11-29T15:28:34.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How We Got the Lithium-Ion Battery]]></title>
+        <id>https://www.construction-physics.com/p/how-we-got-the-lithium-ion-battery</id>
+        <link href="https://www.construction-physics.com/p/how-we-got-the-lithium-ion-battery"/>
+        <updated>2024-11-29T14:07:30.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Core copyright violation moves ahead in The Intercept's lawsuit against OpenAI]]></title>
+        <id>https://www.niemanlab.org/2024/11/copyright-claim-moves-ahead-in-the-intercepts-lawsuit-against-openai/</id>
+        <link href="https://www.niemanlab.org/2024/11/copyright-claim-moves-ahead-in-the-intercepts-lawsuit-against-openai/"/>
+        <updated>2024-11-29T13:48:12.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Vince – A self hosted alternative to Google Analytics]]></title>
+        <id>https://github.com/vinceanalytics/vince</id>
+        <link href="https://github.com/vinceanalytics/vince"/>
+        <updated>2024-11-29T02:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Engineers Do Not Get to Make Startup Mistakes When They Build Ledgers]]></title>
         <id>https://news.alvaroduran.com/p/engineers-do-not-get-to-make-startup</id>
@@ -667,6 +887,36 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Borgo Programming Language]]></title>
+        <id>https://borgo-lang.github.io/</id>
+        <link href="https://borgo-lang.github.io/"/>
+        <updated>2024-11-26T11:33:50.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prioritize work at the task level]]></title>
+        <id>https://developer.apple.com/library/archive/documentation/Performance/Conceptual/power_efficiency_guidelines_osx/PrioritizeWorkAtTheTaskLevel.html</id>
+        <link href="https://developer.apple.com/library/archive/documentation/Performance/Conceptual/power_efficiency_guidelines_osx/PrioritizeWorkAtTheTaskLevel.html"/>
+        <updated>2024-11-26T10:42:19.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust: Tools (early access edition)]]></title>
+        <id>https://bitfieldconsulting.com/books/rust-tools</id>
+        <link href="https://bitfieldconsulting.com/books/rust-tools"/>
+        <updated>2024-11-26T10:30:04.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Git-crypt – transparent file encryption in Git]]></title>
         <id>https://www.agwa.name/projects/git-crypt/</id>
         <link href="https://www.agwa.name/projects/git-crypt/"/>
@@ -801,6 +1051,16 @@
         <id>http://www.call-with-current-continuation.org/fleng/fleng.html</id>
         <link href="http://www.call-with-current-continuation.org/fleng/fleng.html"/>
         <updated>2024-11-25T17:44:51.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding SIMD: Infinite complexity of trivial problems]]></title>
+        <id>https://www.modular.com/blog/understanding-simd-infinite-complexity-of-trivial-problems</id>
+        <link href="https://www.modular.com/blog/understanding-simd-infinite-complexity-of-trivial-problems"/>
+        <updated>2024-11-25T17:08:09.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -1321,6 +1581,16 @@
         <id>https://arxiv.org/abs/2201.13188</id>
         <link href="https://arxiv.org/abs/2201.13188"/>
         <updated>2024-11-23T15:51:21.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A statistical approach to model evaluations]]></title>
+        <id>https://www.anthropic.com/research/statistical-approach-to-model-evals</id>
+        <link href="https://www.anthropic.com/research/statistical-approach-to-model-evals"/>
+        <updated>2024-11-23T12:37:09.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -1921,6 +2191,16 @@
         <id>https://newatlas.com/marine/flipping-flip-ship-saved/</id>
         <link href="https://newatlas.com/marine/flipping-flip-ship-saved/"/>
         <updated>2024-11-20T11:01:17.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[German WWII Soldier Grave Found with Mesolithic Tools, Roman and Byzantine Coins]]></title>
+        <id>https://www.labrujulaverde.com/en/2024/11/german-wwii-soldiers-grave-found-in-poland-with-mesolithic-tools-roman-and-byzantine-coins-and-other-artifacts/</id>
+        <link href="https://www.labrujulaverde.com/en/2024/11/german-wwii-soldiers-grave-found-in-poland-with-mesolithic-tools-roman-and-byzantine-coins-and-other-artifacts/"/>
+        <updated>2024-11-20T05:07:59.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
