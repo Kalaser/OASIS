@@ -12,6 +12,196 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://www.ycombinator.com/companies/sei/jobs/TYbKqi0-ai-ml-llm-engineer",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ycombinator.com/companies/sei/jobs/TYbKqi0-ai-ml-llm-engineer",
+          "publishedOn": "2024-12-01T01:00:02.000Z",
+          "wordCount": 1962,
+          "title": "Sei AI (YC W22) Is Hiring an AI/ML Engineer with LLM Exposure",
+          "imageUrl": "/images/original/missing.png"
+        },
+        {
+          "id": "https://structuredlabs.substack.com/p/why-we-need-data-engineering-benchmarks",
+          "author": null,
+          "description": "Comments",
+          "link": "https://structuredlabs.substack.com/p/why-we-need-data-engineering-benchmarks",
+          "publishedOn": "2024-12-01T00:41:11.000Z",
+          "wordCount": null,
+          "title": "We need data engineering benchmarks for LLMs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/JeffDean/status/1858540085794451906",
+          "author": null,
+          "description": "Comments",
+          "link": "https://twitter.com/JeffDean/status/1858540085794451906",
+          "publishedOn": "2024-12-01T00:28:04.000Z",
+          "wordCount": 6,
+          "title": "Jeff Dean Responds to EDA Industry about AlphaChip",
+          "imageUrl": null
+        },
+        {
+          "id": "https://theconversation.com/an-83-year-old-short-story-by-borges-portends-a-bleak-future-for-the-internet-242998",
+          "author": null,
+          "description": "Comments",
+          "link": "https://theconversation.com/an-83-year-old-short-story-by-borges-portends-a-bleak-future-for-the-internet-242998",
+          "publishedOn": "2024-11-30T22:38:13.000Z",
+          "wordCount": 4188,
+          "title": "An 83-year-old short story by Borges portends a bleak future for the internet",
+          "imageUrl": "https://images.theconversation.com/files/631797/original/file-20241113-15-t0ltcq.jpg?ixlib=rb-4.1.0&rect=15%2C179%2C5192%2C2592&q=45&auto=format&w=1356&h=668&fit=crop"
+        },
+        {
+          "id": "https://github.com/privastead/privastead",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/privastead/privastead",
+          "publishedOn": "2024-11-30T22:13:49.000Z",
+          "wordCount": 4457,
+          "title": "Show HN: Open-source private home security camera system (end-to-end encryption)",
+          "imageUrl": "https://opengraph.githubassets.com/9e1472fca2fc8394e155a41c050ece8db0420fcd5133d90e29f7c6786fac4ed5/privastead/privastead"
+        },
+        {
+          "id": "https://follow.agwa.name/notice/AoZSMI38xcA3TrN1sm",
+          "author": null,
+          "description": "Comments",
+          "link": "https://follow.agwa.name/notice/AoZSMI38xcA3TrN1sm",
+          "publishedOn": "2024-11-30T21:35:03.000Z",
+          "wordCount": 10,
+          "title": "Microsoft-trusted Brazilian CA issued unauthorized google.com certificate",
+          "imageUrl": "https://follow.agwa.name/media/a22d3ca3e8dfe2b04bfe961326831fd0bd332911b6e7ac9f3217d412c307fb20.png"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=vY9mGJQFdyE",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.youtube.com/watch?v=vY9mGJQFdyE",
+          "publishedOn": "2024-11-30T21:31:55.000Z",
+          "wordCount": null,
+          "title": "The reproducibility crisis and other problems in science: John Ioannidis [video]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/maharmstone/ntfs2btrfs",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/maharmstone/ntfs2btrfs",
+          "publishedOn": "2024-11-30T20:50:08.000Z",
+          "wordCount": 3621,
+          "title": "Ntfs2btrfs does in-place conversion of NTFS filesystem to the open-source Btrfs",
+          "imageUrl": "https://opengraph.githubassets.com/4c8bede0c7465a2cdab2c4261d3702d0e2ebab379397fd6d95601acba65da092/maharmstone/ntfs2btrfs"
+        },
+        {
+          "id": "https://chipsandcheese.com/p/amd-disables-zen-4s-loop-buffer",
+          "author": null,
+          "description": "Comments",
+          "link": "https://chipsandcheese.com/p/amd-disables-zen-4s-loop-buffer",
+          "publishedOn": "2024-11-30T20:47:35.000Z",
+          "wordCount": 7586,
+          "title": "AMD Disables Zen 4's Loop Buffer",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc6a6496-65ff-48b9-857c-a465f897ca92_958x716.png"
+        },
+        {
+          "id": "https://journals.sagepub.com/doi/abs/10.1177/09567976211044685?journalCode=pssa",
+          "author": null,
+          "description": "Comments",
+          "link": "https://journals.sagepub.com/doi/abs/10.1177/09567976211044685?journalCode=pssa",
+          "publishedOn": "2024-11-30T20:04:03.000Z",
+          "wordCount": null,
+          "title": "Motivating Personal Growth by Seeking Discomfort",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ludic.mataroa.blog/blog/you-must-read-at-least-one-book-to-ride/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ludic.mataroa.blog/blog/you-must-read-at-least-one-book-to-ride/",
+          "publishedOn": "2024-11-30T17:19:27.000Z",
+          "wordCount": 5197,
+          "title": "You must read at least one book to ride",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.seriouseats.com/how-honeycrisp-apples-went-from-marvel-to-mediocre-8753117",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.seriouseats.com/how-honeycrisp-apples-went-from-marvel-to-mediocre-8753117",
+          "publishedOn": "2024-11-30T16:44:19.000Z",
+          "wordCount": 6596,
+          "title": "Honeycrisp apples went from marvel to mediocre",
+          "imageUrl": "https://www.seriouseats.com/thmb/xNznRlgDfYQI_3LXxzgtbMeBqlk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20241127-SEA-WhatHappenedtoHoneyCrisp-AmandaSuarez-14e9d056abae47bb9c04d73584bf137e.jpg"
+        },
+        {
+          "id": "https://leancrew.com/all-this/2024/11/square-roots-and-maxima/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://leancrew.com/all-this/2024/11/square-roots-and-maxima/",
+          "publishedOn": "2024-11-30T15:33:59.000Z",
+          "wordCount": 1663,
+          "title": "Square Roots and Maxima",
+          "imageUrl": "https://leancrew.com/all-this/images2024/20241129-CDF%20comparison%20with%2020%20samples.png"
+        },
+        {
+          "id": "https://distrowatch.com/weekly.php?issue=20090323#feature",
+          "author": null,
+          "description": "Comments",
+          "link": "https://distrowatch.com/weekly.php?issue=20090323#feature",
+          "publishedOn": "2024-11-30T15:18:50.000Z",
+          "wordCount": 10037,
+          "title": "Interview of Robert Shingledecker, Tiny Core Linux and DSL Developer (2009)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.lucasholten.com/rust-query-announcement/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.lucasholten.com/rust-query-announcement/",
+          "publishedOn": "2024-11-30T09:29:39.000Z",
+          "wordCount": 1212,
+          "title": "Rust-Query",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cindydrozda.com/html/Video_Pages/VideoMostOfBurl.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.cindydrozda.com/html/Video_Pages/VideoMostOfBurl.html",
+          "publishedOn": "2024-11-30T06:51:33.000Z",
+          "wordCount": 800,
+          "title": "Make the most of your burl",
+          "imageUrl": null
+        },
+        {
+          "id": "https://minjunes.ai/posts/sleep/index.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://minjunes.ai/posts/sleep/index.html",
+          "publishedOn": "2024-11-30T04:33:32.000Z",
+          "wordCount": 2258,
+          "title": "Engineering Sleep",
+          "imageUrl": null
+        },
+        {
+          "id": "https://infrequently.org/2024/11/if-not-react-then-what/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://infrequently.org/2024/11/if-not-react-then-what/",
+          "publishedOn": "2024-11-30T03:35:00.000Z",
+          "wordCount": 13596,
+          "title": "If not React, then what?",
+          "imageUrl": "https://infrequently.org/2024/11/if-not-react-then-what/spa-decision-tree.png"
+        },
+        {
+          "id": "https://solarboi.com/2024/11/17/sol-ark-oem-disables-all-deye-inverters-in-the-us/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://solarboi.com/2024/11/17/sol-ark-oem-disables-all-deye-inverters-in-the-us/",
+          "publishedOn": "2024-11-30T02:51:57.000Z",
+          "wordCount": null,
+          "title": "Sol-Ark manufacturer reportedly disables all Deye inverters in the US",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.ianvisits.co.uk/articles/tfl-abandons-plans-for-driverless-tube-trains-77435/",
           "author": null,
           "description": "Comments",
@@ -40,6 +230,16 @@
           "wordCount": 1352,
           "title": "Brick and Mortar Triangle Fraud",
           "imageUrl": "/images/uploads/triangle-fraud.webp"
+        },
+        {
+          "id": "https://www.theparisreview.org/blog/2017/02/15/rhythmical-lines/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theparisreview.org/blog/2017/02/15/rhythmical-lines/",
+          "publishedOn": "2024-11-29T22:54:12.000Z",
+          "wordCount": null,
+          "title": "Geometric line-art of Wacław Szpakowski (2017)",
+          "imageUrl": null
         },
         {
           "id": "https://www.absolute.com/platform/persistence/",
@@ -90,6 +290,16 @@
           "wordCount": 6329,
           "title": "Breaking the 4Chan CAPTCHA",
           "imageUrl": null
+        },
+        {
+          "id": "https://github.com/pyrustic/jinbase",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/pyrustic/jinbase",
+          "publishedOn": "2024-11-29T20:25:33.000Z",
+          "wordCount": 10036,
+          "title": "Show HN: Jinbase – Multi-model transactional embedded database",
+          "imageUrl": "https://opengraph.githubassets.com/dfd8adf2781a54534ec093f12c721f50d9756edbb3a41365f22841aeba4303c5/pyrustic/jinbase"
         },
         {
           "id": "https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r7284",
@@ -642,6 +852,16 @@
           "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2022/11/1179px-Cuneiform_tablet-_hymn_to_Marduk_MET_DP360674.jpeg"
         },
         {
+          "id": "https://stuff.tamius.net/sacred-texts/2024/09/18/how-to-print-your-guild-wars-2-character-or-any-game-really/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://stuff.tamius.net/sacred-texts/2024/09/18/how-to-print-your-guild-wars-2-character-or-any-game-really/",
+          "publishedOn": "2024-11-27T10:19:40.000Z",
+          "wordCount": 12433,
+          "title": "How to print your Guild Wars 2 character",
+          "imageUrl": "https://stuff.tamius.net/sacred-texts/wp-content/uploads/2024/09/DSC_7333_01-no-spider-webs-blog-scaled.webp"
+        },
+        {
           "id": "https://play.google.com/store/apps/details?id=com.actureunlock&hl=en_US",
           "author": null,
           "description": "Comments",
@@ -650,6 +870,26 @@
           "wordCount": 17899,
           "title": "Show HN: App that asks ‘why?’ every time you unlock your phone",
           "imageUrl": "https://play-lh.googleusercontent.com/ogrxdHQeZS3U4ps8x-2378AlSXb8MVcnzJ1Tflb0cdD2qp3aAv26fYBouko66jrqyJ8"
+        },
+        {
+          "id": "https://meyerweb.com/eric/thoughts/2005/10/17/ie7-and-ie7/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://meyerweb.com/eric/thoughts/2005/10/17/ie7-and-ie7/",
+          "publishedOn": "2024-11-27T08:32:54.000Z",
+          "wordCount": 4064,
+          "title": "IE7 and IE7 (2005)",
+          "imageUrl": "https://meyerweb.com/ui/i/hamonshu/fb-og-image.png"
+        },
+        {
+          "id": "https://buttondown.com/hillelwayne/archive/the-opposite-of-documentation-is-superstition/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://buttondown.com/hillelwayne/archive/the-opposite-of-documentation-is-superstition/",
+          "publishedOn": "2024-11-27T08:32:39.000Z",
+          "wordCount": 1383,
+          "title": "The Opposite of Documentation is Superstition (2020)",
+          "imageUrl": "https://buttondown.com/static/images/icons/icon-square@400.png"
         },
         {
           "id": "https://utcc.utoronto.ca/~cks/space/blog/python/TypeHintsMaybeNotForMe",
@@ -1392,6 +1632,16 @@
           "imageUrl": "https://opengraph.githubassets.com/0006e83c3151f8b9682b5ffb2da007bc2db6e14dc04f9d116b9932a4b8bb5318/huggingface/smollm"
         },
         {
+          "id": "https://danieljones.au/posts/direct/130.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://danieljones.au/posts/direct/130.html",
+          "publishedOn": "2024-11-24T15:12:30.000Z",
+          "wordCount": 4188,
+          "title": "Exploring and having fun with rotary telephones",
+          "imageUrl": "https://danieljones.au/media/tux_jump2.gif"
+        },
+        {
           "id": "https://files.spritely.institute/papers/petnames.html",
           "author": null,
           "description": "Comments",
@@ -1590,6 +1840,16 @@
           "wordCount": 891,
           "title": "Size and albedo of the largest detected Oort-cloud object",
           "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "https://github.com/hfiref0x/WinDepends",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/hfiref0x/WinDepends",
+          "publishedOn": "2024-11-23T12:48:06.000Z",
+          "wordCount": 4145,
+          "title": "WinDepends – A Rewrite of the Dependency Walker",
+          "imageUrl": "https://opengraph.githubassets.com/08e8a56307edd6e3d79079664db7097c1ee5e5f35b1b3559bada7cce7a3a0e77/hfiref0x/WinDepends"
         },
         {
           "id": "https://www.anthropic.com/research/statistical-approach-to-model-evals",
@@ -1980,6 +2240,16 @@
           "wordCount": 4593,
           "title": "FaSTer: Atari ST Digital Magazine",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F439e28e9-8fd8-4f97-b3ea-05095f42bea8_1024x768.jpeg"
+        },
+        {
+          "id": "https://underjord.io/bodging-genservers-together.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://underjord.io/bodging-genservers-together.html",
+          "publishedOn": "2024-11-22T09:25:10.000Z",
+          "wordCount": 1046,
+          "title": "Bodging GenServers Together",
+          "imageUrl": "https://underjord.io/img/preview.png"
         },
         {
           "id": "https://github.com/ricott1/rebels-in-the-sky",
