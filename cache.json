@@ -12,6 +12,226 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://www.cyberdemon.org/2024/03/20/submodules.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.cyberdemon.org/2024/03/20/submodules.html",
+          "publishedOn": "2024-12-02T00:19:16.000Z",
+          "wordCount": 2441,
+          "title": "Demystifying Git Submodules",
+          "imageUrl": null
+        },
+        {
+          "id": "https://retrocomputing.stackexchange.com/questions/12521/when-was-the-famous-sudo-warning-introduced-under-what-background-by-whom",
+          "author": null,
+          "description": "Comments",
+          "link": "https://retrocomputing.stackexchange.com/questions/12521/when-was-the-famous-sudo-warning-introduced-under-what-background-by-whom",
+          "publishedOn": "2024-12-02T00:08:38.000Z",
+          "wordCount": 2813,
+          "title": "When was the famous \"sudo warning\" introduced? Under what background? By whom?",
+          "imageUrl": "https://cdn.sstatic.net/Sites/retrocomputing/Img/apple-touch-icon@2.png?v=6b27f39a6023"
+        },
+        {
+          "id": "http://tomazos.com/ub_question_incident.pdf",
+          "author": null,
+          "description": "Comments",
+          "link": "http://tomazos.com/ub_question_incident.pdf",
+          "publishedOn": "2024-12-01T23:43:41.000Z",
+          "wordCount": 2211,
+          "title": "First-Hand Account of \"The Undefined Behavior Question\" Incident [pdf]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/technology/police-bust-pirate-streaming-service-making-250-million-per-month/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bleepingcomputer.com/news/technology/police-bust-pirate-streaming-service-making-250-million-per-month/",
+          "publishedOn": "2024-12-01T23:38:07.000Z",
+          "wordCount": 2488,
+          "title": "Police bust pirate streaming service making €250M per month",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/10/27/pirate-on-a-laptop.jpg"
+        },
+        {
+          "id": "https://kristoff.it/blog/raii-rust-linux/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://kristoff.it/blog/raii-rust-linux/",
+          "publishedOn": "2024-12-01T23:06:38.000Z",
+          "wordCount": 1200,
+          "title": "RAII and the Rust/Linux Drama",
+          "imageUrl": "https://kristoff.it/logo.png"
+        },
+        {
+          "id": "https://computeradsfromthepast.substack.com/p/ampere-ws-1",
+          "author": null,
+          "description": "Comments",
+          "link": "https://computeradsfromthepast.substack.com/p/ampere-ws-1",
+          "publishedOn": "2024-12-01T22:57:19.000Z",
+          "wordCount": null,
+          "title": "Ampere WS-1 Japanese APL Clamtop",
+          "imageUrl": null
+        },
+        {
+          "id": "https://docs.racket-lang.org/ctp/index.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://docs.racket-lang.org/ctp/index.html",
+          "publishedOn": "2024-12-01T22:19:30.000Z",
+          "wordCount": 931,
+          "title": "Category Theory in Programming",
+          "imageUrl": null
+        },
+        {
+          "id": "https://jeremycarterau.substack.com/p/thinking-in-actors-part-1",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jeremycarterau.substack.com/p/thinking-in-actors-part-1",
+          "publishedOn": "2024-12-01T22:16:38.000Z",
+          "wordCount": null,
+          "title": "Thinking in Actors – Challenging your software modelling to be simpler",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ai.meta.com/blog/spdl-faster-ai-model-training-with-thread-based-data-loading-reality-labs/?_fb_noscript=1",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ai.meta.com/blog/spdl-faster-ai-model-training-with-thread-based-data-loading-reality-labs/?_fb_noscript=1",
+          "publishedOn": "2024-12-01T21:59:51.000Z",
+          "wordCount": 4128,
+          "title": "Scalable and Performant Data Loading",
+          "imageUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/468028718_896717795972568_4149636151183687506_n.png?_nc_cat=104&ccb=1-7&_nc_sid=e280be&_nc_ohc=KtqwaSKCWckQ7kNvgGW_eiD&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=A2rZWChRaN1XYOesCmg72v0&oh=00_AYD0lqovj_W6G5WIa8BuGZw35Aq1SD0OaaTevTquEGtlXQ&oe=67675D82"
+        },
+        {
+          "id": "https://www.math.uh.edu/~dblecher/pf2.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.math.uh.edu/~dblecher/pf2.html",
+          "publishedOn": "2024-12-01T21:50:51.000Z",
+          "wordCount": 3958,
+          "title": "How to Study Mathematics",
+          "imageUrl": null
+        },
+        {
+          "id": "https://retrogamecoders.com/c64-visual-studio-code/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://retrogamecoders.com/c64-visual-studio-code/",
+          "publishedOn": "2024-12-01T21:29:38.000Z",
+          "wordCount": 4238,
+          "title": "Programming the C64 with Visual Studio Code – Retro Game Coders",
+          "imageUrl": "https://retrogamecoders.com/wp-content/uploads/2024/03/c64-vscode.jpg"
+        },
+        {
+          "id": "https://publicdomainreview.org/features/entering-the-public-domain/2025/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://publicdomainreview.org/features/entering-the-public-domain/2025/",
+          "publishedOn": "2024-12-01T20:17:02.000Z",
+          "wordCount": 9498,
+          "title": "What Will Enter the Public Domain in 2025?",
+          "imageUrl": "https://the-public-domain-review.imgix.net/features/countdown/2025/2025-opengraph.jpeg"
+        },
+        {
+          "id": "https://computeradsfromthepast.substack.com/p/ibm-risc-system6000-family",
+          "author": null,
+          "description": "Comments",
+          "link": "https://computeradsfromthepast.substack.com/p/ibm-risc-system6000-family",
+          "publishedOn": "2024-12-01T19:42:40.000Z",
+          "wordCount": null,
+          "title": "IBM RISC System/6000 Family",
+          "imageUrl": null
+        },
+        {
+          "id": "https://caseymuratori.com/blog_0010",
+          "author": null,
+          "description": "Comments",
+          "link": "https://caseymuratori.com/blog_0010",
+          "publishedOn": "2024-12-01T19:05:10.000Z",
+          "wordCount": 4566,
+          "title": "The Color of Noise (2014)",
+          "imageUrl": "https://caseymuratori.com/r/grass_02_banner_cb1256d7485c889d.jpg"
+        },
+        {
+          "id": "https://deadreckonings.com/2007/12/07/heavisides-operator-calculus/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://deadreckonings.com/2007/12/07/heavisides-operator-calculus/",
+          "publishedOn": "2024-12-01T18:47:38.000Z",
+          "wordCount": 9790,
+          "title": "Heaviside’s Operator Calculus (2007)",
+          "imageUrl": "https://deadreckonings.com/wp-content/uploads/2007/12/heaviside3.jpg"
+        },
+        {
+          "id": "https://www.asimov.press/p/crick",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.asimov.press/p/crick",
+          "publishedOn": "2024-12-01T18:24:26.000Z",
+          "wordCount": 6919,
+          "title": "Francis Crick's \"Central Dogma\" was misunderstood",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F60c6f12a-3c0a-44d7-ac67-7f5f2301a1d6_1200x800.png"
+        },
+        {
+          "id": "https://markwhen.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://markwhen.com/",
+          "publishedOn": "2024-12-01T17:58:48.000Z",
+          "wordCount": 649,
+          "title": "Show HN: Markwhen: Markdown for Timelines",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ycombinator.com/companies/infisical/jobs/2OGBQMt-full-stack-engineer-sf",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ycombinator.com/companies/infisical/jobs/2OGBQMt-full-stack-engineer-sf",
+          "publishedOn": "2024-12-01T17:00:49.000Z",
+          "wordCount": 1464,
+          "title": "Infisical (YC W23) Is Hiring Full Stack Engineers in SF and Remotely",
+          "imageUrl": "/images/original/missing.png"
+        },
+        {
+          "id": "https://arxiv.org/abs/2411.12580",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arxiv.org/abs/2411.12580",
+          "publishedOn": "2024-12-01T16:54:26.000Z",
+          "wordCount": 845,
+          "title": "Procedural knowledge in pretraining drives reasoning in large language models",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "https://github.com/MinishLab/vicinity",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/MinishLab/vicinity",
+          "publishedOn": "2024-12-01T16:15:04.000Z",
+          "wordCount": 4218,
+          "title": "Show HN: Vicinity – Fast, Lightweight Nearest Neighbors with Flexible Back Ends",
+          "imageUrl": "https://opengraph.githubassets.com/d6d83be556e7006a1a3815c8cb75555caabbd3360846cf519fdffe3896352bb7/MinishLab/vicinity"
+        },
+        {
+          "id": "http://cadlag.org/posts/a-review-of-freedman-pisani-purves-statistics.html",
+          "author": null,
+          "description": "Comments",
+          "link": "http://cadlag.org/posts/a-review-of-freedman-pisani-purves-statistics.html",
+          "publishedOn": "2024-12-01T09:37:56.000Z",
+          "wordCount": 1520,
+          "title": "Review of \"Statistics\" by Freedman, Pisani, and Purves (2017)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://adventofcode.com/2024/about",
+          "author": null,
+          "description": "Comments",
+          "link": "https://adventofcode.com/2024/about",
+          "publishedOn": "2024-12-01T09:09:35.000Z",
+          "wordCount": 1183,
+          "title": "Advent of Code 2024",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.ycombinator.com/companies/sei/jobs/TYbKqi0-ai-ml-llm-engineer",
           "author": null,
           "description": "Comments",
@@ -512,6 +732,16 @@
           "imageUrl": "https://harpers.org/wp-content/uploads/2024/10/CUT-27-cropfeatured.jpg"
         },
         {
+          "id": "https://www.bbc.com/future/article/20171120-the-secret-tricks-hidden-inside-restaurant-menus",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bbc.com/future/article/20171120-the-secret-tricks-hidden-inside-restaurant-menus",
+          "publishedOn": "2024-11-28T20:17:59.000Z",
+          "wordCount": 11081,
+          "title": "Restaurant Menu Tricks (2020)",
+          "imageUrl": "https://ychef.files.bbci.co.uk/624x351/p05nlpjk.jpg"
+        },
+        {
           "id": "https://interactionmagic.com/UX-LEGO-Interfaces/",
           "author": null,
           "description": "Comments",
@@ -862,6 +1092,16 @@
           "imageUrl": "https://stuff.tamius.net/sacred-texts/wp-content/uploads/2024/09/DSC_7333_01-no-spider-webs-blog-scaled.webp"
         },
         {
+          "id": "https://geo-ant.github.io/blog/2024/rust-linear-types-use-once/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://geo-ant.github.io/blog/2024/rust-linear-types-use-once/",
+          "publishedOn": "2024-11-27T10:14:13.000Z",
+          "wordCount": 1456,
+          "title": "Cursed Linear Types in Rust",
+          "imageUrl": "https://raw.githubusercontent.com/geo-ant/blog/master/images/og/cursed-linear-types.png"
+        },
+        {
           "id": "https://play.google.com/store/apps/details?id=com.actureunlock&hl=en_US",
           "author": null,
           "description": "Comments",
@@ -899,6 +1139,16 @@
           "publishedOn": "2024-11-27T07:20:37.000Z",
           "wordCount": 749,
           "title": "Python type hints may not be not for me in practice",
+          "imageUrl": null
+        },
+        {
+          "id": "https://radanskoric.com/articles/rails-is-better-low-code-than-low-code",
+          "author": null,
+          "description": "Comments",
+          "link": "https://radanskoric.com/articles/rails-is-better-low-code-than-low-code",
+          "publishedOn": "2024-11-27T07:16:28.000Z",
+          "wordCount": 1867,
+          "title": "Rails is better low code than low code",
           "imageUrl": null
         },
         {
@@ -1372,6 +1622,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://spectrum.ieee.org/mobile-3d-printer",
+          "author": null,
+          "description": "Comments",
+          "link": "https://spectrum.ieee.org/mobile-3d-printer",
+          "publishedOn": "2024-11-25T11:41:12.000Z",
+          "wordCount": 10021,
+          "title": "Mobile 3D Printer Can Print Directly on Your Floor",
+          "imageUrl": "https://spectrum.ieee.org/media-library/a-grid-with-four-photos-of-3d-printers-working-directly-on-a-variety-of-floor-surfaces.jpg?id=54416986&width=1200&height=600&coordinates=0%2C164%2C0%2C164"
+        },
+        {
           "id": "https://github.com/elijah-potter/thrax-language",
           "author": null,
           "description": "Comments",
@@ -1792,6 +2052,16 @@
           "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_uOvXB2UVONhDqbDzkCowNDOmRMS84gqeq59zWkm_zsQ7q5RmJQbJFhTy1Yz-au1Yk55RD4J6ZQWyXKJNfg99GORwZa9ATOAmXX1OczKDXMAa3iRsdL_ewWo7DTvcu7RZ0iLos=w1200-h630-p-k-no-nu"
         },
         {
+          "id": "https://spectrum.ieee.org/photo-robot",
+          "author": null,
+          "description": "Comments",
+          "link": "https://spectrum.ieee.org/photo-robot",
+          "publishedOn": "2024-11-23T19:40:06.000Z",
+          "wordCount": 9965,
+          "title": "Photo Robot Takes the Perfect Picture",
+          "imageUrl": "https://spectrum.ieee.org/media-library/a-whit-robot-art-with-grey-joints-and-a-black-and-white-rectangle-at-the-top.jpg?id=54750408&width=1200&height=600&coordinates=0%2C315%2C0%2C315"
+        },
+        {
           "id": "https://noswampcoolers.blogspot.com/2020/04/energy-is-frame-dependent.html",
           "author": null,
           "description": "Comments",
@@ -1850,6 +2120,16 @@
           "wordCount": 4145,
           "title": "WinDepends – A Rewrite of the Dependency Walker",
           "imageUrl": "https://opengraph.githubassets.com/08e8a56307edd6e3d79079664db7097c1ee5e5f35b1b3559bada7cce7a3a0e77/hfiref0x/WinDepends"
+        },
+        {
+          "id": "https://phys.org/news/2024-11-ryugu-asteroid-sample-rapidly-colonized.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://phys.org/news/2024-11-ryugu-asteroid-sample-rapidly-colonized.html",
+          "publishedOn": "2024-11-23T12:39:37.000Z",
+          "wordCount": 2321,
+          "title": "Ryugu asteroid sample colonized by terrestrial life despite strict control",
+          "imageUrl": "https://scx2.b-cdn.net/gfx/news/hires/2024/terrestrial-life-found.jpg"
         },
         {
           "id": "https://www.anthropic.com/research/statistical-approach-to-model-evals",

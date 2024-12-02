@@ -2,10 +2,230 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Kalaser.github.io/OASIS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-01T01:21:49.919Z</updated>
+    <updated>2024-12-02T01:13:13.936Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Kalaser.github.io/OASIS/index.html"/>
     <link rel="self" href="https://Kalaser.github.io/OASIS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Demystifying Git Submodules]]></title>
+        <id>https://www.cyberdemon.org/2024/03/20/submodules.html</id>
+        <link href="https://www.cyberdemon.org/2024/03/20/submodules.html"/>
+        <updated>2024-12-02T00:19:16.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When was the famous "sudo warning" introduced? Under what background? By whom?]]></title>
+        <id>https://retrocomputing.stackexchange.com/questions/12521/when-was-the-famous-sudo-warning-introduced-under-what-background-by-whom</id>
+        <link href="https://retrocomputing.stackexchange.com/questions/12521/when-was-the-famous-sudo-warning-introduced-under-what-background-by-whom"/>
+        <updated>2024-12-02T00:08:38.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First-Hand Account of "The Undefined Behavior Question" Incident [pdf]]]></title>
+        <id>http://tomazos.com/ub_question_incident.pdf</id>
+        <link href="http://tomazos.com/ub_question_incident.pdf"/>
+        <updated>2024-12-01T23:43:41.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Police bust pirate streaming service making €250M per month]]></title>
+        <id>https://www.bleepingcomputer.com/news/technology/police-bust-pirate-streaming-service-making-250-million-per-month/</id>
+        <link href="https://www.bleepingcomputer.com/news/technology/police-bust-pirate-streaming-service-making-250-million-per-month/"/>
+        <updated>2024-12-01T23:38:07.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RAII and the Rust/Linux Drama]]></title>
+        <id>https://kristoff.it/blog/raii-rust-linux/</id>
+        <link href="https://kristoff.it/blog/raii-rust-linux/"/>
+        <updated>2024-12-01T23:06:38.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ampere WS-1 Japanese APL Clamtop]]></title>
+        <id>https://computeradsfromthepast.substack.com/p/ampere-ws-1</id>
+        <link href="https://computeradsfromthepast.substack.com/p/ampere-ws-1"/>
+        <updated>2024-12-01T22:57:19.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Category Theory in Programming]]></title>
+        <id>https://docs.racket-lang.org/ctp/index.html</id>
+        <link href="https://docs.racket-lang.org/ctp/index.html"/>
+        <updated>2024-12-01T22:19:30.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thinking in Actors – Challenging your software modelling to be simpler]]></title>
+        <id>https://jeremycarterau.substack.com/p/thinking-in-actors-part-1</id>
+        <link href="https://jeremycarterau.substack.com/p/thinking-in-actors-part-1"/>
+        <updated>2024-12-01T22:16:38.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scalable and Performant Data Loading]]></title>
+        <id>https://ai.meta.com/blog/spdl-faster-ai-model-training-with-thread-based-data-loading-reality-labs/?_fb_noscript=1</id>
+        <link href="https://ai.meta.com/blog/spdl-faster-ai-model-training-with-thread-based-data-loading-reality-labs/?_fb_noscript=1"/>
+        <updated>2024-12-01T21:59:51.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Study Mathematics]]></title>
+        <id>https://www.math.uh.edu/~dblecher/pf2.html</id>
+        <link href="https://www.math.uh.edu/~dblecher/pf2.html"/>
+        <updated>2024-12-01T21:50:51.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Programming the C64 with Visual Studio Code – Retro Game Coders]]></title>
+        <id>https://retrogamecoders.com/c64-visual-studio-code/</id>
+        <link href="https://retrogamecoders.com/c64-visual-studio-code/"/>
+        <updated>2024-12-01T21:29:38.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Will Enter the Public Domain in 2025?]]></title>
+        <id>https://publicdomainreview.org/features/entering-the-public-domain/2025/</id>
+        <link href="https://publicdomainreview.org/features/entering-the-public-domain/2025/"/>
+        <updated>2024-12-01T20:17:02.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IBM RISC System/6000 Family]]></title>
+        <id>https://computeradsfromthepast.substack.com/p/ibm-risc-system6000-family</id>
+        <link href="https://computeradsfromthepast.substack.com/p/ibm-risc-system6000-family"/>
+        <updated>2024-12-01T19:42:40.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Color of Noise (2014)]]></title>
+        <id>https://caseymuratori.com/blog_0010</id>
+        <link href="https://caseymuratori.com/blog_0010"/>
+        <updated>2024-12-01T19:05:10.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heaviside’s Operator Calculus (2007)]]></title>
+        <id>https://deadreckonings.com/2007/12/07/heavisides-operator-calculus/</id>
+        <link href="https://deadreckonings.com/2007/12/07/heavisides-operator-calculus/"/>
+        <updated>2024-12-01T18:47:38.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Francis Crick's "Central Dogma" was misunderstood]]></title>
+        <id>https://www.asimov.press/p/crick</id>
+        <link href="https://www.asimov.press/p/crick"/>
+        <updated>2024-12-01T18:24:26.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Markwhen: Markdown for Timelines]]></title>
+        <id>https://markwhen.com/</id>
+        <link href="https://markwhen.com/"/>
+        <updated>2024-12-01T17:58:48.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Infisical (YC W23) Is Hiring Full Stack Engineers in SF and Remotely]]></title>
+        <id>https://www.ycombinator.com/companies/infisical/jobs/2OGBQMt-full-stack-engineer-sf</id>
+        <link href="https://www.ycombinator.com/companies/infisical/jobs/2OGBQMt-full-stack-engineer-sf"/>
+        <updated>2024-12-01T17:00:49.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Procedural knowledge in pretraining drives reasoning in large language models]]></title>
+        <id>https://arxiv.org/abs/2411.12580</id>
+        <link href="https://arxiv.org/abs/2411.12580"/>
+        <updated>2024-12-01T16:54:26.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Vicinity – Fast, Lightweight Nearest Neighbors with Flexible Back Ends]]></title>
+        <id>https://github.com/MinishLab/vicinity</id>
+        <link href="https://github.com/MinishLab/vicinity"/>
+        <updated>2024-12-01T16:15:04.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review of "Statistics" by Freedman, Pisani, and Purves (2017)]]></title>
+        <id>http://cadlag.org/posts/a-review-of-freedman-pisani-purves-statistics.html</id>
+        <link href="http://cadlag.org/posts/a-review-of-freedman-pisani-purves-statistics.html"/>
+        <updated>2024-12-01T09:37:56.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advent of Code 2024]]></title>
+        <id>https://adventofcode.com/2024/about</id>
+        <link href="https://adventofcode.com/2024/about"/>
+        <updated>2024-12-01T09:09:35.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sei AI (YC W22) Is Hiring an AI/ML Engineer with LLM Exposure]]></title>
         <id>https://www.ycombinator.com/companies/sei/jobs/TYbKqi0-ai-ml-llm-engineer</id>
@@ -507,6 +727,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Restaurant Menu Tricks (2020)]]></title>
+        <id>https://www.bbc.com/future/article/20171120-the-secret-tricks-hidden-inside-restaurant-menus</id>
+        <link href="https://www.bbc.com/future/article/20171120-the-secret-tricks-hidden-inside-restaurant-menus"/>
+        <updated>2024-11-28T20:17:59.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The UX of Lego Interface Panels (2020)]]></title>
         <id>https://interactionmagic.com/UX-LEGO-Interfaces/</id>
         <link href="https://interactionmagic.com/UX-LEGO-Interfaces/"/>
@@ -857,6 +1087,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Cursed Linear Types in Rust]]></title>
+        <id>https://geo-ant.github.io/blog/2024/rust-linear-types-use-once/</id>
+        <link href="https://geo-ant.github.io/blog/2024/rust-linear-types-use-once/"/>
+        <updated>2024-11-27T10:14:13.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Show HN: App that asks ‘why?’ every time you unlock your phone]]></title>
         <id>https://play.google.com/store/apps/details?id=com.actureunlock&amp;hl=en_US</id>
         <link href="https://play.google.com/store/apps/details?id=com.actureunlock&amp;hl=en_US"/>
@@ -891,6 +1131,16 @@
         <id>https://utcc.utoronto.ca/~cks/space/blog/python/TypeHintsMaybeNotForMe</id>
         <link href="https://utcc.utoronto.ca/~cks/space/blog/python/TypeHintsMaybeNotForMe"/>
         <updated>2024-11-27T07:20:37.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rails is better low code than low code]]></title>
+        <id>https://radanskoric.com/articles/rails-is-better-low-code-than-low-code</id>
+        <link href="https://radanskoric.com/articles/rails-is-better-low-code-than-low-code"/>
+        <updated>2024-11-27T07:16:28.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -1367,6 +1617,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Mobile 3D Printer Can Print Directly on Your Floor]]></title>
+        <id>https://spectrum.ieee.org/mobile-3d-printer</id>
+        <link href="https://spectrum.ieee.org/mobile-3d-printer"/>
+        <updated>2024-11-25T11:41:12.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Thrax Programming Language]]></title>
         <id>https://github.com/elijah-potter/thrax-language</id>
         <link href="https://github.com/elijah-potter/thrax-language"/>
@@ -1787,6 +2047,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Photo Robot Takes the Perfect Picture]]></title>
+        <id>https://spectrum.ieee.org/photo-robot</id>
+        <link href="https://spectrum.ieee.org/photo-robot"/>
+        <updated>2024-11-23T19:40:06.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Energy is frame-dependent, infrastructure of energy is frame-independent (2020)]]></title>
         <id>https://noswampcoolers.blogspot.com/2020/04/energy-is-frame-dependent.html</id>
         <link href="https://noswampcoolers.blogspot.com/2020/04/energy-is-frame-dependent.html"/>
@@ -1841,6 +2111,16 @@
         <id>https://github.com/hfiref0x/WinDepends</id>
         <link href="https://github.com/hfiref0x/WinDepends"/>
         <updated>2024-11-23T12:48:06.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ryugu asteroid sample colonized by terrestrial life despite strict control]]></title>
+        <id>https://phys.org/news/2024-11-ryugu-asteroid-sample-rapidly-colonized.html</id>
+        <link href="https://phys.org/news/2024-11-ryugu-asteroid-sample-rapidly-colonized.html"/>
+        <updated>2024-11-23T12:39:37.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
