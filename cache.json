@@ -4,13 +4,264 @@
       "title": "Coding Horror",
       "feedUrl": "https://blog.codinghorror.com/rss",
       "siteUrl": "https://blog.codinghorror.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "674aa37302b0da00013f4d72",
+          "author": "Jeff Atwood",
+          "description": "With a 13 billion year head start on evolution, why haven't any other forms of life in the universe contacted us by now?\nteaching the aliens how to exit Vim\n(Arrival is a fantastic movie. Watch it, but don't stop there - read the Story of",
+          "link": "https://blog.codinghorror.com/the-great-filter-comes-for-us-all/",
+          "publishedOn": "2024-12-02T18:25:46.000Z",
+          "wordCount": 1275,
+          "title": "The Great Filter Comes For Us All",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Hacker News",
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://github.com/copper-project/copper-rs/wiki/Copper-Release-Log",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/copper-project/copper-rs/wiki/Copper-Release-Log",
+          "publishedOn": "2024-12-03T00:58:53.000Z",
+          "wordCount": 2820,
+          "title": "Show HN: Copper – Open-Source Robotics in Rust with Deterministic Log Replay",
+          "imageUrl": "https://opengraph.githubassets.com/a3716ddb8432dd4a4f8013487f03bca10e05109ca82e645152bd0f66cb83ba05/copper-project/copper-rs"
+        },
+        {
+          "id": "https://github.com/asfarley/vtc_lfs",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/asfarley/vtc_lfs",
+          "publishedOn": "2024-12-02T22:53:14.000Z",
+          "wordCount": 2898,
+          "title": "Show HN: Open-sourced (road) traffic counting application",
+          "imageUrl": "https://opengraph.githubassets.com/7a7681fe24147fd65ac82137206cd1d61dc32f15238f51db6744389d166a17b7/asfarley/vtc_lfs"
+        },
+        {
+          "id": "https://www.elodin.systems/post/a-better-approach-to-gravity-how-we-made-egm2008-faster",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.elodin.systems/post/a-better-approach-to-gravity-how-we-made-egm2008-faster",
+          "publishedOn": "2024-12-02T21:55:13.000Z",
+          "wordCount": 1942,
+          "title": "A better approach to gravity: how we made EGM2008 faster",
+          "imageUrl": null
+        },
+        {
+          "id": "https://arxiv.org/abs/2411.19826",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arxiv.org/abs/2411.19826",
+          "publishedOn": "2024-12-02T21:05:30.000Z",
+          "wordCount": 529,
+          "title": "Optimality of Gerver's Sofa",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "https://publicdomainreview.org/essay/tempest-anderson-pioneer-of-volcano-photography/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://publicdomainreview.org/essay/tempest-anderson-pioneer-of-volcano-photography/",
+          "publishedOn": "2024-12-02T20:36:53.000Z",
+          "wordCount": 12155,
+          "title": "Tempest Anderson: Pioneer of Volcano Photography (2015)",
+          "imageUrl": "https://the-public-domain-review.imgix.net/essays/tempest-anderson-pioneer-of-volcano-photography/VolcanoYork-thumb.jpg"
+        },
+        {
+          "id": "https://johncarlosbaez.wordpress.com/2024/11/30/black-hole-puzzle/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://johncarlosbaez.wordpress.com/2024/11/30/black-hole-puzzle/",
+          "publishedOn": "2024-12-02T20:10:24.000Z",
+          "wordCount": null,
+          "title": "Black Hole Puzzle",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.map.cv/blog/redbook",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.map.cv/blog/redbook",
+          "publishedOn": "2024-12-02T20:07:35.000Z",
+          "wordCount": 2127,
+          "title": "Facebook's Little Red Book",
+          "imageUrl": "https://framerusercontent.com/images/Il710XsKIqtIBh4o3bxWhOTafsI.png"
+        },
+        {
+          "id": "https://modal.com/blog/vprox",
+          "author": null,
+          "description": "Comments",
+          "link": "https://modal.com/blog/vprox",
+          "publishedOn": "2024-12-02T20:04:29.000Z",
+          "wordCount": 3188,
+          "title": "Static IPs for Serverless Containers",
+          "imageUrl": "https://modal.com/docs/social-image.png?title=WireGuard+at+Modal%3A+Static+IPs+for+Serverless+Containers&socialType=blog"
+        },
+        {
+          "id": "https://research.google/blog/unlocking-the-power-of-time-series-data-with-multimodal-models/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://research.google/blog/unlocking-the-power-of-time-series-data-with-multimodal-models/",
+          "publishedOn": "2024-12-02T19:40:34.000Z",
+          "wordCount": 2409,
+          "title": "Unlocking the power of time-series data with multimodal models",
+          "imageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg"
+        },
+        {
+          "id": "https://onlinelibrary.wiley.com/doi/10.1002/advs.202403215",
+          "author": null,
+          "description": "Comments",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1002/advs.202403215",
+          "publishedOn": "2024-12-02T19:02:38.000Z",
+          "wordCount": null,
+          "title": "Bioluminescent wood using the white rot fungus desarmillaria tabescens",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/lmnr-ai/flow",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/lmnr-ai/flow",
+          "publishedOn": "2024-12-02T18:51:03.000Z",
+          "wordCount": 6006,
+          "title": "Show HN: Flow – A dynamic task engine for building AI agents",
+          "imageUrl": "https://opengraph.githubassets.com/f1286f92129611a8bdb13f6c49bb5cc87ef06d8db40a838a304a4bb90d2f3d1e/lmnr-ai/flow"
+        },
+        {
+          "id": "https://lithub.com/a-riveting-timeless-journey-through-the-afterlife-inside-the-world-of-dantes-divine-comedy/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lithub.com/a-riveting-timeless-journey-through-the-afterlife-inside-the-world-of-dantes-divine-comedy/",
+          "publishedOn": "2024-12-02T18:44:37.000Z",
+          "wordCount": 5444,
+          "title": "The world of Dante's Divine Comedy",
+          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/11/Dante_Domenico_di_Michelino_Duomo_Florence.jpg"
+        },
+        {
+          "id": "https://www.quantamagazine.org/fish-have-a-brain-microbiome-could-humans-have-one-too-20241202/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.quantamagazine.org/fish-have-a-brain-microbiome-could-humans-have-one-too-20241202/",
+          "publishedOn": "2024-12-02T18:20:38.000Z",
+          "wordCount": 3182,
+          "title": "Fish have a brain microbiome – could humans have one too?",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2024/12/FishBrainMicrobiome-cr.SamuelVelasco-Social.jpg"
+        },
+        {
+          "id": "https://github.com/KopiasCsaba/open_sound_control_bridge",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/KopiasCsaba/open_sound_control_bridge",
+          "publishedOn": "2024-12-02T18:12:52.000Z",
+          "wordCount": 14708,
+          "title": "Show HN: Automate your studio – mute a mixer channel to turn your PTZ camera",
+          "imageUrl": "https://opengraph.githubassets.com/1f43e60745b70dd7392b8062c51c140e5593766cb2cf895f86989c2137c69546/KopiasCsaba/open_sound_control_bridge"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41598-024-78687-7",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nature.com/articles/s41598-024-78687-7",
+          "publishedOn": "2024-12-02T16:28:38.000Z",
+          "wordCount": 9264,
+          "title": "Evidence of the use of silk by Bronze Age civilization",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-024-78687-7/MediaObjects/41598_2024_78687_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.worldlabs.ai/blog",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.worldlabs.ai/blog",
+          "publishedOn": "2024-12-02T16:18:52.000Z",
+          "wordCount": 79,
+          "title": "World Labs: Generate 3D worlds from a single image",
+          "imageUrl": "https://www.worldlabs.ai/img/generating_worlds.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42297424",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=42297424",
+          "publishedOn": "2024-12-02T16:00:52.000Z",
+          "wordCount": 25897,
+          "title": "Ask HN: Who is hiring? (December 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42297422",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=42297422",
+          "publishedOn": "2024-12-02T16:00:52.000Z",
+          "wordCount": 19668,
+          "title": "Ask HN: Who wants to be hired? (December 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://drive.google.com/file/d/1nkHWqYre866xihxN3MnHr5YFzY4gQWDT/view",
+          "author": null,
+          "description": "Comments",
+          "link": "https://drive.google.com/file/d/1nkHWqYre866xihxN3MnHr5YFzY4gQWDT/view",
+          "publishedOn": "2024-12-02T15:43:28.000Z",
+          "wordCount": 1805,
+          "title": "Every board game rulebook is awful [pdf]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://jgeekstudies.org/2024/12/02/xenomorphia-ex-machina-the-zoology-and-biochemistry-of-xenomorphs-from-the-alien-franchise/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jgeekstudies.org/2024/12/02/xenomorphia-ex-machina-the-zoology-and-biochemistry-of-xenomorphs-from-the-alien-franchise/",
+          "publishedOn": "2024-12-02T15:13:07.000Z",
+          "wordCount": 7535,
+          "title": "The zoology and biochemistry of xenomorphs from the Alien franchise",
+          "imageUrl": "https://jgeekstudies.org/wp-content/uploads/2024/12/tonietti-gargallo_2024_fig1.jpg"
+        },
+        {
+          "id": "https://christopherferan.com/2021/12/25/kenya-and-the-decline-of-the-worlds-greatest-coffee/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://christopherferan.com/2021/12/25/kenya-and-the-decline-of-the-worlds-greatest-coffee/",
+          "publishedOn": "2024-12-02T14:02:25.000Z",
+          "wordCount": 8337,
+          "title": "Kenya and \"the decline of the greatest coffee\" (2021)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.intel.com/content/www/us/en/newsroom/news/intel-ceo-news-dec-2024.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.intel.com/content/www/us/en/newsroom/news/intel-ceo-news-dec-2024.html",
+          "publishedOn": "2024-12-02T13:37:42.000Z",
+          "wordCount": 4234,
+          "title": "Intel announces retirement of Pat Gelsinger",
+          "imageUrl": "https://www.intel.com/content/dam/www/central-libraries/us/en/images/2023-08/intel-logo-newsroom-feat-default.png"
+        },
+        {
+          "id": "https://github.com/SeekStorm/SeekStorm",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/SeekStorm/SeekStorm",
+          "publishedOn": "2024-12-02T13:06:33.000Z",
+          "wordCount": 12404,
+          "title": "Show HN: SeekStorm – open-source sub-millisecond search in Rust",
+          "imageUrl": "https://opengraph.githubassets.com/c7f7f4e23804a64a51da93722896a103f99e6e54cef0e8c92125116784e62bb0/SeekStorm/SeekStorm"
+        },
+        {
+          "id": "https://www.therpf.com/forums/threads/the-rock-vx-gas-canister-build.344983/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.therpf.com/forums/threads/the-rock-vx-gas-canister-build.344983/",
+          "publishedOn": "2024-12-02T03:44:25.000Z",
+          "wordCount": 3765,
+          "title": "The Rock VX Gas Canister Build (2022)",
+          "imageUrl": "https://www.therpf.com/forums/styles/default/mps_default/logo-og.png"
+        },
         {
           "id": "https://www.cyberdemon.org/2024/03/20/submodules.html",
           "author": null,
@@ -210,6 +461,16 @@
           "wordCount": 4218,
           "title": "Show HN: Vicinity – Fast, Lightweight Nearest Neighbors with Flexible Back Ends",
           "imageUrl": "https://opengraph.githubassets.com/d6d83be556e7006a1a3815c8cb75555caabbd3360846cf519fdffe3896352bb7/MinishLab/vicinity"
+        },
+        {
+          "id": "https://www.abortretry.fail/p/the-sperry-rand-corporation",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.abortretry.fail/p/the-sperry-rand-corporation",
+          "publishedOn": "2024-12-01T13:18:12.000Z",
+          "wordCount": 11110,
+          "title": "The Sperry Rand Corporation",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F32f77806-e75b-4b08-bfa5-4e5f59da2c81_930x389.jpeg"
         },
         {
           "id": "http://cadlag.org/posts/a-review-of-freedman-pisani-purves-statistics.html",
@@ -1032,6 +1293,16 @@
           "imageUrl": "https://bernsteinbear.com/favicon.ico"
         },
         {
+          "id": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkae908/7875984",
+          "author": null,
+          "description": "Comments",
+          "link": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkae908/7875984",
+          "publishedOn": "2024-11-27T17:10:32.000Z",
+          "wordCount": 18623,
+          "title": "Direct testing of natural twister ribozymes from over a thousand organisms",
+          "imageUrl": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nar/PAP/10.1093_nar_gkae908/1/m_gkae908figgra1.jpeg?Expires=1796218598&Signature=pM6kGQ3rWtFsBzEmBtYj7dsxFuKBPvHHTnTa5368tLkgl5FcSJamqJQzjkPFxcFc0sXjBKQiS25XkdSByRRu3JGBwljlglVUiyP5YR~Dl5KZ-PZlVuOj42vEjucWbLkD2nObbU2xIRPGZwmJ~qHSaPG~axCEMQg4LFTwtbvvvetYkmL7NaxcgWlxfgAKthDkLGo~-RyjKC-fowVDb9smEHyRc~La6oZt2K-YUB0~gGQKSnGcuYndypdBDlPvsDW-dVT70JV0EuSXAiUEkVlFygT96YlLHsu4HfIbL6ArTcTWoG8siL8Ym-VZ6PMgyrPrSbuzYRy~SQRIK7iU15uHOQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
           "id": "https://github.com/keephq/keep",
           "author": null,
           "description": "Comments",
@@ -1080,6 +1351,16 @@
           "wordCount": 4267,
           "title": "Ancient Sumerians created the first writing system",
           "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2022/11/1179px-Cuneiform_tablet-_hymn_to_Marduk_MET_DP360674.jpeg"
+        },
+        {
+          "id": "https://www.wired.com/story/murderbot-she-wrote-martha-wells/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.wired.com/story/murderbot-she-wrote-martha-wells/",
+          "publishedOn": "2024-11-27T10:38:58.000Z",
+          "wordCount": 35042,
+          "title": "Murderbot, she wrote",
+          "imageUrl": "https://media.wired.com/photos/6744f19daaaf03506a7fe90d/191:100/w_1280,c_limit/20240730_Wired_MarthaWells_0119.jpg"
         },
         {
           "id": "https://stuff.tamius.net/sacred-texts/2024/09/18/how-to-print-your-guild-wars-2-character-or-any-game-really/",
@@ -1220,6 +1501,16 @@
           "wordCount": 2637,
           "title": "Show HN: I created a lightweight JavaScript library to visualize JSON as a graph",
           "imageUrl": "https://repository-images.githubusercontent.com/894105996/df17f930-36f7-4446-aeaa-c2cabe4181c9"
+        },
+        {
+          "id": "https://www.moderndescartes.com/essays/perfect_pitch/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.moderndescartes.com/essays/perfect_pitch/",
+          "publishedOn": "2024-11-26T22:18:23.000Z",
+          "wordCount": 2037,
+          "title": "Learn Perfect Pitch in 15 years",
+          "imageUrl": null
         },
         {
           "id": "https://saasprices.net/blog/aws-price-rise",
@@ -1472,6 +1763,16 @@
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
         {
+          "id": "https://arxiv.org/abs/2411.00853",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arxiv.org/abs/2411.00853",
+          "publishedOn": "2024-11-25T22:04:58.000Z",
+          "wordCount": 787,
+          "title": "Accelerated AI Inference via Dynamic Execution Methods",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "https://manchestermill.co.uk/p/the-secret-history-of-the-worlds",
           "author": null,
           "description": "Comments",
@@ -1670,6 +1971,16 @@
           "wordCount": 2597,
           "title": "It's a bird, it's a plane, it's Super Cassette Vision",
           "imageUrl": "https://nicole.express/assets/img/subpar/y2-cross.png"
+        },
+        {
+          "id": "https://www.ox.ac.uk/news/2024-11-22-ethiopian-wolves-reported-feed-nectar-first-time",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ox.ac.uk/news/2024-11-22-ethiopian-wolves-reported-feed-nectar-first-time",
+          "publishedOn": "2024-11-25T01:52:54.000Z",
+          "wordCount": null,
+          "title": "Ethiopian wolves reported to feed on nectar",
+          "imageUrl": null
         },
         {
           "id": "https://sqlitestudio.pl/",
