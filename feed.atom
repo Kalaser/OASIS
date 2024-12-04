@@ -2,10 +2,240 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Kalaser.github.io/OASIS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-03T01:12:29.807Z</updated>
+    <updated>2024-12-04T01:12:22.118Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Kalaser.github.io/OASIS/index.html"/>
     <link rel="self" href="https://Kalaser.github.io/OASIS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Automated reasoning to remove LLM hallucinations]]></title>
+        <id>https://aws.amazon.com/blogs/aws/prevent-factual-errors-from-llm-hallucinations-with-mathematically-sound-automated-reasoning-checks-preview/</id>
+        <link href="https://aws.amazon.com/blogs/aws/prevent-factual-errors-from-llm-hallucinations-with-mathematically-sound-automated-reasoning-checks-preview/"/>
+        <updated>2024-12-04T00:45:41.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust library for building no-boilerplate CLI apps]]></title>
+        <id>https://github.com/JeffrayZhang/terse-cli</id>
+        <link href="https://github.com/JeffrayZhang/terse-cli"/>
+        <updated>2024-12-03T22:40:25.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phoenix LiveView 1.0.0 is here]]></title>
+        <id>https://www.phoenixframework.org/blog/phoenix-liveview-1.0-released?release=1.0</id>
+        <link href="https://www.phoenixframework.org/blog/phoenix-liveview-1.0-released?release=1.0"/>
+        <updated>2024-12-03T22:28:47.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data-engineer-handbook: everything to learn about data engineering]]></title>
+        <id>https://www.kifinity.com/github/dataexpert-io/data-engineer-handbook</id>
+        <link href="https://www.kifinity.com/github/dataexpert-io/data-engineer-handbook"/>
+        <updated>2024-12-03T22:17:17.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback]]></title>
+        <id>https://www.armaansahni.com/game/</id>
+        <link href="https://www.armaansahni.com/game/"/>
+        <updated>2024-12-03T22:08:16.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating a Proxmox or QEMU ChromeOS Flex VM]]></title>
+        <id>https://kevindavid.org/code/2024/03/20/chrome-os-flex-proxmox.html</id>
+        <link href="https://kevindavid.org/code/2024/03/20/chrome-os-flex-proxmox.html"/>
+        <updated>2024-12-03T21:38:46.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Against 'Free Market Authoritarianism']]></title>
+        <id>https://isonomiaquarterly.com/volume-2-issue-4/against-free-market-authoritarianism/</id>
+        <link href="https://isonomiaquarterly.com/volume-2-issue-4/against-free-market-authoritarianism/"/>
+        <updated>2024-12-03T21:33:12.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Openlayer (YC S21) is looking for top-tier design engineers]]></title>
+        <id>https://www.ycombinator.com/companies/openlayer/jobs/ZEEO8UB-design-engineer</id>
+        <link href="https://www.ycombinator.com/companies/openlayer/jobs/ZEEO8UB-design-engineer"/>
+        <updated>2024-12-03T21:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Egoless Engineering]]></title>
+        <id>https://egoless.engineering/</id>
+        <link href="https://egoless.engineering/"/>
+        <updated>2024-12-03T20:38:23.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: My C compiler compiled itself]]></title>
+        <id>https://github.com/keyvank/30cc</id>
+        <link href="https://github.com/keyvank/30cc"/>
+        <updated>2024-12-03T20:35:24.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Text Editing Hates You Too (2019)]]></title>
+        <id>https://lord.io/text-editing-hates-you-too/</id>
+        <link href="https://lord.io/text-editing-hates-you-too/"/>
+        <updated>2024-12-03T19:48:14.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Tube Computer]]></title>
+        <id>https://www.thetubecomputer.com/</id>
+        <link href="https://www.thetubecomputer.com/"/>
+        <updated>2024-12-03T18:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTC takes action against Gravy Analytics, Venntel for selling location data]]></title>
+        <id>https://www.ftc.gov/news-events/news/press-releases/2024/12/ftc-takes-action-against-gravy-analytics-venntel-unlawfully-selling-location-data-tracking-consumers</id>
+        <link href="https://www.ftc.gov/news-events/news/press-releases/2024/12/ftc-takes-action-against-gravy-analytics-venntel-unlawfully-selling-location-data-tracking-consumers"/>
+        <updated>2024-12-03T18:25:40.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Nova]]></title>
+        <id>https://aws.amazon.com/blogs/aws/introducing-amazon-nova-frontier-intelligence-and-industry-leading-price-performance/</id>
+        <link href="https://aws.amazon.com/blogs/aws/introducing-amazon-nova-frontier-intelligence-and-industry-leading-price-performance/"/>
+        <updated>2024-12-03T18:04:45.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[California teacher dies from suspected rabid bat bite]]></title>
+        <id>https://ktla.com/news/california/california-teacher-dies-from-suspect-rabid-bat-bite/</id>
+        <link href="https://ktla.com/news/california/california-teacher-dies-from-suspect-rabid-bat-bite/"/>
+        <updated>2024-12-03T17:41:55.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel announces Arc B-series "Battlemage" discrete graphics with Linux support]]></title>
+        <id>https://www.phoronix.com/review/intel-arc-b580-battlemage#google_vignette</id>
+        <link href="https://www.phoronix.com/review/intel-arc-b580-battlemage#google_vignette"/>
+        <updated>2024-12-03T17:19:37.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My brand new digitizing workflow using a 25 year old film scanner]]></title>
+        <id>https://blog.vladovince.com/my-brand-new-digitizing-workflow-using-a-25-year-old-film-scanner/</id>
+        <link href="https://blog.vladovince.com/my-brand-new-digitizing-workflow-using-a-25-year-old-film-scanner/"/>
+        <updated>2024-12-03T16:49:32.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Skia Canvas: Browserless implementation of the HTML Canvas drawing API for node]]></title>
+        <id>https://skia-canvas.org/</id>
+        <link href="https://skia-canvas.org/"/>
+        <updated>2024-12-03T16:34:18.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launch HN: Vocera (YC F24) – Testing and Observability for Voice AI]]></title>
+        <id>https://news.ycombinator.com/item?id=42307393</id>
+        <link href="https://news.ycombinator.com/item?id=42307393"/>
+        <updated>2024-12-03T15:46:57.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On-scalp printing of personalized electroencephalography e-tattoos]]></title>
+        <id>https://www.cell.com/cell-biomaterials/fulltext/S3050-5623(24)00004-7</id>
+        <link href="https://www.cell.com/cell-biomaterials/fulltext/S3050-5623(24)00004-7"/>
+        <updated>2024-12-03T14:51:21.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tweaking Stunt Island's 30-year-old 3D engine]]></title>
+        <id>https://annali.netlify.app/2024/11/20/tweaking-stunt-island</id>
+        <link href="https://annali.netlify.app/2024/11/20/tweaking-stunt-island"/>
+        <updated>2024-12-03T13:44:59.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phishers Love New TLDs Like .shop, .top and .xyz]]></title>
+        <id>https://krebsonsecurity.com/2024/12/why-phishers-love-new-tlds-like-shop-top-and-xyz/</id>
+        <link href="https://krebsonsecurity.com/2024/12/why-phishers-love-new-tlds-like-shop-top-and-xyz/"/>
+        <updated>2024-12-03T13:30:40.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dependency management fatigue, or why I ditched React for Go+HTMX+Templ]]></title>
+        <id>https://blog.erodriguez.de/dependency-management-fatigue-or-why-i-forever-ditched-react-for-go-htmx-templ/</id>
+        <link href="https://blog.erodriguez.de/dependency-management-fatigue-or-why-i-forever-ditched-react-for-go-htmx-templ/"/>
+        <updated>2024-12-03T12:16:33.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show HN: Copper – Open-Source Robotics in Rust with Deterministic Log Replay]]></title>
         <id>https://github.com/copper-project/copper-rs/wiki/Copper-Release-Log</id>
@@ -699,6 +929,16 @@ teaching the aliens how to exit Vim
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Making a parallel Rust workload 10x faster with (or without) Rayon]]></title>
+        <id>https://gendignoux.com/blog/2024/11/18/rust-rayon-optimized.html</id>
+        <link href="https://gendignoux.com/blog/2024/11/18/rust-rayon-optimized.html"/>
+        <updated>2024-11-29T23:22:16.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Brick and Mortar Triangle Fraud]]></title>
         <id>https://getcho.app/blog/triangle-fraud-brick-mortar/</id>
         <link href="https://getcho.app/blog/triangle-fraud-brick-mortar/"/>
@@ -753,6 +993,16 @@ teaching the aliens how to exit Vim
         <id>https://news.ycombinator.com/item?id=42276995</id>
         <link href="https://news.ycombinator.com/item?id=42276995"/>
         <updated>2024-11-29T20:49:28.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EstyJS 2.0 (emulator for the Atari ST, written in 100% pure JavaScript)]]></title>
+        <id>https://kaiec.github.io/EstyJS/</id>
+        <link href="https://kaiec.github.io/EstyJS/"/>
+        <updated>2024-11-29T20:40:05.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -909,6 +1159,26 @@ teaching the aliens how to exit Vim
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Vintage digicams are an artistic statement]]></title>
+        <id>https://arstechnica.com/gadgets/2024/11/vintage-digicams-arent-just-a-fad-theyre-an-artistic-statement/</id>
+        <link href="https://arstechnica.com/gadgets/2024/11/vintage-digicams-arent-just-a-fad-theyre-an-artistic-statement/"/>
+        <updated>2024-11-29T12:55:08.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Glojure: Clojure interpreter hosted on Go, with extensible interop support]]></title>
+        <id>https://github.com/glojurelang/glojure</id>
+        <link href="https://github.com/glojurelang/glojure"/>
+        <updated>2024-11-29T09:29:56.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Show HN: Vince – A self hosted alternative to Google Analytics]]></title>
         <id>https://github.com/vinceanalytics/vince</id>
         <link href="https://github.com/vinceanalytics/vince"/>
@@ -1023,6 +1293,16 @@ teaching the aliens how to exit Vim
         <id>https://121gigawatts.org/copper-sushi-power-flow-european-grid/</id>
         <link href="https://121gigawatts.org/copper-sushi-power-flow-european-grid/"/>
         <updated>2024-11-28T14:33:44.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MyTimeMachine: Personalized Facial Age Transformation]]></title>
+        <id>https://mytimemachine.github.io/</id>
+        <link href="https://mytimemachine.github.io/"/>
+        <updated>2024-11-28T13:43:28.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -1283,6 +1563,16 @@ teaching the aliens how to exit Vim
         <id>https://bernsteinbear.com/blog/creduce/</id>
         <link href="https://bernsteinbear.com/blog/creduce/"/>
         <updated>2024-11-27T17:56:24.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Homography Explained with Code]]></title>
+        <id>https://docs.opencv.org/4.x/d9/dab/tutorial_homography.html</id>
+        <link href="https://docs.opencv.org/4.x/d9/dab/tutorial_homography.html"/>
+        <updated>2024-11-27T17:51:09.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -1903,6 +2193,16 @@ teaching the aliens how to exit Vim
         <id>https://www.theguardian.com/lifeandstyle/2024/nov/25/new-start-after-60-hummingbird-for-people-with-dementia-volunteering-care-home</id>
         <link href="https://www.theguardian.com/lifeandstyle/2024/nov/25/new-start-after-60-hummingbird-for-people-with-dementia-volunteering-care-home"/>
         <updated>2024-11-25T15:10:09.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Curse of Markdown]]></title>
+        <id>https://codehike.org/blog/the-curse-of-markdown</id>
+        <link href="https://codehike.org/blog/the-curse-of-markdown"/>
+        <updated>2024-11-25T12:41:41.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
