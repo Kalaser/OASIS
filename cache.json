@@ -23,6 +23,246 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://litdb.dev/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://litdb.dev/",
+          "publishedOn": "2024-12-06T00:10:21.000Z",
+          "wordCount": 1083,
+          "title": "Litdb – type safe SQL for JavaScript/TS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2024/12/05/nyregion/social-media-insurance-industry-brian-thompson.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nytimes.com/2024/12/05/nyregion/social-media-insurance-industry-brian-thompson.html",
+          "publishedOn": "2024-12-05T23:25:55.000Z",
+          "wordCount": null,
+          "title": "Torrent of Hate for Health Insurance Industry Follows CEO's Killing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://old.reddit.com/r/redscarepod/comments/1h7g9ga/healthcare_companies_are_yanking_info_from_their/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://old.reddit.com/r/redscarepod/comments/1h7g9ga/healthcare_companies_are_yanking_info_from_their/",
+          "publishedOn": "2024-12-05T22:57:32.000Z",
+          "wordCount": null,
+          "title": "Healthcare companies are yanking info from their leadership pages",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tue.nl/en/news-and-events/news-overview/27-11-2024-tue-researchers-get-compact-hard-x-ray-machine-to-work?ct=t%28EMAIL_CAMPAIGN_2024_12_05_12_30&cHash=2698890d84f51932fdab618ea6ad1a4b",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.tue.nl/en/news-and-events/news-overview/27-11-2024-tue-researchers-get-compact-hard-x-ray-machine-to-work?ct=t%28EMAIL_CAMPAIGN_2024_12_05_12_30&cHash=2698890d84f51932fdab618ea6ad1a4b",
+          "publishedOn": "2024-12-05T21:55:25.000Z",
+          "wordCount": 2633,
+          "title": "Researchers get 'compact' hard X-ray machine to work",
+          "imageUrl": "https://assets.w3.tue.nl/w/fileadmin/_processed_/c/2/csm_BvOF%202024_1014_AHR%20-%20SmartLight%20lab%20X-band%20linear%20accelerator_253742e1e9.jpg"
+        },
+        {
+          "id": "https://www.acton-lang.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.acton-lang.org/",
+          "publishedOn": "2024-12-05T21:36:59.000Z",
+          "wordCount": 922,
+          "title": "The Acton Programming Language",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.businesswire.com/news/home/20241205391064/en/GitLab-Names-Bill-Staples-as-New-CEO",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.businesswire.com/news/home/20241205391064/en/GitLab-Names-Bill-Staples-as-New-CEO",
+          "publishedOn": "2024-12-05T21:36:50.000Z",
+          "wordCount": 2314,
+          "title": "Gitlab names Bill Staples as new CEO",
+          "imageUrl": "https://mms.businesswire.com/media/20241205391064/en/2323078/23/Bill_Staples_Picture.jpg"
+        },
+        {
+          "id": "https://www.ycombinator.com/companies/zep-ai/jobs/MTpb6pB-developer-advocate",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ycombinator.com/companies/zep-ai/jobs/MTpb6pB-developer-advocate",
+          "publishedOn": "2024-12-05T21:00:49.000Z",
+          "wordCount": 1517,
+          "title": "Zep AI (YC W24) Is Hiring a Dev Advocate",
+          "imageUrl": "https://yc-workatastartup-production.s3.amazonaws.com/jobs_company_jobs/images/69898/662bda2ae29a263e1e20aff53dcd04345a991f0d.png?1728598529"
+        },
+        {
+          "id": "https://www.cnbc.com/2024/12/05/mckinsey-bribery-settlement-south-africa.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.cnbc.com/2024/12/05/mckinsey-bribery-settlement-south-africa.html",
+          "publishedOn": "2024-12-05T20:24:43.000Z",
+          "wordCount": 26544,
+          "title": "McKinsey unit will pay $123M to settle claims it bribed South African officials",
+          "imageUrl": "https://image.cnbcfm.com/api/v1/image/108048622-1729102585735-gettyimages-2033465546-AFP_34K978A.jpeg?v=1729102614&w=1920&h=1080"
+        },
+        {
+          "id": "https://www.ctvnews.ca/health/congo-government-says-it-s-on-alert-over-mystery-flu-like-disease-that-killed-dozens-1.7134550",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ctvnews.ca/health/congo-government-says-it-s-on-alert-over-mystery-flu-like-disease-that-killed-dozens-1.7134550",
+          "publishedOn": "2024-12-05T20:06:19.000Z",
+          "wordCount": 6477,
+          "title": "Congo gov. says it's 'on alert' over mystery flu-like disease that killed dozens",
+          "imageUrl": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/12/5/congo-s-health-minister-roger-kamba-1-7134636-1733406175158.jpg"
+        },
+        {
+          "id": "https://kopiascsaba.hu/blog/teaching-elderly-people-to-use-android/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://kopiascsaba.hu/blog/teaching-elderly-people-to-use-android/",
+          "publishedOn": "2024-12-05T19:24:33.000Z",
+          "wordCount": 1507,
+          "title": "I spent a year building an Android course for the elderly",
+          "imageUrl": "/images/blog/13-featured.png"
+        },
+        {
+          "id": "https://www.tsunami.gov/?p=PAAQ/2024/12/05/so1aq0/1/WEAK51",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.tsunami.gov/?p=PAAQ/2024/12/05/so1aq0/1/WEAK51",
+          "publishedOn": "2024-12-05T18:58:58.000Z",
+          "wordCount": 1393,
+          "title": "Tsunami Warning for Northern California",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/Bananymous/banan-os",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/Bananymous/banan-os",
+          "publishedOn": "2024-12-05T18:54:14.000Z",
+          "wordCount": 4698,
+          "title": "Show HN: Banan-OS, an Unix-like operating system written from scratch",
+          "imageUrl": "https://opengraph.githubassets.com/0a5e3626db5be0da22344f009784c727e6fb7fcc8257cda7281ed6f3aabb5b44/Bananymous/banan-os"
+        },
+        {
+          "id": "https://github.com/facebook/react/blob/main/CHANGELOG.md",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/facebook/react/blob/main/CHANGELOG.md",
+          "publishedOn": "2024-12-05T18:50:16.000Z",
+          "wordCount": 78076,
+          "title": "React 19",
+          "imageUrl": "https://opengraph.githubassets.com/e1a312ae9af21f464a7791378a5ece0b10f9ef116bb105055cf10b4412b3bbb6/facebook/react"
+        },
+        {
+          "id": "https://openai.com/index/introducing-chatgpt-pro/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://openai.com/index/introducing-chatgpt-pro/",
+          "publishedOn": "2024-12-05T18:09:31.000Z",
+          "wordCount": null,
+          "title": "ChatGPT Pro",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/openai-o1-system-card/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://openai.com/index/openai-o1-system-card/",
+          "publishedOn": "2024-12-05T18:03:59.000Z",
+          "wordCount": null,
+          "title": "OpenAI o1 system card",
+          "imageUrl": null
+        },
+        {
+          "id": "https://developers.googleblog.com/en/introducing-paligemma-2-powerful-vision-language-models-simple-fine-tuning/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://developers.googleblog.com/en/introducing-paligemma-2-powerful-vision-language-models-simple-fine-tuning/",
+          "publishedOn": "2024-12-05T17:46:40.000Z",
+          "wordCount": 929,
+          "title": "PaliGemma 2: Powerful Vision-Language Models, Simple Fine-Tuning",
+          "imageUrl": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/PaliGemma2__Metadata.2e16d0ba.fill-1200x600.png"
+        },
+        {
+          "id": "https://www.jeffgeerling.com/blog/2024/ampereone-cores-are-new-mhz",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.jeffgeerling.com/blog/2024/ampereone-cores-are-new-mhz",
+          "publishedOn": "2024-12-05T17:46:14.000Z",
+          "wordCount": 3004,
+          "title": "AmpereOne: Cores Are the New MHz",
+          "imageUrl": null
+        },
+        {
+          "id": "http://timhulsizer.com/cwords/chonk.html",
+          "author": null,
+          "description": "Comments",
+          "link": "http://timhulsizer.com/cwords/chonk.html",
+          "publishedOn": "2024-12-05T17:05:28.000Z",
+          "wordCount": 4801,
+          "title": "An Interview with Bill Watterson (1987)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025/",
+          "publishedOn": "2024-12-05T17:02:51.000Z",
+          "wordCount": 1732,
+          "title": "7 Databases in 7 Weeks for 2025",
+          "imageUrl": "https://matt.blwt.io//7-databases-in-7-weeks-for-2025/header.webp"
+        },
+        {
+          "id": "https://github.com/barnybug/cli53",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/barnybug/cli53",
+          "publishedOn": "2024-12-05T16:27:15.000Z",
+          "wordCount": 5706,
+          "title": "cli53 – Command line tool for Amazon Route 53",
+          "imageUrl": "https://opengraph.githubassets.com/a906972be5cfc2a87a04e5646ae12c4c460441729e7c239adccae06a9c9603ce/barnybug/cli53"
+        },
+        {
+          "id": "https://compilade.net/blog/ternary-packing",
+          "author": null,
+          "description": "Comments",
+          "link": "https://compilade.net/blog/ternary-packing",
+          "publishedOn": "2024-12-05T15:51:32.000Z",
+          "wordCount": 2734,
+          "title": "How to pack ternary numbers in 8-bit bytes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gitingest.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://gitingest.com/",
+          "publishedOn": "2024-12-05T15:24:49.000Z",
+          "wordCount": 384,
+          "title": "Show HN: Replace \"hub\" by \"ingest\" in GitHub URLs for a prompt-friendly extract",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.benjojo.co.uk/post/rfc-in-38-simple-steps",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.benjojo.co.uk/post/rfc-in-38-simple-steps",
+          "publishedOn": "2024-12-05T11:53:59.000Z",
+          "wordCount": 2422,
+          "title": "The \"simple\" 38 step journey to getting an RFC",
+          "imageUrl": "https://blog.benjojo.co.uk/asset/i5VWm3gAvo"
+        },
+        {
+          "id": "https://artificialworlds.net/blog/2024/12/04/message-order-in-matrix/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://artificialworlds.net/blog/2024/12/04/message-order-in-matrix/",
+          "publishedOn": "2024-12-05T02:11:23.000Z",
+          "wordCount": 3345,
+          "title": "Message order in Matrix: right now, we are deliberately inconsistent",
+          "imageUrl": "https://artificialworlds.net/blog/banner.png"
+        },
+        {
           "id": "https://bkiran.com/blog/deploying-containers-nixos",
           "author": null,
           "description": "Comments",
@@ -61,6 +301,16 @@
           "wordCount": 514,
           "title": "Show HN: LimeJourney – open-source Customer Engagement Platform",
           "imageUrl": null
+        },
+        {
+          "id": "https://blog.sequinstream.com/keyset-cursors-not-offsets-for-postgres-pagination/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.sequinstream.com/keyset-cursors-not-offsets-for-postgres-pagination/",
+          "publishedOn": "2024-12-04T20:18:11.000Z",
+          "wordCount": 2353,
+          "title": "Keyset cursors, not offsets, for Postgres pagination",
+          "imageUrl": "https://blog.sequinstream.com/content/images/size/w1200/2024/12/kamran-abdullayev-5iQXAK_M1Nc-unsplash.jpg"
         },
         {
           "id": "https://thereader.mitpress.mit.edu/how-typing-transformed-nietzsches-consciousness/",
@@ -763,6 +1013,16 @@
           "imageUrl": "https://www.therpf.com/forums/styles/default/mps_default/logo-og.png"
         },
         {
+          "id": "https://www.mayer.cool/writings/pavlovs-half-marathon/index.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.mayer.cool/writings/pavlovs-half-marathon/index.html",
+          "publishedOn": "2024-12-02T00:35:57.000Z",
+          "wordCount": 3223,
+          "title": "Training myself to run farther with Strava's API and an IoT dog feeder of M&Ms",
+          "imageUrl": "http://www.mayer.cool/boats.jpeg"
+        },
+        {
           "id": "https://www.cyberdemon.org/2024/03/20/submodules.html",
           "author": null,
           "description": "Comments",
@@ -1033,6 +1293,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://blog.apnic.net/2024/05/17/a-transport-protocols-view-of-starlink/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.apnic.net/2024/05/17/a-transport-protocols-view-of-starlink/",
+          "publishedOn": "2024-11-30T23:12:24.000Z",
+          "wordCount": 8744,
+          "title": "A transport protocol's view of Starlink",
+          "imageUrl": "https://blog.apnic.net/wp-content/uploads/2024/05/starlink-launch-ft.png"
+        },
+        {
           "id": "https://theconversation.com/an-83-year-old-short-story-by-borges-portends-a-bleak-future-for-the-internet-242998",
           "author": null,
           "description": "Comments",
@@ -1140,6 +1410,16 @@
           "publishedOn": "2024-11-30T15:18:50.000Z",
           "wordCount": 10037,
           "title": "Interview of Robert Shingledecker, Tiny Core Linux and DSL Developer (2009)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://wolfgirl.dev/blog/2024-11-24-a-novel-idea-about-functor-in-rust/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://wolfgirl.dev/blog/2024-11-24-a-novel-idea-about-functor-in-rust/",
+          "publishedOn": "2024-11-30T09:40:06.000Z",
+          "wordCount": 1513,
+          "title": "A Novel Idea About `Functor` in Rust?",
           "imageUrl": null
         },
         {
@@ -1671,6 +1951,26 @@
           "wordCount": 1428,
           "title": "A washing machine for human beings, from 1970",
           "imageUrl": "https://s3files.core77.com/blog/images/lead_n_spotlight/1601860_lead_400_134471_.jpg"
+        },
+        {
+          "id": "https://cassidoo.co/post/side-project-haunting/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://cassidoo.co/post/side-project-haunting/",
+          "publishedOn": "2024-11-28T00:25:06.000Z",
+          "wordCount": 346,
+          "title": "Haunted by my own projects",
+          "imageUrl": "https://cassidoo.co/blog-card.png"
+        },
+        {
+          "id": "https://blog.danielh.cc/blog/sat",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.danielh.cc/blog/sat",
+          "publishedOn": "2024-11-28T00:18:19.000Z",
+          "wordCount": 2533,
+          "title": "Accidentally writing a fast SAT solver",
+          "imageUrl": null
         },
         {
           "id": "https://www.sheldonbrown.com/AluminumBikeProject.html",
