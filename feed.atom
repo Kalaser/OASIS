@@ -2,10 +2,260 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Kalaser.github.io/OASIS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-06T01:11:19.030Z</updated>
+    <updated>2024-12-07T01:10:55.981Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Kalaser.github.io/OASIS/index.html"/>
     <link rel="self" href="https://Kalaser.github.io/OASIS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Biggest Shell Programs in the World (Wiki)]]></title>
+        <id>https://github.com/oils-for-unix/oils/wiki/The-Biggest-Shell-Programs-in-the-World</id>
+        <link href="https://github.com/oils-for-unix/oils/wiki/The-Biggest-Shell-Programs-in-the-World"/>
+        <updated>2024-12-07T00:59:11.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Kid Made $50k Dumping Crypto He'd Created. Then Came the Backlash]]></title>
+        <id>https://www.wired.com/story/memecoin-kid-backlash/</id>
+        <link href="https://www.wired.com/story/memecoin-kid-backlash/"/>
+        <updated>2024-12-06T23:43:39.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TikTok set to be banned in the US after losing appeal]]></title>
+        <id>https://www.bbc.com/news/articles/c2ldnq5095xo</id>
+        <link href="https://www.bbc.com/news/articles/c2ldnq5095xo"/>
+        <updated>2024-12-06T23:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenWrt One router officially launched]]></title>
+        <id>https://openwrt.org/#openwrt_one_router_officially_launched</id>
+        <link href="https://openwrt.org/#openwrt_one_router_officially_launched"/>
+        <updated>2024-12-06T23:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lies I was told about collab editing, Part 1: Algorithms for offline editing]]></title>
+        <id>https://www.moment.dev/blog/lies-i-was-told-pt-1</id>
+        <link href="https://www.moment.dev/blog/lies-i-was-told-pt-1"/>
+        <updated>2024-12-06T20:22:07.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Does Your Code Pass the Turkey Test? (2008)]]></title>
+        <id>http://www.moserware.com/2008/02/does-your-code-pass-turkey-test.html</id>
+        <link href="http://www.moserware.com/2008/02/does-your-code-pass-turkey-test.html"/>
+        <updated>2024-12-06T20:18:55.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DSPy – Programming–not prompting–LMs]]></title>
+        <id>https://dspy.ai/</id>
+        <link href="https://dspy.ai/"/>
+        <updated>2024-12-06T19:59:49.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arc Prize 2024 Winners and Technical Report]]></title>
+        <id>https://arcprize.org/2024-results</id>
+        <link href="https://arcprize.org/2024-results"/>
+        <updated>2024-12-06T19:20:19.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep dive into finding RSS feeds]]></title>
+        <id>https://lighthouseapp.io/blog/deep-dive-finding-rss-feeds</id>
+        <link href="https://lighthouseapp.io/blog/deep-dive-finding-rss-feeds"/>
+        <updated>2024-12-06T19:17:07.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maps.me co-founder tries to close down Organic Maps open-source fork]]></title>
+        <id>https://github.com/orgs/organicmaps/discussions/9837</id>
+        <link href="https://github.com/orgs/organicmaps/discussions/9837"/>
+        <updated>2024-12-06T19:11:38.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<dialog>: The Dialog Element]]></title>
+        <id>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog</id>
+        <link href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog"/>
+        <updated>2024-12-06T19:09:07.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Bypass WhatsApp Web's Locked Chat Feature]]></title>
+        <id>https://lcat.dev/post.php?id=3cf8e1b9-e5e3-4a6d-af27-12720c5b2d54</id>
+        <link href="https://lcat.dev/post.php?id=3cf8e1b9-e5e3-4a6d-af27-12720c5b2d54"/>
+        <updated>2024-12-06T19:06:17.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The square roots of all evil]]></title>
+        <id>https://neilmadden.blog/2024/12/03/the-square-roots-of-all-evil/</id>
+        <link href="https://neilmadden.blog/2024/12/03/the-square-roots-of-all-evil/"/>
+        <updated>2024-12-06T19:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Reinforcement Fine-Tuning Research Program]]></title>
+        <id>https://openai.com/form/rft-research-program/</id>
+        <link href="https://openai.com/form/rft-research-program/"/>
+        <updated>2024-12-06T18:37:56.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Every UUID Dot Com]]></title>
+        <id>https://everyuuid.com/</id>
+        <link href="https://everyuuid.com/"/>
+        <updated>2024-12-06T18:11:46.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tokyo is set to introduce a four-day workweek for government employees]]></title>
+        <id>https://www.cnn.com/2024/12/06/asia/tokyo-government-4-day-workweek-intl-hnk/index.html</id>
+        <link href="https://www.cnn.com/2024/12/06/asia/tokyo-government-4-day-workweek-intl-hnk/index.html"/>
+        <updated>2024-12-06T17:54:20.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Real-Time YOLO Object Detection in Elixir: Fast, Simple, Extensible]]></title>
+        <id>https://github.com/poeticoding/yolo_elixir</id>
+        <link href="https://github.com/poeticoding/yolo_elixir"/>
+        <updated>2024-12-06T17:39:54.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mistakes as a new manager]]></title>
+        <id>https://terriblesoftware.org/2024/12/04/the-6-mistakes-youre-going-to-make-as-a-new-manager/</id>
+        <link href="https://terriblesoftware.org/2024/12/04/the-6-mistakes-youre-going-to-make-as-a-new-manager/"/>
+        <updated>2024-12-06T16:56:50.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Llama-3.3-70B-Instruct]]></title>
+        <id>https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct</id>
+        <link href="https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct"/>
+        <updated>2024-12-06T16:44:56.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Unplanned Impact of Mathematics (2011)]]></title>
+        <id>https://www.nature.com/articles/475166a</id>
+        <link href="https://www.nature.com/articles/475166a"/>
+        <updated>2024-12-06T15:43:24.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Install postmarketOS on Android phone and use Docker as a home server]]></title>
+        <id>https://crackoverflow.com/docs/system_administration/containerization/install-docker-natively-on-android-phone-and-use-it-as-a-home-server/</id>
+        <link href="https://crackoverflow.com/docs/system_administration/containerization/install-docker-natively-on-android-phone-and-use-it-as-a-home-server/"/>
+        <updated>2024-12-06T14:23:17.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rivian is opening its charging network to other EVs]]></title>
+        <id>https://www.thedrive.com/news/rivian-is-opening-its-charger-network-to-other-evs</id>
+        <link href="https://www.thedrive.com/news/rivian-is-opening-its-charger-network-to-other-evs"/>
+        <updated>2024-12-06T14:16:49.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Romanian court annuls result of presidential election first round]]></title>
+        <id>https://www.bbc.com/news/articles/cn4x2epppego</id>
+        <link href="https://www.bbc.com/news/articles/cn4x2epppego"/>
+        <updated>2024-12-06T13:55:49.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RankScience (YC W17) is hiring to supercharge SEO for startups]]></title>
+        <id>https://remotejobs.org/companies/rankscience-remote-jobs</id>
+        <link href="https://remotejobs.org/companies/rankscience-remote-jobs"/>
+        <updated>2024-12-06T12:00:38.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debian opens a can of username worms]]></title>
+        <id>https://lwn.net/SubscriberLink/1000485/670ef0045e5e8a3e/</id>
+        <link href="https://lwn.net/SubscriberLink/1000485/670ef0045e5e8a3e/"/>
+        <updated>2024-12-06T09:55:18.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Litdb – type safe SQL for JavaScript/TS]]></title>
         <id>https://litdb.dev/</id>
@@ -707,6 +957,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The dogs of Chernobyl: Insights into populations in the nuclear exclusion zone]]></title>
+        <id>https://www.science.org/doi/10.1126/sciadv.ade2537</id>
+        <link href="https://www.science.org/doi/10.1126/sciadv.ade2537"/>
+        <updated>2024-12-03T15:07:31.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[On-scalp printing of personalized electroencephalography e-tattoos]]></title>
         <id>https://www.cell.com/cell-biomaterials/fulltext/S3050-5623(24)00004-7</id>
         <link href="https://www.cell.com/cell-biomaterials/fulltext/S3050-5623(24)00004-7"/>
@@ -741,6 +1001,16 @@
         <id>https://blog.erodriguez.de/dependency-management-fatigue-or-why-i-forever-ditched-react-for-go-htmx-templ/</id>
         <link href="https://blog.erodriguez.de/dependency-management-fatigue-or-why-i-forever-ditched-react-for-go-htmx-templ/"/>
         <updated>2024-12-03T12:16:33.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next-level frosted glass with backdrop-filter]]></title>
+        <id>https://www.joshwcomeau.com/css/backdrop-filter/</id>
+        <link href="https://www.joshwcomeau.com/css/backdrop-filter/"/>
+        <updated>2024-12-03T03:43:13.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -1229,10 +1499,30 @@ teaching the aliens how to exit Vim
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA['Maya blue': The mystery dye recreated two centuries after it was lost]]></title>
+        <id>https://www.aljazeera.com/features/2024/12/1/maya-blue-the-mystery-dye-recreated-two-centuries-after-it-was-lost</id>
+        <link href="https://www.aljazeera.com/features/2024/12/1/maya-blue-the-mystery-dye-recreated-two-centuries-after-it-was-lost"/>
+        <updated>2024-12-01T15:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Sperry Rand Corporation]]></title>
         <id>https://www.abortretry.fail/p/the-sperry-rand-corporation</id>
         <link href="https://www.abortretry.fail/p/the-sperry-rand-corporation"/>
         <updated>2024-12-01T13:18:12.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why it took a long time to build that tiny link preview on Wikipedia (2018)]]></title>
+        <id>https://medium.com/freely-sharing-the-sum-of-all-knowledge/why-it-took-a-long-time-to-build-that-tiny-link-preview-on-wikipedia-d5bd734df8fe</id>
+        <link href="https://medium.com/freely-sharing-the-sum-of-all-knowledge/why-it-took-a-long-time-to-build-that-tiny-link-preview-on-wikipedia-d5bd734df8fe"/>
+        <updated>2024-12-01T11:29:16.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -1253,6 +1543,16 @@ teaching the aliens how to exit Vim
         <id>https://adventofcode.com/2024/about</id>
         <link href="https://adventofcode.com/2024/about"/>
         <updated>2024-12-01T09:09:35.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Archaeologists reveal musical instruments shown in Zimbabwe's ancient rock art]]></title>
+        <id>https://phys.org/news/2024-11-archaeologists-reveal-musical-instruments-depicted.html</id>
+        <link href="https://phys.org/news/2024-11-archaeologists-reveal-musical-instruments-depicted.html"/>
+        <updated>2024-12-01T03:19:39.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
