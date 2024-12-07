@@ -6,4 +6,7 @@
 cacheUrl: https://Kalaser.github.io/OASIS/cache.json
 sources:
   - href: https://blog.codinghorror.com/rss 
-  - href: https://news.ycombinator.com/rss
+  - href: https://rsshub.app/meituan/tech/home
+  - href: https://www.zhihu.com/rss
+  - href: https://feeds2.feedburner.com/programthink  
+  - href: http://www.geekpark.net/rss  
