@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Kalaser.github.io/OASIS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-07T11:32:30.714Z</updated>
+    <updated>2024-12-08T01:17:12.986Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Kalaser.github.io/OASIS/index.html"/>
     <link rel="self" href="https://Kalaser.github.io/OASIS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[传小米汽车将推 15 万增程 SUV；X 推「无监管」文生图，能生成各种明星；AI 团队悬赏，骗 AI 说我爱你即拿钱]]></title>
+        <id>http://www.geekpark.net/news/343952</id>
+        <link href="http://www.geekpark.net/news/343952"/>
+        <updated>2024-12-08T00:28:54.000Z</updated>
+        <summary type="html"><![CDATA[小米第三款车型曝光：增程式、售价预计 15 万左右
+小米正在为旗下第三款车型做准备，而这会是一款走量的车型。据悉，小米汽车第三款车也是一款 SUV，将采用增程式动力，定位较低，内部代号为「昆仑」，预计 2026 年正式上市销售。
+
+根据最新爆料，小米的「昆仑」SUV 或将交由武汉东风汽车进行代工，也有可能是收购并改造东风的现有工厂，预计起售价格在 15 万元左右。爆料人士提到：「昆仑就是 KL，是 King's landing（君临），划时代的程度会超出所有人的预期。」（来源：快科技）
+
+X 为 Grok 带来了全新的 AI 图像生成器
+X 为 Grok 上线了一个名为「极光」的新人工智能图像生成器模型，该模型似乎可以生成比 Grok 的其他图像生成器更加逼真的图像，而且对其生成的图像几乎没有明显的限制。
+与 Grok 一样，任何人都可以使用 Aurora。它存在于 Grok 模型选择器中一个新的「Grok 2 + Aurora 测试版」选项中，不过在触碰到 X Premium 订阅付费墙并不得不等待之前只能进行几次查询。
+X 员工 Chris Park 今天上午发布的模型已经可用，它愿意创建受版权保护的人物和公众人物，包括米老鼠和「满身是血的特朗普」，但「没有裸体」。考虑到使用 Grok 另一个模型的经验，它缺乏限制并不令人惊讶。（来源：cnBeta）
+ 
+阿里合伙人樊路远为「爹味发言」道歉：尺度没把握好，会自罚三个月工资
+昨天，阿里旗下游戏品牌灵犀互娱为入职五年的员工举行授戒仪式，但阿里合伙人、阿里大文娱董事长兼 CEO 樊路远在此次内部会议上的演讲流出后引起轩然大波。
+
+在这次内部演讲中，他重点提及灵犀团队缺乏阿里精神和阿里文化等问题，多次强调「阿里血脉」论，批评灵犀团队文化，要求灵犀互娱超越腾讯网易，但此番「爹味」发言也引发了舆论争议。
+发现引起争议后，樊路远今晚在…]]></summary>
+        <author>
+            <name>极客公园</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[杨植麟发信回应朱啸虎：分歧会被解决；微信查删单向好友功能上线；OpenAI 发布微调强化工具 | 极客早知道]]></title>
         <id>http://www.geekpark.net/news/343944</id>
