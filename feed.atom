@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Kalaser.github.io/OASIS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-08T01:17:12.986Z</updated>
+    <updated>2024-12-09T01:14:01.210Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Kalaser.github.io/OASIS/index.html"/>
     <link rel="self" href="https://Kalaser.github.io/OASIS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[马云现身蚂蚁集团，寄语未来 20 年；小米考虑支持苹果手表、耳机；特斯拉低价小车明年亮相]]></title>
+        <id>http://www.geekpark.net/news/343958</id>
+        <link href="http://www.geekpark.net/news/343958"/>
+        <updated>2024-12-09T00:51:32.000Z</updated>
+        <summary type="html"><![CDATA[马云现身杭州，寄语蚂蚁 20 周年，同日蚂蚁集团官宣换帅
+12 月 8 日蚂蚁集团今日宣布一项重大人事调整。自 2025 年 3 月 1 日起，总裁韩歆毅将正式接任 CEO 一职，全面负责公司的业务运营及日常管理，并直接向董事长井贤栋和董事会汇报。井贤栋表示，自己将更加专注于董事长职责，全力支持韩歆毅及其团队。
+韩歆毅自 2014 年加入蚂蚁集团，历任战略投资副总裁、CFO 及董事会执行董事等重要职务。今年 3 月，他被任命为总裁。井贤栋对韩歆毅的贡献表示高度赞扬，认为他凭借敏锐的战略洞察力和勤勉专业的精神，为公司的发展作出了重要贡献。
+当日晚上，久未公开露面的马云今日现身蚂蚁园区，为支付宝和蚂蚁集团的 20 岁生日送上生日祝福。
+
+ 
+马云表示，「很高兴和大家一起庆祝支付宝的 20 周年，过去的 20 年，你们无中生有，创造了支付宝，余额宝，蚂蚁森林……以自己的努力和方式参与了社会的发展建设。我在这里代表最早的创始群体，致敬支付宝，致敬蚂蚁，祝福蚂蚁！」（来源：TechWeb、网易科技）
+
+ 
+谷歌称其 PaliGemma 2 人工智能模型可识别情绪，引发专家担忧
+12 月 8 日消息，谷歌表示，其新的人工智能模型系列有一个奇特的功能：能够「识别」情绪。
+谷歌周四发布了其最新 AI 模型系列 PaliGemma 2，该模型具备图像分析能力，可以生成图像描述并回答有关照片中人物的问题。谷歌在其博客中介绍，PaliGemma 2 不仅能识别物体，还能生成详细且与上下文相关的图片说明，涵盖动作、情感以及整体场景的叙述。
+PaliGemma 2 的情感识别功能并非开箱即用，需要进行专门的微调，但专家们仍然对此表示担忧。
+多年来，许多科技公司一直在尝试开发能够识别情感的 AI，尽管一些公司声称已经取得突破，但这一技术的基础仍然存在争议。大多数情感识别系统都基于心理学家 Paul E…]]></summary>
+        <author>
+            <name>极客公园</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[传小米汽车将推 15 万增程 SUV；X 推「无监管」文生图，能生成各种明星；AI 团队悬赏，骗 AI 说我爱你即拿钱]]></title>
         <id>http://www.geekpark.net/news/343952</id>
