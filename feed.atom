@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Kalaser.github.io/OASIS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-14T01:09:52.434Z</updated>
+    <updated>2024-12-15T01:21:16.173Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Kalaser.github.io/OASIS/index.html"/>
     <link rel="self" href="https://Kalaser.github.io/OASIS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[看见创新力量！极客公园 2024 年度「InnoForce 50」发布]]></title>
+        <id>http://www.geekpark.net/news/344189</id>
+        <link href="http://www.geekpark.net/news/344189"/>
+        <updated>2024-12-14T07:12:22.000Z</updated>
+        <summary type="html"><![CDATA[排序按照拼音/英文首字母顺序
+作为中国领先的创新者社区，极客公园自成立之初便与国内技术创新的浪潮同频共振，见证了一代又一代技术商业领袖的成长与蜕变。
+自 2011 年 1 月首次推出 InnoAwards 以来，极客公园便致力于通过其记录和展示科技互联网领域的年度发展与变革。
+「年度创新力量 TOP 50（InnoForce 50）」是「InnoAwards」精神的延续，已陪伴中国互联网走过超 10 个年头，每一年我们都从中看到新的可能。
+在过去一年里，随着业界对人工智能技术的不断探索，这一轮技术与创新成果的可用度大幅提升，不仅通过各种产品形态深入我们的生活，以越来越细小的触角影响着每一个人；也给那些站在浪潮之巅的极客们提供了更加先进可用的底层技术，使得开发者们凭借很小的团队，甚至一人之力，就能打造出成熟的产品，并获得成功。
+今天，极客公园再次推出 2024 年度「InnoForce 50」，旨在发现过去一年中，在人工智能技术领域及其交叉领域实现了创新突破的产品、技术、组织、项目和个人开发者。
+2024 年度「InnoForce 50」主要关注 3 个维度：创新性、实用性和社会价值增溢。
+我们相信，科技的使命既是解决现实世界中的真实问题，也是仰望星空的浪漫主义梦想。因此，2024 年度「InnoForce 50」的关键词是突破、想象、以人为本——技术与商业的突破，早期但足够前沿的创新，以及技术与商业的价值成长带来的社会温度。
+2024 年度「InnoForce 50」不仅是对业界过去一年科技创新成果的认可，更是对未来创新潜力的期待。
+以下为 2024 年度「InnoForce 50」：
+
+ 
+
+豆包是字节跳动推出的 AI 对话助手，通过自然语言交互，豆包可以像朋友一样跟用户聊天、回答问题，豆包 PC 版则更像个人助理，帮助用户更好地工作和学习。目前在各大应用市场中，豆包 A…]]></summary>
+        <author>
+            <name>极客公园</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI 喊话马斯克：告我实现不了 AGI；《黑神话：悟空》获TGA 年度动作游戏；50% 年轻人始终保持在线｜极客早知道]]></title>
         <id>http://www.geekpark.net/news/344187</id>
