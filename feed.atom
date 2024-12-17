@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Kalaser.github.io/OASIS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-16T01:14:33.629Z</updated>
+    <updated>2024-12-17T01:12:02.584Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Kalaser.github.io/OASIS/index.html"/>
     <link rel="self" href="https://Kalaser.github.io/OASIS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[扎克伯格套现超过 22 亿美元；极越夏一平发长文道歉信；Lucid 工程师称自购小米 SU7 学造车]]></title>
+        <id>http://www.geekpark.net/news/344244</id>
+        <link href="http://www.geekpark.net/news/344244"/>
+        <updated>2024-12-17T00:38:18.000Z</updated>
+        <summary type="html"><![CDATA[挑战 OpenAI，谷歌新动作：推出视频模型 VEO 2 和最新版 Imagen3
+12 月 17 日凌晨，谷歌的旗舰 AI 研究实验室 Google DeepMind 推出了 Veo 2 视频生成模型和增强版 Imagen 3 图像模型，挑战 OpenAI 在 AI 图像和视频生成的领先地位。
+
+截图来源：X.com
+Veo 2 是谷歌的视频生成工具，能够生成多样化主题和风格的高质量视频。谷歌在博客中表示，这款模型在真实感方面表现卓越，能够捕捉到人类表情和电影效果等细节。其增强的物理和电影学理解能力使用户能够生成令人惊叹的内容，包括跟踪镜头和广角构图等。
+例如，Veo 2 熟悉电影拍摄语言，用户可以要求某种类型的风格，指定镜头，建议电影效果，Veo 2 都会以高达 4K 分辨率并延长到数分钟的视频长度来呈现。值得注意的是，这一分辨率是 OpenAI Sora 模型的 4 倍，视频时长更是其 6 倍以上。（来源：每日经济新闻）
+
+ChatGPT 搜索功能向全体用户开放，新增语音搜索服务
+12 月 17 日，OpenAI 在其 12 天发布会的第八天正式宣布，ChatGPT 搜索功能将从即日起向全体 ChatGPT 用户开放。该功能于今年 10 月底正式发布，此前仅向 ChatGPT Plus 和 Team 用户开放移动及网络端的付费搜索服务。
+
+截图来源：X.com
+同时，OpenAI 还为用户提供了将 ChatGPT 搜索设为浏览器默认搜索引擎的便利选项。
+值得注意的是，OpenAI 正在将 ChatGPT 搜索功能与高级语音模式相结合。这意味着，ChatGPT 现在能够以语音形式搜索网络，并以自然、流畅的对话方式回应用户的问题。例如，如果用户即将前往另一个城市度假，只需询问 ChatGPT 当地的天气情况，内置的搜索功能便能提供最新的天气信息。（来源：腾讯科技）
+ 
+英…]]></summary>
+        <author>
+            <name>极客公园</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[看见创新力量！极客公园 2024 年度「InnoForce 50」发布]]></title>
         <id>http://www.geekpark.net/news/344189</id>
