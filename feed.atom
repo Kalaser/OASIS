@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Kalaser.github.io/OASIS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-21T01:05:06.722Z</updated>
+    <updated>2024-12-22T01:11:29.791Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Kalaser.github.io/OASIS/index.html"/>
     <link rel="self" href="https://Kalaser.github.io/OASIS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[传 GPT-5 开发不顺；蔚来第三品牌新车首秀，预售价 14.88 万元；广电总局要求加强微短剧片名审核]]></title>
+        <id>http://www.geekpark.net/news/344500</id>
+        <link href="http://www.geekpark.net/news/344500"/>
+        <updated>2024-12-22T00:58:35.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI 开发其下一个主要模型 GPT-5 的努力正落后于计划
+据《华尔街日报》最新报道，OpenAI 开发其下一个主要 AI 模型 GPT-5 的努力正落后于计划，其结果还不能证明巨大的成本是合理的。这与 The Information 早些时候的一篇报道相呼应，该报道称，由于 GPT-5 可能不像以前的模型那样代表着巨大的飞跃，OpenAI 正在寻求新的战略。
+
+但《华尔街日报》的这篇报道包含了有关代号为 Orion 的 GPT-5 历时 18 个月的开发过程的更多细节。
+据报道，OpenAI 已经完成了至少两次大型训练运行，其目的是通过对大量数据进行训练来改进模型。最初的训练运行比预期的要慢，这暗示着更大规模的运行既费时又费钱。据报道，虽然 GPT-5 的性能比前代产品更好，但它的进步还不足以证明维持模型运行的成本是合理的。
+《华尔街日报》还报道说，OpenAI 不仅仅依赖公开数据和授权协议，还雇人通过编写代码或解决数学问题来创建新数据。此外，OpenAI 还使用其另一个模型 o1 创建的合成数据。
+OpenAI 没有立即回应置评请求。该公司此前曾表示今年不会发布代号为 Orion 的模型。（来源：cnBeta）
+
+业界首款面向全场景数智安全，华为等 15 家单位联合宣布 openHiTLS 密码套件开源
+12 月 22 日消息，据「华为开源」官方消息，2024 开放原子开发者大会暨首届开源技术学术大会昨日（12 月 21 日）在武汉召开。
+来自西安电子科技大学、山东大学以及华为等 15 家单位联合宣布 openHiTLS 密码套件开源。
+据介绍，openHiTLS 是业界首款面向全场景数智安全、独立创新的开源密码套件，有以下特点：
+算法丰富：openHiTLS 提供丰富的算法原语、高性能商密算法、数字证书与安全协议能力，支持应用平滑迁移到后量子算法
+剪裁灵活：o…]]></summary>
+        <author>
+            <name>极客公园</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[999 元的 AI 眼镜来了，闪极拉开「百镜大战」序幕]]></title>
+        <id>http://www.geekpark.net/news/344498</id>
+        <link href="http://www.geekpark.net/news/344498"/>
+        <updated>2024-12-21T04:37:03.000Z</updated>
+        <summary type="html"><![CDATA[作者 | Li Yuan 
+编辑 | 郑玄
+ 
+2024 年最火的 AI 硬件之一，当属「Ray-Ban Meta」智能眼镜。在出货量突破 100 万台后，科技界的人们迅速意识到，这非常可能是智能硬件的下一个超级品类。
+笔者自己 自费购买了一台 之后，在生活中，无意种草的概率也高的惊人。不过，对于被种草的人，笔者经常补充一句，如果不着急的话，可以等等国内的仿款——「Ray-Ban Meta」智能眼镜虽好，但是由于众所周知的原因，语音功能的使用时常受限，AI 功能的开启更是相对较难。
+业界消息一直显示，国内目前有数十款甚至上百款「Ray-Ban Meta」智能眼镜的仿款正在研制。年末，包括百度、小米、雷鸟等知名厂商更是宣布了自己的无显示功能的 AI 眼镜计划。
+而跑的更快的小厂，则已经拿出了自己的产品。12 月 19 日，闪极科技在深圳举办发布会，正式推出了首款产品「AI 拍拍镜」，并表示将是中国 AI 眼镜的首批量产产品。
+从产品功能和外观而言，「AI 拍拍镜」几乎完全对标「Ray-Ban Meta」智能眼镜，而价格则约为「Ray-Ban Meta」智能眼镜的一半——前五万台共创版的价格为 999 元，还可以通过打卡返现金券。优惠的价格，导致发布会后没多久，各平台的预定链接已经全部卖空下架，而闲鱼上已经挂上了不少 1499 的原价链接。
+虽然硬件较「Ray-Ban Meta」智能眼镜更便宜，闪极留下了软件使用付费的商业模式的空间——两个 AI 功能，AI 闪极和 AI 云盘，年订阅价格 299 元，不过首年免费。
+极客公园在线下参与了闪极的发布会，简单体验了产品，并采访了闪极 CEO 张波。
+张波是魅族手机的老兵。2020 年，张波成立闪极，最出名的产品为充电宝系列。闪极的充电宝走高端路线，利润率较高。2024 年，闪极年度营收达到接近 2 亿，60% 的产品销量在海外。
+…]]></summary>
+        <author>
+            <name>极客公园</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI发布高级推理模型o3；传雷军亲自重金招募大模型领军人才；小米 YU7 无伪装实车曝光]]></title>
         <id>http://www.geekpark.net/news/344497</id>
