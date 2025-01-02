@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Kalaser.github.io/OASIS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-01T01:11:52.069Z</updated>
+    <updated>2025-01-02T01:05:18.432Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Kalaser.github.io/OASIS/index.html"/>
     <link rel="self" href="https://Kalaser.github.io/OASIS/feed.atom"/>
@@ -1903,64 +1903,6 @@ OpenAI 周三在社交媒体上宣布，从当地时间周四开始将进入一�
 12 月 3 日，据报道，微软将在英国面临一起逾 10 亿美元的…]]></summary>
         <author>
             <name>极客公园</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我，机器人艺术家，一幅画卖 700 万]]></title>
-        <id>http://www.geekpark.net/news/343763</id>
-        <link href="http://www.geekpark.net/news/343763"/>
-        <updated>2024-12-03T03:09:56.000Z</updated>
-        <summary type="html"><![CDATA[作者｜苏子华
-编辑｜靖宇
-一个名叫 Ai-Da 的人形机器人，用她的机械手臂，画了一组人工智能之父图灵的肖像画，卖了 110 万美元。
-这是前不久发生在苏富比拍卖行的历史性时刻——Ai-Da 创造了人形机器人艺术家作品拍卖的最高记录。
-但这不是重点。
-她的创造者 Aidan Meller 表示，做这样一款机器人并不是为了彰显 AI 艺术能卖多少钱，也不是为了卖机器人，而是为了向全世界提出问题，引发思考。
-
-Ai-Da 创作的人工智能之父图灵的肖像画
-Aidan Meller 原本经营着一家画廊，和全球各地的艺术家合作，收藏、展出他们的作品。2017 年，在从业了 20 多年之后，他开始思考，为什么有些艺术家那么成功？是什么让 1% 的艺术家比其他人都出色？
-他研究了大量艺术家的生活经历、作品风格、主题之后意识到，最顶尖的那部分艺术家所解决的问题，普遍是他们那个时代最让人感到不安或者不舒服的问题。
-所以，当他们展示自己的艺术作品时，观众会作出巨大的反应，因为观众就处在那样的时代境遇中，产生了深深的共鸣。
-遵循着他发现的规律，Aidan Meller 意识到 AI 将在不久的将来影响社会的每个方面——在他看来，这就是这个时代最值得关心的问题，「技术是我们最大的驱动力，同时也是我们最大的问题。」
-于是，Aidan Meller 发起了一个新项目：如何正确理解人工智能世界。经过两年的研发后，Ai-Da 便在 2019 年诞生了。Aidan Meller 试图将 AI 时代的重要议题，凝结在这个机器人艺术家身上，具象地呈现出来，进而引发人们的讨论。
-
-Ai-Da 在接受采访｜图片来源：Ai-Da 官网
-Ai-Da 不仅能画画，还会雕塑，会作诗、参加 TED 演讲，并到全世界各地参加会议。她曾在联合国论坛上发表演说，也曾在威尼斯双年展期间举办了个人展览，俨然是一位真人艺术家的行径。在 …]]></summary>
-        <author>
-            <name>极客公园</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英特尔突然宣布 CEO 基辛格退休；人人网曝停止服务：正在升级；网络低智，「大脑腐烂」成牛津年度热词]]></title>
-        <id>http://www.geekpark.net/news/343753</id>
-        <link href="http://www.geekpark.net/news/343753"/>
-        <updated>2024-12-03T00:31:10.000Z</updated>
-        <summary type="html"><![CDATA[英特尔宣布 CEO 帕特·基辛格退休
-12 月 2 日消息，芯片制造商英特尔周一表示，首席执行官帕特·基辛格 (Pat Gelsinger) 从 12 月 1 日起退休，并从董事会辞职。
-帕特·基辛格已经在英特尔工作了 40 多年，他说，「领导英特尔是我一生的荣幸——这群人是业内最优秀、最聪明的人之一，我很荣幸能称他们为同事。当然，今天是苦乐参半的一天，因为这家公司是我职业生涯大部分时间的生活。我可以自豪地回顾我们共同取得的成就。对我们所有人来说，这是充满挑战的一年，因为我们做出了艰难但必要的决定，让英特尔适应当前的市场动态。」
-
-自 2024 年 12 月 1 日起，英特尔公司首席执行官帕特·盖尔辛格已从公司退休，并退出董事会。｜图片来源：英特尔官网
-英特尔已任命首席财务官大卫·津斯纳 (David Zinsner) 和高级执行官米歇尔·约翰斯顿·霍尔索斯 (Michelle Johnston Holthaus) 为临时联席首席执行官，同时董事会正在寻找新任首席执行官。
-截至北京时间今日早间收盘，英特尔股价为 24.05 美元，市值为 1037 亿美元。基辛格退休的消息宣布后，英特尔盘前股价上涨超过 4%。（来源：雷递网）
-
-OpenAI 据悉考虑引入广告，寻求新的收入来源 
-OpenAI 正在讨论在其人工智能产品中引入广告的计划，在其正重组为一家营利性公司之际，它正在寻求新的收入来源。
-OpenAI 首席财务官 Sarah Friar 在接受采访时表示，OpenAI 正在考虑广告模式，并称公司会谨慎考虑何时实施广告模式。据知情人士透露和媒体对 LinkedIn 账户的分析，OpenAI 一直在从 Meta 和谷歌等竞争对手那里招聘广告人才。
-在采访后的一份声明中，Friar 补充道，我们目前的业务正在快速增长，我们在现有的商业模式中看到了巨大的机会。虽然我们愿意在未来探…]]></summary>
-        <author>
-            <name>极客公园</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Great Filter Comes For Us All]]></title>
-        <id>674aa37302b0da00013f4d72</id>
-        <link href="https://blog.codinghorror.com/the-great-filter-comes-for-us-all/"/>
-        <updated>2024-12-02T18:25:46.000Z</updated>
-        <summary type="html"><![CDATA[With a 13 billion year head start on evolution, why haven't any other forms of life in the universe contacted us by now?
-teaching the aliens how to exit Vim
-(Arrival is a fantastic movie. Watch it, but don't stop there - read the Story of]]></summary>
-        <author>
-            <name>Jeff Atwood</name>
         </author>
     </entry>
 </feed>
