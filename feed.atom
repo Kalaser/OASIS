@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Kalaser.github.io/OASIS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-13T01:10:04.908Z</updated>
+    <updated>2025-01-14T01:03:18.327Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Kalaser.github.io/OASIS/index.html"/>
     <link rel="self" href="https://Kalaser.github.io/OASIS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[美国推出 AI 芯片管制新规，英伟达明确反对；余承东发全员信：鸿蒙三分天下有其一；菜鸟否认拆分]]></title>
+        <id>http://www.geekpark.net/news/345250</id>
+        <link href="http://www.geekpark.net/news/345250"/>
+        <updated>2025-01-14T00:42:55.000Z</updated>
+        <summary type="html"><![CDATA[美国推出 AI 芯片管制新规，英伟达与甲骨文已明确反对
+当地时间 1 月 13 日，美国政府宣布推出美国制造 AI 芯片管制新规，规定美企向大多数国家出售芯片的算力上限。
+美国对 18 个关键盟友与合作伙伴的芯片销售无任何限制。除此之外的大多数国家则将面临总算力限制，每个国家在 2025 年至 2027 年期间最多可获得约 50000 个 AI GPU。美国还将免除集体算力较低的芯片销售许可，例如向大学和研究机构的销售。
+美国商务部长雷蒙多表示，各家企业将有为期 120 天的评论期。英伟达和甲骨文两大科技巨头日前批评美国 AI 芯片管制新规。英伟达称，「全球用户日常使用的个人电脑已经普遍搭载数据中心相关的 GPU 产品和技术，试图对其实施控制没有意义，反而有可能迫使全球转向寻找替代方案，损害美国利益」。甲骨文则表示，这项新规可能成为美国科技行业历史上最具破坏性的政策之一，「直接将美国公司的全球芯片市场缩小了 80%」。（来源：界面新闻）
+
+微软组建新 AI 团队，瞄准端到端应用开发与部署
+1 月 14 日消息，当地时间周一，微软 CEO 萨蒂亚・纳德拉发布博客，宣布将组建一个新的 AI 组织——CoreAI，专注于开发端到端的 AI 应用平台与工具，涵盖从应用开发到部署和运行的整个过程。
+据介绍，CoreAI 将汇集 Dev Div、AI Platform 以及 CTO 办公室的部分关键团队（IT 之家注：包括 AI 超级计算机、AI 智能体运行时和 Engineering Thrive），将由网络安全初创公司 Lacework 前首席执行官、Meta 前全球工程主管 Jay Parikh 领导，Eric Boyd、Jason Taylor、Julia Liuson、Tim Bozarth 及其各自的团队将向 Jay 汇报。
+其使命是为我们的第一方和第三方客户打造端到端的 …]]></summary>
+        <author>
+            <name>极客公园</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英伟达员工 78% 成为百万富翁；三星推出可穿戴设备固态电池原型；苹果在英国面临 18.3 亿美元罚款]]></title>
         <id>http://www.geekpark.net/news/345209</id>
