@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Kalaser.github.io/OASIS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-03T01:11:18.100Z</updated>
+    <updated>2025-04-04T01:11:02.192Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Kalaser.github.io/OASIS/index.html"/>
     <link rel="self" href="https://Kalaser.github.io/OASIS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[苹果开盘跌超8% 市值蒸发2550亿美元；王兴发内部信，美团组织调整；英国看成人网站需上传自拍照]]></title>
+        <id>http://www.geekpark.net/news/347917</id>
+        <link href="http://www.geekpark.net/news/347917"/>
+        <updated>2025-04-04T00:25:22.000Z</updated>
+        <summary type="html"><![CDATA[苹果公司开盘跌超 8%，市值蒸发 2550 亿美元
+北京时间 4 月 4 日凌晨消息，美国当地时间 3 日 9 点，标普 500 指数低开 3.3%，纳斯达克 100 指数跌 4%，道指跌 2.6%。标普 500 指数开盘之际，大约抹去了 1.7 万亿美元的市值。
+
+供应链对海外生产依赖程度高的公司跌幅最大。苹果公司开盘后股价下跌约 8%，市值蒸发 2550 亿美元。与越南有制造业务往来的公司中，Lululemon 和耐克股价下跌约 10%。沃尔玛和 Dollar Tree 的商店里摆满了从美国以外采购的产品，这两家零售商的股价也分别下跌约 2% 和 11%。
+美国基准指数恐创 2022 年以来最大跌幅，几乎没有个股幸免。标普 500 指数中约有 70% 的公司股价下跌，500 只股票中近一半跌幅至少达到 2%。（来源：cnBeta）
+
+美国拟成立 TikTok 美国独立公司，亚马逊等多方竞购
+4 月 3 日消息，距离 TikTok 在美国「不卖就禁」的最后期限只剩 48 小时，电商巨头亚马逊突然提出全资收购短视频平台 TikTok 美国业务，估值 450 亿美元。
+
+2024 年，美国迫使字节跳动出售 TikTok，该法律原本应该在 2025 年 1 月生效。但随后延期至 2025 年 4 月 5 日。随着时间的临近，包括亚马逊在内的巨头纷纷下场竞购。
+包括 AI 初创公司 Perplexity AI 也向字节跳动提交了一份与 TikTok 美国子公司合并的提案，这将使 TikTok 的价值至少达到 500 亿美元。（来源：新浪科技）
+ 
+谷歌 NotebookLM 增加新功能，可利用 AI 溯源
+北京时间 4 月 3 日，据谷歌官方消息，谷歌日前为 NotebookLM 增加了一项新的 AI 功能，帮助用户寻找资料的来源。
+用户可以通过 NobebookLM 寻找自己感…]]></summary>
+        <author>
+            <name>极客公园</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小米：雷军 SU7 事故公众信系伪造；任天堂官宣 Switch 2，3400 元；OpenAI 发 AI Agent 评测基准]]></title>
         <id>http://www.geekpark.net/news/347865</id>
@@ -2104,27 +2128,6 @@ Nothing Phone (3a) 系列外观设计无需多言，设计灵感仍然源⾃ Mas
 环形 LED 灯带效果｜ 图片来源：极客公园
 首先就是从外观设计上就能明显看出的部分；机身右侧明显多出来一个质感与其他按键明显不同的「专用按键」Essential Key，用于 Nothing Phone (3a) 系列上新增的 AI 能力 Essential Space。
 Essential Key 设计在  Nothing Phone (3a) 系列的机身右侧电源键的下方  ｜ 图片来源：极客公…]]></summary>
-        <author>
-            <name>极客公园</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[字节启动新一轮股票回购，估值增至 3150 亿美元；雷军提议优化新能源车牌；北京举办首届人形机器人马拉松｜极客早知道]]></title>
-        <id>http://www.geekpark.net/news/346572</id>
-        <link href="http://www.geekpark.net/news/346572"/>
-        <updated>2025-03-05T00:09:45.000Z</updated>
-        <summary type="html"><![CDATA[字节跳动启动新一轮股票回购，估值增至 3150 亿美元
-3 月 5 日，据路透社报道，两位知情人士周二透露，字节跳动在本周启动了针对美国员工的新一轮股票回购计划，估值超过了六个月前的水平。
-知情人士称，字节跳动对其美国员工表示，将以每股 189.90 美元的价格回购股票，比一年前的 171 美元回购价上涨 11%，也高于六个月前的 181 美元。
-按照最新股票回购价计算，字节跳动的估值将增至大约 3150 亿美元，显示出这家全球最有价值的未上市公司之一正从 2023 年的估值下滑中恢复。（来源：凤凰科技）
-
-亚马逊全面拥抱 AI：75 万台机器人上阵，业务版图深受影响
-3 月 4 日，据外媒报道，在巴塞罗那举行的世界移动通信大会上，亚马逊通用人工智能领域的副总裁 Vishal Sharma 发表了一系列引人深思的见解。他明确表示，亚马逊的各个业务部门几乎无一不受 AI 技术的深远影响。
-Sharma 透露，亚马逊目前拥有大约 75 万台机器人，这些机器人在仓库中从事拣货等多项任务。而 Alexa 则是目前全球最广泛应用的家庭 AI 产品之一。他强调，亚马逊的各个业务都已经与生成性 AI 紧密结合。
-亚马逊还与 AI 初创公司 Anthropic 展开了密切合作。这家初创公司获得了亚马逊 80 亿美元的投资。双方正携手基于 Trainium 2 芯片构建大型 AI 计算集群。与此同时，马斯克旗下的 xAI 也推出了名为 Grok 3 的新产品，并在孟菲斯建立了一个拥有约 20 万块 GPU 的超大数据中心进行训练。（来源：ITBears）
- 
-Google Gemini 应用为 iPhone 用户带来锁屏小部件，力图超越 Siri
-3 月 4 日，Google 宣布其 Gemini 应用在 iOS 和 iPadOS 平台上进行了一次重要更新，推出了一系列新的锁屏小部件。这些小…]]></summary>
         <author>
             <name>极客公园</name>
         </author>
