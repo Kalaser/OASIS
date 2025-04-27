@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Kalaser.github.io/OASIS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-26T01:11:25.735Z</updated>
+    <updated>2025-04-27T01:17:50.650Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Kalaser.github.io/OASIS/index.html"/>
     <link rel="self" href="https://Kalaser.github.io/OASIS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[传马斯克 xAI 正寻求 200 亿美元融资；Waymo 未来或向个人销售自动驾驶汽车；贾跃亭回应「下周回国」梗]]></title>
+        <id>http://www.geekpark.net/news/348717</id>
+        <link href="http://www.geekpark.net/news/348717"/>
+        <updated>2025-04-27T00:18:23.000Z</updated>
+        <summary type="html"><![CDATA[传马斯克 xAI 正寻求 200 亿美元融资，若成功将成史上第二大创业公司融资
+北京时间 4 月 26 日消息，据彭博社援引知情人士消息称，马斯克的 xAI Holdings 正在与投资者洽谈，计划为其新成立的人工智能初创公司和社交媒体业务筹集约 200 亿美元资金。
+如果交易顺利完成，这笔融资将成为史上第二大初创公司融资，仅次于 OpenAI 今年早些时候的 400 亿美元融资。据悉，交易完成后，xAI Holdings 的估值将超过 1200 亿美元。
+
+xAI Holdings 于 3 月宣布成立，源自社交平台 X 和马斯克的人工智能公司 xAI 的合并。据一位知情人士透露，新一轮资金将可能用于偿还马斯克在收购推特后为将其私有化所承担的一部分债务，而这笔债务是 X 的一大负担。
+今年 3 月，X 就为收购相关的债务支付了约 2 亿美元，而到 2024 年底，公司的年利息支出预计将超过 13 亿美元。（来源：新浪科技）
+
+谷歌 CEO 皮查伊：Waymo 未来或向个人销售自动驾驶汽车
+4 月 26 日消息，谷歌 CEO 桑达尔·皮查伊在财报电话会议上透露，Waymo 未来有可能向个人销售自动驾驶汽车。
+皮查伊在谈到 Waymo 的长期发展策略时表示，公司计划继续拓展合作，例如目前在迈阿密与 Moove 合作、在奥斯汀与 Uber 合作，接下来还将在亚特兰大展开新项目，也提到了「未来关于个人所有权的可能性」。早在 2018 年，Waymo 就曾探索这一方向。当时，Waymo 与克莱斯勒签约生产自动驾驶版 Pacifica，双方也讨论了未来如何将这类车辆售予私人用户。
+
+不仅是 Waymo，特斯拉也在积极推进个人自动驾驶市场的布局。特斯拉 CEO 马斯克在去年「We, Robot」活动上表示，到 2026 年，消费者可花 3 万美元购买一辆 Cybercab（来源：搜狐科技…]]></summary>
+        <author>
+            <name>极客公园</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Manus 获超 5 亿融资，估值涨 5 倍；苹果希望明年美售 iPhone 全部「印产」；传外卖补贴商家承担一半，京东回应]]></title>
         <id>http://www.geekpark.net/news/348713</id>
@@ -1740,28 +1761,6 @@ OpenAI 和 MIT 公开招募了 981 名参与者，涵盖不同 AI 使用频率�
  
 微软 CEO 纳德拉：公司正考虑自主开发高端生成式 AI 模型
 3 月 28 日消息，微软 CEO 萨提亚…]]></summary>
-        <author>
-            <name>极客公园</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小米回应雷军「广告报价」事件；谷歌回应「安卓停止开源」；TikTok 扩大欧洲电商业务]]></title>
-        <id>http://www.geekpark.net/news/347622</id>
-        <link href="http://www.geekpark.net/news/347622"/>
-        <updated>2025-03-28T01:02:56.000Z</updated>
-        <summary type="html"><![CDATA[安卓停止开源？谷歌：简化开发不是闭源，将继续发布源代码
-3 月 27 日，据安卓领域专家 Mishaal Rahman 在垂类网站 Android Authority 发布的文章，谷歌证实，下周起谷歌将开始完全在内部分支机构闭门开发安卓操作系统，此举是为了简化安卓操作系统的开发。
-谷歌方面确认，这一变化并不意味着安卓将走向闭源，公司将致力于发布新安卓系统的源代码。变化的其实将是特定安卓组件公开发布源代码的频率。
-
-Mishaal Rahman 在文章中指出，这一变化对普通用户和应用开发者的影响微乎其微。唯一影响的是向 AOSP 贡献代码的第三方开发人员，他们可能更难跟踪谷歌对安卓所做的更改。对于众多安卓手机厂商而言，因为早就与谷歌签署协议，并非使用 AOSP，所以手机厂商影响也有限，各类谷歌服务也将正常提供。（来源：澎湃）
-
-小米王化回应雷军「广告报价」被数据平台曝光：雷总并未有计划接商单
-3 月 27 日消息，小米集团公关部总经理 @ 王化 在微博发文，对某数据平台曝光雷总的广告报价作出回应，该话题一度冲上热搜。
-数据平台曝光的雷军广告报价，1-20s 广告报价 37 万，21-60s 广告报价 38 万，60s 以上广告报价 42 万。王化称，甚至还有品牌方的朋友来找自己求证。
-王化回应称：「我们对相关平台单方面行为不予置评！在此强调，雷总作为小米集团创始人，非常愿意为体验过的优质国产品牌真诚打 CALL，但并未有计划接商单，该平台也并无权限代接商单。如果哪天雷总有此计划，我一定第一个找凡客 @ 陈年。」（来源：新浪财经）
- 
-TikTok 宣布扩大欧洲电商业务，进军德国、法国和意大利
-3 月 28 日，据路透社报道，TikTok 宣布，TikTok 电商将于下周一面向法国、德国和意大利的用户推出其服务，进一步扩大在欧洲的服务覆盖范围。目前，TikTok 在美国还存在被…]]></summary>
         <author>
             <name>极客公园</name>
         </author>
