@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Kalaser.github.io/OASIS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-20T01:38:43.944Z</updated>
+    <updated>2025-07-21T01:27:10.645Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Kalaser.github.io/OASIS/index.html"/>
     <link rel="self" href="https://Kalaser.github.io/OASIS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[苹果首款折叠屏手机或将于明年发布；Meta 超级智能实验室已招募 44 人：一半来自中国；演唱会出轨男 CEO 已辞职｜极客早知道]]></title>
+        <id>http://www.geekpark.net/news/351698</id>
+        <link href="http://www.geekpark.net/news/351698"/>
+        <updated>2025-07-21T00:33:19.000Z</updated>
+        <summary type="html"><![CDATA[古尔曼重申：苹果首款折叠屏手机 iPhone Fold 明年发布，起售价不低于 2000 美元
+7 月 20 日，彭博社的马克・古尔曼在最新一期 Power On 通讯中重申苹果可折叠手机 iPhone Fold 将于 2026 年（明年）发布，预计起售价不低于 2000 美元（现汇率约合 14359 元人民币）。
+古尔曼表示，在过去七年里，三星已经在折叠屏领域完成了艰苦的行军，为苹果 iPhone Fold 应用的各项先进技术创造了条件，后续苹果将通过 iOS 27 充分发挥该机全新形态带来的种种特性，预计将引入全新多任务界面机制、同时还将调整系统 App，令相应 App 在内外屏中获得不同的体验。
+
+古尔曼同时指出，苹果公司决定推出 iPhone Fold 的主要原因是因为中国市场对此类手机拥有强烈兴趣，公司希望借此进一步扩大旗下机型在华销量。
+规格方面，目前外界普遍预测这款 iPhone Fold 折叠机将配备一块约 7.8 英寸的内屏，以及一块 5.5 英寸左右的外屏。该机在折叠状态下厚度预计为 9mm 至 9.5mm，展开后厚度预计为 4.5mm 至 4.8mm。（来源：IT之家）
+
+消息称 Meta 超级智能实验室已招募 44 人：一半来自中国，40% 曾在 OpenAI 任职
+7 月 20 日，据内部消息人士透露，Meta 旗下的超级智能实验室（Superintelligence Labs）正在紧锣密鼓地开展工作，专注于开发各类基础模型。目前，该实验室已汇聚了 44 名顶尖人才，其中有 50% 的员工来自中国，而 40% 的员工此前曾在 OpenAI 任职。
+Meta 近期的招聘行动可谓是火力全开，不惜重金从 OpenAI、苹果等知名企业挖角。在成功招募苹果公司基础模型负责人时，Meta 更是开出了高达 2 亿美元的签约奖金。此前，Meta 已经从 OpenA…]]></summary>
+        <author>
+            <name>极客公园</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Manus 正式回应「撤离中国市场」；李想：理想现金储备 1107 亿；下架大量成人游戏，Steam：支付组织要求]]></title>
         <id>http://www.geekpark.net/news/351696</id>
@@ -1724,53 +1743,6 @@ Sam Altman：GPT-…]]></summary>
 Meta CTO 回应 1 亿美元挖人失败：OpenAI 给的待遇也不低
 6 月 21 日消息，OpenAI 首席执行官 Sam Altman 周三表示，Meta 曾向某 OpenAI 员工开出 1 亿美元（现汇率约合 7.18 亿元人民币）奖金来挖人，但未能成功。
 对此，Meta 首席技术官（CTO）Andrew Bosworth 当地时间周五在播客中表示，OpenAI 也并非等闲之辈，该公司针对 Meta 向其员…]]></summary>
-        <author>
-            <name>极客公园</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「悄悄发育」的华为 AI，这次放了个「大招」]]></title>
-        <id>http://www.geekpark.net/news/350673</id>
-        <link href="http://www.geekpark.net/news/350673"/>
-        <updated>2025-06-21T05:51:51.000Z</updated>
-        <summary type="html"><![CDATA[华为在 AI 领域，这次看起来是要全面发力了。
-6 月 20 日下午，华为开发者大会 HDC 2025 开幕。两个多小时的主题演讲，AI 成了绝对的主角：不仅华为云拿出新一代昇腾 AI 云服务和全面升级的盘古大模型 5.5，华为终端也首次推出鸿蒙智能体框架，目标直指端侧智能体生态。
-过去两年，高端 AI 芯片的「卡脖子」确实让华为在 AI 浪潮里显得有些被动。华为虽然构建了以盘古大模型为基础的 AI 技术体系，但实事求是地说，整体能力并没有达到最顶尖那层。
-但经过两年的沉淀与发展，随着自研 AI 算力体系的快速进步，盘古大模型的核心能力，正一步步追近 GPT、Gemini、Deepseek 等全球第一梯队的玩家。更重要的是，华为正在通过鸿蒙、盘古的体系，将大模型的能力融入千行百业的应用，推动用户体验与行业生产力的智能化升级。
-盘古大模型 5.5：昇腾底座训出「世界级」选手
-在 HDC 2025 上，华为云带来了两项关于 AI 的核心发布：能力显著提升的新一代盘古大模型 5.5，以及支撑其训练的新一代昇腾 AI 云服务。
-盘古大模型 5.5 对其五大基础模型——自然语言处理（NLP）、计算机视觉（CV）、多模态、预测、科学计算——进行了全面升级。
-
-盘古大模型 5.5 丨来自：HDC 2025
-首先是盘古自然语言处理NLP大模型。全新的 718B 深度思考模型是一个由 256 个专家组成的 MoE 大模型，它在知识推理、工具调用、数学等关键能力上有显著增强。
-模型本身也进行了优化，提升了高效长序列处理、降低幻觉、融合快慢思考、增强 Agent 能力。一个关键创新是自适应快慢思考合一技术：通过特定训练方法，模型能根据问题难度自动切换模式——简单问题快速回答，复杂问题则深度思考。华为表示，这使整体推理效率提升了 8 倍。
-
-盘古大模型5.5丨来自：华为云
-同时还推出了深度研究 D…]]></summary>
-        <author>
-            <name>极客公园</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[传苹果考虑收购 Perplexity，恶补 AI；微信测朋友圈评论表情包回复；Meta 推出新智能眼镜，2900 元起]]></title>
-        <id>http://www.geekpark.net/news/350672</id>
-        <link href="http://www.geekpark.net/news/350672"/>
-        <updated>2025-06-21T00:33:43.000Z</updated>
-        <summary type="html"><![CDATA[苹果考虑收购初创公司 Perplexity，以补齐 AI「短板」
-彭博社记者马克・古尔曼今天清晨撰文称，苹果公司正考虑收购 AI 初创企业 Perplexity AI，以补强公司在 AI 领域的人才和技术储备。
-在稍早前的本周五，苹果公司遭到股东集体起诉，被指在信息披露中低估了将先进生成式 AI 整合进语音助手 Siri 所需的时间，导致 iPhone 销量受影响、股价下滑，构成证券欺诈。
-据知情人士透露，苹果并购负责人艾德里安・佩里卡已与服务部门主管及 AI 战略高层就此展开内部讨论。目前谈判尚属初步阶段，未来未必会提出正式收购要约。
-Perplexity 提供基于网络实时信息的问答服务。Perplexity 最近完成融资，估值达 140 亿美元。若交易按此估值进行，将超越苹果此前收购 Beats 创下的纪录，成为苹果历史上最大的一笔并购。
-若成功收购 Perplexity，苹果不仅将获得一支 AI 技术团队，还能借助其在业内的知名度以及成熟的消费者产品，有助于后续人才引进。（来源：IT 之家）
-
-多多买菜即将上线即时配送服务
-据《晚点 LatePost》获悉，多多买菜正在上海等一线城市试验自建商品仓库，最快将于 8 月上线即时配送服务，以类似京东秒送、淘宝闪购的速度送商品上门。不过，不同于京东、淘宝的大举投入，多多买菜的尝试还在早期阶段，并且也不会涉足餐饮外卖。
-拼多多表示，这不能代表公司战略和方向，称其无意加入即时零售大战。
-一位接近多多买菜的人士说，他们担心美团闪购的崛起会影响多多买菜，如果继续增长，未来还可能会冲击拼多多主站以米面粮油为主的类目。（来源：晚点）
- 
-华为开发者大会，发布鸿蒙 6.0 Beta 及多个模型
-6 月 21 日，华为开发者大会在东莞松山湖举行。在大会现场，华为发布了 HarmonyOS、盘古大模型等方面最新进展。
-HarmonyOS 6 …]]></summary>
         <author>
             <name>极客公园</name>
         </author>
