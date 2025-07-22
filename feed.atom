@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Kalaser.github.io/OASIS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-21T01:27:10.645Z</updated>
+    <updated>2025-07-22T01:23:08.634Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Kalaser.github.io/OASIS/index.html"/>
     <link rel="self" href="https://Kalaser.github.io/OASIS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[首家京东自营外卖门店开业；小宇宙回应多名高管离职；国产新能源车保值率排名发布：SU7 第一]]></title>
+        <id>http://www.geekpark.net/news/351753</id>
+        <link href="http://www.geekpark.net/news/351753"/>
+        <updated>2025-07-21T23:21:06.000Z</updated>
+        <summary type="html"><![CDATA[首家京东自营外卖门店昨日开业，没有预制菜
+7 月 21 日消息，第一财经今晚报道称，京东旗下名为「七鲜小厨」的外卖自营门店已在 7 月 20 日正式开业，这是京东首家外卖自营门店。用户可以在线上下单，采取「外卖 + 自提」的模式，但没有堂食。
+一个多月前，京东创始人刘强东曾在一场沟通会上表示，外卖市场很大，再过一个月之后，京东外卖很快就会出现一个跟美团完全不同的商业模式，也期待这种商业模式能够彻底解决食品安全问题。但对于上述业态模式的具体情况，截至发稿前，京东尚未回复。
+IT 之家从报道中获悉，「七鲜小厨」提供了包括馄饨面食、隆江猪脚饭、韩式拌饭以及意面等菜品，上述工作人员对记者表示，「全是现炒现做，没有预制菜。」
+目前，「七鲜小厨」已经入驻京东外卖频道，商品单价在 10 元到 30 元之间，显示已售 800 份，且未在美团、饿了么上线。（来源：IT 之家）
+
+​Google Gemini AI 在国际数学奥林匹克竞赛中夺得金牌
+随着 Google 旗下人工智能模型 - 启用深度思考的 Gemini 在国际数学奥林匹克 (IMO) 上正式斩获金牌，人工智能解决难题的转折点已经到来。解决一些世界上最棘手的数学难题需要推理和逻辑，这通常需要独特的解决方案和创造性的方法。
+Google DeepMind 团队已正式验证了这些结果，IMO 主席 Gregor Dolinar 教授指出：「我们可以确认，Google DeepMind 已达到人们梦寐以求的里程碑，获得了 35 分（满分 42 分）——金牌成绩。他们的解决方案在很多方面都令人惊叹。IMO 评分员认为这些解决方案清晰、精确，而且大多数都易于理解。」
+
+虽然这看起来像是「计算机擅长数学」的时代，但两者之间存在着根本性的不同。这里使用的 Gemini 模型采用端到端的自然处理，利用问题描述的文本输入，以 IMO 评分员认为清晰…]]></summary>
+        <author>
+            <name>极客公园</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[苹果首款折叠屏手机或将于明年发布；Meta 超级智能实验室已招募 44 人：一半来自中国；演唱会出轨男 CEO 已辞职｜极客早知道]]></title>
         <id>http://www.geekpark.net/news/351698</id>
@@ -1718,31 +1738,6 @@ Liberty 手机目前并不是为了与 iPhone 竞争而打造的。其创始人�
 不过，此视频今日已被苹果设置为私密，目前无法观看。（来源：快科技）
  
 Sam Altman：GPT-…]]></summary>
-        <author>
-            <name>极客公园</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小米：YU7 将发，严禁诋毁竞品；罗永浩剧透 AI 产品 3 个月后见；贝佐斯「二婚婚礼」下周举办]]></title>
-        <id>http://www.geekpark.net/news/350674</id>
-        <link href="http://www.geekpark.net/news/350674"/>
-        <updated>2025-06-22T00:15:32.000Z</updated>
-        <summary type="html"><![CDATA[小米汽车称严禁以任何形式诋毁竞品：新品上市前期，外界可能会出现较多虚假信息
- 6 月 21 日消息，小米汽车昨日凌晨发布小米汽车答网友问（第 159 集），文中称：「近期，网络上出现一例疑似『小米销售人员与用户沟通小米 YU7』的内容，对话中销售人员存在诋毁其他品牌产品行为，这是真的吗？」
-
-小米汽车称：
-经内部调查确认，涉事人员并非小米员工，且小米严禁以任何形式诋毁竞品。新品上市前期，外界可能会出现较多虚假信息，请大家务必仔细甄别，并以小米官方渠道发布的信息为准，避免因不实信息造成误导或经济损失。（来源：IT 之家）
-
-罗永浩：AI 新产品 3 个月后见
-昨日，久未在科技领域公开露面的罗永浩以科技创业者身份，于极客公园 AGI Playground 2025 峰会现场，与独响创始人王登科、Fellou 创始人谢扬及极客公园创始人张鹏，进行了一场 AI 创业者之间的对话。
-
-席间谈及「AI 陪伴」、「AI 效率工具」等议题，聚焦新时代 AI 产品该怎么做、人与 AI 的关系演进，以及罗永浩的下一步规划。
-老罗透露，「我们的新产品可能两三个月内就要上了，所以我又出来得瑟一下，就是为了给推出做准备。」
-关于新产品细节，他仍保留悬念，仅透露「属于效率工具集范畴，邮件功能为其中一个组件，等产品推出的时候再说具体的细节。」（来源：极客公园 Founder Park）
- 
-Meta CTO 回应 1 亿美元挖人失败：OpenAI 给的待遇也不低
-6 月 21 日消息，OpenAI 首席执行官 Sam Altman 周三表示，Meta 曾向某 OpenAI 员工开出 1 亿美元（现汇率约合 7.18 亿元人民币）奖金来挖人，但未能成功。
-对此，Meta 首席技术官（CTO）Andrew Bosworth 当地时间周五在播客中表示，OpenAI 也并非等闲之辈，该公司针对 Meta 向其员…]]></summary>
         <author>
             <name>极客公园</name>
         </author>
