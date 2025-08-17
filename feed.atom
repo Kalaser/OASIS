@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Kalaser.github.io/OASIS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-16T01:16:16.789Z</updated>
+    <updated>2025-08-17T01:24:54.679Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Kalaser.github.io/OASIS/index.html"/>
     <link rel="self" href="https://Kalaser.github.io/OASIS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OpenAI估值达5000亿美元；「原道」联手小岛秀夫，推《死亡搁浅》耳机；苹果手表将「大幅重新设计」]]></title>
+        <id>http://www.geekpark.net/news/352696</id>
+        <link href="http://www.geekpark.net/news/352696"/>
+        <updated>2025-08-17T00:00:21.000Z</updated>
+        <summary type="html"><![CDATA[5000 亿美元估值傲视群雄，OpenAI 员工拟出售价值近 60 亿美元股份
+路透社 8 月 16 日发布博文，报道称 OpenAI 现任及前员工拟向软银、Thrive Capital 等投资者出售价值近 60 亿美元的公司股份，交易完成后公司估值将达 5000 亿美元（现汇率约合 3.59 万亿元人民币）。
+消息称，OpenAI 现任与前员工正计划向包括软银集团、Thrive Capital 和 Dragoneer Investment Group 在内的投资机构出售近 60 亿美元公司股份，其中 Thrive Capital 有望主导本轮交易。这笔交易如果达成，将让 OpenAI 的估值从当前的 3000 亿美元跃升至 5000 亿美元。
+此次股份出售属于二级市场交易，意味着员工和前员工通过出售所持股份获得流动性，投资方则进一步加深对 OpenAI 的投资布局。
+软银、Thrive 和 Dragoneer 均为 OpenAI 现有投资者，但目前尚未对交易传闻做出回应。据知情人士透露，相关讨论仍处于早期阶段，最终出售金额可能调整。（来源：IT 之家）
+
+星舰再战苍穹：SpaceX 敲定北京时间 8 月 25 日展开第 10 次试飞
+科技媒体 Space 8 月 16 日发布博文，报道称 SpaceX 宣布，其第十次「星舰」（Starship）超级重型火箭综合试飞预计将于当地时间 2025 年 8 月 24 日从得克萨斯州 Starbase 发射，将是星舰今年第 4 次试飞，此前三次均因上级火箭失利未能完全达成任务目标。
+
+SpaceX 在 10 号飞行任务的再入过程中不会让助推器以大迎角飞行。该公司在其针对 9 号飞行任务的技术调查报告中解释说，较大的迎角在测试过程中对助推器的燃料输送管造成了压力。最终，输送管故障导致火箭失灵并在溅落前爆炸。
+消息称此次 Flight …]]></summary>
+        <author>
+            <name>极客公园</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sam Altman：AI存在泡沫；宇树机器人夺金，王兴兴：用遥控追求极致速度；蔡浩宇AI游戏上架，27.19元｜极客早知道]]></title>
         <id>http://www.geekpark.net/news/352780</id>
@@ -2004,79 +2024,6 @@ Manus 近期撤出中国市场、清空国内社交账号内容，全力转战�
 网传比亚迪将赞助中国足协中国之队，金额约 5 年 7500 万元
 7 月 18 日晚间消息，据报道，比亚迪将与中国足协签约五年，成为中国足协中国之队官方合作伙伴。如无意外，他们接下来每年会为中国之队提供约 1500 万元赞助，既为中国男足冲击下一届世界杯助力，同时也将为男女足各级别国字号队伍发展提供保障。
 对此，有媒体向比亚迪方面求证，截至…]]></summary>
-        <author>
-            <name>极客公园</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI 组织内部，到底是如何运作的？]]></title>
-        <id>http://www.geekpark.net/news/351668</id>
-        <link href="http://www.geekpark.net/news/351668"/>
-        <updated>2025-07-18T07:13:46.000Z</updated>
-        <summary type="html"><![CDATA[作为这一波大模型浪潮中最成功的创业公司，OpenAI 一直备受关注，数亿人使用 ChatGPT， 但是这家公司内部是如何运作的，一直保持神秘 。
-近日，一位刚刚从 OpenAI 离职三周的工程师，写下了他过去一年在这家全球最受关注 AI 公司的所见所感。
-他叫 Calvin，2024 年 5 月加入 OpenAI，今年 6 月底离职。Calvin 的离职，并不是因为任何纠纷或理念不合。他在文中坦言，自己更适合构建从 0 到 1 的系统，而不是在 3000 名员工中做一个螺丝钉。
-
-在这篇名为《Reflections on OpenAI（在 OpenAI 的所思所感）》（点击文章最后左下角 阅读原文 可阅读）的文章中，他并不打算揭露什么惊天内幕，而是以一种近似私人备忘录的方式，记录了他作为技术人、产品人、创业者和父亲的交叠视角下，他在 OpenAI 的一线观察。
-用他自己的话说：「这里没有任何商业机密，只有我对历史上最迷人的组织之一，在当下飞速迭代时期的所思所感。」
-从这篇文章中，我们能一窥 OpenAI 内部的运作规律。
-01
-OpenAI 的文化：
-既混乱又高效，既集中又分散 
-在 OpenAI 工作的一年里，Calvin 对这个组织的文化有了非常立体的理解。 他加入的时候公司大约有 1000 人，一年之后员工已经增长到超过 3000 。在这短短的时间内，他已经算得上「老员工」了。
-OpenAI 的极速扩张也带来了典型的大公司问题：组织结构剧烈变化、沟通成本上升、团队间协作方式多样化。
-Calvin 观察到，不同的团队文化之间差异巨大，有的像创业公司一样日夜冲刺，有的则像传统企业那样遵循流程推进。Calvin 本人所在的 Codex 团队更偏前者：节奏极快，方向灵活，什么事情都是「先做再说」。
-而令所有人都意想不到的是， OpenAI 整个公司所有的事项，都放在了 Sla…]]></summary>
-        <author>
-            <name>极客公园</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美团正式推骑手养老保险，不限时长；中国「豪车税」标准降至 90 万；OpenAI 推出 Agent 功能]]></title>
-        <id>http://www.geekpark.net/news/351633</id>
-        <link href="http://www.geekpark.net/news/351633"/>
-        <updated>2025-07-18T00:17:30.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI 发布自己的 Agent 模式
-7 月 18 日凌晨，Sam Altman 和四位 OpenAI 研究员在直播中介绍了 OpenAI 即将推出的 Agent 模式。
-在 Agent 模式下，你可以直接对 ChatGPT 提要求。在演示中，一个复杂任务大概需要 10 分钟完成。ChatGPT 可以在虚拟环境里可以调用文本浏览器、可视化浏览器和终端。而基于终端，还可以进一步调用云服务 API、图片生成器，运行代码等。
-这次 OpenAI 不再 Pro 用户优先，Plus、Team 用户也将能很快上手，每月可用 40 次。量大，管饱。（来源：极客公园）
-
-网传王传福现身小米汽车工厂，雷军陪同
-
-7月17日，多名网友在社交平台发布视频称，在小米汽车工厂，小米集团创始人雷军和比亚迪 CEO 王传福会面。
-视频中雷军身后穿短袖的男士被部分博主指认为顺为资本投资合伙人胡峥楠。有博主表示，胡峥楠此前曾在比亚迪工作，且雷军涉及造车事务时常带其同行。
-小米和比亚迪此前存在密切合作，比亚迪电子是小米手机的重要供应商。雷军曾在 2024 北京车展上表示，比亚迪是小米手机多年来的关键合作伙伴，如今双方在汽车领域继续合作。
-王传福曾在 2021 年表示，比亚迪支持并愿与小米在汽车业务上展开合作。（来源：DoNews）
- 
-美团正式在全国范围上线骑手养老保险补贴
-7 月 17 日，美团官方宣布，在有关部门的指导和帮助下，即日起将正式在全国范围内上线养老保险补贴。
-该方案将与试点保持一致。只要骑手在过去 6 个月内有 3 个月收入达到当地社保缴费基数下限，就将自动获得养老保险补贴资格。
-美团表示，将继续坚持「不限骑手类型」「不限跑单时长」，同时，骑手可以自由选择缴纳地点。不管在工作地还是老家缴社保，美团都予以支持。补贴将不设人数上限，满足条件的骑手均可申领。（来源：IT 之家）
- 
-Uber …]]></summary>
-        <author>
-            <name>极客公园</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[刚刚，OpenAI 发布了自己的 Agent模式，Manus Style]]></title>
-        <id>http://www.geekpark.net/news/351632</id>
-        <link href="http://www.geekpark.net/news/351632"/>
-        <updated>2025-07-17T20:21:34.000Z</updated>
-        <summary type="html"><![CDATA[作者｜Li Yuan
-一个共识是，AI 今年的大主题，是 Agent。
-如果说过去我们习惯了 AI 的「动嘴」，那么接下来，就是 AI「动手」的时代。毕竟，既然 AI 已经能听懂、又足够聪明，那为什么不能直接把事儿干完？
-2025 年下半场刚开局，一直在定义 AI 的 OpenAI，突然端出了他们的 Agent 答卷。不过有趣的是，乍一看，它和几个月前爆火的 Manus 模式，惊人地相似。
-7 月 18 日凌晨，Sam Altman 和四位 OpenAI 研究员在直播中介绍了 OpenAI 即将推出的 Agent 模式。
-简单来说，在 Agent 模式下，你可以直接对 ChatGPT 提要求：婚礼缺双鞋，去电商平台帮我买了；或者，给我设计个宠物周边，直接下单打印；查找信息，直接生成 PPT。然后，ChatGPT 会自己打开虚拟机，一步步操作。
-在演示中，一个复杂任务大概需要 10 分钟完成。但从结果看，完成度很高。ChatGPT 可以在虚拟环境里可以调用文本浏览器、可视化浏览器和终端。而基于终端，还可以进一步调用云服务 API、图片生成器，运行代码等。
-更关键的，这次 OpenAI 不再 Pro 用户优先，Plus、Team 用户也将能很快上手，每月可用 40 次。量大，管饱。
-Sam Altman 用他标志性的真诚眼神，对着屏幕说：这是一个全新的范式。就像我们学会上网，最后也学会了甄别诈骗信息一样，现在，整个社会需要学习如何与 Agent 安全地交互和共存。
- 
-01
-Agent 模式能干什么？
-直接观看 OpenAI 的 Agent 模式演示，会发现其直观体验与几个月前爆火的 Manus 高度相似。
-在用户提出需求之后，都会自动开启一个虚拟机，开始自动执行一些任务，执行过程中，Agent 会反复请求用户确认，并允许随时手动接管。同时，用户也能在任务中途植入新需求，进行实…]]></summary>
         <author>
             <name>极客公园</name>
         </author>
