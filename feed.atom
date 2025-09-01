@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Kalaser.github.io/OASIS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-31T01:16:57.317Z</updated>
+    <updated>2025-09-01T01:23:43.481Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Kalaser.github.io/OASIS/index.html"/>
     <link rel="self" href="https://Kalaser.github.io/OASIS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[今起 AI 生成内容必须亮明身份；大疆双摄 Pocket 4 曝光；微信公号留言广告上线]]></title>
+        <id>http://www.geekpark.net/news/353308</id>
+        <link href="http://www.geekpark.net/news/353308"/>
+        <updated>2025-09-01T00:06:38.000Z</updated>
+        <summary type="html"><![CDATA[AI 生成内容必须「亮明身份」，《人工智能生成合成内容标识办法》9 月 1 日起施行
+8 月 31 日消息，国家网信办等四部门联合发布的《人工智能生成合成内容标识办法》将于 9 月 1 日起正式施行，所有 AI 生成的文字、图片、视频等内容都要「亮明身份」。
+《标识办法》明确，人工智能生成合成内容标识主要包括显式标识和隐式标识两种形式，显式标识是指在生成合成内容或者交互场景界面中添加的，以文字、声音、图形等方式呈现并可以被用户明显感知到的标识；隐式标识是指采取技术措施在生成合成内容文件数据中添加的，不易被用户明显感知到的标识。
+《标识办法》强调，任何组织和个人不得恶意删除、篡改、伪造、隐匿本办法规定的生成合成内容标识，不得为他人实施上述恶意行为提供工具或者服务，不得通过不正当标识手段损害他人合法权益。（来源：央视网）
+
+微信公众号留言区广告上线
+微信广告团队上周宣布，为帮助创作者提升变现收益，共建繁荣的内容生态，微信广告上线公众号留言区广告。公众号创作者可以在公众号文章（包含文章和图文）留言区通过展示广告内容，获取广告收入。
+
+公众号留言区广告支持一键开通，开通后自动插入广告，无须其他操作。公众号留言区广告自然融入用户互动场景中，与原有的公众号底部、文中、视频后贴广告等形成互补。（来源：微信广告团队）
+ 
+优必选获 10 亿美元战略融资授信额度，计划在中东建「超级工厂」
+8 月 31 日消息，优必选科技刚刚宣布与国际知名投资机构 Infini Capital 正式签署 10 亿美元战略伙伴合作协议。
+根据合作协议，Infini Capital 旗下高新技术基金为优必选提供一笔总额为 10 亿美金的战略融资授信额度，融资方式包括参与配售、认购可转债、授予现金提款权等。尤其是授予优必选在有需要时，给予优必选 10 亿美金现金提款权的快速融资通道，将大大提升优必选的重大产业布局能…]]></summary>
+        <author>
+            <name>极客公园</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[李斌：用户不买蔚来40%原因怕倒闭；SpaceX 首个「30 手」火箭诞生；地平线征程智驾芯片突破 1000 万套]]></title>
         <id>http://www.geekpark.net/news/353265</id>
@@ -2115,25 +2137,6 @@ OpenAI 目前为 ChatGPT 提供了两种订阅计划，其中 Plus 订阅月费�
 据推测，它将主要提升对 AI 模型（如 o3）的访问权限，而不会包含高级功能。（来源：IT 之家）
  
 Meta 雷朋联名智能眼镜销量今年激增 30…]]></summary>
-        <author>
-            <name>极客公园</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[库克打气苹果 AI：不拼首创，自信能主导市场；微信提现手续费下调至 0.01 元；Manus 推 Wide Research]]></title>
-        <id>http://www.geekpark.net/news/352260</id>
-        <link href="http://www.geekpark.net/news/352260"/>
-        <updated>2025-08-02T00:03:54.000Z</updated>
-        <summary type="html"><![CDATA[多项力压 Grok 4、OpenAI o3，谷歌推出 Gemini 2.5 Deep Think 模型
-8 月 1 日消息，谷歌宣布，Gemini 2.5 Deep Think 模型现已正式上线，现已在 Gemini 应用中向 Google AI Ultra 订阅用户开放。这款新模型在多个关键基准测试中超越了 OpenAI 的 o3 和 xAI 的 Grok 4。
-据外媒 Neowin 报道，今年 5 月，谷歌在 Google I/O 大会上首次介绍了 Gemini 2.5 Pro 的 Deep Think 模式，采用全新研究方法，可在作答前综合多个假设进行推理。本次发布的是该功能的升级版，结合早期内测用户的反馈和最新研究成果进行了优化。谷歌表示，新版本在性能上相比最初的 I/O 版本有了显著提升。
-谷歌还透露，这一模型是此前模型的一个变体（前述模型已在国际数学奥林匹克竞赛中获得金牌）。为适应日常使用场景，谷歌对其进行了加速优化，因此在 2025 年 IMO 基准测试中仅达到铜牌水平。（来源：IT 之家）
-
-OpenAI 已筹集 83 亿美元，估值达 3000 亿美元
-OpenAI 已筹集 83 亿美元，估值达 3000 亿美元。此次融资的主要投资者是 Dragoneer Investment Group，该公司承诺投资 28 亿美元。其他投资者还包括黑石、TPG、T. ROWE。OpenAI 的年度经常性收入为 130 亿美元，6 月份时为 100 亿美元，预计到今年年底将超过 200 亿美元。付费使用 ChatGPT 的商业用户从几个月前的 300 万增加到了 500 万。（来源：财联社）
- 
-库克给苹果 AI 团队打气：我们不热衷行业首创，iPhone 等产品已证明可做到行业主导
-8 月 2 日消息，科技媒体 MacRumors 发布博文，报道称在苹果全体员工大会上，…]]></summary>
         <author>
             <name>极客公园</name>
         </author>
