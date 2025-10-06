@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Kalaser.github.io/OASIS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-05T01:16:51.255Z</updated>
+    <updated>2025-10-06T01:11:40.423Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Kalaser.github.io/OASIS/index.html"/>
     <link rel="self" href="https://Kalaser.github.io/OASIS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[今日迎本世纪「最晚中秋月圆」；雷军：小米17 五天销量破百万；ChatGPT 或添私信聊天功能]]></title>
+        <id>http://www.geekpark.net/news/354774</id>
+        <link href="http://www.geekpark.net/news/354774"/>
+        <updated>2025-10-06T00:41:07.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI AI 社交野心显现：ChatGPT 代码泄露内置私信功能，未来可直接与好友聊天
+10 月 6 日消息，科技媒体 bleepingcomputer 10 月 5 日发布博文，报道称 OpenAI 正推动 ChatGPT 向社交平台转型，正在测试内置「私信」（Direct Messages）功能，并配套开发用户名与个人资料系统，支持用户之间直接交流。
+AI 研究员 @oncescuradu 在 ChatGPT 安卓测试版（版本 1.2025.273 beta）应用代码中发现，OpenAI 公司正内部测试「私信」功能。
+有行业人士认为该功能如果落地，那么将改变 ChatGPT 的产品定位，从一个单纯的大型语言模型交互工具，转变为一个具备社交属性的 AI 平台，让其不再局限于人机对话，而是向人与人之间的连接拓展。
+为了支撑该功能，OpenAI 正在同步开发一套完善的配套系统，包括支持用户自定义的「用户名」以及可上传头像的个人资料页面。这意味着用户未来将拥有专属的身份标识，并能够像使用其他社交应用一样，搜索并联系平台上的其他用户。（来源：cnbeta）
+
+马斯克脑机接口公司 Neuralink 关键一步：首次公开其人体试验安全数据论文
+10 月 5 日消息，马斯克旗下脑机接口公司 Neuralink 已向《新英格兰医学杂志》提交了首个包含其人体试验安全数据的学术论文，介绍了其首批三位受试者的最新情况。
+这一消息来自 Neuralink 临床试验点之一——巴罗神经学研究所（Barrow Neurological Institute）的首席执行官兼院长 Michael Lawton。Lawton 在纽约西奈山医疗系统主办的脑植入会议间隙透露了相关信息，但拒绝提供更多细节。根据此前披露，Neuralink 目前已在 12 名受试者体内植入设备。
+Neuralink 总裁 DJ…]]></summary>
+        <author>
+            <name>极客公园</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[微软下架「炉石」等多款游戏；华为云：华为算力效能超英伟达芯片 3 倍；马斯克回应特斯拉机器人打拳：并非遥控]]></title>
         <id>http://www.geekpark.net/news/354772</id>
@@ -1864,30 +1883,6 @@ iPhone 17 Air 作为今年亮点产品，主打超薄设计，机身厚度仅 5.
 该机配备单颗 4800 万像素主摄像头与 2400 万像素前置摄像头，文档称该机搭载 A19 芯片，不过此前有消息称该机可能采用配备 5 核 GPU 的 A19 Pro 芯片。
 电池容量较小，仅为 2800mAh (在和 Galaxy S25 Edge 手机的对比图片中，iPhone 17 Air 电池显示为 2900mAh)，需依赖软件优化补偿续航，该机还将成为继 iPhone 16e 后首款采用苹果自研 C1 调制解调器的设备。
 iPhone 17 Pro 采用 6.3 英寸屏幕，电池容量为 3700mAh，而 iPhone 17 Pro Max 配备 6.9 英寸屏幕，电…]]></summary>
-        <author>
-            <name>极客公园</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华为新问界 M7，6 小时订单破 13 万；等 eSIM，iPhone17 Air 首发无国行；特斯拉拟给马斯克 1 万亿薪酬]]></title>
-        <id>http://www.geekpark.net/news/353562</id>
-        <link href="http://www.geekpark.net/news/353562"/>
-        <updated>2025-09-06T00:24:27.000Z</updated>
-        <summary type="html"><![CDATA[全新问界 M7 预售 6 小时小订超 13 万
-
-9 月 5 日，鸿蒙智行「幸福旗舰」全新问界 M7 今日开启预订，预售价 28.8 万元起。
-据官方消息，这款新车 10 分钟小订突破 2 万台，1 小时小订突破 10 万台。随后，华为常务董事、终端 BG 董事长余承东在朋友圈表示：「准确点，43 分钟突破 10 万台！新 M7 卖爆了！远超预期，超乎想象！」
-随后，根据博主 @ 我鸿 分享的消息，鸿蒙智行全新问界 M7 开启预订 6 小时后，订单突破 13 万台。
-全新问界 M7 车身尺寸为 5080 ×1999×1780mm，轴距 3030mm。内饰及配置方面，新车增加后排娱乐屏（吸顶屏）、7.3L 压缩机冷暖箱、主驾零重力座椅等配置，配齐「冰箱彩电大沙发」。（来源：IT 之家）
-
-阿里通义千问发布迄今最大模型，参数量超 1 万亿
-9 月 5 日晚，阿里通义千问上线全新 Qwen3-Max 模型，该模型参数量达到 1T，为其迄今为止最大的模型。
-根据介绍，Qwen3-Max 在推理、指令跟随、多语言支持及长尾知识覆盖方面均有显著提升，尤其在数学、编码和科学任务中表现更为精准，响应质量进一步优化。
-模型支持超过 100 种语言，并强化了翻译与常识推理能力，适用于多语种交流与复杂任务处理。同时，该模型在 OpenRouter 平台提供 API 接入服务，输入输出费用分别为每百万 tokens 约 8.6 元和 42.8 元人民币。（来源：DoNews、财联社）
- 
-特斯拉拟为马斯克开出万亿美元薪酬协议
-9 月 5 日，特斯拉董事会提交了一份高达万亿美元的薪酬方案，以待投资者批准。这一方案可能使马斯克在未来 10 年内再拿到超过 4.23 亿股的特斯拉股票，占比 12%，总价值约为 1.03 万亿美元。
-据报道，特斯拉为马斯克设定了一系列雄心勃勃的考核指标，后者必须达到这些目…]]></summary>
         <author>
             <name>极客公园</name>
         </author>
