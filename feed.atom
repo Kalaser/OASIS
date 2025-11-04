@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Kalaser.github.io/OASIS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-03T01:18:16.293Z</updated>
+    <updated>2025-11-04T01:15:27.201Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Kalaser.github.io/OASIS/index.html"/>
     <link rel="self" href="https://Kalaser.github.io/OASIS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[T1 零封 TES 战队，中国战队无缘 S15 总决赛舞台；英伟达合作制药巨头打造超级计算机；理想汽车汤靖详解 MEGA 起火事件｜极客早知道]]></title>
+        <id>http://www.geekpark.net/news/355873</id>
+        <link href="http://www.geekpark.net/news/355873"/>
+        <updated>2025-11-03T01:28:19.000Z</updated>
+        <summary type="html"><![CDATA[T1 零封 TES 战队，中国战队无缘 S15 总决赛舞台
+11 月 2 日消息，在刚刚结束的《英雄联盟》2025 全球总决赛淘汰赛半决赛对决中，LCK 赛区四号种子 T1 战队直落三局送走了 LPL 赛区最后的希望 TES 战队，以 3:0 的比分强势晋级总决赛舞台。
+T1 将在 S15 冠军争夺战中与同属 LCK 赛区的三号种子 KT 战队会师（决赛 11 月 9 日在成都举行），这也标志着 LCK 赛区自 2017 年后时隔八年再次在中国举办的 S 赛中提前包揽冠亚席位。
+
+本场胜利后，T1 战队及其核心选手 Faker 在全球总决赛淘汰赛阶段（BO5）对阵 LPL 赛区队伍的惊人纪录得以延续。算上 S15 系列赛，他在这类关键对决中已取得了 13 场全胜的战绩，保持 100% 的胜率。这一传奇纪录始于 2013 年，在长达十二年的时间里，Faker 带领 SKT / T1 战队在世界赛淘汰赛阶段先后击败了多支 LPL 顶尖队伍，奠定了其「英雄联盟最高的山、最长的河」的竞技地位。（来源：IT之家）
+
+美国制药巨头礼来宣布与英伟达合作打造行业最强 AI 超级计算机
+11 月 2 日消息，美国制药巨头礼来 10 月 30 日宣布，将携手英伟达（NVIDIA），共同打造一个由制药企业拥有并运营的、算力最强大的超级计算机。这台超级计算机将驱动一个「AI 工厂」——这是一个专业化的计算基础设施，用于管理从数据输入、模型训练、参数微调到大规模推理的完整人工智能生命周期。
+这台超级计算机是全球首台采用 DGX B300 系统的英伟达 DGX SuperPOD。它由超过 1000 块 B300 GPU 提供算力，并构建在统一的网络架构之上。这意味着跨 GPU、存储和相关系统间的通信，全部都仅通过一个高速网络完成，极大地提升效率。
+这台全新的超级计算机和 AI 工厂实现了快速的自主学习…]]></summary>
+        <author>
+            <name>极客公园</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[特斯拉 Cybercab 实车曝光，部分量产；何小鹏谈雷军竞争：未来更期待对手是小米；黄仁勋完成 10 亿美元股票出售]]></title>
         <id>http://www.geekpark.net/news/355869</id>
@@ -2061,28 +2080,6 @@ AI 研究员 @oncescuradu 在 ChatGPT 安卓测试版（版本 1.2025.273 beta�
 10 月 5 日消息，马斯克旗下脑机接口公司 Neuralink 已向《新英格兰医学杂志》提交了首个包含其人体试验安全数据的学术论文，介绍了其首批三位受试者的最新情况。
 这一消息来自 Neuralink 临床试验点之一——巴罗神经学研究所（Barrow Neurological Institute）的首席执行官兼院长 Michael Lawton。Lawton 在纽约西奈山医疗系统主办的脑植入会议间隙透露了相关信息，但拒绝提供更多细节。根据此前披露，Neuralink 目前已在 12 名受试者体内植入设备。
 Neuralink 总裁 DJ…]]></summary>
-        <author>
-            <name>极客公园</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软下架「炉石」等多款游戏；华为云：华为算力效能超英伟达芯片 3 倍；马斯克回应特斯拉机器人打拳：并非遥控]]></title>
-        <id>http://www.geekpark.net/news/354772</id>
-        <link href="http://www.geekpark.net/news/354772"/>
-        <updated>2025-10-05T00:19:13.000Z</updated>
-        <summary type="html"><![CDATA[微软紧急下架多款游戏，《炉石传说》等受影响
-微软安全响应中心于 10 月 3 日发布公告，Unity 宣布了一个安全漏洞，该漏洞影响使用 Unity 游戏引擎编辑器（版本 2017.1 或更高版本）构建的游戏或应用。
-微软表示正在努力更新可能受此 Unity 漏洞影响的游戏和应用。如果你正在使用这些应用或游戏，最好先卸载，直到更新可用。受影响的游戏包括《炉石传说》等。
-根据科技媒体 The Verge 报道，Unity 目前没有发现该漏洞被利用的实例，也没有用户和客户受到影响，但官方已经为开发者准备好修复补丁，他们应该立即采取行动，更新现有的游戏或应用。（来源：IT 之家）
-
-通义千问开源 Qwen3-VL-30B-A3B 模型
-10 月 4 日，阿里云通义千问宣布开源 Qwen3-VL-30B-A3B-Instruct 与 Thinking 模型，并同步推出 FP8 版本以及超大规模模型 Qwen3-VL-235B-A22B 的 FP8 版本。
-官方表示，Qwen3-VL-30B-A3B-Instruct 与 Thinking 体积更小，性能依旧强劲，更实现集 Qwen3-VL 全部能力于一身。仅需 30 亿激活参数，即可在 STEM、视觉问答（VQA）、光学字符识别（OCR）、视频理解、智能体（Agent）任务等多个领域媲美 GPT-5-Mini 和 Claude4-Sonnet，甚至表现更优。（来源：IT 之家）
- 
-中国第三大水电站实现机器人巡检全覆盖
-
-近日，三峡集团宣布：世界第四、中国第三大水电站——溪洛渡水电站，已实现机器人廊道巡检业务全覆盖。
-溪洛渡水电站地处四川雷波与云南永善交界的金沙江河段，是「西电东送」骨干工程。电站拥有超大规模地下洞室群，大坝及水垫塘廊道总长超 8 公里，其中水垫塘廊道呈网状结构且含 45 度爬坡路段，此前人工巡检需 2 名员工耗时 …]]></summary>
         <author>
             <name>极客公园</name>
         </author>
