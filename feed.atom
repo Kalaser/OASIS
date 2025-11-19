@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Kalaser.github.io/OASIS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-18T01:16:49.465Z</updated>
+    <updated>2025-11-19T01:16:41.191Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Kalaser.github.io/OASIS/index.html"/>
     <link rel="self" href="https://Kalaser.github.io/OASIS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Gemini 3 正式发布，多榜单断崖式领先；美安全服务商网络中断，ChatGPT、X 受牵连；苹果承认酒精擦拭可能导致手机掉色｜极客早知道]]></title>
+        <id>http://www.geekpark.net/news/356578</id>
+        <link href="http://www.geekpark.net/news/356578"/>
+        <updated>2025-11-19T00:23:39.000Z</updated>
+        <summary type="html"><![CDATA[Cloudflare 全球网络中断 ChatGPT、X 等平台受牵连
+11 月 18 日，美国网络安全服务商 Cloudflare 遭遇波及全球的大规模网络故障，导致 ChatGPT、社交媒体平台 X 等多家网站部分用户无法正常访问。美股盘前，Cloudflare 股价跌近 4%。
+这家总部位于旧金山的企业在其官网公告称，正就"可能影响多个客户"的问题展开调查。该页面还显示，其客户支持门户此前已出现故障，且当日早些时候已安排在部分地区进行计划内维护。
+颇具讽刺意味的是，Cloudflare 自身的故障状态页面一度也无法打开。
+
+Cloudflare 的软件服务全球数十万家企业，扮演着网站与终端用户之间的"缓冲器"角色，旨在保护客户网站免受大流量攻击导致瘫痪的威胁。
+据网络故障监测平台 Downdetector.com 数据显示，截至美东时间早上 6:41，X 平台已收到超过 11500 份问题报告。截至北京时间晚上九点，ChatGPT、X 等平台的的许多用户依旧无法正常使用相关应用。（来源：财联社）
+Google 深夜发布 Gemini 3 Pro：全线碾压同类模型，引爆新一轮 AI 竞赛
+11 月 19 日，Google 于今日凌晨正式在 Google AI Studio 上线了 Gemini 3 Pro 的 Preview 版，并同步开放 API。这款新旗舰模型以全面领先的性能表现，成为目前全球最强的 AI 大模型之一。
+根据 Google 公布的 Model Card 数据，Gemini 3 Pro 在数学、推理、多模态与 Agent 工具使用等关键标准上全面「碾压」竞品。在极高难度的数学竞赛基准 MathArena 中，其他模型仍停留在 1% 左右正确率，而 Gemini 3 Pro 直接达到 23.4%；在 Humanity's Last Exam（人类最终大考）…]]></summary>
+        <author>
+            <name>极客公园</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌 Gemini 3.0 深夜炸场：没有悬念的最强 AI]]></title>
+        <id>http://www.geekpark.net/news/356579</id>
+        <link href="http://www.geekpark.net/news/356579"/>
+        <updated>2025-11-18T19:17:41.000Z</updated>
+        <summary type="html"><![CDATA[来了。
+预热了快一个月的 Gemini 3.0 Pro，就在刚刚，正式在 Google AI Studio 上线 Preview 版，API 也同步开放。接下来将陆续上线Google的各项产品中。
+没有任何多余的废话，打开 Model Card，满眼写着的只有两个字：碾压。
+按照 Google 披露的测试数据，Gemini 3 Pro 毫无悬念地成为了目前地球上数学最强的 AI。在 AIME 2025 数学测试中，配合代码执行，它直接拿到了100% 的满分。而在数学竞赛的「地狱模式」MathArena 里，当包括 GPT-5.1 在内的其他大模型还在 1% 上下挣扎时，Gemini 3 Pro 直接干到了23.4%。
+编程能力方面，虽然在 SWE-Bench 上未拿 SOTA——但绝对属于第一梯队。Live Code Bench 的 Elo 得分超过 2400 分 ，在工具调用和终端操作基准测试中更是名列第一。
+真正炸裂的是它的「视觉智能」。对屏幕截图的理解能力高达72.7%，是目前最先进水平的两倍。这意味着 Agent 不再是瞎子，它将彻底重塑 AI 操作计算机的模式。
+但这还没完，Google 今晚还顺手扔出了一个小王炸：自家的 Agentic 编程平台——Google Antigravity。
+此前网传 Gemini 3 能实现「端到端编程」，大家以为是模型成精了。但看起来，并不是模型成精，而是 Google 正在探索如何用更好的系统工程实现端到端编程。
+如果说 Cursor 是目前最强的「外骨骼」，它通过 AI 补全让你写代码更快；那 Antigravity 就是奔着「自动驾驶」去的。它不再只是一个编辑器，而是一个智能体优先（Agent-first）发环境。集成了 Gemini 3.0 和能操控浏览器的 Gemini 2.5 Computer Use 模型，它的 A…]]></summary>
+        <author>
+            <name>极客公园</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[阿里千问公测，挑战 ChaGPT；京东上线独立外卖 App；贝佐斯出任 AI 初创公司 CEO]]></title>
         <id>http://www.geekpark.net/news/356533</id>
@@ -2475,27 +2512,6 @@ DeepSeek 团队开源新模型 DeepSeek-OCR：少量视觉 token 完成海量文
 
  
 根据介绍，此次开源的 DeepSeek-OCR 由两个部分组成：核心编码器 DeepEncoder 和解码器 Dee…]]></summary>
-        <author>
-            <name>极客公园</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 NSA 被曝网攻中国「时间心脏」；微博王高飞：企业别把批评和黑公关混为一谈；传运营艰难，安世中国发公开信回应]]></title>
-        <id>http://www.geekpark.net/news/355134</id>
-        <link href="http://www.geekpark.net/news/355134"/>
-        <updated>2025-10-20T00:41:45.000Z</updated>
-        <summary type="html"><![CDATA[国家安全机关破获美国国家安全局重大网络攻击案
-近期，国家安全机关破获一起美国重大网络攻击案，掌握美国国家安全局网络攻击入侵中国国家授时中心的铁证，粉碎美方网攻窃密和渗透破坏的图谋，全力守护「北京时间」安全。
-经查，2022 年 3 月 25 日起，美国安局利用某境外品牌手机短信服务漏洞，秘密网攻控制国家授时中心多名工作人员的手机终端，窃取手机内存储的敏感资料。2023 年 4 月 18 日起，美国安局多次利用窃取的登录凭证，入侵国家授时中心计算机，刺探该中心网络系统建设情况。2023 年 8 月至 2024 年 6 月，美国安局专门部署新型网络作战平台，启用 42 款特种网攻武器，对国家授时中心多个内部网络系统实施高烈度网攻，并企图横向渗透至高精度地基授时系统，预置瘫痪破坏能力。
-国家安全机关发现，美国安局网攻活动多选在北京时间深夜至凌晨发起，利用美国本土、欧洲、亚洲等地的虚拟专用服务器作为「跳板」隐匿攻击源头，采取伪造数字证书绕过杀毒软件等方式隐藏攻击行为，还使用了高强度的加密算法深度擦除攻击痕迹，为实施网络攻击渗透活动可谓无所不用其极。（来源：证券时报）
-
-马斯克：特斯拉 FSD V14.2 会大规模推送
-10 月 19 日消息，伊隆・马斯克确认，特斯拉将通过 FSD V14.2 版本更新，全面推出 FSD V14。
-据了解，马斯克的这一表态是对特斯拉车主、长期 FSD 测试者 AI DRIVR 所发布内容的回应，AI DRIVR 指出，是时候向整个车队推送 FSD 功能了，因为 FSD V14.1.2 版本已经变得非常成熟。
-这位资深测试者写道：「FSD 14.1.2 已修复了 95% 的犹豫变道和刹车问题。过去两天我都没有碰过方向盘。我认为是时候了，特斯拉人工智能团队。」（来源：IT 之家）
-
-安世中国致全体员工：国内全部主体运营及员工薪资福利一切正常
-10 月 1…]]></summary>
         <author>
             <name>极客公园</name>
         </author>
