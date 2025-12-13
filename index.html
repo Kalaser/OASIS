@@ -22,8 +22,8 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-12-12 datetime="2025-12-12T00:41:55.000Z">2025-12-12</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-12-12 datetime="2025-12-12T00:41:55.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-12-12 datetime="2025-12-12T09:34:34.000Z">2025-12-12</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-12-12 datetime="2025-12-12T09:34:34.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
@@ -38,6 +38,128 @@
                   <a class="source-heading__link" href="http://mainssl.geekpark.net/rss.rss">Open</a>
                 </h3>
                 <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="http://www.geekpark.net/news/357996"
+                        open
+                      >
+                        <summary class="article-expander__title">深聊豆包手机：该关注这场「技术核试验」的什么？</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="http://www.geekpark.net/news/357996">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>​最近，字节跳动和中兴努比亚合作的「豆包手机」成了科技圈最热、最出圈的话题，甚至引发了社会层面的热议。一时间，关于「封杀」、「反制」的讨论甚嚣尘上。大家都在吃瓜，看大厂之间的攻防战。
+如果我们把目光只停留在「谁封了谁」这种问题，就会错过重点。真正的重点，应该是如何看清和手机做了深度整合的豆包手机助手的技术创新到底是什么？以及就算字节这次看似只是扔了个「小炮仗」，但它可能引发的「蝴蝶效应」该如何推导？
+以下是我的一些信息梳理和推理思考，和大家一起探讨。
+01 热闹之下，真刀真枪的技术如何？
+我们不妨先放下巨头冲突的喧嚣，先从技术的视角，拆解一下「豆包手机」的技术，看看它只是简单的「外挂」，还是真正的系统级创新？
+通过手机圈内的专家（@ZEALER @ 老戴Donald）对数据的抓包和系统日志的观测，可以发现豆包的技术实现路径，非常「硬核」，绝对是目前看到的第一个具有强泛化能力的 GUI Agent（图形用户界面智能体）。
+豆包手机有一个「独立的大脑」。从内存占用上观测，其 Native 堆（大概率是 C 或 C++ 语言编写，直接运行在 CPU 上，跑在安卓虚拟机之外）大小达到了 160MB，这部分是直接连 CPU 的；而跑在安卓虚拟机上的 Java 堆（Dalvik）只有 6MB。这意味着豆包手机里推测是有一个本地推理框架，拥有极高的系统权限和执行效率。它不是一个简单的 APP 外壳，而是把 AI 模型的一部分能力直接埋进了系统底层。
+同时，从进程占用和数据包的角度推测，豆包手机拥有一双「独立的眼睛」。它读取屏幕的方式，拿的是非常底层的 GPU 的渲染缓冲区，而不是传统的截屏路径。可以理解为手机里实际上运行着一块虚拟的专属 AI 屏幕，这块屏幕分辨率和人眼看到的一样，锁定 60 帧，亮度为零的无头屏幕（人眼不可见），永远处于「解锁」和「受信任」状态。更重要的是，这块虚拟屏幕…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="http://www.geekpark.net/news/357971"
+                        open
+                      >
+                        <summary class="article-expander__title">测测任永亮：为什么一家泛心理公司，要造个「有身体」的机器人？</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="http://www.geekpark.net/news/357971">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>整理｜连冉 
+编辑｜ 靖宇
+在这个狂飙猛进的 AI 时代，任永亮的视角显得独特且柔软。
+作为中国最大的泛心理在线社区「测测」的掌舵人，他在 IF 2026 的舞台上，从一个 INTP 的压力与自省出发，剖析了技术如何回应人类最隐秘的渴望——被看见、被接纳、被爱。
+对于 5000 万用户而言，测测或许是「恋爱脑必备 APP」，也可能是失恋时的精神支柱；但在任永亮眼中，这更像是一个在人生旷野中指引方向的古老指南针。
+面对通用大模型的强势崛起，任永亮坦诚地分享了从「激进的技术信仰」到「焦虑恐惧」，再到如今「坦然笃定」的心路历程。他意识到，垂直领域 AI 公司的生存空间，在于「类人」能力的温度。
+在此次大会上，任永亮不仅展示了最新的 陪伴智能体「陪伴小星」 ，更 首次阐述了测测向「具身智能」进军的终极逻辑——打造拥有「共感体」能力的机器人。
+为何一家泛心理公司要做机器人？任永亮给出了答案，是 为了「无条件的积极关注」 。他认为，纯粹的线上智能体如同异地恋的朋友，看得见摸不着；而传统的工业机器人只会打拳击、拧螺丝。
+测测想做的，是给大模型装上身体和同理心，让它成为一位「爱的使者」。它不是为了替代父母或伴侣，而是为了在原子化社会的缝隙中，提供一种可触碰的、高质量的情感在场。
+这是一位理工男跨越 13 年的自我重构，也是对科技尽头的一次深情定义： 当机器开始理解「爱」，或许我们才能更好地理解「人」。
+以下是心言集团（测测）创始人兼 CEO 任永亮在极客公园创新大会 2026 上，关于测测到底是什么，关于心理 AI 如何从「在线陪伴」走向「具身智能」，并在技术洪流中重构人类情感连接的演讲实录，由极客公园整理。
+嘉宾观点：
+· 测测就像是一个古老的指南针，它可能不一定永远精准，但它能在你孤独的旷野中给你一个方向，给你积极的反馈。
+· 心理服务最大的价值不是给你答案。无论是咨询师还是 AI，其…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;3
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="http://www.geekpark.net/news/357970"
+                        open
+                      >
+                        <summary class="article-expander__title">我看 MiniMax 闫俊杰：「心舟」已过万重山</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="http://www.geekpark.net/news/357970">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>作者｜张鹏 
+编辑｜ Li Yuan
+
+
+最近，《罗永浩的十字路口》访谈 MiniMax 创始人闫俊杰的视频在我的朋友圈刷屏了。
+这是一场我看着挺惊喜的对话。两个看似处于平行世界的人——一个是互联网初代网红、公认东半球语言大师+自信东半球最好产品人罗永浩；一个是过去极度低调、表达天赋算不上有优势，但是绝对堪称 AI 技术极客的闫俊杰。
+这两位硬生生聊了四个小时的「马拉松式」的访谈，其实源于我个把月之前的拉群介绍。客观地说，拉群的时候，我当时是有点担心罗老师能不能说服闫俊杰出来和他进行这种马拉松对话。
+闫俊杰毕竟一个典型的理工男，业界也都知道他平时鲜有接受采访或者公开做访谈。面对老罗这样洞察力和表达力都十分犀利的提问者，会不会因为彼此担心变成一场「尬聊」而搁浅？
+结果证明，罗老师绝对可以的，他的访谈频谱极其宽广，在视频播客领域一骑绝尘是理所应当的。不过，更重要的是，闫俊杰在这次访谈里让我看到了有意思的变化。甚至可以说是个阶段性的蜕变。
+今天我就说说我看到的闫俊杰和他最近这些变化到底是什么？
+
+
+01 
+一定要搞一次「纯粹」的技术创业 
+
+
+过去 20 多年，我深度交流、了解、持续观察过大几百个创业者。如果我非要给闫俊杰贴一个标签，那在我眼里， 「渴望 纯粹 」的 技术 创业者可能是最贴切的 。
+这要从他「小时候」说起。其实闫俊杰认识我，比我认识他早。因为我们俩第一次见面时候他和我说，早在他大学时期，他就是我当年做科技杂志主编时候的读者，甚至现在竟然还着记得一些当时我每期《编者的话》里关于科技趋势的一些「暴论」观点。
+我这辈子做内容一直围着技术趋势和产品创新在转，可能从来没有赢得过「大众」读者群。所以得知一个当时的大学生就对这些「小众科技内容」如数家珍，看得出来他首先是个「真极客」。
+「真极客」对技术的趋势都是敏感的。外界往往觉得中国这一波大模型创业浪潮是被 2022 年底的 …</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="http://www.geekpark.net/news/357968"
+                        open
+                      >
+                        <summary class="article-expander__title">语核科技翟星吉：离钱最近的 Agent，才是 AI ToB 的唯一出路</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="http://www.geekpark.net/news/357968">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>在 AI Agent 创业的热潮中，翟星吉和他创立的语核科技，选择了一条看起来有些「反共识」的路径——专注于 ToB 的销售场景，帮助企业打造「数字员工」。
+在他看来，AI Agent 必须贴近企业的核心业务流程，解决最实际的问题，才能真正创造价值。「离钱近」不仅是语核的产品策略，也折射出这位 95 后创业者对 AI Agent ToB 赛道的冷静思考。
+在极客公园创新大会 2026「重塑关系专场」的小场深谈中，翟星吉分享了他个人转型之路、团队构建心得以及语核科技在 AI Agent 商业化探索中的思考与迭代。
+翟星吉关于 AI ToB 与 AI 创业的精彩观点：
+ToB 的核心是解决「堵塞点」而非制造「工具」 传统的 SaaS 往往因为无法直接量化价值而陷入销售困境，AI Agent 必须切入企业最核心的业务流，解决那些不仅重要而且「堵塞」的问题。只有解决了这些痛点，客户才会有立即付费的意愿，而不是仅仅将其视为一个可有可无的管理工具。
+AI 的本质是杠杆，要撬动高价值生产力 工具作为杠杆，其产出取决于使用者的基础价值。C 端普通用户的单位时间价值有限，杠杆效应不明显；而企业主、职场精英以及企业组织本身是为了高效构建生产力而存在的，在这些场景下，AI 带来的效率提升（如转化率微小的提升）能被巨大的基数放大，产生显著的商业回报。
+人机协作的演进：从 L2 到 L4 目前的 Agent 处于 L2 级别（人机协作），主要替代初级员工的繁琐工作，需要人类专家审核；未来的目标是迈向 L4（高度自治），届时 Agent 将具备与高级员工对等的业务理解与执行能力。在这个阶段，企业实际上是在为「结果」付费，而非为「人头」发工资。
+创业者的核心竞争力是「认知迭代速度」 在快速变化的 AI 时代，最重要的素质是保持开放心态和极高的认知斜率。团队需要具备「滑跪」的能力——即便上一秒在激烈争论，…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;5
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
                     <article>
                       <details
                         class="article-expander"
@@ -4373,123 +4495,10 @@ AI应用生态方面，腾讯元宝已全面打通微信、QQ、腾讯会议等�
             </li>
         </ul>
       </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-11-13 datetime="2025-11-13T10:06:54.000Z">2025-11-13</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-11-13 datetime="2025-11-13T10:06:54.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >极客公园</button>
-                  <a class="source-heading__link" href="http://mainssl.geekpark.net/rss.rss">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="http://www.geekpark.net/news/356396"
-                        open
-                      >
-                        <summary class="article-expander__title">营收狂飙的「暗面」：Meta成「全球欺诈大本营」？</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="http://www.geekpark.net/news/356396">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>每年至少 70 亿美元，每天向用户推送多达 150 亿条诈骗广告——这竟然是社交巨头 Meta 惊人的「取财之道」！
-近期，外媒披露的一个「惊天大秘密」直指 Meta 光鲜亮丽的营收数据背后，隐藏着一个巨大的黑洞：欺诈性广告业务。
-内部文件显示，Meta 公司去年底曾预测，其年度总收入的约 10.1%，大约 160 亿美元来自高风险的诈骗广告和违禁商品广告。尽管 Meta 发言人声称实际数字「更低」，但另一份内部文件却指出，Meta 每年仅从部分诈骗广告中就能赚取约 70 亿美元 的年收入。更令人震惊的是，该公司平均每天向用户展示约 150 亿条具有明显欺诈特征的「高风险」诈骗广告。
-更有甚者，Meta 对付疑似非法营销人员的手段堪称「黑色幽默」：要么让他们缴纳足够的高额广告费，要么就等着被列入内部的「诈骗者」报告。这种类似收取「保护费」的机制，让 Facebook、Instagram、WhatsApp 都变成了一个虚假广告大本营。Meta 内部报告甚至承认一个尴尬的现实：「在 Meta 平台上宣传诈骗比在谷歌上更容易。」
-对此，Meta 发言人表示，公司已「足够尽力」，并强调已将用户举报的诈骗广告数量减少了 58%。然而，内部文件却揭示，Meta 曾因将诈骗广告归类为「低严重性」问题而忽略或错误地驳回了高达 96% 的用户有效举报。
-
-Meta创始人、CEO扎克伯格 ｜图片来源：彭博社
-与无下限地狂揽欺诈广告收益形成鲜明对比的是，Meta 正无上限地向 AI 领域投入天价资本。其 AI 基础建设设施的资本支出指引已升至惊人的 660–720 亿美元。
-同时，Meta 还濒临着核心人才齐出走的困境。「卷积神经网络之父」杨立昆在 2013 年加入 Meta 后，一手建立起 FAIR 实验室并推动其成为全球顶尖AI研究机构，但今天他也宣布自己离开 Meta 创业。有媒体推测，推…</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;3
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="http://www.geekpark.net/news/356380"
-                        open
-                      >
-                        <summary class="article-expander__title">小鹏科技日「太魔幻」：机器人走猫步，飞行汽车接近量产</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="http://www.geekpark.net/news/356380">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>11月5日，小鹏举办了它的第七个小鹏科技日，如果要用一个字来总结我的感受，那一定是——「新」。
-熟悉小鹏的朋友都知道，他们是汽车圈里最早举办「科技日」的。过去六年，我们听何小鹏聊过自动驾驶，也见识过飞行汽车、智能机器人，还有解决里程焦虑的超级增程。
-而今年的「新」，来得更有仪式感。
-这种感觉，从踏入小鹏新总部的那一刻就开始了。就在上个月（10月21日），小鹏刚刚搬进了位于广州天河区的新家。这次，小鹏更是贴心地为每个参会者都制作了专属工牌，可以在新总部里体验、打卡。这也让这场科技日更像是一场邀请新老朋友参加的「乔迁派对」。
-作为科技日，当然得讲些硬核内容。发布会上，何小鹏宣告小鹏汽车进化为「面向全球的具身智能公司」，并一口气亮出了四大成果：小鹏第二代VLA、小鹏Robotaxi、全新一代IRON，以及汇天两套飞行体系。从地面到天空，从个人出行到公共服务，小鹏用这四张牌，诠释了它理解的「物理AI」。
-最后，还有一个细节变化让我印象深刻。以往的群访环节，基本都是中文媒体的「主场」。但这次走进采访间，我惊讶地发现，现场几乎一半都是外媒记者。你能清晰地感受到，小鹏正吸引着全世界的目光。
-一场偶然的技术跃迁
-从2024年开始，VLA就成为了辅助驾驶行业的热词。甚至有人认为，它是通向自动驾驶的最终路线。
-不过，VLA的一些不足也暴露出来，比如标准 VLA 普遍需要 Vision-Language-Action 两次转换语言作为中间转译环节，会导致丢失大量视觉细节，决策依据不充分。比如丢失车辆微妙动态（车轮微微左打），路面材质细微变化等；同时，这也会增加额外的转译时间，导致推理延迟，智能驾驶的反应速度降低。
-小鹏汽车也意识到了这些问题，他们内部也在思考：「我们能不能拆掉『Language』这个中间环节？」这是一个大胆，甚至有些「离经叛道」的想法。
-最终，小鹏做出了一个决定，并行研发两套方案…</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="http://www.geekpark.net/news/356343"
-                        open
-                      >
-                        <summary class="article-expander__title">DeepSeek罗福莉正式亮相小米AI；「周杰伦概念股」联手宇树造 IP 机器人；乘用车百公里加速不少于5秒</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="http://www.geekpark.net/news/356343">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>李飞飞团队推出首款商用世界模型
-由李飞飞联合创立的 World Labs 11 月 12 日正式推出其首款商业化世界模型产品——Marble。该产品现已开放免费增值（freemium）与付费订阅服务，支持用户通过文本提示词、照片、视频、3D 布局图或全景图生成可编辑、可下载的 3D 环境。
-所谓「世界模型」，是指一类能构建环境内部表征的 AI 系统，可用于预测未来状态并规划行动路径。目前，竞争对手如 Decart 与 Odyssey 仅推出免费演示版本；谷歌的 Genie 仍处于有限研究预览阶段。
-Marble 的差异化优势在于其生成的是持久化、可下载的 3D 环境，而非在用户探索过程中动态生成世界。公司表示，这一设计显著减少了场景变形与不一致性。
-此外，Marble 是业内首款原生集成 AI 编辑工具的模型，并配备混合式 3D 编辑器：用户可先手动构建空间结构框架（如墙体、体块或平面），再由 AI 填充视觉细节。World Labs 联合创始人 Justin Johnson 表示：「这是一种全新类别的模型——生成 3D 世界，其能力将随时间持续提升。事实上，我们已实现了显著改进。」
-Marble 将同时提供 4 档订阅方案，最高旗舰版每月定价 95 美元，包含 75 次生成。Johnson 认为，Marble 的首批应用场景将集中于游戏开发、影视视效与虚拟现实。（来源：IT 之家）
-
-前 DeepSeek 研究员正式宣布加入小米
-11 月 12 日，前 DeepSeek 研究员罗福莉在朋友圈发文：「智能终将从语言迈向物理世界。我正在 Xiaomi MiMo，和一群富有创造力、才华横溢且真诚热爱的研究员，致力于构建这样的未来，全力奔赴我们心目中的 AGI。」
-Xiaomi MiMo 是小米首个推理大模型。这是罗福莉正式宣布自己加入小米的消息，亦是对此前传言的回应。
-此前有传…</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;3
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/Kalaser/OASIS/actions/runs/20153013726">
-        <time id="build-timestamp" datetime="2025-12-12T01:20:43.012Z">2025-12-12T01:20:43.012Z</time>
+      <a class="footer-link" href="https://github.com/Kalaser/OASIS/actions/runs/20184465969">
+        <time id="build-timestamp" datetime="2025-12-13T01:16:18.484Z">2025-12-13T01:16:18.484Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
