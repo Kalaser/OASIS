@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Kalaser.github.io/OASIS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-04T01:47:33.783Z</updated>
+    <updated>2026-02-05T01:49:09.335Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Kalaser.github.io/OASIS/index.html"/>
     <link rel="self" href="https://Kalaser.github.io/OASIS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Launching The Rural Guaranteed Minimum Income Initiative]]></title>
+        <id>697bbd8d4096b50001b304ce</id>
+        <link href="https://blog.codinghorror.com/launching-the-rural-guaranteed-minimum-income-initiative/"/>
+        <updated>2026-02-04T07:43:56.000Z</updated>
+        <summary type="html"><![CDATA[It's been a year since I invited Americans to join us in a pledge to Share the American Dream:
+1. Support organizations you feel are effectively helping those most in need across America right now.
+2. Within the next five years, also contribute public dedications]]></summary>
+        <author>
+            <name>Jeff Atwood</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI 上线「应用商店」；小红书被曝发力中长视频；《疯狂动物城 2》打破内地进口片观影人次记录]]></title>
         <id>http://www.geekpark.net/news/358210</id>
