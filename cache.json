@@ -4,7 +4,18 @@
       "title": "Coding Horror",
       "feedUrl": "https://blog.codinghorror.com/rss",
       "siteUrl": "https://blog.codinghorror.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "69e65614966568000167e6b2",
+          "author": "Jeff Atwood",
+          "description": "It's been one of those months, and by that, I mean one of the 663 months since I was born. This won't be a long post, because I only have two things to say. First, I'm really glad we re-ordered the GMI (Guaranteed Minimum",
+          "link": "https://blog.codinghorror.com/thank-you-for-being-a-friend/",
+          "publishedOn": "2026-04-20T17:21:00.000Z",
+          "wordCount": 1248,
+          "title": "Thank You For Being a Friend",
+          "imageUrl": "https://storage.ghost.io/c/eb/aa/ebaa2665-01a8-4415-8825-69d1f0e8fd19/content/images/size/w1200/2026/04/stack-overflow-dedication-cover.jpg"
+        }
+      ]
     },
     {
       "title": "知乎每日精选",
