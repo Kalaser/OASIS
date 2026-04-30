@@ -2,10 +2,102 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Kalaser.github.io/OASIS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-29T02:36:54.083Z</updated>
+    <updated>2026-04-30T02:37:23.055Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Kalaser.github.io/OASIS/index.html"/>
     <link rel="self" href="https://Kalaser.github.io/OASIS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[马斯克：OpenAI 是我的创意，Altman 是小偷；Claude Code 使用成本翻倍；Image 2 登顶视觉模型榜｜极客早知道]]></title>
+        <id>http://www.geekpark.net/news/363594</id>
+        <link href="http://www.geekpark.net/news/363594"/>
+        <updated>2026-04-30T00:25:55.000Z</updated>
+        <summary type="html"><![CDATA[结束与微软独家合作，OpenAI 模型接入亚马逊 AWS
+4 月 29 日，在亚马逊云科技（Amazon Web Services，简称 AWS）新品发布会上，AWS 宣布携手 OpenAI，将 OpenAI 最新大模型接入 Amazon Bedrock，在 Amazon Bedrock 上线 Codex 代码 Agent，并推出由 OpenAI 赋能的 Amazon Bedrock 托管 Agent（以上功能均为有限预览版）。
+4 月 27 日，OpenAI 与微软宣布对双方的合作协议作出调整，OpenAI 可通过任意云服务商向客户提供旗下全部产品服务。
+据 AWS 介绍，GPT-5.5、GPT-5.4 等全新 OpenAI 旗舰模型，将登陆 Amazon Bedrock 预览版。企业可沿用现有的 Bedrock 接口调用前沿模型，无需额外部署基础设施，也无需适配全新安全体系。（来源：IT 之家）
+
+OpenAI 预计今年消费者订阅用户达 1.22 亿
+4 月 29 日，根据最新的市场预测数据，OpenAI 预计其针对消费端推出的 ChatGPT 订阅用户规模在今年将突破 1.22 亿大关。而这一宏大目标背后的核心增长引擎，直指其近期力推的「ChatGPT Go」低价订阅服务。
+这项每月仅需 8 美元的低价套餐，自去年 8 月起已悄然在 171 个国家和地区完成布局。相比于此前的标准订阅价格，ChatGPT Go 的推出标志着 OpenAI 正在从「精英化工具」向「大众化应用」转型。官方预测显示，今年约有 1.12 亿用户将转向这一更为实惠的服务层级，这无疑将为 OpenAI 带来前所未有的用户基数。（来源：aibase）
+ 
+苹果计划在 iOS 27 中借助 AI 对照片编辑功能进行全面升级
+4 月 29 日，据报道，苹果公司正计划对 iPhone、iPad 和 Mac…]]></summary>
+        <author>
+            <name>极客公园</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI 硬件负责人的闭门分享，向我们揭示了为什么硬件「终点」仍是智能手机]]></title>
+        <id>http://www.geekpark.net/news/363596</id>
+        <link href="http://www.geekpark.net/news/363596"/>
+        <updated>2026-04-29T11:09:27.000Z</updated>
+        <summary type="html"><![CDATA[「你必须为模型将要去的方向设计硬件，而不是为今天的模型。」
+
+作者｜张勇毅
+
+编辑｜靖宇
+ 
+昨天，当 OpenAI 做智能手机的具体规格与供应链爆料发布时，我第一反应不是「他们要做手机了」，而是「OpenAI 最终也不得不踏出这一步」，同时想起两周前 Richard Ho 在 Stanford 那场交流。
+Richard Ho 是 OpenAI 的硬件负责人，从 Google 做 TPU 出来。
+
+Richard Ho ｜图片来源：Synopsys
+ 
+那场在 IEEE 内部组织的交流上，他没有讲过一次「手机」这个词。但把昨天的新闻和他当时说过的话放在一起看，整条路径其实已经被讲得很清楚——只是当时没有一个具体的产品形态来锚定它。
+OpenAI 做手机这件事，在外界看来像一次跨界。但顺着 Richard Ho 那场交流的逻辑往下推，你会发现这是一条早就铺好的路。
+毕竟对于所有模型厂商来讲，手机都只是终点之一，不是起点。
+
+
+
+
+
+
+
+
+01
+
+
+
+
+
+
+模型的下一次「跃迁」，诞生自硬件
+
+ 
+那场交流的核心，是关于 OpenAI 为什么必须自己做硬件。
+Richard Ho 反复强调的一句话是：「真正的限制不再只是模型，而是算力、能耗、成本、延迟，是整个系统。」
+听起来像一句普通的技术陈述。但放在 OpenAI 的位置上，这句话的分量完全不一样——它意味着这家公司已经不把自己单纯当作一家模型公司。
+GPU 是为通用并行计算设计，在推荐系统、传统的并行任务，跑得很好。
+但面对今天主流的 Transformer、agent、长上下文推理，其实已经偏离了 GPU 当初的设计假设。尤其是 agent——多轮、持续执行、跨任务协同，整个系统层的低效会被放大很多倍。Richard Ho 当时的原话是：「GPU 把我们带到了今天，但它并不是为这种（AI 负载任务）而设计的。」
+这句话背…]]></summary>
+        <author>
+            <name>极客公园</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HappyHorse 1.0在千问首发开启灰测免费体验，重构 AI 视频赛道]]></title>
+        <id>http://www.geekpark.net/news/363406</id>
+        <link href="http://www.geekpark.net/news/363406"/>
+        <updated>2026-04-29T08:31:31.000Z</updated>
+        <summary type="html"><![CDATA[前段时间，AI 视频生成赛道迎来了一场无预热的行业震动。
+一款名为 HappyHorse 1.0 的模型以匿名形式空降权威第三方评测平台 Artificial Analysis 的 Video Arena 榜单，一度拿下第一。
+从全网对研发主体的密集猜测，到阿里巴巴 ATH 事业群正式官宣认领，这款被业内称为 「HappyHorse 1.0 」 的模型，迅速成为全球 AI 视频圈的核心讨论焦点。
+更让行业关注的，是 HappyHorse 1.0 快速完成了与千问APP的全链路深度融合 —— 目前千问 APP 可免费体验该模型能力，千问创作web端也可使用，功能更全。
+不同于市面上大模型与视频工具 「入口嫁接」 的浅度合作，这套组合直接打通了从自然语言创意到成片输出的完整创作链路，试图同时解决 AI 视频行业长期存在的两大核心痛点：普通人写不出精准提示词的创意转化门槛，和专业需求落地时 「理想与现实脱节」 的效果还原难题。
+当全球顶级的视频生成能力，遇上国内头部的大模型，这套组合拳是否会终结 AI 视频赛道持续多年的参数内卷？又会给国内云厂商AI竞赛带来什么样的影响？
+ 
+一、场景实测：HappyHorse 1.0 的真实能力，到底强在哪？
+ 
+判断一款 AI 视频生成模型的真实价值，要在真实创作场景的落地闭环中 —— 它能否真正解决创作者的核心痛点，能否把零散的创意转化为逻辑自洽、视听完整的成片。
+现在，在浏览器登录千问创作网页版（c.qianwen.com），在「AI 视频」里就可以调用 HappyHorse 1.0 生成视频了，有免费体验额度，体验下来每天都可以免费生成几个视频，额外部分消耗积分（具体扣除额度及对应价格以页面为准）。
+ 
+
+
+ 
+同时，用户也可在最新版千问APP中通过首页胶囊入口进入创作面板，选择 HappyHorse 1.0 及相关参数进行视频生成，当…]]></summary>
+        <author>
+            <name>极客公园</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[比亚迪5月1日开始涨价；微信朋友圈悄然改版；麦当劳奶昔正式回归]]></title>
         <id>http://www.geekpark.net/news/363496</id>
