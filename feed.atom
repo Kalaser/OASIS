@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Kalaser.github.io/OASIS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-01T02:43:27.423Z</updated>
+    <updated>2026-05-02T02:26:06.261Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Kalaser.github.io/OASIS/index.html"/>
     <link rel="self" href="https://Kalaser.github.io/OASIS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[iPhone Air 销量疲软，安卓厂商集体叫停超薄旗舰；佳能或将推出 Pocket 相机；腾讯增持游戏科学，持股达 24%]]></title>
+        <id>http://www.geekpark.net/news/363696</id>
+        <link href="http://www.geekpark.net/news/363696"/>
+        <updated>2026-05-02T01:06:53.000Z</updated>
+        <summary type="html"><![CDATA[iPhone Air 销量疲软，引发 Android 厂商集体叫停超薄旗舰计划
+5 月 1 日消息，博主 @ 数码闲聊站 发文，透露 Air 产品线「叫好不叫座」，苹果 iPhone Air 手机激活量在多轮降价后才勉强破 70 万台。同时国内某厂商 Air 机型激活量仅达 5 万台，因此该厂商计划搁置明年的「小屏超薄 + 极限堆料路线」迭代。预计下代唯一超薄定义的旗舰只有苹果 iPhone Air 2。
+除了此前已上市的多家厂商 Air 机型外，事实上还有不少厂商根本就没有推出 Air 机型，例如小米 Air / 魅族 22 Air 手机便直接遭砍。
+参考此前报道，小米品牌总经理卢伟冰在去年 11 月便发文，认为「Air 手机极致的薄，实际会带来用户体验的牺牲，包括续航，散热，性能，相机等」，「从实际的销售情况来看，的确是非常小众」。（来源：IT 之家）
+
+Gemini 将出现广告，目前处于准备阶段
+5 月 2 日消息，据科技媒体 Android Central 报道，谷歌母公司 Alphabet 本周举行财报电话会议，首席商务官 Philipp Schindler 在会议中表示，Gemini 未来可能会出现广告。
+这名首席商务官在会议中透露：「我们需要明确，广告一直是将产品规模化、覆盖数十亿用户的重要手段。如果执行得当，广告可以非常有价值，也能提供真正有用的商业信息」。
+I 他也提到，目前谷歌仍在进行准备工作：「我们会在合适的时机公布计划，但不会仓促行事」。如果测试顺利，Gemini 移动端可能会出现广告。（来源：新浪）
+人工智能蚕食云利润，微软力推按使用量付费模式
+为了支持大模型训练和推理，微软、谷歌等巨头投入了数千亿美元用于购买 GPU 等硬件，导致短期成本飙升。高昂的算力成本确实在短期内挤压了云服务商的利润空间。
+2026 年云厂商不得不通过上调算力价格来对冲成本…]]></summary>
+        <author>
+            <name>极客公园</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeepSeek 发布多模态模型及技术报告；小红书官宣组织调整：柯南出任总裁；宇树发布双臂人形机器人，2.69万元起售]]></title>
         <id>http://www.geekpark.net/news/363694</id>
