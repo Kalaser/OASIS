@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Kalaser.github.io/OASIS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-03T02:35:25.640Z</updated>
+    <updated>2026-05-04T02:33:16.791Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Kalaser.github.io/OASIS/index.html"/>
     <link rel="self" href="https://Kalaser.github.io/OASIS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[传小米新 SU7 锁单突破 7 万；微信输入法测「隔空发图」功能；豆包二代 AI 手机上半年发布]]></title>
+        <id>http://www.geekpark.net/news/363701</id>
+        <link href="http://www.geekpark.net/news/363701"/>
+        <updated>2026-05-04T00:10:54.000Z</updated>
+        <summary type="html"><![CDATA[即将超越英伟达！谷歌母公司 Alphabet 市值已达 4.6 万亿美元
+5 月 3 日消息，据媒体报道，受超预期财报提振，谷歌母公司 Alphabet 股价周四（4 月 30 日）大涨 10%，年内累计涨幅达到 140%，市值突破 4.6 万亿美元。
+该公司周三公布的营收超出分析师预期，其中谷歌云业务收入更是突破 200 亿美元大关。
+目前，全球市值第一的公司仍是人工智能芯片霸主英伟达，市值接近 4.9 万亿美元。不过，由于商业伙伴 OpenAI 被曝未能达成内部收入与增长预期，英伟达股价在两天内累计下跌超过 6%。
+若英伟达在 5 月 20 日发布的财报中未能实现反弹，期權市场预测，Alphabet 最早可能在 5 月 15 日登顶全球市值第一。要实现这一目标，Alphabet 的市值需要追上英伟达当前水平，股价需再上涨约 4%，达到约 401 美元。
+期权交易员认为，从现在到 5 月 15 日之间，Alphabet 股价触及 401 美元的概率约为 53%。
+另据 ThinkOrSwim 数据显示，Alphabet 股价在 5 月 22 日（即英伟达财报发布后的星期五）收于 400 美元以上的概率约为 30%。
+值得一提的是，Alphabet 上一次成为全球市值最高的公司是在 2016 年，当时它曾短暂超越苹果，登上榜首。（来源: 快科技）
+
+黄仁勋称英伟达中国市场份额已降为零，美国出口管制效果适得其反
+5 月 3 日消息，英伟达（Nvidia）CEO 黄仁勋 4 月 30 日在接受特别竞争研究项目（SCSP）采访时表示，该公司在中国 AI 加速器市场的份额已降至 0%（注：他这里仅谈及英伟达直接面向中国客户的销售）。
+黄仁勋直言：「放弃像中国这样规模的一整个完整市场，在战略上恐怕并不合理，所以我认为这在很大程度上已经产生了反效果。我认为政策确实需要动态调整，需要保持…]]></summary>
+        <author>
+            <name>极客公园</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[魔法原子进军硅谷背后：世界模型野望与生态卡位]]></title>
         <id>http://www.geekpark.net/news/363699</id>
