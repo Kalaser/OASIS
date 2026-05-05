@@ -32,7 +32,7 @@
     {
       "title": "极客公园",
       "feedUrl": "http://www.geekpark.net/rss",
-      "siteUrl": "https://mainssl.geekpark.net/rss.rss",
+      "siteUrl": "http://mainssl.geekpark.net/rss.rss",
       "articles": [
         {
           "id": "http://www.geekpark.net/news/363701",
