@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Kalaser.github.io/OASIS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-20T02:52:48.319Z</updated>
+    <updated>2026-05-21T02:56:02.905Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Kalaser.github.io/OASIS/index.html"/>
     <link rel="self" href="https://Kalaser.github.io/OASIS/feed.atom"/>
@@ -1976,16 +1976,6 @@ SpaceX 的目标上市估值约为 1.…]]></summary>
 4 月 10 日，阿里宣布认领这款神秘 AI 视频模型，表示 Happ…]]></summary>
         <author>
             <name>极客公园</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thank You For Being a Friend]]></title>
-        <id>69e65614966568000167e6b2</id>
-        <link href="https://blog.codinghorror.com/thank-you-for-being-a-friend/"/>
-        <updated>2026-04-20T17:21:00.000Z</updated>
-        <summary type="html"><![CDATA[It's been one of those months, and by that, I mean one of the 663 months since I was born. This won't be a long post, because I only have two things to say. First, I'm really glad we re-ordered the GMI (Guaranteed Minimum]]></summary>
-        <author>
-            <name>Jeff Atwood</name>
         </author>
     </entry>
     <entry>
