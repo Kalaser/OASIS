@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Kalaser.github.io/OASIS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-22T03:51:46.139Z</updated>
+    <updated>2026-06-23T02:51:48.045Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Kalaser.github.io/OASIS/index.html"/>
     <link rel="self" href="https://Kalaser.github.io/OASIS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Every Choice Changes Everything: The Show]]></title>
+        <id>6a1190f293c8080001c4f565</id>
+        <link href="https://blog.codinghorror.com/every-choice-changes-everything-the-show/"/>
+        <updated>2026-06-22T22:10:42.000Z</updated>
+        <summary type="html"><![CDATA[About 3 weeks ago, Leo Laporte and I recorded the first episode of what will be a new monthly show on the TWiT network. Naming things is hard, and we almost voted on the name, like we did for Stack Overflow, but we quickly landed on Off By One with]]></summary>
+        <author>
+            <name>Jeff Atwood</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[马斯克、库克、黄仁勋盛赞中美元首会晤；英伟达市值破 5.5 万亿美元，超德国 GDP；《GTA6》将于 11 月 19 日零点解锁｜极客早知道]]></title>
         <id>http://www.geekpark.net/news/364185</id>
