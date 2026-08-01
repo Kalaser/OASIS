@@ -2,10 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Kalaser.github.io/OASIS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-31T02:26:25.853Z</updated>
+    <updated>2026-08-01T02:26:57.730Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Kalaser.github.io/OASIS/index.html"/>
     <link rel="self" href="https://Kalaser.github.io/OASIS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Seedance 2.5发布，单次视频时长翻倍；美团上线外卖「等灯停表」功能；长鑫科技突破 4 万亿]]></title>
+        <id>http://www.geekpark.net/news/368270</id>
+        <link href="http://www.geekpark.net/news/368270"/>
+        <updated>2026-08-01T00:42:19.000Z</updated>
+        <summary type="html"><![CDATA[DeepSeek-V4-Flash 正式版 API 上线公测，V4-Pro 正式版将「尽快」发布
+7 月 31 日消息，今天（31 日）下午，DeepSeek 通过 API 文档发布日志，宣布 DeepSeek-V4-Flash 正式版 API 上线公测。
+根据介绍，DeepSeek-V4-Flash 的 Agent 能力大幅增强，基准测试远超 V4-Pro-Preview：
+
+Terminal Bench 2.1: 82.7
+NL2Repo: 54.2
+Cybergym: 76.7
+DeepSWE: 54.4
+Toolathlon verified: 70.3
+Agent Last Exam: 25.2
+Automation Bench (Public): 25.1
+DSBench-FullStack: 68.7
+DSBench-Hard: 59.6
+
+
+据悉，正式版 V4-Flash 原生支持 Responses API 格式并针对性适配 Codex。DeepSeek-V4-Flash-0731 的模型结构、尺寸和 DeepSeek-V4-Flash-preview 保持一致，仅重新进行了后训练。（来源：新浪财经）
+
+字节跳动国内推出 Seedance 2.5 视频 AI 模型：单次生成时长 30 秒、突破长叙事能力
+7 月 31 日消息，字节跳动今天（7 月 31 日）发布公告，宣布在国内推出 Seedance 2.5 视频生成模型，可单次生成 30 秒高质量视频片段，陆续上线即梦 AI 与豆包专业版，API 服务也将于近期接入火山方舟。
+
+官方称，Seedance 2.5 延续 Seedance 2.0 统一的多模态音视频联合生成架构，重点提升长叙事、多模态参考和编辑能力。
+该模型面向影视、广告、教育、工业制造、具身智能和自动驾驶等场景，目标是让视频生成从「生成一个…]]></summary>
+        <author>
+            <name>极客公园</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIGC 的中场，我们需要创作领域的「Codex」]]></title>
+        <id>http://www.geekpark.net/news/368267</id>
+        <link href="http://www.geekpark.net/news/368267"/>
+        <updated>2026-07-31T10:07:42.000Z</updated>
+        <summary type="html"><![CDATA[作者｜Moonshot
+编辑｜郑玄
+ 
+最近，影视飓风开始进入 AI 影视赛道，选择与 TapNow 推出一套 AI 影像创作教程。
+一套教程的出现，本身就是个信号，它说明 AI 影像正在走出「展示奇观」的阶段，开始形成可以被讲解、学习和复用的创作方法。
+被教程吸引进来的，也未必都是准备拍电影的人。
+车企、游戏公司和消费品牌都在增加视频内容的使用：产品发布需要概念片，游戏上线需要世界观短片，市场部门则要持续生产品牌视频、更新社交媒体。
+对这些团队来说，AI 影像正在从一项新技术，变成工作里可以调用的制作能力。
+
+但真正开始做视频以后，问题很快就从「怎么生成」变成了「怎么把视频做下去」。
+一条完整的视频还要经过创意开发、视觉设定、分镜、素材生成、修改和剪辑。视频一旦从十秒左右的镜头走向完整作品，人物、场景和前后决定都要保持连续，原本分散在不同工具里的问题也会同时出现。
+观众看到的是一条视频，但创作者面对的是一个项目。AI 影像已经不缺会生成的工具，缺的是一套能把项目做完的系统。
+为此，TapNow 推出了 Creative OS，并将其定位为「世界首个 AI 原生创作系统」，平台的创作者们也把它类比为「创作界的 Codex」。
+但 AI 影像，为什么开始需要一个操作系统？
+01
+AI 视频的真实落地
+要回答这个问题，让我们先回到真实的创作场景里。为了理解 Creative OS 怎样进入真实生产，我实际体验了两个差别很大的项目，也带着一篇多年没有拍出来的短片剧本，观察它在专业影视上的能力边界。
+第一个是准备改成自媒体视频的想法，只有一个大概方向，还没有发展成脚本；
+第二个是已经立项的内容工作，时长、形式和更新频率基本确定；
+第三个是我写完的短片剧本。因为拍摄成本和精力限制，一直停留在文字里。
+一个念头、一项工作和一篇剧本，刚好构成了 AI 影像进入真实生产的三个台阶： 先进入…]]></summary>
+        <author>
+            <name>极客公园</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[无人机加了条腿，跳出了一个新硬件品类]]></title>
+        <id>http://www.geekpark.net/news/368257</id>
+        <link href="http://www.geekpark.net/news/368257"/>
+        <updated>2026-07-31T08:16:00.000Z</updated>
+        <summary type="html"><![CDATA[越来越多的具身技术正先一步外溢到消费电子领域，包括这款会跳的机器人。
+
+作者｜Li Yuan
+
+编辑｜郑玄
+ 
+会飞的无人机，我们见过。
+会跳舞的人形机器人，我们也见过。
+但你见过，行走方式纯粹靠跳的机器人吗？
+近期极客公园了解到，眺月科技正在做这样一款硬件——长得像无人机加了条腿。为了让世界认识跳跃机，他们年底将发布第一款遥控产品，瞄准的是穿越机发烧友和科技潮玩爱好者。
+不管是机器狗还是人形机器人，腿脚再灵活，通常也迈不过比自己还高的坎。这台机器不一样，原型机能跳到 2 米高，是自身高度的好几倍，人形、四足机器人过不去的障碍，它一跃而过，实在跨不过的沟壑，甚至可以直接飞过去，扛着它直接去野外玩也没问题。
+
+这款硬件被定义成了一个新品类，他们给它起了个自己的名字，跳跃机，英文 hopcopter。
+在它之前，已经有机器人能连续跳了——2016 年伯克利做的 Salto 就是个例子，但结构复杂，没法量产。
+眺月科技的 CEO 王方正是个 99 年的年轻人，博士在香港城市大学就读。
+在读博士期间，同实验室的师兄解决了这个问题：把整台会跳的机器抽象成一根弹簧——弹簧绕支点旋转、压缩、伸展，正是人和动物奔跑时落地、蹬地、再腾空的那一瞬间。结构因此能简化到只剩一根弹簧腿，加一个产生推力的四旋翼。全地形，长续航，两个核心优势跟着就来了。
+论文发表时，王方正判断，这可能是一个机器人新品类的机会，「而且等我博士毕业，这个机会不一定还在了」——没等博士毕业，他就拉上师兄和导师，把公司做了起来。
+眺月科技已完成数百万元种子轮融资，第一代产品定在年末发布，先上海外众筹，卖给穿越机发烧友和科技潮玩爱好者。
+它像是这一代硬件路径的一个缩影：出自顶刊论文的具身技术，首发走的却是消费硬件的路——先找到一千个「死忠粉」，再谈别的。越来越多的具身技术正先一步外溢到消费电子——场景等不起的时候，先让技术有人玩…]]></summary>
+        <author>
+            <name>极客公园</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[宇树科技 8 月 10 日开启 IPO 申购；字节 ToB 变阵：飞书豆包火山组织调整；马斯克称人类 5-7 年登陆火星 | 极客早知道]]></title>
         <id>http://www.geekpark.net/news/368199</id>
