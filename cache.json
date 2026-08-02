@@ -24,6 +24,16 @@
       "siteUrl": "http://mainssl.geekpark.net/rss.rss",
       "articles": [
         {
+          "id": "http://www.geekpark.net/news/368277",
+          "author": null,
+          "description": "马斯克和 Altman 达成共识：人类已迈入 AI 奇点时代\n科技媒体 thenews 近日发布博文，报道称马斯克和 Altman 在 AI 奇点（singularity）方面达成共识。\n7 月 25 日作客 Relentless 播客节目时，Altman 表示：「我们现在差不多已经身处奇点时代。」奥尔特曼还预测，在人类目前能完成的工作中，AI 已经能够自动化完成约 30~40% 的工作，并表示 AI 正推动「自工业革命以来最大的经济变革」。\n马斯克于 7 月 31 日在 X 平台发布推文，指出：「AI 在很多方面都已经超越了人类。我们正处于奇点之中。」\n注：AI 奇点是未来学家雷 · 库兹韦尔（Ray Kurzweil）在 2005 年提出的假设，是一种理论情境，即人工智能自我改进的速度超过了我们人类监控和控制它的能力。(来源：IT 之家)\n\n高通完成收购 Modular，加速 AI 计算布局\n8 月 2 日消息，高通公司最近（7 月 29 日）宣布完成收购 Modular Inc.，双方将进一步打造领先的 AI 计算平台，提供完整的 AI 解决方案。\nModular 是一家专注于 AI 原生软件基础设施的初创企业，他们的软件平台可帮助开发者在异构计算系统中，部署生成式 AI 和智能体。\n据悉，此次收购将加速高通在 AI 方面的发展进度，如数据中心、边缘基础设施、工业 AI 等。同时帮助 Modular 扩大市场并覆盖更多用户。Modular 对开放异构生态系统的承诺不变，并提供 CPU、GPU 和 NPU 的定制方案。\nModular 旗下的 Mojo、MAX 和 Modular Cloud 将继续作为产品和品牌运营，并获得高通公司的投资和支持。Modular 联合创始人兼 CEO Chris Lattner 将出任高通技术公司高级 AI 软件与平台执行副总裁。(来源：…",
+          "link": "http://www.geekpark.net/news/368277",
+          "publishedOn": "2026-08-02T01:13:57.000Z",
+          "wordCount": 1225,
+          "title": "马斯克和 Altman 达成共识：人类已迈入 AI 奇点时代；小米手机多款涨价 300 元起；苹果警告 AI 算力短缺或导致产品延期发布",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.geekpark.net/news/368270",
           "author": null,
           "description": "DeepSeek-V4-Flash 正式版 API 上线公测，V4-Pro 正式版将「尽快」发布\n7 月 31 日消息，今天（31 日）下午，DeepSeek 通过 API 文档发布日志，宣布 DeepSeek-V4-Flash 正式版 API 上线公测。\n根据介绍，DeepSeek-V4-Flash 的 Agent 能力大幅增强，基准测试远超 V4-Pro-Preview：\n\nTerminal Bench 2.1: 82.7\nNL2Repo: 54.2\nCybergym: 76.7\nDeepSWE: 54.4\nToolathlon verified: 70.3\nAgent Last Exam: 25.2\nAutomation Bench (Public): 25.1\nDSBench-FullStack: 68.7\nDSBench-Hard: 59.6\n\n\n据悉，正式版 V4-Flash 原生支持 Responses API 格式并针对性适配 Codex。DeepSeek-V4-Flash-0731 的模型结构、尺寸和 DeepSeek-V4-Flash-preview 保持一致，仅重新进行了后训练。（来源：新浪财经）\n\n字节跳动国内推出 Seedance 2.5 视频 AI 模型：单次生成时长 30 秒、突破长叙事能力\n7 月 31 日消息，字节跳动今天（7 月 31 日）发布公告，宣布在国内推出 Seedance 2.5 视频生成模型，可单次生成 30 秒高质量视频片段，陆续上线即梦 AI 与豆包专业版，API 服务也将于近期接入火山方舟。\n\n官方称，Seedance 2.5 延续 Seedance 2.0 统一的多模态音视频联合生成架构，重点提升长叙事、多模态参考和编辑能力。\n该模型面向影视、广告、教育、工业制造、具身智能和自动驾驶等场景，目标是让视频生成从「生成一个…",

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Kalaser.github.io/OASIS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-01T02:26:57.730Z</updated>
+    <updated>2026-08-02T02:24:35.107Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Kalaser.github.io/OASIS/index.html"/>
     <link rel="self" href="https://Kalaser.github.io/OASIS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[马斯克和 Altman 达成共识：人类已迈入 AI 奇点时代；小米手机多款涨价 300 元起；苹果警告 AI 算力短缺或导致产品延期发布]]></title>
+        <id>http://www.geekpark.net/news/368277</id>
+        <link href="http://www.geekpark.net/news/368277"/>
+        <updated>2026-08-02T01:13:57.000Z</updated>
+        <summary type="html"><![CDATA[马斯克和 Altman 达成共识：人类已迈入 AI 奇点时代
+科技媒体 thenews 近日发布博文，报道称马斯克和 Altman 在 AI 奇点（singularity）方面达成共识。
+7 月 25 日作客 Relentless 播客节目时，Altman 表示：「我们现在差不多已经身处奇点时代。」奥尔特曼还预测，在人类目前能完成的工作中，AI 已经能够自动化完成约 30~40% 的工作，并表示 AI 正推动「自工业革命以来最大的经济变革」。
+马斯克于 7 月 31 日在 X 平台发布推文，指出：「AI 在很多方面都已经超越了人类。我们正处于奇点之中。」
+注：AI 奇点是未来学家雷 · 库兹韦尔（Ray Kurzweil）在 2005 年提出的假设，是一种理论情境，即人工智能自我改进的速度超过了我们人类监控和控制它的能力。(来源：IT 之家)
+
+高通完成收购 Modular，加速 AI 计算布局
+8 月 2 日消息，高通公司最近（7 月 29 日）宣布完成收购 Modular Inc.，双方将进一步打造领先的 AI 计算平台，提供完整的 AI 解决方案。
+Modular 是一家专注于 AI 原生软件基础设施的初创企业，他们的软件平台可帮助开发者在异构计算系统中，部署生成式 AI 和智能体。
+据悉，此次收购将加速高通在 AI 方面的发展进度，如数据中心、边缘基础设施、工业 AI 等。同时帮助 Modular 扩大市场并覆盖更多用户。Modular 对开放异构生态系统的承诺不变，并提供 CPU、GPU 和 NPU 的定制方案。
+Modular 旗下的 Mojo、MAX 和 Modular Cloud 将继续作为产品和品牌运营，并获得高通公司的投资和支持。Modular 联合创始人兼 CEO Chris Lattner 将出任高通技术公司高级 AI 软件与平台执行副总裁。(来源：…]]></summary>
+        <author>
+            <name>极客公园</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Seedance 2.5发布，单次视频时长翻倍；美团上线外卖「等灯停表」功能；长鑫科技突破 4 万亿]]></title>
         <id>http://www.geekpark.net/news/368270</id>
