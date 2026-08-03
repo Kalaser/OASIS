@@ -24,6 +24,16 @@
       "siteUrl": "http://mainssl.geekpark.net/rss.rss",
       "articles": [
         {
+          "id": "http://www.geekpark.net/news/368278",
+          "author": null,
+          "description": "AI 产业扩张引发内存芯片短缺，消息称苹果 MacBook Air 笔记本出现供应紧张局面\n8 月 3 日消息，据彭博社记者马克 · 古尔曼（Mark Gurman）报道，全球内存芯片短缺正在影响苹果 Mac 产品供应，其中受消费者欢迎的 MacBook Air 正面临库存压力。\n古尔曼表示，此次内存短缺主要受到 AI 产业快速扩张影响。随着人工智能企业大量采购高性能存储芯片，挤压了消费电子市场供应，苹果旗下部分产品已经受到影响。\n此前，用户基数更少的 Mac mini 和 Mac Studio 已经出现供应限制，而如今这一问题正在扩展至销量更高的 MacBook Air。目前，通过苹果官网购买 MacBook Air，部分型号预计需要等待至 8 月下旬才能发货，部分特殊配置甚至要等到 9 月。同时多家第三方零售商也声称，目前 MacBook Air 库存情况比以往更加紧张。\n值得注意的是，今年苹果返校季宣传材料也首次明显减少对 MacBook Air 的强调，转而突出基础款 MacBook Pro，并特别标注「MacBook Air 视供应情况而定」。（来源：IT 之家）\n\n\n因造成环境污染，马斯克 SpaceXAI 宣布数据中心将逐步拆除 69 台移动涡轮发电机\n8 月 2 日消息，马斯克旗下 SpaceXAI 宣布，Colossus 数据中心 69 台临时移动涡轮机自今年 8 月起逐步拆除，需在 2027 年 7 月前全部清退。\n这批移动发电机曾是 SpaceXAI 快速落地算力的关键：公司仅用 19 天完成 10 万块英伟达 H200 部署，依靠自备发电摆脱公共电网限制，该模式也被 OpenAI 等同行效仿。但设备因缺少运营许可、引发污染争议遭到居民投诉，还被全国有色人种协进会提起诉讼。虽美国司法部曾以保障关键任务为由介入，SpaceXAI 最终与当地环保部门达成拆…",
+          "link": "http://www.geekpark.net/news/368278",
+          "publishedOn": "2026-08-03T00:13:32.000Z",
+          "wordCount": 919,
+          "title": "内存奇缺，Macbook Air 或缺货；智元母公司推《魔兽世界》机器人；微信地震预警上线新功能",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.geekpark.net/news/368277",
           "author": null,
           "description": "马斯克和 Altman 达成共识：人类已迈入 AI 奇点时代\n科技媒体 thenews 近日发布博文，报道称马斯克和 Altman 在 AI 奇点（singularity）方面达成共识。\n7 月 25 日作客 Relentless 播客节目时，Altman 表示：「我们现在差不多已经身处奇点时代。」奥尔特曼还预测，在人类目前能完成的工作中，AI 已经能够自动化完成约 30~40% 的工作，并表示 AI 正推动「自工业革命以来最大的经济变革」。\n马斯克于 7 月 31 日在 X 平台发布推文，指出：「AI 在很多方面都已经超越了人类。我们正处于奇点之中。」\n注：AI 奇点是未来学家雷 · 库兹韦尔（Ray Kurzweil）在 2005 年提出的假设，是一种理论情境，即人工智能自我改进的速度超过了我们人类监控和控制它的能力。(来源：IT 之家)\n\n高通完成收购 Modular，加速 AI 计算布局\n8 月 2 日消息，高通公司最近（7 月 29 日）宣布完成收购 Modular Inc.，双方将进一步打造领先的 AI 计算平台，提供完整的 AI 解决方案。\nModular 是一家专注于 AI 原生软件基础设施的初创企业，他们的软件平台可帮助开发者在异构计算系统中，部署生成式 AI 和智能体。\n据悉，此次收购将加速高通在 AI 方面的发展进度，如数据中心、边缘基础设施、工业 AI 等。同时帮助 Modular 扩大市场并覆盖更多用户。Modular 对开放异构生态系统的承诺不变，并提供 CPU、GPU 和 NPU 的定制方案。\nModular 旗下的 Mojo、MAX 和 Modular Cloud 将继续作为产品和品牌运营，并获得高通公司的投资和支持。Modular 联合创始人兼 CEO Chris Lattner 将出任高通技术公司高级 AI 软件与平台执行副总裁。(来源：…",
