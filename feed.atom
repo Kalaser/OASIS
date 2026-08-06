@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Kalaser.github.io/OASIS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-05T02:06:07.885Z</updated>
+    <updated>2026-08-06T02:09:50.348Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Kalaser.github.io/OASIS/index.html"/>
     <link rel="self" href="https://Kalaser.github.io/OASIS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[传 DeepSeek 重启融资；华为余承东：手机之后可能都要大规模涨价；首例破坏 AI 模型刑案宣判，程序员「删库跑路」获刑]]></title>
+        <id>http://www.geekpark.net/news/368444</id>
+        <link href="http://www.geekpark.net/news/368444"/>
+        <updated>2026-08-06T00:30:53.000Z</updated>
+        <summary type="html"><![CDATA[传 DeepSeek 重启融资
+据多名交易人士透露，大模型公司 DeepSeek 重启了第二轮融资，本轮计划募资 500 亿元，投前估值约 5000 亿元，并计划将在 8 月下旬完成签约。
+多位投资人提到，DeepSeek 第二轮融资至少在 7 月中旬就已开启，但在 7 月底突然暂停，当时一些谈判候补名单上的投资人被告知签署融资协议的计划暂缓。
+据介绍，DeepSeek 和正在谈判桌上的投资人们希望这次融资在重启后能低调进行。目前，一些此前积极接触的投资机构表示，他们还没有接到 DeepSeek 重启融资的消息，通道仍处在暂缓状态。（来源：财经）
+
+Anthropic 证实正在组建内部芯片团队
+据媒体报道，随着旗下模型需求快速增长，人工智能公司Anthropic正在组建团队，开发自研AI芯片。
+根据一份招聘信息以及公司声明，Anthropic正在招聘工程师，为其Claude模型设计定制芯片。
+Anthropic一名发言人对媒体表示，公司正在组建内部半导体团队，为Claude设计专用芯片。这是Anthropic首次公开确认相关计划。
+据悉，Anthropic将协同设计硬件和AI模型，使Claude能够在“满足客户需求的规模下”运行得更快、更高效。（来源：财联社）
+ 
+谷歌前首席科学家 Jeff Dean 宣布离职创业
+当地时间 8 月 5 日，Google DeepMind 负责人哈萨比斯宣布卸下日常管理职责，转任 Google DeepMind 主席兼 Alphabet 首席科学家。
+几乎在同一时间，谷歌的灵魂人物、首席科学家杰夫·迪恩宣布将在任职 27 年后离职，并将创办新公司 Discovery Loop，未来尝试利用 AI 探索如何自动化科学研究和工程实验。与迪恩一同离职并创业的还有三名资深研究人员。
+据外媒报道，迪恩表示他大约五周前才开始认真考虑创业。（来源：APP…]]></summary>
+        <author>
+            <name>极客公园</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[办公 Agent 爆火，模型大战进入下一阶段]]></title>
+        <id>http://www.geekpark.net/news/368429</id>
+        <link href="http://www.geekpark.net/news/368429"/>
+        <updated>2026-08-05T08:42:08.000Z</updated>
+        <summary type="html"><![CDATA[作者｜Cynthia 
+编辑｜ 靖宇
+ 
+从今年 6 月到 8 月初，短短不到 60 天时间，有一件事几乎同时在新 BAT 发生。
+先是 6 月，阿里率先开启内部 Agent 的产品线与能力大整合，到 8 月 3 日，官宣在编程（Coding）和专业办公（Cowork）能力大幅提升的 Qwen3.8 模型的同时，正式将内部孵化的三款 Agent 产品 QoderWork、悟空、MuleRun 合并为统一的 Agent 产品「千问办公」。
+紧随其后，7 月 20 日，腾讯开启业务整合，QClaw 的相关业务和团队被并入 WorkBuddy 体系。
+10 天后的 7 月 30 日， 字节跳动宣布飞书产品团队整体并入豆包，飞书负责人谢欣向豆包负责人赵祺汇报 。
+不同的组织结构、不同的产品积累和优势市场，三家中国最顶级的互联网企业却在相近时间作出相似整合选择。这不太像巧合。
+更合理的判断是，这种整合，是在 AI 行业走过摸索期，进入入口争夺阶段背景下的必然选择：过去，大厂需要用多个团队验证桌面操作、云端执行和企业协作等不同路线；现在，主要产品形态已经逐渐清晰， 竞争也开始从能不能做出 Agent，转向谁能成为用户和企业的统一入口。
+而千问办公作为这轮收束中最新落地的产品，也是最适合观察观察行业变化的样本。
+作为阿里阶段性的能力重组，它将此前分散在模型、桌面端、云端和企业协作场景中的积累，装进了一款新的独立产品。
+同时，它身上也集中体现了企业 Agent 竞争中最关键的几个问题：内部赛马为什么此时结束，企业 IM 与云为什么成为 Agent 的底层资产，以及模型、产品和真实任务如何形成共同进化的闭环。
+读懂它，就读懂了企业级 Agent 真正的赛点。
+ 
+01 
+大厂为什么同时收敛路径 
+ 
+大厂为什么几乎同一时间开始整合 Agent 产品？
+拿阿里来说，在今年年初，同时保留 Qod…]]></summary>
+        <author>
+            <name>极客公园</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[鸿蒙智行发布「竹知了」相关情况说明；小红书封禁 AI 毒动画，未成年陪聊等 10 万账号；马斯克财富缩水2.45万亿元｜极客早知道]]></title>
         <id>http://www.geekpark.net/news/368389</id>
