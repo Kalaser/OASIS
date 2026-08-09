@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Kalaser.github.io/OASIS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-08T01:15:56.423Z</updated>
+    <updated>2026-08-09T01:20:31.405Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Kalaser.github.io/OASIS/index.html"/>
     <link rel="self" href="https://Kalaser.github.io/OASIS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[苹果删除Apple智能接入阿里千问页面；苹果或近期上调 iPhone17 价格；5 年后 AI 网络流量是人类 1000 倍]]></title>
+        <id>http://www.geekpark.net/news/368577</id>
+        <link href="http://www.geekpark.net/news/368577"/>
+        <updated>2026-08-08T23:56:23.000Z</updated>
+        <summary type="html"><![CDATA[苹果中国官网删除 Apple 智能接入阿里千问使用手册
+8 月 9 日消息，8 月 8 日，一篇名为《在 Mac 上配合 Apple 智能使用千问》的支持文档现身苹果官网 Mac 简体中文使用手册，其中明确提到 Apple 智能可配合阿里巴巴千问模型工作。然而，现在这份中文操作手册已从苹果官网被删除，原网页链接无法正常访问。
+据苹果官网此前所述，千问扩展适用于 macOS 26.6 或更高版本，用户满足以下三种情形之一可以开启：位于中国大陆且 Apple 账户国家或地区需为中国大陆、Mac 机型是中国大陆版本、物理位置位于中国大陆且尚未登陆 Apple 账户。
+同时，用户可前往 macOS 的「系统设置」App，然后选择「Apple 智能与 Siri」菜单的「扩展」设置千问。用户需要登录千问账户才能使用千问扩展，如果没有千问账户的话可以注册一个，或使用 Apple 登录。
+千问扩展支持写作工具、Siri。前者可在备忘录、邮件等应用程序创作文本，拥有写作、改写等功能。
+而 Siri 则是可以通过千问扩展查找更多信息。例如，用户可以向 Siri 发出以下问题：「嘿 Siri，让千问写一首关于龙的诗」「嘿 Siri，让千问帮我总结这个文稿」。如果 Siri 确认千问会有所帮助，它会询问用户是否要使用千问完成请求。（来源：IT 之家）
+
+OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务
+8 月 9 日消息，OpenAI 当地时间周四宣布，已更新 ChatGPT 桌面应用，新增对 ChatGPT Voice 的支持。用户现在可以直接通过语音与 ChatGPT 对话，控制 AI 智能体，并让其在电脑上执行各种任务。
+这项新功能基于 OpenAI 全新的语音模型系列 ChatGPT-Live。OpenAI 于本月早些时候推出了该系列模型。
+OpenAI…]]></summary>
+        <author>
+            <name>极客公园</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[王兴兴回应 DeepSeek 投资宇树：将展开重点合作；微信内测朋友圈 AI 新功能；美国科学家首次用AI设计出新型病毒｜极客早知道]]></title>
         <id>http://www.geekpark.net/news/368565</id>
