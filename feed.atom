@@ -2,10 +2,108 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Kalaser.github.io/OASIS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-30T03:21:53.407Z</updated>
+    <updated>2026-08-31T03:18:23.566Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Kalaser.github.io/OASIS/index.html"/>
     <link rel="self" href="https://Kalaser.github.io/OASIS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[编辑部来了 AI 实习生｜千问入职 20 天，我给它写了一份实习小结]]></title>
+        <id>http://www.geekpark.net/news/369517</id>
+        <link href="http://www.geekpark.net/news/369517"/>
+        <updated>2026-08-31T01:14:19.000Z</updated>
+        <summary type="html"><![CDATA[作者｜Moonshot
+编辑｜郑玄
+8 月 20 日晚，MoonshotAI 在 GitHub 上更新了 kimi-code 0.38.0。没有发布会，也没有新闻稿。但这条信息，被我通过千问部署的一个定时任务「捕获」了。
+很快，千问把一篇 3100 字的稿件推到了我的飞书上，题目是《月之暗面把 500 亿美元估值，押在了一个代码模型上》。
+
+图源：千问
+如果我在值班，可能这时才点开 GitHub，正在判断这个模型是正式版还是测试版。但千问已经找完资料，做完核查，完成了一篇新闻初稿。
+我是如何实现这些的？
+这要回到 8 月 7 日，千问 APP 完成了一次功能更新，包括上线针对复杂任务的「工作助理」，随后我通过千问在本地部署了一套「找选题」的定时任务，监控九家大模型公司的官网、代码仓库和媒体报道，发现新消息后，再按照公司、事件和信源判断它值不值得写、稿件需要写到什么程度。
+根据我设定的信息权重，「kimi-code 0.38.0 更新」这一事件，千问判断为「月之暗面，第一梯队，3 分」「发布新模型，6 分」「GitHub 官方确认，2 分」，总分 11 分，超过了 9 分，触发自动成稿任务，千问开始补充过去七天的相关资料，梳理新闻点和背景，很快一篇初稿推送到了我的飞书。
+
+千问生成的每日工作报告｜图源：千问
+消息评分超过 9 分，千问启动撰稿任务
+回头看，写稿是这次任务的最后一步。更早之前，千问一直守着那些分散的信源，等消息出现，再完成第一轮筛选。
+而科技编辑每天花掉最多注意力的，正是这一段看不见的工作。
+01
+新闻不会排队等编辑上班
+科技编辑每天面对的新闻，散落在许多互不相干的入口里。
+公司官网上有正式公告，GitHub 里藏着版本更新，Hugging Face 会出现新的模型页面，API 文档可能悄悄改掉价格和调用方式。再往外走，还有国内外媒体、社交平台和各种未经确认的提…]]></summary>
+        <author>
+            <name>极客公园</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[折叠屏的尽头，是不折叠：华为 Pura X View 体验]]></title>
+        <id>http://www.geekpark.net/news/369558</id>
+        <link href="http://www.geekpark.net/news/369558"/>
+        <updated>2026-08-30T20:25:08.000Z</updated>
+        <summary type="html"><![CDATA[阔直板不是「发明」，是用户投出来的票
+作者｜张勇毅
+编辑｜靖宇
+Pura X View 到办公室的第一天，来围观的同事，好几个人的第一反应是同一句话「这个尺寸有点像曾经的黑莓手机」。
+华为 Pura X View 实机，是一个直屏手机前所未见的尺寸｜图片来源：极客公园
+我理解这个联想：方方正正一块宽屏，确实像那个年代的东西。但用了一周之后，我觉得「像黑莓」是个无心插柳的结果。它没打算致敬谁，只是一台顺着用户真实需求长出来的手机，恰好长成了这个样子。复古感是结果，不是目的。
+真正有意思的，是它的来历。
+01
+
+
+
+
+先有用法后有机
+阔直板这个形态是怎么来的，江湖上流传很广的说法是：华为翻用户数据的时候发现，小红书上有一批用户，买了 Pura X 这台小阔折，却把它当直板机用。配件厂商顺着这个用法，真的做出了「直屏保护壳」——把 Pura X 装进去，手机就不能折叠了。
+小红书用户自发将折叠屏变成直屏手机来使用，是行业此前从未设想过的一种发展方向｜图片来源：小红书
+注意这个产品有多抽象：折叠是 Pura X 最大的卖点，用户花折叠屏的钱把它买回来，再花几十块钱，主动把这个卖点封印掉。
+这等于用户在拿钱包投票：「阔」这个点，其实比「折」值钱。
+今年五月，Pura X Max 发布的时候，我写过「阔折叠」还只赢了一半。现在回头看，赢下的那一半就是「阔」，宽屏的体验红利是真的；没赢下的那一半是「折」，铰链的成本、重量和适配，始终横在体验和价格中间。
+Pura X Max 作为今年阔折叠首发产品，同样是华为 Pura 产品线的旗舰代表｜图片来源：极客公园
+Pura X View 干的事，就是把赢了的那一半单独拆出来卖。所以它不是折叠屏的降配版，而是那个需求的原生形态：先有用户这么用，后有华为这么造。产品经理们常把「第一性原理」挂在嘴边，说白了就是回到「用户到底在为什么买单」这个原点。这…]]></summary>
+        <author>
+            <name>极客公园</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[造物 100 #04｜AI 为爱做「鸭」、PLAUD 又推新作、字节 TRAE 造了个数字工牌]]></title>
+        <id>http://www.geekpark.net/news/369556</id>
+        <link href="http://www.geekpark.net/news/369556"/>
+        <updated>2026-08-30T10:58:17.000Z</updated>
+        <summary type="html"><![CDATA[如果给模型安装个身体？你会选择什么。
+这道题过去只属于硬件创业者，这个八月，它摆到了所有软件公司桌上。Hugging Face 交卷一只走路摇摇晃晃的鸭子，OpenAI 正在造自己的智能音箱，字节跳动旗下 TRAE 联名 FoloToy 开始改造自己挂在胸口的工牌。
+很明显，软件公司造硬件的思路完全不同，他们想要的不是好用，而是主动以及可见。我可以看到我的 AI 走出电脑手机屏幕之外，更主动地参与用户生活的其他部分。
+同时，硬件开始越来越便宜了，价格从过去的 799 美元，降低了 40 美元。很多硬件公司不再追求一个高利润的售价，而是选择用更便宜、更易上手、可玩度更高的硬件交给用户，让他们尽快走入自己的生态里，从而能长期收订阅费。
+不仅如此，上一代硬件讲究交付一个定义完整的产品，像 Plaud 刚发的录音耳机，功能边界在出厂前被定义好，用户需要的只是使用。
+但从近期产品展现的创新趋势来看，更多公司反而乐于去造一个半成品，搭好基本的框架，把更多的东西交给用户自己 DIY。这或许也是当下「造物」的另一种表现方式，不需要用户自己再手搓硬件，也能改造出自己想要的东西。放在用户面前的问题，从我要买一个什么样的产品，变成了我需要在哪个硬件壳子上 DIY 更适合我的东西。
+全球成倍增长的 coding 用户，正好是这批半成品第一批正在等的人。
+属于创业者的时间可能不多了，OpenAI 的首款智能音箱据报道已经在路上，Anthropic 刚发布 MHS 标准，提前给 AI 操控物理设备铺好了统一接口。巨头下场之前，这或许是小玩家定义品类的最后窗口。
+以下，是「造物 100」栏目的第「3」期推荐的最新造物：
+开源鸭子机器人 Microduck：Hugging Face 教你用强化学习「养鸭子」
+当波士顿动力的机器狗在跑酷，特斯拉的擎天柱在叠衣服，Hugging Face 默默掏出了一只鸭子，…]]></summary>
+        <author>
+            <name>极客公园</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI 芯片实测跑分揭晓，「为模型造芯片」时代来了]]></title>
+        <id>http://www.geekpark.net/news/369555</id>
+        <link href="http://www.geekpark.net/news/369555"/>
+        <updated>2026-08-30T10:53:09.000Z</updated>
+        <summary type="html"><![CDATA[9 个月之后，OpenAI 的首款芯片成绩单终于揭晓了。
+8 月 25 日，在 Hot Chips 大会上，OpenAI 硬件负责人 Richard Ho 站上讲台，公布了 Jalapeño 芯片的第一份公开跑分。
+
+在 SemiAnalysis 的 InferenceX 基准测试中，这颗 OpenAI 与博通联合打造的推理芯片，在「每用户 token 数」和「每千瓦吞吐量」两项关键指标上，双双超过了当下市面上最先进的推理处理器英伟达 Blackwell 系统。
+具体而言，OpenAI 用 SemiAnalysis 的公开基准工具 InferenceX，在 GPT-OSS 120B、DeepSeek R1 670B 和 Kimi K2.5 1T 三款公开大模型上，与英伟达对测。结果显示，三款模型上，Jalapeño 的峰值每瓦吞吐量是英伟达系统的 1.5 至 1.9 倍，用同样电量 Jalapeño 能多干近一倍的活。
+
+三款模型峰值每千瓦吞吐对比｜图片来源：OpenAI
+低延迟场景差距更大，跑 DeepSeek R1 时，单用户生成速度最高约 700 token/s，而英伟达 GB300 只有约 169 token/秒。换算下来，Jalapeño 的速度是后者的 4.9 倍，意味着用户等待时间缩短了将近四分之三。
+
+Jalapeño 与英伟达 GB300 运行 DeepSeek R1 的吞吐-延迟曲线对比｜图片来源：OpenAI
+「Jalapeño 能够在单位功耗下处理更多 AI 任务，同时还能更快地返回响应。Jalapeño 采用单一架构能完成更高的吞吐量和更低的延迟，而现有硬件系统通常需要在两者之间做出权衡。」OpenAI 在官方博客中这样总结。按计划，这颗芯片 2026 年底才会以「极小规模」部署，真正上量要等到 2027 年。
+但这款芯片的独特之处，不只是跑得更强…]]></summary>
+        <author>
+            <name>极客公园</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI 终止与 Cursor 合作；雷军：2600名小米车主行程超 10 万公里；华纳与索尼起诉 Anthropic，索赔数十亿美元]]></title>
         <id>http://www.geekpark.net/news/369551</id>
@@ -2486,37 +2584,6 @@ iPhone 最高或涨 1350 元，苹果折叠新机起步价将超 13500 元
 Modular 是一家专注于 AI 原生软件基础设施的初创企业，他们的软件平台可帮助开发者在异构计算系统中，部署生成式 AI 和智能体。
 据悉，此次收购将加速高通在 AI 方面的发展进度，如数据中心、边缘基础设施、工业 AI 等。同时帮助 Modular 扩大市场并覆盖更多用户。Modular 对开放异构生态系统的承诺不变，并提供 CPU、GPU 和 NPU 的定制方案。
 Modular 旗下的 Mojo、MAX 和 Modular Cloud 将继续作为产品和品牌运营，并获得高通公司的投资和支持。Modular 联合创始人兼 CEO Chris Lattner 将出任高通技术公司高级 AI 软件与平台执行副总裁。(来源：…]]></summary>
-        <author>
-            <name>极客公园</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seedance 2.5发布，单次视频时长翻倍；美团上线外卖「等灯停表」功能；长鑫科技突破 4 万亿]]></title>
-        <id>http://www.geekpark.net/news/368270</id>
-        <link href="http://www.geekpark.net/news/368270"/>
-        <updated>2026-08-01T00:42:19.000Z</updated>
-        <summary type="html"><![CDATA[DeepSeek-V4-Flash 正式版 API 上线公测，V4-Pro 正式版将「尽快」发布
-7 月 31 日消息，今天（31 日）下午，DeepSeek 通过 API 文档发布日志，宣布 DeepSeek-V4-Flash 正式版 API 上线公测。
-根据介绍，DeepSeek-V4-Flash 的 Agent 能力大幅增强，基准测试远超 V4-Pro-Preview：
-
-Terminal Bench 2.1: 82.7
-NL2Repo: 54.2
-Cybergym: 76.7
-DeepSWE: 54.4
-Toolathlon verified: 70.3
-Agent Last Exam: 25.2
-Automation Bench (Public): 25.1
-DSBench-FullStack: 68.7
-DSBench-Hard: 59.6
-
-
-据悉，正式版 V4-Flash 原生支持 Responses API 格式并针对性适配 Codex。DeepSeek-V4-Flash-0731 的模型结构、尺寸和 DeepSeek-V4-Flash-preview 保持一致，仅重新进行了后训练。（来源：新浪财经）
-
-字节跳动国内推出 Seedance 2.5 视频 AI 模型：单次生成时长 30 秒、突破长叙事能力
-7 月 31 日消息，字节跳动今天（7 月 31 日）发布公告，宣布在国内推出 Seedance 2.5 视频生成模型，可单次生成 30 秒高质量视频片段，陆续上线即梦 AI 与豆包专业版，API 服务也将于近期接入火山方舟。
-
-官方称，Seedance 2.5 延续 Seedance 2.0 统一的多模态音视频联合生成架构，重点提升长叙事、多模态参考和编辑能力。
-该模型面向影视、广告、教育、工业制造、具身智能和自动驾驶等场景，目标是让视频生成从「生成一个…]]></summary>
         <author>
             <name>极客公园</name>
         </author>
