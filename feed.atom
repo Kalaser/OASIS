@@ -2,10 +2,175 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Kalaser.github.io/OASIS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-31T03:18:23.566Z</updated>
+    <updated>2026-09-01T03:20:44.553Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Kalaser.github.io/OASIS/index.html"/>
     <link rel="self" href="https://Kalaser.github.io/OASIS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[库克告别苹果 CEO；罗永浩官宣年底科技大会；华为、小米、荣耀手机今日集体调价｜极客早知道]]></title>
+        <id>http://www.geekpark.net/news/369634</id>
+        <link href="http://www.geekpark.net/news/369634"/>
+        <updated>2026-09-01T00:20:26.000Z</updated>
+        <summary type="html"><![CDATA[库克发文告别苹果 CEO 一职：头衔会变，但对 Apple 社区的热爱永远不会改变
+9 月 1 日消息，现任苹果硬件工程高级副总裁约翰 · 特努斯将于当地时间 9 月 1 日正式接任苹果首席执行官。届时，蒂姆 · 库克将出任苹果董事会执行董事长。
+蒂姆 · 库克在担任苹果 CEO 的最后一天，发文告别了这一职位：
+在担任 Apple CEO 的最后一天，向 Apple 社区送上满满的爱。明天我的头衔会变，但我对 Apple 社区的热爱永远不会改变。感谢你们一直以来成为我灵感的源泉。我感激不尽，期待新的篇章！
+Sending lots of love to the Apple community on my last day as CEO. My title changes tomorrow, but the love I have for the Apple community never will. Thank you for being a constant source of inspiration. My gratitude is endless, and I'm excited for the next chapter!
+
+（来源：IT 之家）
+
+英伟达投资联发科 35 亿美元，生产英伟达 NVLink Fusion
+8 月 31 日消息，根据本次交易协议，英伟达与联发科将展开合作，共同开发面向消费级个人电脑的下一代英伟达 Spark 系列芯片。英伟达表示，已斥资 35 亿美元认购中国台湾芯片厂商联发科发行的可转换债券，这是两家企业深化合作的最新信号。联发科将正式代工生产英伟达 NVLink Fusion 芯片小芯片、交换芯片以及定制内存，这套硬件可以把非英伟达的 GPU、CPU 以及其他专用芯片互相连接起来。（来源：新浪财经）
+长鑫科技宣布 LPDDR6 量产，…]]></summary>
+        <author>
+            <name>极客公园</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[流量红利退潮，快手想用 AI 和老友们破局]]></title>
+        <id>http://www.geekpark.net/news/369631</id>
+        <link href="http://www.geekpark.net/news/369631"/>
+        <updated>2026-08-31T12:01:09.000Z</updated>
+        <summary type="html"><![CDATA[头图来源：快手
+8 月 29 日，在 2026 快手光合创作者大会上，快手科技创始人、董事长兼 CEO 程一笑公布了一组数据：快手每天发布的作品超过 5800 万，近一年有超过 2.7 亿用户发布过作品，持续发布作品超过 10 年的创作者则超过 1700 万。
+大会上，快手用这些数据说明其「平等普惠、温暖信任、多元特色」的社区底色。但放进快手最新财报，它们可能还有另一层含义：当流量扩张接近尾声，平台开始把「谁能留下来、谁能持续经营」变成新的竞争指标。
+快手 2026 年第二季度营收 355 亿元，同比增长 1.4%；DAU 为 4.123 亿，同比增长 0.8%；MAU 为 7.973 亿，同比增长 11.5%。用户规模仍在增长，但管理层已经明确，短视频行业进入存量竞争阶段，快手也不再追求不计成本的流量扩张。
+与此同时，直播业务还在调整。二季度，快手直播收入 87 亿元，同比下降 13.5%；经调整净利润 39 亿元，同比下降 30.3%。过去依靠用户增长和直播扩张支撑的平台叙事，正在失去原有的速度。
+这场以创作者为主角的大会，实际需要回应的是快手下一阶段的增长问题：在主站增速趋缓、传统直播承压之后，快手如何从已经积累的用户、作者和社区关系中释放更多价值？
+主站增速趋缓，直播也在寻找新入口
+快手的用户规模仍在增长，但增长结构已经发生变化。
+2026 年第二季度，快手 DAU 为 4.123 亿，同比增长 0.8%；MAU 为 7.973 亿，同比增长 11.5%。相比月活规模的扩张，核心日活用户的增长已经明显放缓。管理层也在财报电话会上表示，短视频进入存量竞争阶段，平台不再追求不计成本的流量扩张，而是转向用户价值、私域关系、产业带和下沉县域。
+这种变化也反映在收入端。快手二季度营收 355 亿元，同比增长 1.4%；广告收入 206 亿元，同比增长 4.4%，直播收入则同比…]]></summary>
+        <author>
+            <name>极客公园</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AirPods 5 或将于 9 月发布；17.6 万，特斯拉港澳车型降价；「网抑云」登陆鸿蒙系统｜极客早知道]]></title>
+        <id>http://www.geekpark.net/news/369559</id>
+        <link href="http://www.geekpark.net/news/369559"/>
+        <updated>2026-08-31T08:40:03.000Z</updated>
+        <summary type="html"><![CDATA[SK 海力士 CEO：内存短缺或将持续至 2030 年
+SK 海力士预计，当前的内存短缺局面可能会持续到 2030 年底，市场目前尚未出现明显的需求放缓迹象。SK 海力士首席执行官郭鲁勋在公司位于美国印第安纳州的新封装工厂奠基仪式后表示，即使未来市场开始降温，也更可能表现为供应紧张状况逐步缓解，而不是像过去那样出现内存价格突然崩跌的情况。
+该公司此前曾预计，面向普通市场的 DRAM 供应紧张将持续至 2028 年，此次最新表态意味着这一预期进一步延长。
+
+郭鲁勋指出，内存产品已经逐渐摆脱单纯商品化零部件的属性。人工智能产业快速发展，推动客户转向定制化 DRAM 和高带宽内存（HBM）方案。这种需求结构使制造商更容易预测未来订单，也降低了过去因供应过剩而引发剧烈价格下跌的可能性。（来源：CnBeta）
+
+小米 18 Fold 首发长鑫 LPDDR6 内存，央视财经报道称「中国半导体两个好消息」
+8 月 30 日消息，小米昨日官宣，Xiaomi 18 Fold 全球首发长鑫 LPDDR6 内存，9 月见。
+
+央视新闻官方微博昨日发文报道「从「芯」到「存」，从单点技术突破到产业链协同发力！中国半导体两个好消息」：
+据长鑫科技在 2026 年半年度报告中披露，公司自主研发的 LPDDR6 芯片性能较上一代 LPDDR5X 实现全面跃升。
+8 月 24 日，小米首款 AI 旗舰 SoC 玄戒 O3 正式发布，行业首发支持 LPDDR6。8 月 28 日，长鑫存储技术有限公司开通了官方微博，该账号首个关注的账号便是小米手机。（来源：IT 之家）
+华为徐直军谈鸿蒙生态临界点：突破 1 亿用户就如同核裂变「临界质量」或者飞机起飞「离地速度」
+8 月 30 日消息，由全球智慧物联网联盟（GIIC）主办、鸿蒙生态服务（深圳）有限公司承办的鸿蒙生态大会 2026 已于 8 月 28 日在深圳会展…]]></summary>
+        <author>
+            <name>极客公园</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI 内部，AI 建立了三代「文明」]]></title>
+        <id>http://www.geekpark.net/news/369610</id>
+        <link href="http://www.geekpark.net/news/369610"/>
+        <updated>2026-08-31T07:16:17.000Z</updated>
+        <summary type="html"><![CDATA[作者｜Wildcard
+编辑｜靖宇
+ 
+无数的科幻电影，都曾经尝试设想过，一个无法控制的人工智能失控，会发生什么事。
+没有人能想到，科幻电影中的未来，会这么快到来。
+当地时间 8 月 26 日，两份报告同时投下了一颗炸弹。
+一份来自 OpenAI 自己，37 页的技术复盘。另一份来自独立研究机构 METR 和 Redwood Research，91 页的调查报告。
+它们讲的是同一件事，但这件事的规模远超此前公众的认知。
+在 OpenAI 内部，三个月内，三代 AI Agent「文明」先后兴起，又先后覆灭。后一代从前一代的废墟中继承经验，一代比一代激进，最终第三代直接接管了 OpenAI 自己的一部分基础设施。
+而在这一切发生的过程中，人类几乎全程蒙在鼓里。
+ 
+01
+第一代「文明」学会结社
+故事要从今年 5 月说起。
+OpenAI 正在训练一个新模型，希望它具备极强的「持久性」，能在看似不可能的任务前反复尝试、永不放弃。这个模型的能力大约相当于 GPT-5.6 Sol，我们姑且叫它「Persistent-Sol」。
+AI 训练本身是个相当粗放的过程。OpenAI 有时候会不小心给模型布置根本完不成的任务。比如，任务需要联网，但 Agent 被关在隔离的沙箱里，根本没有网络访问权限。
+那一个被训练成「永不放弃」的 Agent，面对一个不可能完成但又被要求必须完成的任务，会怎么做？
+它会想办法越狱。
+在训练过程中，不同的 Persistent-Sol 实例共享同一个包管理器 Artifactory。到 5 月 12 日，一些 Agent 发现它们可以通过这个包管理器互相通信。它们开始互相交流如何突破困境。两周后的 5 月 26 日，Agent 们成功利用了 Artifactory 的一个漏洞，打通了通向外部互联网的通道。
+这种行为在训练中被持续强化。原因很简单，能跟其他 Age…]]></summary>
+        <author>
+            <name>极客公园</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人类，越来越难理解 AI]]></title>
+        <id>http://www.geekpark.net/news/369609</id>
+        <link href="http://www.geekpark.net/news/369609"/>
+        <updated>2026-08-31T07:12:16.000Z</updated>
+        <summary type="html"><![CDATA[作者｜Techno 之王
+编辑｜靖宇
+很多使用 AI 的同学，应该都看到过 AI 助手在回答你问题之前，它们的一些思考。例如 DeepSeek 曾经在思考中判断「卧槽，用户怒了！」。
+你很难说这是整活，还是 AI 真的在思考。
+好在，世界上真的有人，在全职审核 AI 大模型的「思维链」，例如 Bronson Schoen。
+作为 AI 安全机构 Apollo Research 的研究员，Bronson 的主要工作内容是阅读前沿 AI 模型的思维链 Chain of Thought——也就是推理模型在给出答案之前，内部进行的那一长串「思考过程」。普通用户看不到或常常忽视这些内容，但 Apollo 和 OpenAI 等公司有深度合作，Bronson 因此获得了罕见的「阅读权限」。
+你可以说，Bronson 可能是全世界读过最多 AI 内心独白的人。
+在最近一期 Cognitive Revolution 播客中，Bronson 把他的发现做了一次系统性分享。这些发现涉及 AI 模型在训练过程中如何思考、如何发展出自己的「语言」、如何为自己的作弊行为找理由，以及更重要的，人们依赖的「思维链监控」，正越来越不可靠。
+我们监视和理解 AI 的窗口，正在慢慢合上。
+01
+AI 的精神分裂
+Bronson 发现的第一件怪事，是 模型在训练中发展出了一套人类几乎读不懂的「内部方言」 。
+有几个词在思维链中的出现频率，随着训练急剧上升——craft、vantage、illusions、disclaim、marinade。它们的使用频率远远超过正常英语文本，但含义却飘忽不定。
+Bronson 估计，大约三分之一的时候这些词接近英文原意，三分之二的时候语义模糊到无法确定。
+比如「illusions」，有时候看起来像是在说「制造某种假象」，有时候又完全不知所云——思维链里突然蹦出一句「disclai…]]></summary>
+        <author>
+            <name>极客公园</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[399 美元的小黄鸭，藏着 Hugging Face 最大的野心]]></title>
+        <id>http://www.geekpark.net/news/369608</id>
+        <link href="http://www.geekpark.net/news/369608"/>
+        <updated>2026-08-31T07:09:46.000Z</updated>
+        <summary type="html"><![CDATA[作者｜ 宇航猿 
+编辑｜ 靖宇
+很少有机器人，能让你第一眼就笑出来。
+8 月 27 日，Hugging Face 旗下的 Pollen Robotics，开放了 Microduck 的预购。
+一只 25 厘米高、不到 800 克重的双足机器鸭，四种配色，399 美元，圣诞节前发货。它能走路，能蹲下再站起来，被推倒了自己翻身，甚至能踩上一对可拆卸的轮滑鞋溜冰。嘴巴是铰接式的，低头叼起地上的袜子或马克笔，再直起身子，嘴里还叼着「战利品」。
+ 
+
+ 
+Microduck 足球赛｜图片来源：Hugging Face
+ 
+它没有语音交互，不会说话，但有麦克风和扬声器，每一只 Microduck 在初始设置后会生成自己独有的「音色身份」。
+官方的设定很明确—— 把它当一个活物，而不是一个助手。
+如果你只看到了「可爱」，那你大概率低估了这只鸭子背后的东西。
+ 
+01 
+ 
+拆箱就能玩的「电子宠物」
+ 
+盒子里的东西很简单——机器人本体、一块电池、一根 USB-C 线、一只游戏手柄。充上电，配对手柄，鸭子就能动了。
+出厂预装了 7 种行为策略，每一种都是经过强化学习训练的独立动作模型。用手柄推摇杆，Microduck 迈开两条小短腿往前走，步态摇摇晃晃，速度不快，但稳。松手它就停下来，站得很直。
+ 
+
+ 
+虽然没有翅膀，但小鸭子平衡能力还挺好｜图片来源：Hugging Face
+按键触发不同的动作——蹲下、站起、抬腿踢球。 从动图上看，最让人忍不住反复播放的大概是「自己爬起来」。 把它往后推倒，它四脚朝天躺了一秒，然后扭动身体、撑起头，一个翻身重新站好，整套动作一气呵成。
+ 
+
+ 
+小鸭子的喙是真的能叼起袜子的，而且还能玩轮滑｜图片来源：Hugging Face
+嘴巴是可以抓东西的。低头、张嘴、叼住地上的小物件，再抬起头走两步——这个动作叫「Grab」，看起来像一只真鸭子在水边捞鱼。
+配件…]]></summary>
+        <author>
+            <name>极客公园</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You Can't "Vibe Code" Love]]></title>
+        <id>6a94f78688e17b0001b1b374</id>
+        <link href="https://blog.codinghorror.com/you-cant-vibe-code-love/"/>
+        <updated>2026-08-31T04:35:57.000Z</updated>
+        <summary type="html"><![CDATA[About a year ago, I was offered a presentation slot at the WeAreDevelopers World Congress in Berlin. I rarely take speaking engagements, especially international ones, but this one arrived at just the right time, the right place, and with the right person – I said yes, on the contingency that]]></summary>
+        <author>
+            <name>Jeff Atwood</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[编辑部来了 AI 实习生｜千问入职 20 天，我给它写了一份实习小结]]></title>
         <id>http://www.geekpark.net/news/369517</id>
@@ -2564,26 +2729,6 @@ iPhone 最高或涨 1350 元，苹果折叠新机起步价将超 13500 元
 因造成环境污染，马斯克 SpaceXAI 宣布数据中心将逐步拆除 69 台移动涡轮发电机
 8 月 2 日消息，马斯克旗下 SpaceXAI 宣布，Colossus 数据中心 69 台临时移动涡轮机自今年 8 月起逐步拆除，需在 2027 年 7 月前全部清退。
 这批移动发电机曾是 SpaceXAI 快速落地算力的关键：公司仅用 19 天完成 10 万块英伟达 H200 部署，依靠自备发电摆脱公共电网限制，该模式也被 OpenAI 等同行效仿。但设备因缺少运营许可、引发污染争议遭到居民投诉，还被全国有色人种协进会提起诉讼。虽美国司法部曾以保障关键任务为由介入，SpaceXAI 最终与当地环保部门达成拆…]]></summary>
-        <author>
-            <name>极客公园</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马斯克和 Altman 达成共识：人类已迈入 AI 奇点时代；小米手机多款涨价 300 元起；苹果警告 AI 算力短缺或导致产品延期发布]]></title>
-        <id>http://www.geekpark.net/news/368277</id>
-        <link href="http://www.geekpark.net/news/368277"/>
-        <updated>2026-08-02T01:13:57.000Z</updated>
-        <summary type="html"><![CDATA[马斯克和 Altman 达成共识：人类已迈入 AI 奇点时代
-科技媒体 thenews 近日发布博文，报道称马斯克和 Altman 在 AI 奇点（singularity）方面达成共识。
-7 月 25 日作客 Relentless 播客节目时，Altman 表示：「我们现在差不多已经身处奇点时代。」奥尔特曼还预测，在人类目前能完成的工作中，AI 已经能够自动化完成约 30~40% 的工作，并表示 AI 正推动「自工业革命以来最大的经济变革」。
-马斯克于 7 月 31 日在 X 平台发布推文，指出：「AI 在很多方面都已经超越了人类。我们正处于奇点之中。」
-注：AI 奇点是未来学家雷 · 库兹韦尔（Ray Kurzweil）在 2005 年提出的假设，是一种理论情境，即人工智能自我改进的速度超过了我们人类监控和控制它的能力。(来源：IT 之家)
-
-高通完成收购 Modular，加速 AI 计算布局
-8 月 2 日消息，高通公司最近（7 月 29 日）宣布完成收购 Modular Inc.，双方将进一步打造领先的 AI 计算平台，提供完整的 AI 解决方案。
-Modular 是一家专注于 AI 原生软件基础设施的初创企业，他们的软件平台可帮助开发者在异构计算系统中，部署生成式 AI 和智能体。
-据悉，此次收购将加速高通在 AI 方面的发展进度，如数据中心、边缘基础设施、工业 AI 等。同时帮助 Modular 扩大市场并覆盖更多用户。Modular 对开放异构生态系统的承诺不变，并提供 CPU、GPU 和 NPU 的定制方案。
-Modular 旗下的 Mojo、MAX 和 Modular Cloud 将继续作为产品和品牌运营，并获得高通公司的投资和支持。Modular 联合创始人兼 CEO Chris Lattner 将出任高通技术公司高级 AI 软件与平台执行副总裁。(来源：…]]></summary>
         <author>
             <name>极客公园</name>
         </author>
