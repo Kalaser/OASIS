@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Kalaser.github.io/OASIS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-01T03:20:44.553Z</updated>
+    <updated>2026-09-02T02:38:38.905Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Kalaser.github.io/OASIS/index.html"/>
     <link rel="self" href="https://Kalaser.github.io/OASIS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[苹果新 CEO 首次「发声」；网传抖音发生「推荐算法错乱」；Claude Fable 5.1 正式上线]]></title>
+        <id>http://www.geekpark.net/news/369690</id>
+        <link href="http://www.geekpark.net/news/369690"/>
+        <updated>2026-09-02T00:13:21.000Z</updated>
+        <summary type="html"><![CDATA[​
+苹果新任 CEO 约翰·特努斯在 X 平台发布首条动态向关注者问好
+苹果首席执行官约翰·特努斯正式加入社交平台 X，并发布了个人账号的首条动态。正如外界预料的那样，这条仅有「hello」五个字母的简短消息迅速获得大量关注。苹果历任首席执行官通常都具备一定的社交属性，而在当代，这往往也意味着拥有社交媒体账号。因此，随着特努斯正式接任苹果掌舵人，他也开设了自己的 X 账号。
+目前，账号 @johnternus 已经上线，并在特努斯担任苹果首席执行官的首个正式工作日公开亮相。根据账号资料显示，该账号早在 2026 年 6 月便已私下创建，但目前只发布过一条动态，内容是全部使用小写字母书写的「hello」。
+尚不清楚特努斯是在谨慎尝试进入社交媒体，还是有意借鉴苹果在用户启用新设备时使用问候语的传统。考虑到他此前几乎没有社交媒体活动记录，这两个原因可能兼而有之。
+这条只有五个字母的动态，在发布后极短时间内便为账号带来了巨大关注。截至报道发布时，这条动态上线约 35 分钟，已经获得约 74.8 万次浏览、3.1 万次点赞、3600 次转发和 5000 条评论。（来源：cnBeta）
+
+谷歌发布 TimesFM-3，3.3 亿参数即可进行零样本多变量时间序列预测
+9 月 1 日消息，谷歌发布 TimesFM-3 模型，这是该公司时间序列基础模型系列的第三代产品。拥有原生多变量预测、双注意力机制、连续补丁掩码等特性，可进行零样本多变量时间序列预测。
+据了解，TimesFM-3 拥有 3.3 亿个参数，并在包含超 1 万亿个时间点的真实世界和合成时间序列语料库进行预训练。TimesFM-3 继承前代的高效性和零样本泛化能力，以零样本形式增强复杂多元场景支持。
+同时，该模型可联合预测多个共同演化的时间序列，捕捉其中的依赖关系，提升整体准确率，无需针对特定任务微调，该模型原生支持特性如下：多…]]></summary>
+        <author>
+            <name>极客公园</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[库克告别苹果 CEO；罗永浩官宣年底科技大会；华为、小米、荣耀手机今日集体调价｜极客早知道]]></title>
         <id>http://www.geekpark.net/news/369634</id>
@@ -2710,25 +2730,6 @@ iPhone 最高或涨 1350 元，苹果折叠新机起步价将超 13500 元
 
 在古尔曼看来，最近几周 iPad 和 Mac 的涨价情况已经为外界提供了一些参考方向。
 6 月 25 日，苹果宣布全球范围内上调 Mac、iPad 全系硬件定价，覆盖 MacBook 全系列、iPad 全系、Mac 桌面设备、Vision Pro 与 H…]]></summary>
-        <author>
-            <name>极客公园</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[内存奇缺，Macbook Air 或缺货；智元母公司推《魔兽世界》机器人；微信地震预警上线新功能]]></title>
-        <id>http://www.geekpark.net/news/368278</id>
-        <link href="http://www.geekpark.net/news/368278"/>
-        <updated>2026-08-03T00:13:32.000Z</updated>
-        <summary type="html"><![CDATA[AI 产业扩张引发内存芯片短缺，消息称苹果 MacBook Air 笔记本出现供应紧张局面
-8 月 3 日消息，据彭博社记者马克 · 古尔曼（Mark Gurman）报道，全球内存芯片短缺正在影响苹果 Mac 产品供应，其中受消费者欢迎的 MacBook Air 正面临库存压力。
-古尔曼表示，此次内存短缺主要受到 AI 产业快速扩张影响。随着人工智能企业大量采购高性能存储芯片，挤压了消费电子市场供应，苹果旗下部分产品已经受到影响。
-此前，用户基数更少的 Mac mini 和 Mac Studio 已经出现供应限制，而如今这一问题正在扩展至销量更高的 MacBook Air。目前，通过苹果官网购买 MacBook Air，部分型号预计需要等待至 8 月下旬才能发货，部分特殊配置甚至要等到 9 月。同时多家第三方零售商也声称，目前 MacBook Air 库存情况比以往更加紧张。
-值得注意的是，今年苹果返校季宣传材料也首次明显减少对 MacBook Air 的强调，转而突出基础款 MacBook Pro，并特别标注「MacBook Air 视供应情况而定」。（来源：IT 之家）
-
-
-因造成环境污染，马斯克 SpaceXAI 宣布数据中心将逐步拆除 69 台移动涡轮发电机
-8 月 2 日消息，马斯克旗下 SpaceXAI 宣布，Colossus 数据中心 69 台临时移动涡轮机自今年 8 月起逐步拆除，需在 2027 年 7 月前全部清退。
-这批移动发电机曾是 SpaceXAI 快速落地算力的关键：公司仅用 19 天完成 10 万块英伟达 H200 部署，依靠自备发电摆脱公共电网限制，该模式也被 OpenAI 等同行效仿。但设备因缺少运营许可、引发污染争议遭到居民投诉，还被全国有色人种协进会提起诉讼。虽美国司法部曾以保障关键任务为由介入，SpaceXAI 最终与当地环保部门达成拆…]]></summary>
         <author>
             <name>极客公园</name>
         </author>
