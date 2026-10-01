@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Kalaser.github.io/OASIS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-30T03:46:54.217Z</updated>
+    <updated>2026-10-01T03:53:38.882Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Kalaser.github.io/OASIS/index.html"/>
     <link rel="self" href="https://Kalaser.github.io/OASIS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[从数据到智能，再到进化：Agent正在重写AI基础设施]]></title>
+        <id>http://www.geekpark.net/news/372065</id>
+        <link href="http://www.geekpark.net/news/372065"/>
+        <updated>2026-10-01T03:21:33.000Z</updated>
+        <summary type="html"><![CDATA[一个工程师写完数据处理代码，点下提交，然后去喝了杯咖啡。十几分钟甚至几十分钟之后，他才回到屏幕前看结果、改代码、再提交。这条「等待— 反馈」的空隙，过去一直是数据平台默认的节奏。
+Agent 没有这个空隙。它拿到一次结果，立刻验证，紧接着并发地去试第二种、第三种方案，飞快拿到反馈，再发起下一轮调用。
+人用平台，发过来的是一个相对确定的任务，算完、给结果、走人；Agent 用平台，会不停地换着法子去完成你交代的那个目标。压力就这样被放大了—— 管控的压力和隐形计算的压力，会十倍、百倍地往上翻。
+这正在成为 2026 年云计算需要面对的一种新负载。
+AI 正在深入「把模型用起来」的阶段。模型一旦长成 Agent，它就不再是一个躺在那里等你调用的接口，而更像一个会自己找数据、自己拆任务、自己并发试错、自己一直跑下去的数字员工。它制造出来的负载，和过去十几年云平台习惯承载的那种负载，完全是两回事。
+阿里云智能集团首席技术官李飞飞在云栖大会上把智能体落地拆成三个词：Model 决定智能的上限，Context 决定 Agent 读不读得懂你的业务，Harness 决定它能不能真正调起工具、把事做完、并且一直跑下去。想同时喂饱这三样，光把一个模型做大做强，远远不够。
+数据流动起来产生智能，智能以 Agent 的形态落进业务，业务跑起来又产生新的数据和新负载，回过头再推着整个系统往前走。飞轮转得快不快，取决于三件事—— 模型生产的效率、智能落地的效率、系统自我进化的效率。
+今年云栖大会上，阿里云做的事，就是沿着这三个效率，把从数据入湖、训练集生产、模型训练、推理服务，一直到系统自己优化自己的整条链路，一次性升级了一遍。
+贯穿这些升级的，是阿里云所强调的「芯云模一体」：让芯片、云平台与模型逐渐走向协同设计，打通从原始数据到业务决策的全栈。
+当模型走进真实世界，数据先成了瓶颈
+AI 进入物理世…]]></summary>
+        <author>
+            <name>极客公园</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌 Gemini 4 Argon 曝光；中国生成 AI 用户超 7 亿；美光 2026 财年净利暴涨 895%]]></title>
+        <id>http://www.geekpark.net/news/372064</id>
+        <link href="http://www.geekpark.net/news/372064"/>
+        <updated>2026-10-01T00:28:44.000Z</updated>
+        <summary type="html"><![CDATA[苹果即将发布「智能家居中枢」新品
+据彭博社报道，苹果公司计划于 10 月 13 日推进其拖延已久的智能家居市场布局，这是该公司在新任 CEO 约翰·特努斯领导下的一次关键产品扩张。
+据知情人士透露，该战略的核心是一款代号为 J490 的智能家居中枢设备。该设备将采用大约 6 英寸的方形显示屏设计，提供可安装在墙上或放置在台面上的版本。
+按照苹果的设想，用户会在家中多处放置多台这种显示屏。它们可用于控制恒温器、门锁和其他联网产品，也可用于视频通话、对讲式沟通、播放音乐，以及查看存储在苹果 iCloud 服务中的照片幻灯片。
+苹果还把这台设备视为厨房里的通信和信息中枢，用户可以在做饭时通过语音查询菜谱、观看视频或拨打 FaceTime 通话。
+同时，报道称苹果也计划宣布 HomePod mini 自 2020 年首次亮相以来的首次更新，以及自 2022 年以来的首款新电视机顶盒。（来源：凤凰网科技）
+
+谷歌 Gemini 4 Argon 登场，长周期代码工程测试超 Opus 5.5
+
+当地时间 9 月 30 日，谷歌发布 Gemini 4 Argon，称其为公司迄今最先进的 AI 模型，但目前并未面向公众全面开放。
+定位方面，Gemini 4 Argon 的重点是长流程软件工程、企业知识工作和网络安全防御。官方称其在真实世界软件工程测试创纪录，网络安全基准并列第一，并在金融、法律等专业任务基准领先。
+模型特性方面，Gemini 4 Argon 单次输出上限达到约 100 万 tokens，高于此前的 64,000 tokens，适合处理大型代码库、长文档和多阶段任务。
+新模型在某些编码和知识工作基准测试中处于最先进水平，在多个方面都优于竞争对手 OpenAI 的前沿模型 GPT-6 Astra。（来源：IT 之家）
+ 
+快手高管调整：创始人程一笑兼任社区负责人，原社区负责人转任…]]></summary>
+        <author>
+            <name>极客公园</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI 推出个人 AI 智能体 dots；传豆包将推个人 AI 产品「Spell」；SpaceX 发射星舰成功入轨 | 极客早知道]]></title>
         <id>http://www.geekpark.net/news/372005</id>
@@ -3483,26 +3527,6 @@ Violoop 的 CEO 何佳霖 是一位连续创业者，毕业于 UC San Diego 的 
 9 月 1 日消息，谷歌发布 TimesFM-3 模型，这是该公司时间序列基础模型系列的第三代产品。拥有原生多变量预测、双注意力机制、连续补丁掩码等特性，可进行零样本多变量时间序列预测。
 据了解，TimesFM-3 拥有 3.3 亿个参数，并在包含超 1 万亿个时间点的真实世界和合成时间序列语料库进行预训练。TimesFM-3 继承前代的高效性和零样本泛化能力，以零样本形式增强复杂多元场景支持。
 同时，该模型可联合预测多个共同演化的时间序列，捕捉其中的依赖关系，提升整体准确率，无需针对特定任务微调，该模型原生支持特性如下：多…]]></summary>
-        <author>
-            <name>极客公园</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[库克告别苹果 CEO；罗永浩官宣年底科技大会；华为、小米、荣耀手机今日集体调价｜极客早知道]]></title>
-        <id>http://www.geekpark.net/news/369634</id>
-        <link href="http://www.geekpark.net/news/369634"/>
-        <updated>2026-09-01T00:20:26.000Z</updated>
-        <summary type="html"><![CDATA[库克发文告别苹果 CEO 一职：头衔会变，但对 Apple 社区的热爱永远不会改变
-9 月 1 日消息，现任苹果硬件工程高级副总裁约翰 · 特努斯将于当地时间 9 月 1 日正式接任苹果首席执行官。届时，蒂姆 · 库克将出任苹果董事会执行董事长。
-蒂姆 · 库克在担任苹果 CEO 的最后一天，发文告别了这一职位：
-在担任 Apple CEO 的最后一天，向 Apple 社区送上满满的爱。明天我的头衔会变，但我对 Apple 社区的热爱永远不会改变。感谢你们一直以来成为我灵感的源泉。我感激不尽，期待新的篇章！
-Sending lots of love to the Apple community on my last day as CEO. My title changes tomorrow, but the love I have for the Apple community never will. Thank you for being a constant source of inspiration. My gratitude is endless, and I'm excited for the next chapter!
-
-（来源：IT 之家）
-
-英伟达投资联发科 35 亿美元，生产英伟达 NVLink Fusion
-8 月 31 日消息，根据本次交易协议，英伟达与联发科将展开合作，共同开发面向消费级个人电脑的下一代英伟达 Spark 系列芯片。英伟达表示，已斥资 35 亿美元认购中国台湾芯片厂商联发科发行的可转换债券，这是两家企业深化合作的最新信号。联发科将正式代工生产英伟达 NVLink Fusion 芯片小芯片、交换芯片以及定制内存，这套硬件可以把非英伟达的 GPU、CPU 以及其他专用芯片互相连接起来。（来源：新浪财经）
-长鑫科技宣布 LPDDR6 量产，…]]></summary>
         <author>
             <name>极客公园</name>
         </author>
