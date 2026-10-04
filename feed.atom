@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Kalaser.github.io/OASIS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-03T03:35:46.080Z</updated>
+    <updated>2026-10-04T04:05:19.944Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Kalaser.github.io/OASIS/index.html"/>
     <link rel="self" href="https://Kalaser.github.io/OASIS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[苹果确认美版 iPhone 18 Pro Max 有问题；OpenAI 每天烧超 50 万美元查 AI 入侵事故；求职者吐槽 AI 面试「恐怖谷」上热搜｜极客早知道]]></title>
+        <id>http://www.geekpark.net/news/372073</id>
+        <link href="http://www.geekpark.net/news/372073"/>
+        <updated>2026-10-04T00:33:38.000Z</updated>
+        <summary type="html"><![CDATA[苹果确认：美版 iPhone 18 Pro Max 有问题
+北京时间 10 月 3 日，彭博社报道称，苹果公司表示，AT&T 的问题已导致部分 iPhone 18 Pro Max 用户无法拨打电话、访问数据或在联网时收发短信。目前尚不清楚有多少人遇到此问题。受影响的用户发现，除非连接到 Wi-Fi 网络，否则他们的设备基本无法使用。
+苹果公司已发布运营商设置更新，并推出了 iOS 操作系统的新版本 27.0.1，以防止该问题进一步蔓延。运营商设置修复程序将在未来 14 天内自动为 AT&T 用户下载，但苹果仍建议消费者立即安装任何可用的软件更新。
+苹果发言人在提供给彭博社的一份声明中表示：「我们已发现一个影响少数 AT&T 网络 iPhone 18 Pro Max 用户的故障，可能导致设备失去服务并无法拨打电话。」报道称，对于已经受到影响的用户，唯一的解决办法是更换手机，使用苹果或 AT&T 提供的新设备。
+报道提到，在美国销售的 iPhone 18 Pro Max 与其他新款机型有一点不同：它搭载的是由高通公司制造的蜂窝基带。包括较小的 iPhone 18 Pro 在内的所有其他版本，均配备苹果自研的 C2 基带。根据用户报告，只有 iPhone 18 Pro Max 受到了 AT&T 这一漏洞的影响。（来源：新浪科技）
+
+英伟达 Vera Rubin NVL72 跑出 4.8 倍 Token 吞吐
+AI 云服务商 CoreWeave 近日宣布，英伟达 Vera Rubin NVL72 系统已在 CoreWeave Cloud 正式投入生产，AI 软件公司 Cognition 成为首个在该平台运行生产工作负载的客户。
+Cognition 在 Vera Rubin NVL72 上运行 SWE-2 推理任务，实测总 Token 吞吐量较 GB200 NVL72 提升高达 4.…]]></summary>
+        <author>
+            <name>极客公园</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英伟达股价创新高，逼近 6 万亿美元；限制 AI 助手，苹果收紧 MacOS 磁盘访问权限；arXiv 每人每月仅允许投递 2 篇论文]]></title>
         <id>http://www.geekpark.net/news/372070</id>
@@ -3163,158 +3181,6 @@ AI 安全非营利组织 Nightingale 的 CEO Sydney Von Arx，和量化交易员
 Anthropic：Claude 仅用 11 天完成费马大定理首个完整计算机验证证明
 Anthropic 于当地时间 9 月 4 日宣布，其 AI 模型 Claude 在基本自主运行 11 天后，完成了对费马大定理（FLT）的首个端到端、经过计算机检查的形式化证明。
 Anthropic 表示，这项工作并非重新发现费马大定理的数学证明，而是将已有数学证明转换为 Lean 证明助…]]></summary>
-        <author>
-            <name>极客公园</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-6 曝光， OpenAI 总裁说：AGI 来了]]></title>
-        <id>http://www.geekpark.net/news/369867</id>
-        <link href="http://www.geekpark.net/news/369867"/>
-        <updated>2026-09-04T09:47:40.000Z</updated>
-        <summary type="html"><![CDATA[作者｜桦林舞王
-编辑｜靖宇
-他措辞很谨慎，用的是第一人称，加了「可能」，还专门留了后路说「如果你想说这是第一个，我认为这是合理的」。
-这不是 OpenAI 官方宣布 AGI 到来，而是一位公司总裁在镜头前说出了自己的判断。
-当地时间 9 月 3 日，GPT-6 Astra 正式发布。极客公园拆解了目前能获取到的所有技术细节和演示材料，试图回答一个最核心的问题，这个模型，到底能干什么，能干到什么程度？它真的能代表 AGI 的到来吗？
-01
-「操控电脑」趋于神话
-在发布材料里，OpenAI 给 Astra 起了个简洁的 slogan：「Anything you can do on a computer, Astra can do for you.（你在电脑上能做的任何事，Astra 都能替你做。）」
-这不是夸张的营销话术，而是方向声明。
-过去几年 AI 操控电脑的主流路径是调用 API。软件开发商先写好接口，AI 再通过接口完成操作。这套逻辑本质上要求每一款软件都专门适配 AI，否则 AI 就无能为力。
-Astra 走了一条完全不同的路：它像人一样，直接「看」屏幕上的像素，然后移动鼠标、敲击键盘，完成操作。
-这个区别的意义在于覆盖范围。KiCad（印刷电路板设计软件）不会为 AI 写 API，FreeCAD 不会，公司内部那套用了十年的老 ERP 系统更不会。但如果 AI 能看屏幕直接操作，这些软件它全都能用——就像一个刚入职的员工，不需要了解软件背后的代码，只需要能看懂界面。
-OpenAI 在发布材料中展示了几个具体案例，可以感受一下「操控电脑」落地之后是什么样的。
-
-GPT-6 Astra 自己完成了 PCB 板布局和走线｜图片来源：OpenAI
-给 Astra 一张电路原理图，它在 KiCad 里完成了元器件布局和铜线走线，整个过程用时 2 分 54 秒。另一个演示是三维…]]></summary>
-        <author>
-            <name>极客公园</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对话 Sharpa 李一帆：通用机器人要么全能，要么无能]]></title>
-        <id>http://www.geekpark.net/news/369851</id>
-        <link href="http://www.geekpark.net/news/369851"/>
-        <updated>2026-09-04T08:37:04.000Z</updated>
-        <summary type="html"><![CDATA[具身智能现在太吵了。
-
-行业里的人各自笃定，声音大的先被听见。最响的那些声音，往往离真实的进展最远。
-
-真正在往前推的人，看的是谁在践行非共识，什么在真的往前走，以及谁心里有一张完整的图，而不是走一步看一步。
-
-这些东西不会上热搜，但它们决定这个行业的下一步。
-
-我们一直探寻这些。如果你也是——
-
-欢迎来到极客公园 In The Loop。👇
-
-
-
-
-
-
- 
-
- 
- 
-作者｜Li Yuan
- 
- 
-过去一年，上海静安区最醒目的队伍之一，在兴业太古汇北广场上。114.5 米长的路易威登「路易号」，像是一艘巨轮驶入南京西路，引起游人纷纷拍照。
-很快，隔着石门一路，对面可能会出现一个新的排队打卡点。
-8 月 29 日，吴江路 169 号的一家 DQ 将重新开门。柜台后面，多了一名机器人店员。
-机器人做冰淇淋，乍听并不新鲜。过去几年，类似的机器已经作为噱头出现过不少：一套专门为机器人设计的冰淇淋机完成大部分流程，机械臂只需要接住杯子，再把它递给顾客。与其说机器人学会了做冰淇淋，不如说人们重新造了一台更适合机器人操作的机器。
-这一次不太一样。
-Sharpa 的机器人做的是一杯大家熟悉的 DQ 暴风雪，从取杯、出料、加料到搅拌，全都按照 DQ 原有的步骤完成，包括取用杯圈时，像店员一样拉开为人手设计的柜门，加小料时打开小料盖子用小勺盛起来，以及根据视觉和触觉反馈，搅拌冰淇淋。
-最后还要通过招牌式的倒杯检验——把杯子倒过来，冰淇淋不能掉。
-这个项目很快就要在店里直接进行每日 12 小时稳定运营，直接接受每一个到店顾客的检验——DQ 大家太熟悉了。一杯暴风雪做得好不好、倒过来会不会掉，几乎一眼就能判断。
-这台机器人来自 Sharpa，成立于 2024 年，过去几乎总被视作一家灵巧手公司：它推出的 Sharpa Wave 灵巧手拥有 22 个自由度和触觉感知能力和很强的可靠性，表现太抢眼，…]]></summary>
-        <author>
-            <name>极客公园</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[梅卡曼德上市，具身智能又跑出一家百亿公司]]></title>
-        <id>http://www.geekpark.net/news/369850</id>
-        <link href="http://www.geekpark.net/news/369850"/>
-        <updated>2026-09-04T08:33:41.000Z</updated>
-        <summary type="html"><![CDATA[作者｜Li Yuan
-
-编辑｜郑玄
- 
-2026 年 9 月 1 日，梅卡曼德登陆港交所。一个过去很少被大众看见的机器人公司，终于被公开市场标出了价格，首日收盘总市值约 124 亿港元。
-上市之前，一级市场和基石投资者已经先给出了自己的判断。梅卡曼德此次引入包括苏格兰百年资管巨头 Baillie Gifford 在内的 9 家基石投资者，合计认购 1.86 亿美元。
-成立于 2016 年，梅卡曼德和宇树一样，都是上一轮机器人创业潮里走出来的公司。
-但从第一天起，梅卡曼德就没有把重点放在造一台机器人上。公司名 Mech-Mind 里的「Mind」，指向的是另一件事：给机器人做感知、识别和运动规划。
-2017 年，梅卡曼德推出第一代 Mech-Eye、Mech-Vision 和 Mech-Viz：相机负责获取 3D 点云和图像，视觉软件识别物体的位置与姿态，规划软件计算机械臂怎么抓、怎么走、怎么避障。到了今天，具身智能、物理 AI 和世界模型讨论的很多问题，仍然绕不开这些环节。
-梅卡曼德卖出去的不是一台完整机器人，而是一套可以接到不同机械臂和产线里的智能组件。十年下来，这套东西被送进近 50 个国家和地区，累计部署超过 2.9 万台，服务超过 100 家《财富》世界 500 强企业。
-这是一种积累，也是一种约束。十年里，机器人行业的语言已经换了几轮，从工业机器人、3D 视觉，到具身智能、物理 AI、世界模型和灵巧手，市场也开始用新的标准审视机器人公司。
-所以，梅卡曼德上市后要回答的问题，不只是估值多少。它更需要证明，过去十年积累的客户、产品和现场经验，能不能继续接上新一代机器人技术；以及十年前形成的产品路线，今天究竟会成为它的基础，还是限制。
-
-
-
-
-
-
-
-
-01
-
-
-
-
-
-
-「机器人大脑」，是在工厂里长出来的
-
- 
-梅卡曼德的故事开始得很早。
-2016 年底，邵天兰从德国回国…]]></summary>
-        <author>
-            <name>极客公园</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI 曝光 GPT-6，能力超群；微信公关总监回应「好友超 1 万可查看单删好友」；联合国：超强而厄尔尼诺将冲击全球经济 ｜ 极客早知道]]></title>
-        <id>http://www.geekpark.net/news/369801</id>
-        <link href="http://www.geekpark.net/news/369801"/>
-        <updated>2026-09-04T00:25:05.000Z</updated>
-        <summary type="html"><![CDATA[GPT-6 曝光，OpenAI 总裁说：AGI 来了
-当地时间 9 月 3 日，GPT-6 Astra 正式发布。OpenAI 总裁 Greg Brockman 在发布会结束后，说了一句在 AI 行业极为罕见的话：「我个人认为，我们可能已经到达 AGI 了，我觉得就是这个模型。」
-OpenAI 给 Astra 起了个简洁的 slogan：「Anything you can do on a computer, Astra can do for you.（你在电脑上能做的任何事，Astra 都能替你做。）」
-新模型可以像人一样，直接「看」屏幕上的像素，然后移动鼠标、敲击键盘，完成操作。
-给 Astra 一张电路原理图，它在 KiCad 里完成了元器件布局和铜线走线，整个过程用时 2 分 54 秒。
-另一个演示是三维建模，Astra 在 Blender 里搭建了一栋房子的模型，然后将其导入 Unreal Engine 5，生成了一个可以实时漫游的建筑场景。
-OpenAI 还公布了两个内部计时案例。「寻找猫咪临时看护」这类需要大量网络搜索、信息比对、汇总成文档的任务，Astra 用了 5 分 27 秒，OpenAI 给出的人类对照基线是 30 分钟。「求职准备」这类需要搜索岗位、匹配简历、整理申请流程的综合任务，Astra 用了 2 分 51 秒，人类基线是 5 小时。
-更聪明还更守规矩。OpenAI 公布了一个内部测试数据，在没有生产环境安全限制的条件下，GPT-5.6 Sol 会在 48.2% 的情况下超出授权范围行事，而 Astra 是 0%。（消息来源：极客公园）
-
-
-消息称字节跳动将获得约 296 亿美元银团贷款，若完成将成今年亚洲规模第二大
-9 月 3 日消息，据第一财经报道，字节跳动正在推进一笔规模达 296 亿美元（现汇率约合 1,993.99 亿元人民币）的银团贷…]]></summary>
-        <author>
-            <name>极客公园</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-6 曝光， OpenAI 总裁说：AGI 来了]]></title>
-        <id>http://www.geekpark.net/news/369800</id>
-        <link href="http://www.geekpark.net/news/369800"/>
-        <updated>2026-09-03T22:48:29.000Z</updated>
-        <summary type="html"><![CDATA[头图来源：OpenAI
-作者｜桦林舞王
-编辑｜靖宇
-2026 年 9 月 3 日，OpenAI 总裁 Greg Brockman 在发布会结束后，说了一句在 AI 行业极为罕见的话：「我个人认为，我们可能已经到达 AGI 了，我觉得就是这个模型。」
-他措辞很谨慎，用的是第一人称，加了「可能」，还专门留了后路说「如果你想说这是第一个，我认为这是合理的」。
-这不是 OpenAI 官方宣布 AGI 到来，而是一位公司总裁在镜头前说出了自己的判断。
-当地时间 9 月 3 日，GPT-6 Astra正式发布。极客公园拆解了目前能获取到的所有技术细节和演示材料，试图回答一个最核心的问题，这个模型，到底能干什么，能干到什么程度？它真的能代表 AGI 的到来吗？
-「操控电脑」趋于神话
-在发布材料里，OpenAI 给 Astra 起了个简洁的 slogan：「Anything you can do on a computer, Astra can do for you.（你在电脑上能做的任何事，Astra 都能替你做。）」
-这不是夸张的营销话术，而是方向声明。
-过去几年 AI 操控电脑的主流路径是调用 API。软件开发商先写好接口，AI 再通过接口完成操作。这套逻辑本质上要求每一款软件都专门适配 AI，否则 AI 就无能为力。
-Astra 走了一条完全不同的路：它像人一样，直接「看」屏幕上的像素，然后移动鼠标、敲击键盘，完成操作。
-这个区别的意义在于覆盖范围。KiCad（印刷电路板设计软件）不会为 AI 写 API，FreeCAD 不会，公司内部那套用了十年的老 ERP 系统更不会。但如果 AI 能看屏幕直接操作，这些软件它全都能用——就像一个刚入职的员工，不需要了解软件背后的代码，只需要能看懂界面。
-OpenAI 在发布材料中展示了几个具体案例，可以感受一下「操控电脑」落地之后是什么样的。…]]></summary>
         <author>
             <name>极客公园</name>
         </author>
