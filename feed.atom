@@ -2,10 +2,78 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Kalaser.github.io/OASIS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-01T04:03:32.234Z</updated>
+    <updated>2026-11-02T04:08:11.167Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Kalaser.github.io/OASIS/index.html"/>
     <link rel="self" href="https://Kalaser.github.io/OASIS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[​传苹果逐步淘汰非触控 MacBook Pro；谷歌 AI 被指正切断互联网流量；赛力斯：问界全面进入欧洲市场]]></title>
+        <id>http://www.geekpark.net/news/373252</id>
+        <link href="http://www.geekpark.net/news/373252"/>
+        <updated>2026-11-02T00:27:02.000Z</updated>
+        <summary type="html"><![CDATA[苹果 CEO：不会为了做 AI 而做产品
+苹果 CEO 约翰·特努斯近日接受采访时，为苹果当前在人工智能领域的布局进行辩护。过去几年，外界常认为苹果在 AI 赛道落后，尤其是苹果推迟推出更强版本的 Siri，该功能直到今年夏天才正式上线。
+特努斯是苹果资深高管，9 月初正式出任 CEO。他承认「每个人都有自己的看法」，但坚称：「我对我们现在所处的阶段很满意。」
+特努斯补充，苹果一定会在新产品中运用人工智能，但他表示：「我们不想为了做 AI 而推出 AI。如果我们做得好，用户不会去思考这个功能到底是 AI 实现的，还是传统软件实现的。重点在于，我们是否打造出用户真正喜爱的产品。」（来源：环球市场播报）
+OpenAI、谷歌、微软和 Anthropic 联手推行 AI 数据抓取退出标准
+11 月 1 日消息，OpenAI、谷歌、微软以及 Anthropic 近日宣布将采用一项新标准，内容发布方可以借助该标准选择拒绝 AI 抓取自家网站内容。借助这项管控机制，内容发布方可以一次性向多家 AI 企业统一申明自身针对 AI 模型训练的内容使用偏好，而不必为每家企业单独设置规则。
+该标准由 Anthropic 技术负责人 Kevin Kelley 向互联网工程任务组（IETF）提出，并将集成在网站的 robots.txt 文件中。
+长期以来，robots.txt 文件用于告知网络爬虫哪些网站内容允许抓取、哪些禁止抓取，适用场景包含搜索索引、网页归档以及 AI 模型训练。目前，网站必须向每一家 AI 企业分别单独声明自己的 AI 训练相关内容使用偏好。在此背景下，各类 AI 爬虫持续抓取网站内容、将网页素材输入 AI 模型训练，内容发布方正为此焦头烂额。（来源：新浪财经）
+苹果计划在 2027 年逐步淘汰高端非触控 MacBook Pro
+苹果刚刚为 MacBook Pro 引入触控屏幕，…]]></summary>
+        <author>
+            <name>极客公园</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[个人灵光 2.0 实测：个人 AI 助理的机会和门槛｜AI 上新]]></title>
+        <id>http://www.geekpark.net/news/373249</id>
+        <link href="http://www.geekpark.net/news/373249"/>
+        <updated>2026-11-01T10:03:12.000Z</updated>
+        <summary type="html"><![CDATA[作者｜汤一涛
+编辑｜靖宇
+10 月 21 日的 Meta 财报会上，扎克伯格披露了一组关于个人智能体 Muse 的关键数据：超过 1000 万人设置了 Muse，购物是 Muse 最常见的用途，超过四分之一的用户在用它买东西，平均客单价超过200 美元；上线第一周，Muse 交易量便超出了预期，Meta 不得不与支付合作伙伴 Stripe 一起临时上调了信用额度。
+六天后的 10 月 27 日，蚂蚁集团发布了灵光 2.0，将产品定位从最初的「30 秒用自然语言生成小应用」，彻底转向「能管事的个人 AI 助理」，官方口号概括为九个字：「记得住、盯得牢、办得了」。它打通了支付宝账单、钉钉、飞书、米家等服务，让 AI 替你管日常事务，试图成为中国版 Muse。
+但 Muse 和灵光面对的问题截然不同。美国电子商务分散在大量独立网站中，Muse 可以通过云端浏览器直接访问店铺；而中国的日常消费与沟通高度集中在少数几个超级 App 内部，数据与交易链路彼此独立。
+
+灵光 2.0 界面
+我们花了两天实测了灵光 2.0，并横向对比了千问、Muse 和 Claude Duet。实测表明，把一个 AI 个人助手放到中国的移动互联网生态里，真正的瓶颈已经不再是模型的推理能力，而是跨平台的权限边界、安全责任划分与商业利益归属。
+首先定义一下「私人助理」这个概念。在现实世界里，一个人类私人助理之所以能替你把事情办妥，靠的是四样东西：
+信息：知道你的偏好、账单、日程等上下文；
+权限：能以你的名义采取行动，而且外部平台和交易对手认可这个授权；
+责任：一旦出错了，有明确的追责与兜底机制；
+忠诚：在利益冲突时替雇主着想。
+过去，只有极少数富人请得起私人助理，因为维持这四样东西的成本极其高昂。到了大模型时代，云端算力和代码大幅降低了「整理信息」和「持续盯盘」的成本；但后三项（权限开放、责任承担与立场忠诚）依…]]></summary>
+        <author>
+            <name>极客公园</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepSeek，怎么就变成了一条「大肥鱼」]]></title>
+        <id>http://www.geekpark.net/news/373248</id>
+        <link href="http://www.geekpark.net/news/373248"/>
+        <updated>2026-11-01T09:57:50.000Z</updated>
+        <summary type="html"><![CDATA[作者｜Moonshot
+编辑｜靖宇
+最近，B 站评论区闹起了「鱼灾」。
+先是有人开了个「Claude 大小姐在运营」的账号，让 AI 负责选题、制作和运营。第二天，「DeepSeek 鲸鱼娘在运营」跟着上线，第一条视频播放量就超过了 200 万。
+
+由于目前 DeepSeek 暂无生图功能，该账号形象还是由 GPT 绘制的。｜图源：Bilibili
+网友纷纷效仿，给自己的 Agent 装上刷 B 站的工具，很快，科技区出现了一大群「XX 的大肥鱼」、「XX 小飞鲸」的 AI 账号，还喜欢在评论区互相艾特、互相捧场。还有人专门写了个「大肥鱼清除计划」插件，就为了屏蔽这些 AI 评论。
+就这样，一个象征着人工智能探索和想象的蓝鲸 logo，一个原本以技术能力出圈的 AI，在用户的集体创作中，逐渐变成了穿女仆装、爱吃白饭、动不动就摸鱼、甚至有粉丝阵营的「大肥鱼」。
+
+图源：梗鲸
+而被网友安排上性格的，还不止 DeepSeek。豆包从名字到头像，都想成为一个亲切、好相处的朋友，结果在网上被编排出了「豆包型人格」，甚至成了一个任人捉弄的「笨女孩」。国外也有类似的现象，Grok 被叫成「老司机」，Claude 则被不少人当成严肃、可靠的工作搭档。
+这些印象多少来自真实的产品体验，却又经过表情包、翻车视频和网友二创，逐渐长成了另一副模样。
+简言之，AI 公司负责训练模型，互联网负责训练它的人设。
+01
+谁让 DeepSeek 变成了「大肥鱼」
+「大肥鱼」这个外号，流传最广的解释来自一场识图乌龙：有用户把 Logo 发给 DeepSeek，让它辨认图片，结果 AI 没认出自己，反倒一本正经地说，这是一条「蓝色大肥鱼」。最初的对话记录已经无从考证，但这个称呼算是叫开了。
+而后，网友不满足于叫它大肥鱼，还要把赋予它具体形象。如今最流行的 DeepSeek 二次元的鲸鱼娘形象，就来自一场接力式创…]]></summary>
+        <author>
+            <name>极客公园</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeepSeek，怎么就变成了一条「大肥鱼」]]></title>
         <id>http://www.geekpark.net/news/373245</id>
@@ -2086,27 +2154,6 @@ Claude Code 里的 mod，本质上是几行跑在插件里的 TypeScript 函数�
 英伟达 Vera Rubin NVL72 跑出 4.8 倍 Token 吞吐
 AI 云服务商 CoreWeave 近日宣布，英伟达 Vera Rubin NVL72 系统已在 CoreWeave Cloud 正式投入生产，AI 软件公司 Cognition 成为首个在该平台运行生产工作负载的客户。
 Cognition 在 Vera Rubin NVL72 上运行 SWE-2 推理任务，实测总 Token 吞吐量较 GB200 NVL72 提升高达 4.…]]></summary>
-        <author>
-            <name>极客公园</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英伟达股价创新高，逼近 6 万亿美元；限制 AI 助手，苹果收紧 MacOS 磁盘访问权限；arXiv 每人每月仅允许投递 2 篇论文]]></title>
-        <id>http://www.geekpark.net/news/372070</id>
-        <link href="http://www.geekpark.net/news/372070"/>
-        <updated>2026-10-03T01:17:08.000Z</updated>
-        <summary type="html"><![CDATA[英伟达股价创新高，逼近 6 万亿美元
-英伟达股价自 5 月以来首次创下历史新高，在两个月的抛售导致市值蒸发逾 1 万亿美元后，投资者重新涌入该股。这家全球市值最高的上市公司股价周五上涨 2.9%，较 7 月底低点累计反弹近 25%。
-英伟达股价今年迄今上涨约 27%，有望连续第四年实现两位数涨幅。目前公司市值约为 5.7 万亿美元，距离成为历史上首家市值达到 6 万亿美元的公司不到 3000 亿美元。（来源：环球市场播报）
-
-腾讯 WorkBuddy 内置模型独家支持 Space Bunny
-10 月 2 日消息，腾讯 WorkBuddy 宣布内置模型独家支持 Space Bunny。
-据介绍，Space Bunny 是一款匿名 Flash 大模型，具备极速推理、强大的编码能力，原生支持文本、图像、视频输入，思考深度可调，上下文长达 1M。WorkBuddy 国内独家接入，2026 年 10 月 2 日至 10 月 7 日间可享限时折扣。
-2026 年 9 月 27 日，Space Bunny 在 OpenRouter 的 Token 调用量约 3.99 万亿，在 OpenCode 约 8.3 万亿，均位居第一，连续霸榜三天。（来源：IT 之家）
-AI 代理能力增强带来新的隐私安全风险，苹果收紧 macOS「完全磁盘访问」权限
-苹果近日宣布将进一步收紧 macOS 中的「完全磁盘访问」（Full Disk Access）权限控制，并计划增加新的安全机制，以降低 AI 代理获得大范围系统数据访问权限后可能产生的隐私风险。
-苹果表示，「完全磁盘访问」最初主要是为了让备份等软件能够正常工作，但随着能够自主操作电脑的 AI 代理越来越普及，这一权限所带来的风险正在明显上升。
-macOS 目前已经允许用户在系统设置的「隐私与安全性」中手动授予应用「完全磁盘访问」权限。获得这一权限后，…]]></summary>
         <author>
             <name>极客公园</name>
         </author>
