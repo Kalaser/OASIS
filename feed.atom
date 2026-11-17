@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Kalaser.github.io/OASIS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-16T04:33:08.535Z</updated>
+    <updated>2026-11-17T06:18:49.388Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Kalaser.github.io/OASIS/index.html"/>
     <link rel="self" href="https://Kalaser.github.io/OASIS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[消息称黄仁勋回归尚未进入英伟达董事会议程；腾讯总办号召AI时代再创业；AI 演员虚假代言被罚]]></title>
+        <id>http://www.geekpark.net/news/374056</id>
+        <link href="http://www.geekpark.net/news/374056"/>
+        <updated>2026-11-17T00:42:16.000Z</updated>
+        <summary type="html"><![CDATA[消息称黄仁勋回归尚未进入英伟达董事会议程，已有 18 万人联署呼吁复职
+11 月 17 日消息，CNBC 今天（11 月 17 日）发布博文，援引一名知情人士透露信息，英伟达董事会目前没有考虑让黄仁勋重新担任首席执行官，也未就其回归展开讨论。报道称英伟达董事会的工作重心，目前聚焦推进针对黄仁勋相关行为的调查。
+报道称，英伟达已聘请 Wachtell Lipton 律师事务所，调查黄仁勋的行为。此前，黄仁勋在承认婚外情、并面临其他涉及员工的恋情报道后，于上周辞去职务，结束了在这家由其创立的公司长达 33 年的 CEO 任期。
+围绕其是否回归，外界讨论持续升温。《金融时报》此前报道称，黄仁勋曾与支持者讨论复出事宜。不过，Altimeter Capital 的布拉德 · 格斯特纳 16 日向 CNBC 表示，黄仁勋没有与他讨论回归。
+与此同时，一项呼吁黄仁勋复职的网络请愿已获得约 18 万个签名，马斯克、Y Combinator 首席执行官陈嘉兴及 Epic Games 首席执行官蒂姆 · 斯威尼等科技界人士也表达了支持。（来源：IT 之家）
+
+腾讯总办号召 AI 时代再创业：这是一个生死存亡的问题
+11 月 16 日消息，「腾讯文化」公众号发文《总办号召 AI 时代再创业，「心态归零」》，再度谈及 28 岁生日这天，腾讯总办对 AI 时代的机会、挑战与选择的看法。
+文章指出，面对技术变革的巨浪，没有人是旁观者。所有人都要做出选择。如果不想被颠覆，真正重要的事只有一件：一起动起来。「现在进行的智能革命如果不投入拥抱，就是被颠覆。这是一个生死存亡的问题。」
+腾讯总办号召，「心态归零，所有核心业务每一个团队都要面向 AI 时代再创业，抛掉身上的包袱，拥抱 AI 新时代。所有人都要动手做事，整个组织有机化。每个人快速提升能力，每个组织重新变化、扁平化，以小团队为作战单元。」
+整个管理方…]]></summary>
+        <author>
+            <name>极客公园</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[曝黄仁勋考虑重返英伟达担任 CEO；苹果计划明年发布首款智能眼镜；OpenAI 撤销独立机器人研究团队]]></title>
         <id>http://www.geekpark.net/news/373994</id>
@@ -2034,31 +2054,6 @@ Anthropic 希望明确几个问题：AI 应该在多大程度上争取用户利�
 目前，这仍属于规则研究和产品探索，尚未推出面向公众的自动谈判服务。（消息来源：金融时报）
 DeepSeek 正式开放搜索与网页抓取 API，每千次调用收费 5 元
 Dee…]]></summary>
-        <author>
-            <name>极客公园</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepSeek 新模型上线，价格更低能力更强；传华为将推新品牌「星芒」主打性价比；天文学家发现第一颗绿色恒星｜极客早知道]]></title>
-        <id>http://www.geekpark.net/news/372512</id>
-        <link href="http://www.geekpark.net/news/372512"/>
-        <updated>2026-10-18T00:39:02.000Z</updated>
-        <summary type="html"><![CDATA[DeepSeek V4.1 Flash 新版本上线：许愿式编程一键成真
-10 月 17 日，DeepSeek V4.1 Flash 更新至 V4.1-Flash-1017 版本，官方网页端、APP 与 API 模型已同步变更为新模型。相比上一版本的 DeepSeek V4.1 Flash，新模型在各方面的基准测试中取得了长足的提升。
-在提升性能的同时，模型的任务运行时间与输出长度还缩短了，让用户能够以更低成本、更快速度完成任务，在多个 Harness 下达到了新的性能-费用帕累托最优。
-特别地，此次优化着重针对 DeepSeek Harness、腾讯 CodeBuddy、WorkBuddy 等平台框架进行了优化。（消息来源：DeepSeek）
-
-
-马斯克盯上了砍价生意 号称一年为全球省下 6 万亿美元
-10 月 17 日消息，特斯拉创始人马斯克在社交平台 X 发文称，团队正投入大量资源，开发面向商业场景的专用议价机器人（Hagglebot）。
-Hagglebot 是依托 Grok 打造的软件 AI Bot，主打企业议价场景，和普通对话 AI 定位完全不同。目前马斯克没有放出太多细节，这套 AI 具体怎么议价、支持哪些交易场景、何时上线、怎么收费，都还没有官宣。
-马斯克表示，「我们认为该产品能够将企业成本效率提升 5% 乃至更高。如果放到全球 GDP 的维度测算，每年可节省的成本规模最高可达 6 万亿美元。」
-他还进一步指出，凡是使用 Grok 的企业，都能获得立即可量化的竞争优势。（消息来源：快科技）
-
- 
-要么不用工具，要么交出内容？Meta 新条款引争议
-Gizmodo 报道，社交巨头 Meta 更新 Meta Business Suite 商业账号服务条款，新规将于 10 月 30 日正式落地。
-按照新协议，企业开通 Facebook、Instagram 商业账号，就…]]></summary>
         <author>
             <name>极客公园</name>
         </author>
