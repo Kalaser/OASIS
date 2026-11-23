@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Kalaser.github.io/OASIS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-22T04:51:43.525Z</updated>
+    <updated>2026-11-23T05:31:47.283Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Kalaser.github.io/OASIS/index.html"/>
     <link rel="self" href="https://Kalaser.github.io/OASIS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OpenAI 首席科学家：AI 最早明年加速进化；B 站开始清理「大肥鱼」泛滥；瘫痪患者用脑机打 GTA6｜极客早知道]]></title>
+        <id>http://www.geekpark.net/news/374304</id>
+        <link href="http://www.geekpark.net/news/374304"/>
+        <updated>2026-11-23T01:22:36.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI 首席科学家警告：AI 最早可能在 2027 年加速自身发展，奥尔特曼赞同为 AI 开发设限
+11 月 23 日消息，当地时间于 11 月 22 日，OpenAI 首席科学家雅库布 · 帕霍茨基（Jakub Pachocki）发文，提议 AI 企业应建立行业统一标准，对先进 AI 模型的开发设置共同限制，在研究人员具备更可靠的模型行为理解和监控能力之前，不应突破约定的发展门槛。
+他认为，传统 AI 能力评测基准会随着技术进步迅速过时，而困惑度（Perplexity）可以作为衡量模型预训练进展的参考指标（困惑度用于衡量 AI 模型预测下一个文本 Token 的能力，数值越低，代表模型的预测能力越强）。
+帕霍茨基还公布了 OpenAI 内部使用的部分模型评测数据：GPT-3.5 的对数困惑度约为 0.99，GPT-4 约为 0.91。当这一指标低于 0.8 时，OpenAI 观察到了模型在网络安全和数学领域出现新的能力；当指标达到约 0.76 时，模型开始在部分开放数学问题上取得突破性成果。
+
+帕霍茨基预计，当对数困惑度进入 0.68 至 0.7 区间时，模型可能出现更多变革性能力，但目前无法确定这些能力具体是什么。
+他还警告，AI 最早可能在 2027 年推动预训练技术出现一轮快速进展，而研究人员在模型对齐和行为监控方面的进展，可能无法同步跟上。
+按照帕霍茨基的设想，各家 AI 企业应共同建立模型评测、透明度和安全红队测试标准，并在模型首次投入使用前完成相应评估。他建议，以困惑度等可跨企业追踪的指标设定首个开发门槛，企业承诺在达到明确的安全监控里程碑之前不突破限制，例如开发出比现有思维链监控工具更先进的监测机制。
+OpenAI CEO 萨姆 · 奥尔特曼也公开支持这一提议。他称帕霍茨基的文章是 OpenAI 一段时间以来发表的最重要内容之一，并表示希望 AI 行业…]]></summary>
+        <author>
+            <name>极客公园</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[重控制、轻渲染，达瓦科技的 AI 视频工业路线]]></title>
         <id>http://www.geekpark.net/news/374303</id>
@@ -1893,23 +1911,6 @@ OpenAI 前沿模型训练不再接入实时互联网，改用离线网页环境
 
 英伟达黄仁勋开炮：「AI 毁灭人类」纯属捏造，是博眼球的廉价炒作
 法新社于 10 月 22 日发布博文，报道称在柏林举行的公司会议上，英伟达首席执行官黄仁勋再度抨击「AI 毁灭人类」言论，认为其是无稽之谈，更多是为了制造头条新闻而进行的「捏造」和…]]></summary>
-        <author>
-            <name>极客公园</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone Duo正式交付；Kimi K3.1 Pro 、Seedance 2.5 4K正式发布；红果短剧上线防沉迷｜极客早知道]]></title>
-        <id>http://www.geekpark.net/news/372858</id>
-        <link href="http://www.geekpark.net/news/372858"/>
-        <updated>2026-10-24T00:34:27.000Z</updated>
-        <summary type="html"><![CDATA[苹果首款折叠屏手机 iPhone Duo 正式交付用户 部分订单预计明年 1 月才能送达
-苹果首款折叠屏手机 iPhone Duo 于 2026 年 10 月 23 日正式进入上市交付阶段，首批预购用户开始收到新机，苹果零售店也迎来首发日消费者。由于预购需求强劲，加上生产供应受到限制，上市初期的现货数量相当有限，部分消费者即使在首发日下单，也可能需要等待数月才能拿到设备。
-苹果此前表示，iPhone Duo 的预购需求表现异常强劲，公司正在努力尽快将产品交付给消费者。苹果同时确认，全球 Apple Store 门店会提供少量供现场顾客购买的库存，但提醒消费者，这些现货可能很快售罄。对于希望不经预购、直接前往门店购买的用户来说，能否买到新机仍存在较大不确定性。
-这次供应紧张，与 iPhone Duo 在预购阶段迅速售罄的情况相吻合。预购于 10 月 16 日开启后，部分配置的预计发货时间很快被推迟。此后，苹果官网显示的新订单交付日期进一步延后，部分订单的预计送达时间已经排到 2027 年 1 月 25 日左右。这意味着，首发需求与现有供应能力之间仍存在明显差距。（来源：cnBeta）
-
-曝 DeepSeek 最快明年推进 IPO，联想系入局 DeepSeek 新一轮融资
-据外媒援引知情人士消息，DeepSeek 新一轮融资引入多家产业及财务投资者，其中包括君联资本（Legend Capital）、专注半导体领域的石溪资本及吉利等。与此同时，DeepSeek 已聘请中信证券为其 IPO 提供顾问服务，并于今年 9 月引入新的首席财务官，DeepSeek 最快可能于 2027 年初推进 IPO。
-君联资本与联想集团同属联想控股体系。联想集团是联想控股旗下核心产业公司，君联资本则是其重要投资平台。此次君联资本参与 DeepSeek 融资，也意味着联想系资本正式进入 DeepSeek…]]></summary>
         <author>
             <name>极客公园</name>
         </author>
